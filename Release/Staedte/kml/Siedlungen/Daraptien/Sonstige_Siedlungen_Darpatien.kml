@@ -76,7 +76,7 @@ Wann und von wem die <b>Boronia</b> erbaut wurde ist unbekannt. Erste Erwähnung
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -101,6 +101,76 @@ verfügbar, dort kann man den
               <altitude>200000</altitude>
               <altitudeMode>relativeToGround</altitudeMode>
         </Camera>
+		<TimeSpan>
+  <begin>995</begin>
+  <end>1028</end>   
+</TimeSpan>
+        <Point>
+             <coordinates> 5.391310, 31.031702,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Boronia</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Wann und von wem die <b>Boronia</b> erbaut wurde ist unbekannt. Erste Erwähnungen stammen aus der Zeit des <a href="http://www.wiki-aventurica.de/index.php?title=Bornland" title="Bornland">bornischen</a> Unabhängigkeitskrieges (ca. <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:601_bis_700_BF" title="Chronik:601 bis 700 BF">700 BF</a>), damals hieß die Burg noch <b>Rabenstein</b>. Unter Kaiser <a href="http://www.wiki-aventurica.de/index.php?title=Hal_von_Gareth" title="Hal von Gareth">Hal</a> wurde sie aufgegeben (ca. <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:995" title="Chronik:995" class="mw-redirect">995 BF</a>) und später dem Orden der <a href="http://www.wiki-aventurica.de/index.php?title=Golgariten" title="Golgariten" class="mw-redirect">Golgariten</a> geschenkt. Das Heiligtum <a href="http://www.wiki-aventurica.de/index.php?title=Sancta_Boronia" title="Sancta Boronia">Sancta Boronia</a> sollte von hier aus Schutz durch Ordenskrieger erhalten. Im <a href="http://www.wiki-aventurica.de/index.php?title=Jahr_des_Feuers" title="Jahr des Feuers" class="mw-redirect">Jahr des Feuers</a> wurde sie von <a href="http://www.wiki-aventurica.de/index.php?title=Lucardus_von_Kemet" title="Lucardus von Kemet" class="mw-redirect">Lucardus von Kemet</a> erobert und teilwiese niedergebrannt. Später wurde die Burg befreit, dabei aber beinahe vollständig zerstört. Seitdem soll es in der Ruine spuken.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
+        <Camera> 
+              <longitude> 5.391310</longitude>
+              <latitude> 31.031702</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+		<TimeSpan>
+  <begin>1028</begin>     
+</TimeSpan>
         <Point>
              <coordinates> 5.391310, 31.031702,0</coordinates>
         </Point>
@@ -109,20 +179,68 @@ verfügbar, dort kann man den
         <name>Burg Rabenstein</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Boronia</value>
 </Data>
 </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>Im Ochsenwasser<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (107), S. 6<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Wann und von wem die <b>Boronia</b> erbaut wurde ist unbekannt. Erste Erwähnungen stammen aus der Zeit des <a href="http://www.wiki-aventurica.de/index.php?title=Bornland" title="Bornland">bornischen</a> Unabhängigkeitskrieges (ca. <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:601_bis_700_BF" title="Chronik:601 bis 700 BF">700 BF</a>), damals hieß die Burg noch <b>Rabenstein</b>. Unter Kaiser <a href="http://www.wiki-aventurica.de/index.php?title=Hal_von_Gareth" title="Hal von Gareth">Hal</a> wurde sie aufgegeben (ca. <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:995" title="Chronik:995" class="mw-redirect">995 BF</a>) und später dem Orden der <a href="http://www.wiki-aventurica.de/index.php?title=Golgariten" title="Golgariten" class="mw-redirect">Golgariten</a> geschenkt. Das Heiligtum <a href="http://www.wiki-aventurica.de/index.php?title=Sancta_Boronia" title="Sancta Boronia">Sancta Boronia</a> sollte von hier aus Schutz durch Ordenskrieger erhalten. Im <a href="http://www.wiki-aventurica.de/index.php?title=Jahr_des_Feuers" title="Jahr des Feuers" class="mw-redirect">Jahr des Feuers</a> wurde sie von <a href="http://www.wiki-aventurica.de/index.php?title=Lucardus_von_Kemet" title="Lucardus von Kemet" class="mw-redirect">Lucardus von Kemet</a> erobert und teilwiese niedergebrannt. Später wurde die Burg befreit, dabei aber beinahe vollständig zerstört. Seitdem soll es in der Ruine spuken.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Staedte/style/Staedte.kml#Festung-X</styleUrl>
         <Camera> 
-              <longitude> 5.342933</longitude>
-              <latitude> 30.144552</latitude>
+              <longitude> 5.391310</longitude>
+              <latitude> 30.031702</latitude>
               <altitude>200000</altitude>
               <altitudeMode>relativeToGround</altitudeMode>
         </Camera>
         <Point>
-             <coordinates> 5.342933, 30.144552,0</coordinates>
+             <coordinates> 5.391310, 30.031702,0</coordinates>
         </Point>
+		<TimeSpan>
+  <begin>700</begin>
+  <end>995</end>   
+</TimeSpan>
     </Placemark>
     <Placemark>
         <name>Burg Mersingen</name>
@@ -158,7 +276,7 @@ Die <b>Burg Mersingen</b> steht in der <a href="http://www.wiki-aventurica.de/in
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -278,7 +396,7 @@ Die kreisrunde <b>Burg Rabenmund</b> ist der Stammsitz der <a href="http://www.w
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -493,7 +611,7 @@ Das Heiligtum <b>Sancta Boronia</b> ist eine <a href="http://www.wiki-aventurica
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -625,7 +743,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  500<TR><TD><TR><TD><i>Herrschaft:</i> Praiomir von Binsböckel<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (114), S. 23<TR><TD>Am Finsterquell, S. 8<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk</styleUrl>
         <Camera> 
               <longitude> 3.879674</longitude>
               <latitude> 30.784785</latitude>
@@ -693,7 +811,7 @@ Nach dem <a href="http://www.wiki-aventurica.de/index.php?title=Jahr_des_Feuers"
 <div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.com/svn/Release/Release/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Auraleth-Plan;flyto">Stadtplan betrachten</a></div>
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -726,7 +844,7 @@ verfügbar, dort kann man den
         <name>Burg Hohenstein</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Feste_Hohenstein</value>
 </Data>
 </ExtendedData> 
             <description>
@@ -756,7 +874,7 @@ Die Festung <b>Feste Hohenstein</b> ist auf einem ca. 15 Meilen westlich von Rom
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 

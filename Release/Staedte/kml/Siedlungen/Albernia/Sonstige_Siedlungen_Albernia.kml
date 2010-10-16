@@ -54,7 +54,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -193,7 +193,74 @@ Die Ruinen von <b>Burg Niriansee</b> liegen in <a href="http://www.wiki-aventuri
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Festung</styleUrl>
+        <Camera> 
+              <longitude>-2.215305</longitude>
+              <latitude> 28.892409</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+		<TimeSpan>
+     
+  <end>1012</end>
+  </TimeSpan>
+        <Point>
+             <coordinates>-2.215305, 28.892409,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Burg Niriansee</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Ruinen von <b>Burg Niriansee</b> liegen in <a href="http://www.wiki-aventurica.de/index.php?title=Albernia" title="Albernia">Albernia</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
@@ -218,6 +285,10 @@ verfügbar, dort kann man den
               <altitude>200000</altitude>
               <altitudeMode>relativeToGround</altitudeMode>
         </Camera>
+		<TimeSpan>
+  
+  <end>1012</end>         
+</TimeSpan>
         <Point>
              <coordinates>-2.215305, 28.892409,0</coordinates>
         </Point>
@@ -466,7 +537,7 @@ In direkter Nähe zu <a href="http://www.wiki-aventurica.de/index.php?title=Have
 
 <!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 

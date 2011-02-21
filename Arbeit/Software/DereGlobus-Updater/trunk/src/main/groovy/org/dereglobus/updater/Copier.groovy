@@ -1,38 +1,39 @@
 package org.dereglobus.updater
 
-import groovy.io.FileType;
-import groovy.io.FileVisitResult;
-
 import org.dereglobus.updater.tree.CheckNode
 
+/**
+ * 
+ * Kopiert alle übergebenen Dateien lokal in ein angegebenes Verzeichnis. 
+ * Die Auswahl der Dateien werden durch einen Selector vorgenommen. Die
+ * resultierenden Dateien werden durch einen übergebenen Filter gefiltert,
+ * bevor sie an ihr Ziel kopiert werden.
+ * 
+ * @author marcvonrenteln
+ *
+ */
 class Copier {
 
-	static LOG
+	def LOG
 
-	public copy(def log) {
+	public Copier(def log) {
 		LOG = log
 	}
 
-	public void copy(CheckNode root, def log) {
-		def dirs = getFolders(root)
-		dirs.each { CheckNode node ->
-			node.userObject.traverse(
-					type         : FileType.FILES,
-					preDir       : { if (it.name == '.svn') return FileVisitResult.SKIP_SUBTREE },
-					) { LOG.append "Kopiere $it\n" }
-		}
-	}
+	public void copy(CheckNode root) {
+		def files = new Selector(LOG).getFiles(root)
 
-	private List getFolders(CheckNode dir) {
-		def dirs = []
-		if (dir.isSelected()) {
-			LOG.append "Bereite $dir vor\n"
-			dirs.add(dir)
-		}
+		def dest = new File("<dest>")
 
-		dir.children()?.each {
-			dirs.addAll(getFolders(it))
+		files.each { File file ->
+			if (file.getName().endsWith(".kml")) {
+				LOG.append "Kopiere $file\n"
+				String fileText = file.getText()
+				File destFile = new File(dest, file.getName())
+				destFile.write(fileText)
+			} else {
+				// Datei binär kopieren
+			}
 		}
-		return dirs
 	}
 }

@@ -74,6 +74,7 @@ class DereGlobusUpdater {
 	}
 
 	static copy = {
-		new Copier(log).copy(filesTree.getModel().getRoot())
+		def filter = new SimpleServerUrlFilter("http://www.dereglobus.orkenspalter.com/svn/Release/", "http://www.dereglobus.orkenspalter.de/public/")
+		new Copier(log, filter).copy(filesTree.getModel().getRoot())
 	}
 }

@@ -16,23 +16,36 @@ class Copier {
 
 	def LOG
 
+	Filter filter
+
 	public Copier(def log) {
 		LOG = log
+		filter = new NullFilter()
+	}
+
+	public Copier(def log, Filter filter) {
+		LOG = log
+		this.filter = filter
 	}
 
 	public void copy(CheckNode root) {
-		def files = new Selector(LOG).getFiles(root)
+		String rootPath = root.userObject.getAbsolutePath()
+		def destRoot = new File("<dest>")
+		List files = new Selector(LOG).getFiles(root)
 
-		def dest = new File("<dest>")
+		files.each { File sourceFile ->
+			String sourceFileName = sourceFile.getName()
+			if (sourceFileName.endsWith(".kml")) {
+				String relativePath = sourceFile.getParent() - rootPath
+				File destDir = new File(destRoot, relativePath)
+				destDir.mkdirs()
+				File destFile = new File(destDir, sourceFileName)
 
-		files.each { File file ->
-			if (file.getName().endsWith(".kml")) {
-				LOG.append "Kopiere $file\n"
-				String fileText = file.getText()
-				File destFile = new File(dest, file.getName())
-				destFile.write(fileText)
+				LOG.append "Kopiere $relativePath$File.separator$sourceFileName\n"
+				String fileText = sourceFile.getText("UTF-8")
+				destFile.write(filter.filter(fileText), "UTF-8")
 			} else {
-				// Datei binär kopieren
+				// TODO Datei binär kopieren
 			}
 		}
 	}

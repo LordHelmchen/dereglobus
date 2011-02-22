@@ -1,8 +1,8 @@
 package org.dereglobus.updater
 
+import groovy.beans.Bindable;
 import groovy.swing.SwingBuilder
 
-import java.awt.Insets
 import java.io.File
 
 import javax.swing.*
@@ -12,6 +12,11 @@ import org.dereglobus.updater.tree.FileSystemCheckModel
 import org.dereglobus.updater.tree.JTextPaneOutputStream
 import org.dereglobus.updater.tree.NodeSelectionListener
 
+import com.jgoodies.forms.factories.Borders
+import com.jgoodies.forms.factories.DefaultComponentFactory
+import com.jgoodies.forms.layout.CellConstraints
+import com.jgoodies.forms.layout.FormLayout
+
 /**
  * Zentrale Start-Klasse des DereGlobus Updaters, die die GUI anzeigt und verwaltet.
  * 
@@ -20,23 +25,39 @@ import org.dereglobus.updater.tree.NodeSelectionListener
  */
 class DereGlobusUpdater {
 
-	static String file
-
 	static config
 
-	static JTree filesTree
+	static swing
 
-	static swing = new SwingBuilder()
+	String file
+
+	JTree filesTree
+
+	def userField
+
+	def passwordField
 
 
 	public static void main(String[] args) {
 		config = new Config()
+		swing = new SwingBuilder()
+		new DereGlobusUpdater().initComponents()
+	}
+
+	private void initComponents() {
+		FormLayout layout = new FormLayout(
+				"right:pref, 3dlu, 100dlu, min", // columns
+				"p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 3dlu, p");  // rows
+		CellConstraints contraints = new CellConstraints();
+		def compFactory = DefaultComponentFactory.getInstance()
+
+		// -----------------------------------------------------------------------------
 
 		def frame = swing.frame(title: 'DereGlobus Updater', defaultCloseOperation: JFrame.DISPOSE_ON_CLOSE, size: [800, 600], show: true, locationRelativeTo: null) {
-			lookAndFeel("system")
+			lookAndFeel(UIManager.systemLookAndFeelClassName)
 			menuBar() {
 				menu(text: "Datei", mnemonic: 'D') {
-					menuItem(text: "Beenden", mnemonic: 'B', actionPerformed: {dispose() })
+					menuItem(text: "Beenden", mnemonic: 'B', actionPerformed: { dispose() })
 				}
 			}
 			splitPane {
@@ -46,13 +67,28 @@ class DereGlobusUpdater {
 							rowHeight: 18)
 					filesTree.addMouseListener(new NodeSelectionListener(filesTree));
 				}
-				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:280) {
+				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:320) {
 					scrollPane(constraints: "top") {
-						hbox() {
-							button(margin: new Insets(5, 10, 15, 20),
-									action: action(name: 'Verzeichnis wechseln', closure: openFileChooser))
-							button(margin: new Insets(5, 10, 15, 20),
+						panel( layout: layout, border: Borders.DIALOG_BORDER) {
+							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 4))
+							button(constraints: contraints.xyw (1, 3, 2, "left, default"),
+									action: action(name: 'Quellverzeichnis wechseln', closure: openSourceChooser))
+
+							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 5, 4))
+							label("Zielverzeichnis",constraints: contraints.xy (1, 7))
+							textField(text: config.destPath, constraints: contraints.xy (3, 7), editable: false)
+							button(constraints: contraints.xy (4, 7),
+									action: action(name: '...', closure: openDestChooser))
+							button(constraints: contraints.xyw (3, 9, 2, "right, default"),
 									action: action(name: 'Kopieren!', closure: copy))
+
+							widget( widget: compFactory.createSeparator('Kopieren auf FTP-Server'), constraints: contraints.xyw(1, 11, 4))
+							label("Benutzername",constraints: contraints.xy (1, 13))
+							userField = textField(text: config.ftpUser,	constraints: contraints.xyw (3, 13, 2))
+							label("Passwort",constraints: contraints.xy (1, 15))
+							passwordField = passwordField(text: config.ftpPass,	constraints: contraints.xyw (3, 15, 2))
+							button(constraints: contraints.xyw (3, 17, 2, "right, default"),
+									action: action(name: 'Kopieren!', closure: copyFtp))
 						}
 					}
 					scrollPane(constraints: "bottom") {
@@ -64,23 +100,35 @@ class DereGlobusUpdater {
 		JTextPaneOutputStream.setSysout(config.log)
 	}
 
-	static openFileChooser = {
+	def openSourceChooser = {
 		def fc = swing.fileChooser(dialogTitle:"Gib das Wurzelverzeichnis von DereGlobus an",
 				id:"openDialog", fileSelectionMode : JFileChooser.DIRECTORIES_ONLY)
 		int returnVal = fc.showOpenDialog();
 
 		if (returnVal == JFileChooser.APPROVE_OPTION) {
 			File file = fc.getSelectedFile();
-			filesTree.setModel (new FileSystemCheckModel(file))
 			config.setSourcePath(file.getAbsolutePath())
-		} else {
-			config.log.append("Wechseln vom Verzeichnis vom Benutzer abgebrochen.\n");
 		}
-		config.log.setCaretPosition(config.log.getDocument().getLength());
 	}
 
-	static copy = {
-		def filter = new SimpleServerUrlFilter("http://www.dereglobus.orkenspalter.com/svn/Release/", "http://www.dereglobus.orkenspalter.de/public/")
-		new Copier(config.log, filter).copy(filesTree.getModel().getRoot())
+	def openDestChooser = {
+		def fc = swing.fileChooser(dialogTitle:"Gib das Zielverzeichnis an",
+				id:"saveDialog", fileSelectionMode : JFileChooser.DIRECTORIES_ONLY)
+		int returnVal = fc.showOpenDialog();
+
+		if (returnVal == JFileChooser.APPROVE_OPTION) {
+			File file = fc.getSelectedFile();
+			config.setDestPath(file.getAbsolutePath())
+		}
+	}
+
+	def copy = {
+		new Copier(config).copy(filesTree.getModel().getRoot())
+	}
+
+	def copyFtp = {
+		config.setFtpUser(userField.text)
+		config.setFtpPass(passwordField.text)
+		new Copier(config).copy(filesTree.getModel().getRoot())
 	}
 }

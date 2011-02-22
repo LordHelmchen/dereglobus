@@ -14,24 +14,16 @@ import org.dereglobus.updater.tree.CheckNode
  */
 class Copier {
 
-	def LOG
+	Config config
 
-	Filter filter
-
-	public Copier(def log) {
-		LOG = log
-		filter = new NullFilter()
-	}
-
-	public Copier(def log, Filter filter) {
-		LOG = log
-		this.filter = filter
+	public Copier(Config config) {
+		this.config = config
 	}
 
 	public void copy(CheckNode root) {
 		String rootPath = root.userObject.getAbsolutePath()
 		def destRoot = new File("/Users/marcvonrenteln/Desktop/dg_release")
-		List files = new Selector(LOG).getFiles(root)
+		List files = new Selector(config).getFiles(root)
 
 		files.each { File sourceFile ->
 			String sourceFileName = sourceFile.getName()
@@ -39,11 +31,12 @@ class Copier {
 			File destDir = new File(destRoot, relativePath)
 			destDir.mkdirs()
 			File destFile = new File(destDir, sourceFileName)
-			LOG.append "Kopiere $relativePath$File.separator$sourceFileName\n"
+			config.log.append "Kopiere $relativePath$File.separator$sourceFileName\n"
 
 			if (sourceFileName.endsWith(".kml")) {
 				String fileText = sourceFile.getText("UTF-8")
-				destFile.write(filter.filter(fileText), "UTF-8")
+				fileText = config.filter.filter(fileText)
+				destFile.write(fileText, "UTF-8")
 			} else {
 				// TODO Datei binär kopieren
 			}

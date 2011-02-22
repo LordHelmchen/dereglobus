@@ -11,6 +11,12 @@
 	<name>Example Project</name>
 	<version>0.1-SNAPSHOT</version>
 
+	<scm>
+		<connection>scm:svn:https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/trunk</connection>
+		<developerConnection>scm:svn:https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/trunk</developerConnection>
+		<url>https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/trunk</url>
+	</scm>
+
 	<dependencies>
 
 		<dependency>

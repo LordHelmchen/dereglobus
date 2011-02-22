@@ -54,12 +54,14 @@ class Selector {
 		if (dir.isSelected()) {
 			config.log.append "Bereite '$dir' vor.\n"
 			dirs.add(dir)
-		}
-
-		// children() ist nur befüllt, wenn sie gecached wurden
-		dir.children()?.each { CheckNode child ->
-			// jedes Verzeichnis rekursiv durchsuchen
-			dirs.addAll(getFolders(child))
+			// Selektierte Unterverzeichnisse interessieren nun nicht mehr,
+			// also nicht rekursiv in die Unterverzeichnisse verzweigen
+		} else {
+			// children() ist nur befüllt, wenn sie gecached wurden
+			dir.children()?.each { CheckNode child ->
+				// jedes Verzeichnis rekursiv durchsuchen
+				dirs.addAll(getFolders(child))
+			}
 		}
 		return dirs
 	}

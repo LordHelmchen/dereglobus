@@ -1,7 +1,5 @@
 package org.dereglobus.updater
 
-
-
 import groovy.swing.SwingBuilder
 
 import java.awt.Insets
@@ -14,19 +12,26 @@ import org.dereglobus.updater.tree.FileSystemCheckModel
 import org.dereglobus.updater.tree.JTextPaneOutputStream
 import org.dereglobus.updater.tree.NodeSelectionListener
 
-
+/**
+ * Zentrale Start-Klasse des DereGlobus Updaters, die die GUI anzeigt und verwaltet.
+ * 
+ * @author marcvonrenteln
+ *
+ */
 class DereGlobusUpdater {
 
 	static String file
+
+	static config
 
 	static JTree filesTree
 
 	static swing = new SwingBuilder()
 
-	static log
-
 
 	public static void main(String[] args) {
+		config = new Config()
+
 		def frame = swing.frame(title: 'DereGlobus Updater', defaultCloseOperation: JFrame.DISPOSE_ON_CLOSE, size: [800, 600], show: true, locationRelativeTo: null) {
 			lookAndFeel("system")
 			menuBar() {
@@ -36,7 +41,7 @@ class DereGlobusUpdater {
 			}
 			splitPane {
 				scrollPane(constraints: "left", preferredSize: [160, -1]) {
-					filesTree = tree(model: new FileSystemCheckModel(new File(new File("").getAbsolutePath())),
+					filesTree = tree(model: new FileSystemCheckModel(new File(config.getSourcePath())),
 							cellRenderer: new CheckRenderer(),
 							rowHeight: 18)
 					filesTree.addMouseListener(new NodeSelectionListener(filesTree));
@@ -51,12 +56,12 @@ class DereGlobusUpdater {
 						}
 					}
 					scrollPane(constraints: "bottom") {
-						log = textArea(editable: false)
+						config.log = textArea(editable: false)
 					}
 				}
 			}
 		}
-		JTextPaneOutputStream.setSysout(log)
+		JTextPaneOutputStream.setSysout(config.log)
 	}
 
 	static openFileChooser = {
@@ -67,14 +72,15 @@ class DereGlobusUpdater {
 		if (returnVal == JFileChooser.APPROVE_OPTION) {
 			File file = fc.getSelectedFile();
 			filesTree.setModel (new FileSystemCheckModel(file))
+			config.setSourcePath(file.getAbsolutePath())
 		} else {
-			log.append("Wechseln vom Verzeichnis vom Benutzer abgebrochen.\n");
+			config.log.append("Wechseln vom Verzeichnis vom Benutzer abgebrochen.\n");
 		}
-		log.setCaretPosition(log.getDocument().getLength());
+		config.log.setCaretPosition(config.log.getDocument().getLength());
 	}
 
 	static copy = {
 		def filter = new SimpleServerUrlFilter("http://www.dereglobus.orkenspalter.com/svn/Release/", "http://www.dereglobus.orkenspalter.de/public/")
-		new Copier(log, filter).copy(filesTree.getModel().getRoot())
+		new Copier(config.log, filter).copy(filesTree.getModel().getRoot())
 	}
 }

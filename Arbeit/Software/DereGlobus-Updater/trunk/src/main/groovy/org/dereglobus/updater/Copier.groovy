@@ -30,18 +30,18 @@ class Copier {
 
 	public void copy(CheckNode root) {
 		String rootPath = root.userObject.getAbsolutePath()
-		def destRoot = new File("<dest>")
+		def destRoot = new File("/Users/marcvonrenteln/Desktop/dg_release")
 		List files = new Selector(LOG).getFiles(root)
 
 		files.each { File sourceFile ->
 			String sourceFileName = sourceFile.getName()
-			if (sourceFileName.endsWith(".kml")) {
-				String relativePath = sourceFile.getParent() - rootPath
-				File destDir = new File(destRoot, relativePath)
-				destDir.mkdirs()
-				File destFile = new File(destDir, sourceFileName)
+			String relativePath = sourceFile.getParent() - rootPath
+			File destDir = new File(destRoot, relativePath)
+			destDir.mkdirs()
+			File destFile = new File(destDir, sourceFileName)
+			LOG.append "Kopiere $relativePath$File.separator$sourceFileName\n"
 
-				LOG.append "Kopiere $relativePath$File.separator$sourceFileName\n"
+			if (sourceFileName.endsWith(".kml")) {
 				String fileText = sourceFile.getText("UTF-8")
 				destFile.write(filter.filter(fileText), "UTF-8")
 			} else {

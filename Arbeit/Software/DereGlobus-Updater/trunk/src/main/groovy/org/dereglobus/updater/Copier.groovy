@@ -22,7 +22,7 @@ class Copier {
 
 	public void copy(CheckNode root) {
 		String rootPath = root.userObject.getAbsolutePath()
-		def destRoot = new File("/Users/marcvonrenteln/Desktop/dg_release")
+		def destRoot = new File(config.getDestPath())
 		List files = new Selector(config).getFiles(root)
 
 		files.each { File sourceFile ->

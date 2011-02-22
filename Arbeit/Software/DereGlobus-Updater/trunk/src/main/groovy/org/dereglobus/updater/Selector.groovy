@@ -16,10 +16,10 @@ import org.dereglobus.updater.tree.CheckNode;
  */
 class Selector {
 
-	def LOG
+	Config config
 
-	public Selector(def log) {
-		LOG = log
+	public Selector(Config config) {
+		this.config = config
 	}
 
 	/**
@@ -34,7 +34,7 @@ class Selector {
 					preDir       : { if (it.name == '.svn') return FileVisitResult.SKIP_SUBTREE },
 					) { files << it }
 		}
-		LOG.append "Alle Dateien in den selektierten Verzeichnissen wurden zusammengestellt.\n"
+		config.log.append "Alle Dateien in den selektierten Verzeichnissen wurden zusammengestellt.\n"
 		return files
 	}
 
@@ -52,7 +52,7 @@ class Selector {
 	public List<CheckNode> getFolders(CheckNode dir) {
 		def dirs = []
 		if (dir.isSelected()) {
-			LOG.append "Bereite $dir vor\n"
+			config.log.append "Bereite '$dir' vor.\n"
 			dirs.add(dir)
 		}
 

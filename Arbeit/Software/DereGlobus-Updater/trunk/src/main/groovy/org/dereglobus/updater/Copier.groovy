@@ -1,5 +1,9 @@
 package org.dereglobus.updater
 
+import groovy.util.AntBuilder;
+
+import java.io.File;
+
 import org.dereglobus.updater.tree.CheckNode
 
 /**
@@ -38,7 +42,14 @@ class Copier {
 				fileText = config.filter.filter(fileText)
 				destFile.write(fileText, "UTF-8")
 			} else {
-				// TODO Datei binär kopieren
+				if (destFile.exists()) {
+					destFile.delete()
+				}
+				destFile.createNewFile()
+
+				sourceFile.withInputStream { inStream ->
+					destFile.withOutputStream{ out -> out << inStream }
+				}
 			}
 		}
 	}

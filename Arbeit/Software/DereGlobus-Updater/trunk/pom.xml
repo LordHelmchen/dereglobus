@@ -53,6 +53,7 @@
 					<execution>
 						<goals>
 							<goal>compile</goal>
+							<goal>testCompile</goal>
 						</goals>
 						<configuration>
 							<providerSelection>1.7</providerSelection>

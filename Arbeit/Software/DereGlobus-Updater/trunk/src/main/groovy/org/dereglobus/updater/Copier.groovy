@@ -20,37 +20,58 @@ class Copier {
 
 	Config config
 
+	String rootPath
+
+	List files
+
 	public Copier(Config config) {
 		this.config = config
 	}
 
+	protected void init(CheckNode root) {
+		rootPath = root.userObject.getAbsolutePath()
+		files = new Selector(config).getFiles(root)
+	}
+
 	public void copy(CheckNode root) {
-		String rootPath = root.userObject.getAbsolutePath()
-		def destRoot = new File(config.getDestPath())
-		List files = new Selector(config).getFiles(root)
+		init(root)
 
-		files.each { File sourceFile ->
-			String sourceFileName = sourceFile.getName()
-			String relativePath = sourceFile.getParent() - rootPath
-			File destDir = new File(destRoot, relativePath)
-			destDir.mkdirs()
-			File destFile = new File(destDir, sourceFileName)
-			config.log.append "Kopiere $relativePath$File.separator$sourceFileName\n"
+		try {
+			files.each { File sourceFile ->
+				copyFile(sourceFile)
+			}
+		} finally {
+			finish()
+		}
+	}
 
-			if (sourceFileName.endsWith(".kml")) {
-				String fileText = sourceFile.getText("UTF-8")
-				fileText = config.filter.filter(fileText)
-				destFile.write(fileText, "UTF-8")
-			} else {
-				if (destFile.exists()) {
-					destFile.delete()
-				}
-				destFile.createNewFile()
 
-				sourceFile.withInputStream { inStream ->
-					destFile.withOutputStream{ out -> out << inStream }
-				}
+	protected boolean copyFile(File sourceFile) {
+		String sourceFileName = sourceFile.getName()
+		String relativePath = sourceFile.getParent() - rootPath
+		File destDir = new File(new File(config.getDestPath()), relativePath)
+		destDir.mkdirs()
+		File destFile = new File(destDir, sourceFileName)
+		config.log.append "Kopiere $relativePath$File.separator$sourceFileName\n"
+
+		if (sourceFileName.endsWith(".kml")) {
+			String fileText = sourceFile.getText("UTF-8")
+			fileText = config.filter.filter(fileText)
+			destFile.write(fileText, "UTF-8")
+		} else {
+			if (destFile.exists()) {
+				destFile.delete()
+			}
+			destFile.createNewFile()
+
+			sourceFile.withInputStream { inStream ->
+				destFile.withOutputStream{ out -> out << inStream }
 			}
 		}
+		return true
+	}
+
+	protected void finish() {
+		// do nothing
 	}
 }

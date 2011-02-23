@@ -17,6 +17,11 @@ class Config {
 
 	Filter filter
 
+	String ftpServer = "dereglobus.orkenspalter.com"
+
+	//	String ftpPath = "dereglobus.orkenspalter.de/public/DereGlobus"
+	String ftpPath = "dereglobus.orkenspalter.de/public/DereGlobusTest"
+
 	public Config() {
 		prefs = Preferences.userRoot().node(nodeName)
 		filter = new SimpleServerUrlFilter("http://www.dereglobus.orkenspalter.com/svn/Release/", "http://www.dereglobus.orkenspalter.de/public/")

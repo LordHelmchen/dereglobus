@@ -48,14 +48,14 @@ class DereGlobusUpdater {
 
 	private void initComponents() {
 		FormLayout layout = new FormLayout(
-				"right:pref, 3dlu, 100dlu, 3dlu, min", // columns
+				"right:pref, 3dlu, 200dlu, 3dlu, min", // columns
 				"p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 3dlu, p");  // rows
 		CellConstraints contraints = new CellConstraints();
 		def compFactory = DefaultComponentFactory.getInstance()
 
 		// -----------------------------------------------------------------------------
 
-		def frame = swing.frame(title: 'DereGlobus Updater', defaultCloseOperation: JFrame.DISPOSE_ON_CLOSE, size: [800, 600], show: true, locationRelativeTo: null) {
+		def frame = swing.frame(title: 'DereGlobus Updater', defaultCloseOperation: JFrame.DISPOSE_ON_CLOSE, size: [1024, 700], show: true, locationRelativeTo: null) {
 			lookAndFeel(UIManager.systemLookAndFeelClassName)
 			menuBar() {
 				menu(text: "Datei", mnemonic: 'D') {
@@ -63,13 +63,13 @@ class DereGlobusUpdater {
 				}
 			}
 			splitPane {
-				scrollPane(constraints: "left", preferredSize: [160, -1]) {
+				scrollPane(constraints: "left", preferredSize: [300, -1]) {
 					filesTree = tree(model: new FileSystemCheckModel(new File(config.getSourcePath())),
 							cellRenderer: new CheckRenderer(),
 							rowHeight: 18)
 					filesTree.addMouseListener(new NodeSelectionListener(filesTree));
 				}
-				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:320) {
+				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:400) {
 					scrollPane(constraints: "top") {
 						panel( layout: layout, border: Borders.DIALOG_BORDER) {
 							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 5))

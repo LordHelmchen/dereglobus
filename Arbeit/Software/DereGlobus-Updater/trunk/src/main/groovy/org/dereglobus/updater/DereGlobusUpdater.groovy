@@ -46,7 +46,7 @@ class DereGlobusUpdater {
 
 	private void initComponents() {
 		FormLayout layout = new FormLayout(
-				"right:pref, 3dlu, 100dlu, min", // columns
+				"right:pref, 3dlu, 100dlu, 3dlu, min", // columns
 				"p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 3dlu, p");  // rows
 		CellConstraints contraints = new CellConstraints();
 		def compFactory = DefaultComponentFactory.getInstance()
@@ -70,24 +70,24 @@ class DereGlobusUpdater {
 				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:320) {
 					scrollPane(constraints: "top") {
 						panel( layout: layout, border: Borders.DIALOG_BORDER) {
-							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 4))
+							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 5))
 							button(constraints: contraints.xyw (1, 3, 2, "left, default"),
 									action: action(name: 'Quellverzeichnis wechseln', closure: openSourceChooser))
 
-							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 5, 4))
+							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 5, 5))
 							label("Zielverzeichnis",constraints: contraints.xy (1, 7))
 							textField(text: config.destPath, constraints: contraints.xy (3, 7), editable: false)
-							button(constraints: contraints.xy (4, 7),
+							button(constraints: contraints.xy (5, 7),
 									action: action(name: '...', closure: openDestChooser))
-							button(constraints: contraints.xyw (3, 9, 2, "right, default"),
+							button(constraints: contraints.xyw (3, 9, 3, "right, default"),
 									action: action(name: 'Kopieren!', closure: copy))
 
-							widget( widget: compFactory.createSeparator('Kopieren auf FTP-Server'), constraints: contraints.xyw(1, 11, 4))
+							widget( widget: compFactory.createSeparator('Kopieren auf FTP-Server'), constraints: contraints.xyw(1, 11, 5))
 							label("Benutzername",constraints: contraints.xy (1, 13))
-							userField = textField(text: config.ftpUser,	constraints: contraints.xyw (3, 13, 2))
+							userField = textField(text: config.ftpUser,	constraints: contraints.xyw (3, 13, 3))
 							label("Passwort",constraints: contraints.xy (1, 15))
-							passwordField = passwordField(text: config.ftpPass,	constraints: contraints.xyw (3, 15, 2))
-							button(constraints: contraints.xyw (3, 17, 2, "right, default"),
+							passwordField = passwordField(text: config.ftpPass,	constraints: contraints.xyw (3, 15, 3))
+							button(constraints: contraints.xyw (3, 17, 3, "right, default"),
 									action: action(name: 'Kopieren!', closure: copyFtp))
 						}
 					}

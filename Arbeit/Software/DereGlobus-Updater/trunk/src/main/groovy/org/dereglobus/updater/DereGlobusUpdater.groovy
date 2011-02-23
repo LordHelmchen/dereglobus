@@ -133,6 +133,6 @@ class DereGlobusUpdater {
 	def copyFtp = {
 		config.setFtpUser(userField.text)
 		config.setFtpPass(passwordField.text)
-		new Copier(config).copy(filesTree.getModel().getRoot())
+		new FtpCopier(config).copy(filesTree.getModel().getRoot())
 	}
 }

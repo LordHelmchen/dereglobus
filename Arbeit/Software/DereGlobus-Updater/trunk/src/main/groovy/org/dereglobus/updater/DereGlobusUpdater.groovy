@@ -37,6 +37,8 @@ class DereGlobusUpdater {
 
 	def passwordField
 
+	def destField
+
 
 	public static void main(String[] args) {
 		config = new Config()
@@ -76,7 +78,7 @@ class DereGlobusUpdater {
 
 							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 5, 5))
 							label("Zielverzeichnis",constraints: contraints.xy (1, 7))
-							textField(text: config.destPath, constraints: contraints.xy (3, 7), editable: false)
+							destField = textField(text: config.destPath, constraints: contraints.xy (3, 7), editable: false)
 							button(constraints: contraints.xy (5, 7),
 									action: action(name: '...', closure: openDestChooser))
 							button(constraints: contraints.xyw (3, 9, 3, "right, default"),
@@ -119,6 +121,7 @@ class DereGlobusUpdater {
 
 		if (returnVal == JFileChooser.APPROVE_OPTION) {
 			File file = fc.getSelectedFile();
+			destField.text = file.getAbsolutePath()
 			config.setDestPath(file.getAbsolutePath())
 		}
 	}

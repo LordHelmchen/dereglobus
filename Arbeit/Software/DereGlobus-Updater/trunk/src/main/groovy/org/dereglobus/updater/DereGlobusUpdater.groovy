@@ -107,6 +107,7 @@ class DereGlobusUpdater {
 
 		if (returnVal == JFileChooser.APPROVE_OPTION) {
 			File file = fc.getSelectedFile();
+			filesTree.setModel (new FileSystemCheckModel(file))
 			config.setSourcePath(file.getAbsolutePath())
 		}
 	}

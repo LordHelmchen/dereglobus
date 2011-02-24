@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Ordenshaus des ODL</name>
+	<description><![CDATA[Created with <a href="http://sketchup.google.com/">Google SketchUp 6.4.112</a>]]></description>
+	<LookAt>
+		<longitude>8.088556840825058</longitude>
+		<latitude>33.03155461595293</latitude>
+		<altitude>0</altitude>
+		<range>64.72292250053455</range>
+		<tilt>67.66274846797008</tilt>
+		<heading>-142.7369894944599</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Folder>
+		<name>Tour</name>
+		<Placemark>
+			<name>Camera</name>
+			<LookAt>
+				<longitude>8.088569623668681</longitude>
+				<latitude>33.03199750040769</latitude>
+				<altitude>37.74946223812565</altitude>
+				<range>48.28696673128886</range>
+				<tilt>49.6329</tilt>
+				<heading>173.906</heading>
+			</LookAt>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>Ordenshaus des ODL</name>
+		<Style id="default">
+		</Style>
+		<Model id="mod_odl">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>8.088652915660999</longitude>
+				<latitude>33.031622504283</latitude>
+				<altitude>0</altitude>
+			</Location>
+			<Orientation>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Mittelreich/Weisstobrien/Perainefurten/Ordenshaus_ODL.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Tuer_Holz_eisenbeschlagen.jpg</targetHref>
+					<sourceHref>../images/texture0.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_gleichartig.jpg</targetHref>
+					<sourceHref>../images/texture1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fachwerk/Fachwerk_dunkel.jpg</targetHref>
+					<sourceHref>../images/texture10.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_gleichartig.jpg</targetHref>
+					<sourceHref>../images/texture11.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Dachbedeckung/Schindel_Schiefer.jpg</targetHref>
+					<sourceHref>../images/texture12.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fachwerk/Fachwerk_Fensterelement_dunkel.jpg</targetHref>
+					<sourceHref>../images/texture2.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Flaggen/Wappen_ODL.jpg</targetHref>
+					<sourceHref>../images/texture3.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Flaggen/Wappen_ODL.jpg</targetHref>
+					<sourceHref>../images/texture4.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Sonstiges/Metall_gebuerstet.jpg</targetHref>
+					<sourceHref>../images/texture5.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_dunkler_Bruchstein2.jpg</targetHref>
+					<sourceHref>../images/texture6.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Dachbedeckung/Schindel_Schiefer.jpg</targetHref>
+					<sourceHref>../images/texture7.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Flaggen/Wappen_Graue_Gilde.jpg</targetHref>
+					<sourceHref>../images/texture8.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Flaggen/Flagge_Tobrien.jpg</targetHref>
+					<sourceHref>../images/texture9.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+</Folder>
+</kml>

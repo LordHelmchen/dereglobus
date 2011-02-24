@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+
+    
+    <!-- Style -->
+        
+    <!-- Modellierte Gebäude -->
+        <!-- Der Funduq - Palast des Scheichs -->
+        <Placemark>
+			<name>Der Funduq</name>
+            <visibility>1</visibility>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+    <ul>
+                               
+                              <li>K&uuml;nstler: Wulf</li>
+                              <li>Beschreibung: Ein Text zur Beschreibung des Gebäudes und seinem Baustil ist noch in Planung. Zu weiteren Informationen zum Modellbau des Bauwerks siehe das <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=21">Perainefurten-3D-Forum</a></li>
+                               
+                              <li>Link zum Wiki: <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a></li>
+                              </ul>]]>
+            </description>
+			<LookAt>
+				<longitude>2.325225390635699</longitude>
+				<latitude>23.81138189205899</latitude>
+				<altitude>2</altitude>
+				<range>154.3723271465642</range>
+				<tilt>57.77059351778612</tilt>
+				<heading>36.60299354508639</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+			<Model id="mod_funduq">
+				<altitudeMode>relativeToGround</altitudeMode>
+				<Location>
+					<longitude>2.323734723737785</longitude>
+					<latitude>23.81085403497859</latitude>
+					<altitude>2</altitude>
+				</Location>
+				<Orientation>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Orientation>
+				<Scale>
+					<x>1</x>
+					<y>1</y>
+					<z>1</z>
+				</Scale>
+				<Link>
+					<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/dae/Birscha/Funduq.dae</href>
+				</Link>
+				<ResourceMap>
+					<Alias>
+						<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Holztor_beschlagen_verziert.png</targetHref>
+						<sourceHref>../images/texture0.jpg</sourceHref>
+					</Alias>
+					<Alias>
+						<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_helle_Sandstein.jpg</targetHref>
+						<sourceHref>../images/texture1.jpg</sourceHref>
+					</Alias>
+					<Alias>
+						<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_dunkel.jpg</targetHref>
+						<sourceHref>../images/texture2.jpg</sourceHref>
+					</Alias>
+					<Alias>
+						<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_dunkel.jpg</targetHref>
+						<sourceHref>../images/texture3.jpg</sourceHref>
+					</Alias>
+					<Alias>
+						<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Holztor_beschlagen_verziert.png</targetHref>
+						<sourceHref>../images/texture4.jpg</sourceHref>
+					</Alias>
+				</ResourceMap>
+			</Model>
+		</Placemark>
+        
+        <!-- Die Karawanserei -->
+        <Placemark>
+            <name>Die Karawanserei</name>
+            <visibility>1</visibility>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+    <ul>
+                               
+                              <li>K&uuml;nstler: taurum</li>
+                              <li>Beschreibung: Ein Text zur Beschreibung des Gebäudes und seinem Baustil ist noch in Planung. Zu weiteren Informationen zum Modellbau des Bauwerks siehe das <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=21">Perainefurten-3D-Forum</a></li>
+                               
+                              <li>Link zum Wiki: <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a></li>
+                              </ul>]]>
+            </description>
+            <LookAt>
+                <longitude>2.323060670858368</longitude>
+                <latitude>23.80975414328077</latitude>
+                <altitude>36.12937811847353</altitude>
+                <range>84.93047332738959</range>
+                <tilt>47.91198594985607</tilt>
+                <heading>124.0708327618313</heading>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+            <Model id="mod_karawan">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>2.323751213877</longitude>
+                    <latitude>23.810836156592</latitude>
+                    <altitude>1.9</altitude>
+                </Location>
+                <Orientation>
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale>
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/dae/Birscha/Birscha_Karawanserei.dae</href>
+                </Link>
+                <ResourceMap>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Sand.jpg</targetHref>
+                        <sourceHref>../images/texture0.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Palme.png</targetHref>
+                        <sourceHref>../images/texture0.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holz_dunkelbraun_glatte_Maserung.png</targetHref>
+                        <sourceHref>../images/texture1.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Tor_rotes_Holz_Eisennaegel.png</targetHref>
+                        <sourceHref>../images/texture1.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Sand_Wueste_hell.jpg</targetHref>
+                        <sourceHref>../images/texture2.jpg</sourceHref>
+                    </Alias>
+                </ResourceMap>
+            </Model>
+        </Placemark>
+        
+        <!-- Das Bethaus -->
+        <Placemark>
+            <name>Das Bethaus</name>
+            <visibility>1</visibility>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+    <ul>
+                               
+                              <li>K&uuml;nstler: Archon</li>
+                              <li>Beschreibung: Ein Text zur Beschreibung des Gebäudes und seinem Baustil ist noch in Planung. Zu weiteren Informationen zum Modellbau des Bauwerks siehe das <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=21">Perainefurten-3D-Forum</a></li>
+                               
+                              <li>Link zum Wiki: <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a></li>
+                              </ul>]]>
+            </description>
+            <LookAt>
+                <longitude>2.322350805528366</longitude>
+                <latitude>23.80971849413909</latitude>
+                <altitude>36.12937811847353</altitude>
+                <range>65.36392802295821</range>
+                <tilt>59.9184</tilt>
+                <heading>18.7984</heading>
+            </LookAt>
+            <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+            <Model id="mod_bethaus">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>2.323742758794835</longitude>
+                    <latitude>23.8108399692077</latitude>
+                    <altitude>1.9</altitude>
+                </Location>
+                <Orientation>
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale>
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/dae/Birscha/Birscha_Bethaus.dae</href>
+                </Link>
+                <ResourceMap>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Holztuer_beschlagen.jpg</targetHref>
+                        <sourceHref>../images/texture0.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Tuer_Holz_eisenbeschlagen.jpg</targetHref>
+                        <sourceHref>../images/texture1.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Sand_Wueste_hell.jpg</targetHref>
+                        <sourceHref>../images/texture2.jpg</sourceHref>
+                    </Alias>
+                </ResourceMap>
+            </Model>
+        </Placemark>
+        
+        <!-- Die Schmiede -->
+        <Placemark>
+            <name>Die Schmiede</name>
+            <visibility>1</visibility>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+    <ul>
+                               
+                              <li>K&uuml;nstler: Thamor</li>
+                              <li>Beschreibung: Ein Text zur Beschreibung des Gebäudes und seinem Baustil ist noch in Planung. Zu weiteren Informationen zum Modellbau des Bauwerks siehe das <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=21">Perainefurten-3D-Forum</a></li>
+                               
+                              <li>Link zum Wiki: <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a></li>
+                              </ul>]]>
+            </description>
+            <LookAt>
+                <longitude>2.322350805528366</longitude>
+                <latitude>23.80971849413909</latitude>
+                <altitude>36.12937811847353</altitude>
+                <range>65.36392802295821</range>
+                <tilt>59.9184</tilt>
+                <heading>18.7984</heading>
+            </LookAt>
+            <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+            <Model id="mod_schmiede">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>2.320655961114742</longitude>
+                    <latitude>23.80890505915778</latitude>
+                    <altitude>2</altitude>
+                </Location>
+                <Orientation>
+                    <heading>-0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale>
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/dae/Birscha/Birscha_Schmiede.dae</href>
+                </Link>
+                <ResourceMap>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Sonstiges/Rauch.jpg</targetHref>
+                        <sourceHref>../images/texture0.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Palme.png</targetHref>
+                        <sourceHref>../images/texture0.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_dunkel.jpg</targetHref>
+                        <sourceHref>../images/texture1.jpg</sourceHref>
+                    </Alias>
+                </ResourceMap>
+            </Model>
+        </Placemark>
+        
+        
+      <!-- 3D-Stadtmodell -->
+      <Placemark>
+		<name>Stadtmodell</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+    <ul>
+                               
+                              <li>K&uuml;nstler: gnom, Thethan, Archon, Salex, Thamor</li>
+                              <li>Beschreibung: Ein Text zur Beschreibung des Gebäudes und seinem Baustil ist noch in Planung. Zu weiteren Informationen zum Modellbau des Bauwerks siehe das <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=21">Perainefurten-3D-Forum</a></li>
+                               
+                              <li>Link zum Wiki: <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a></li>
+                              </ul>]]>
+            </description>
+            <LookAt>
+				<longitude>2.322843700144051</longitude>
+				<latitude>23.80624159927723</latitude>
+				<altitude>371.958784456942</altitude>
+				<range>396.2871246735954</range>
+				<tilt>43.7774</tilt>
+				<heading>1.62744</heading>
+			</LookAt>
+            <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+            <Model id="mod_stadtmod">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>2.320415352696982</longitude>
+                    <latitude>23.80869230886208</latitude>
+                    <altitude>2</altitude>
+                </Location>
+                <Orientation>
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale>
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/dae/Birscha/Birscha_Stadtmodell.dae</href>
+                </Link>
+                <ResourceMap>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_blasgruen.jpg</targetHref>
+                        <sourceHref>../images/texture0.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Kakteenhecke.png</targetHref>
+                        <sourceHref>../images/texture0.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Bodenbewuchs_gruen_aquarell.jpg</targetHref>
+                        <sourceHref>../images/texture1.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig.png</targetHref>
+                        <sourceHref>../images/texture1.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_gelb.jpg</targetHref>
+                        <sourceHref>../images/texture2.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig_gelb.png</targetHref>
+                        <sourceHref>../images/texture2.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_blasgelb.jpg</targetHref>
+                        <sourceHref>../images/texture3.jpg</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig_orange.png</targetHref>
+                        <sourceHref>../images/texture3.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig_rot.png</targetHref>
+                        <sourceHref>../images/texture4.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Klippe_roter_Sandstein.png</targetHref>
+                        <sourceHref>../images/texture5.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Palme.png</targetHref>
+                        <sourceHref>../images/texture6.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Agave.png</targetHref>
+                        <sourceHref>../images/texture7.png</sourceHref>
+                    </Alias>
+                    <Alias>
+                        <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Grosse_Agave.png</targetHref>
+                        <sourceHref>../images/texture8.png</sourceHref>
+                    </Alias>
+                </ResourceMap>
+            </Model>
+        </Placemark>
+        <Folder>
+	<name>Birschas Umgebung</name>
+	<open>0</open>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>
+	<GroundOverlay>
+		<name>Birschas nähere Umgebung</name>
+		<drawOrder>12</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>23.81708000713062</north>
+			<south>23.80379208210783</south>
+			<east>2.335407680769459</east>
+			<west>2.313599678339205</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Birschas Umgebung</name>
+		<drawOrder>11</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>23.82816667313445</north>
+			<south>23.79267982434103</south>
+			<east>2.353643577055211</east>
+			<west>2.295402940753056</west>
+			<rotation>1.10682447103775</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Birschas weitere Umgebung</name>
+		<drawOrder>10</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_steinig.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>23.84024510120878</north>
+			<south>23.77504707109988</south>
+			<east>2.379448118568715</east>
+			<west>2.272448098050516</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+      <!-- Ambiente-Komponenten -->
+        <!-- Ambiente-Komponenten -->
+        <!-- DC - Stammestreffen -->
+  </Document>
+</kml>
+
+
+
+

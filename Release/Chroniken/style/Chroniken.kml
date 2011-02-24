@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+<name>Chroniken-Styles</name>
+
+
+
+
+
+
+<!-- HIER OBEN NUR DIE STYLEMAPS DEFINIEREN -->
+
+
+
+
+<StyleMap id="Chronik">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Chronik-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Chronik-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+
+
+
+
+
+
+
+
+<!-- AB HIER DIE STYLES DEFINIEREN -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Style id="Chronik-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/media/icons/Chronik.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=Chronik:$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Chronik-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/media/icons/Chronik.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=Chronik:$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+</Document>
+</kml>

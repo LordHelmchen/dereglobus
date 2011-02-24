@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Placemark>
+	<name>Nevelung</name>
+	<visibility>1</visibility>
+				<description><![CDATA[<style type="text/css"><!--
+										a:link, a:visited { text-decoration: none; color: #814F21; }
+										a:hover { text-decoration: underline; color: #814F21; }
+										hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+										#wiki { font-size:10px; }
+										--></style>
+										<i>"Im Jahre 399 v.H. von Narniel von Nebachot erbaut, ist Schloss Nevelung ein typischer Vertreter des Baustils der Magierkriege. Wie bei so vielen Bauwerken seiner Epoche entspringt die Bezeichnung �Schloss� eher dem Selbstverst�ndnis seiner Erbauer als den baulichen Gegebenheiten. Die trutzigen Gem�uer und die hohen Zinnen machen die Burg von au�en her ann�hernd uneinnehmbar."</i><br><br>
+Mit viel Liebe zum Detail hat Bernhard Pesch von <a href="http://www.sumus-kate.de/">Sumus-Kate.de</a> nicht nur Dorf und Schloss Nevelung modelliert, sondern auch die Inneneinrichtung nachgestellt. Neben Pl�nen und Beschreibungstexten auf seiner Homepage finden sich in der <a href="http://sketchup.google.com/3dwarehouse/search?uq=02016843791284566040&scoring=m&hl=de&ct=lc">Sketchup-Galerie</a> au�erdem SKP-Modelle der einzelnen Stockwerke, welche man mit <a href="http://sketchup.google.com/intl/de/">Google SketchUp</a> betrachten kann: <br><br>
+                            
+                              <li><a href="http://www.sumus-kate.de/nevelung.html">Au�enansicht</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=63342ac15036c2c37efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/ug.html">Untergeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=7adbbfe4aa103c217efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/eg.html">Erdgeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=f712e9f4ba93ebfe7efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/1og.html">1. Obergeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=84cd55d50b91f78c7efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/2og.html">2. Obergeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=4d3ba1753c1911037efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/3og.html">3. Obergeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=6185970ab6ab82fb7efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/4og.html">4. Obergeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=14080ffa67df00057efebafaeccd9f28">SKP</a>)</li>
+							  <li><a href="http://www.sumus-kate.de/5og.html">5. Obergeschoss</a> (<a href="http://sketchup.google.com/3dwarehouse/details?mid=22fccc5f89d766f87efebafaeccd9f28">SKP</a>)</li>
+							
+
+										]]>
+				</description>
+	<LookAt>
+		<longitude>7.688094697936498</longitude>
+		<latitude>32.01722343512331</latitude>
+		<altitude>0</altitude>
+		<range>150.6087350755026</range>
+		<tilt>67.8341508853829</tilt>
+		<heading>-46.27571870425052</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>			  
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Model id="Nevelung">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>7.686694640666</longitude>
+			<latitude>32.016709467718</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>-0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>1</x>
+			<y>1</y>
+			<z>1</z>
+		</Scale>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Nevelung/Nevelung.dae</href>
+		</Link>
+		<ResourceMap>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture0.jpg</targetHref>
+				<sourceHref>../images/texture0.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture1.jpg</targetHref>
+				<sourceHref>../images/texture1.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture10.jpg</targetHref>
+				<sourceHref>../images/texture10.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture11.jpg</targetHref>
+				<sourceHref>../images/texture11.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture12.jpg</targetHref>
+				<sourceHref>../images/texture12.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture13.jpg</targetHref>
+				<sourceHref>../images/texture13.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture14.jpg</targetHref>
+				<sourceHref>../images/texture14.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture15.jpg</targetHref>
+				<sourceHref>../images/texture15.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture16.jpg</targetHref>
+				<sourceHref>../images/texture16.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture17.jpg</targetHref>
+				<sourceHref>../images/texture17.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture18.jpg</targetHref>
+				<sourceHref>../images/texture18.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture19.jpg</targetHref>
+				<sourceHref>../images/texture19.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture2.jpg</targetHref>
+				<sourceHref>../images/texture2.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture20.jpg</targetHref>
+				<sourceHref>../images/texture20.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture21.jpg</targetHref>
+				<sourceHref>../images/texture21.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture22.jpg</targetHref>
+				<sourceHref>../images/texture22.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture23.jpg</targetHref>
+				<sourceHref>../images/texture23.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture24.jpg</targetHref>
+				<sourceHref>../images/texture24.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture25.jpg</targetHref>
+				<sourceHref>../images/texture25.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture26.jpg</targetHref>
+				<sourceHref>../images/texture26.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture27.jpg</targetHref>
+				<sourceHref>../images/texture27.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture28.jpg</targetHref>
+				<sourceHref>../images/texture28.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture29.jpg</targetHref>
+				<sourceHref>../images/texture29.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture3.jpg</targetHref>
+				<sourceHref>../images/texture3.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture30.jpg</targetHref>
+				<sourceHref>../images/texture30.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture31.jpg</targetHref>
+				<sourceHref>../images/texture31.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture32.jpg</targetHref>
+				<sourceHref>../images/texture32.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture33.jpg</targetHref>
+				<sourceHref>../images/texture33.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture34.jpg</targetHref>
+				<sourceHref>../images/texture34.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture35.jpg</targetHref>
+				<sourceHref>../images/texture35.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture4.jpg</targetHref>
+				<sourceHref>../images/texture4.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture5.jpg</targetHref>
+				<sourceHref>../images/texture5.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture6.jpg</targetHref>
+				<sourceHref>../images/texture6.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture7.jpg</targetHref>
+				<sourceHref>../images/texture7.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture8.jpg</targetHref>
+				<sourceHref>../images/texture8.jpg</sourceHref>
+			</Alias>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Nevelung/texture9.jpg</targetHref>
+				<sourceHref>../images/texture9.jpg</sourceHref>
+			</Alias>
+		</ResourceMap>
+	</Model>
+</Placemark>
+</kml>

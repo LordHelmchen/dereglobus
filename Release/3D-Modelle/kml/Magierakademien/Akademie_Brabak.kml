@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<Placemark>
+		<Model id="model_1">
+			<altitudeMode>relativeToGround</altitudeMode>
+									<Location>
+				<longitude>-3.059297395152952</longitude>
+				<latitude>16.90559306153922</latitude>
+				<altitude>0</altitude>
+			</Location>
+			<Orientation>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Magierakademien/Akademie_Brabak.dae</href>
+			</Link>
+			
+			<ResourceMap>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_dunkler_Granit.jpg</targetHref>
+					<sourceHref>untitled/texture0.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_dunkler_Bruchstein2.jpg</targetHref>
+					<sourceHref>untitled/texture1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Hoellentor.jpg</targetHref>
+					<sourceHref>untitled/texture2.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>	</Model>
+	</Placemark>
+</Document>
+</kml>

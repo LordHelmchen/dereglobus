@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Chroniken</name>
+	<open>0</open>
+	
+	<visibility>0</visibility>
+		<NetworkLink>
+		<visibility>0</visibility>
+		<name>Gorien (MI)</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Chroniken/kml/Tulamidenlande/Chronik_Goriens.kml</href>
+		</Link>
+	</NetworkLink>
+	
+	
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Tobrien ab 1019 BF (MI)</name>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/kml/Mittelreich/Tobrien/Tobrien_ab_1019BF.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+</Document>
+</kml>

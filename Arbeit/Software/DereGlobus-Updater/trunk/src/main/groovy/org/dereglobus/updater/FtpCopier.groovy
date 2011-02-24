@@ -1,5 +1,6 @@
 package org.dereglobus.updater
 
+import java.io.ByteArrayInputStream;
 import java.io.File;
 
 import org.apache.commons.net.ftp.FTP;
@@ -36,7 +37,6 @@ class FtpCopier extends Copier {
 			login config.ftpUser, config.ftpPass
 			println(replyString)
 			cd("")
-			println(replyString)
 			fileType = FTPClient.BINARY_FILE_TYPE
 		}
 	}
@@ -93,11 +93,11 @@ class FtpCopier extends Copier {
 			println "Kopiere $relativePath nach ${ftp.printWorkingDirectory()}/$relativePath"
 			boolean success
 			// in 90% der Fälle ist die Verzeichnisstruktur bereits vorhanden, also erstmal versuchen
-			sourceFile.withInputStream { instream -> success = storeFile ("$relativePath", instream) }
+			success = copyFile(sourceFile, relativePath)
 			if (replyCode == NO_SUCH_FILE) {
 				// Verzeichnisse fehlen, also anlegen und nochmal versuchen
 				createPath relativePath[0..(relativePath.size()-sourceFile.name.size()-2)]
-				sourceFile.withInputStream { instream -> success = storeFile (relativePath, instream) }
+				success = copyFile(sourceFile, relativePath)
 			}
 			if (replyCode != TRANSFER_COMPLETE) {
 				println("Kopieren von $relativePath fehlgeschlagen ($replyString) !")
@@ -105,6 +105,19 @@ class FtpCopier extends Copier {
 			}
 			return success
 		}
+	}
+
+	private boolean copyFile(File sourceFile, String relativePath) {
+		boolean success
+		if (relativePath.endsWith(".kml")) {
+			String fileText = sourceFile.getText("UTF-8")
+			fileText = config.filter.filter(fileText)
+			InputStream inStream = new ByteArrayInputStream(fileText.getBytes("UTF-8"))
+			inStream.withStream { instream -> success = ftp.storeFile (relativePath, instream) }
+		} else {
+			sourceFile.withInputStream { instream -> success = ftp.storeFile (relativePath, instream) }
+		}
+		return success
 	}
 
 	protected boolean createPath(String relativePath) {

@@ -29,13 +29,13 @@ class FtpCopier extends CopierBase {
 
 			if(!FTPReply.isPositiveCompletion(replyCode)) {
 				finish()
-				println("FTP-Server Verbindung fehlgeschlagen ($replyString) !")
+				config.log("FTP-Server Verbindung fehlgeschlagen ($replyString) !")
 			}
 
 			enterLocalPassiveMode()
-			println(replyString)
+			config.log(replyString)
 			login config.ftpUser, config.ftpPass
-			println(replyString)
+			config.log(replyString)
 			cd("")
 			fileType = FTPClient.BINARY_FILE_TYPE
 		}
@@ -55,7 +55,7 @@ class FtpCopier extends CopierBase {
 			return false
 		}
 
-		println "Wechsle in Verzeichnis $newPath."
+		config.log "Wechsle in Verzeichnis $newPath."
 		def relativePath
 		if (newPath.startsWith(actualPath)) {
 			relativePath = (newPath - actualPath).tokenize("/")
@@ -90,7 +90,7 @@ class FtpCopier extends CopierBase {
 		ftp.with {
 			def relativePath = sourceFile.getAbsolutePath() - (config.sourcePath + File.separator)
 			relativePath = relativePath.replace("\\", "/")
-			println "Kopiere $relativePath nach ${ftp.printWorkingDirectory()}/$relativePath"
+			config.log "Kopiere $relativePath nach ${ftp.printWorkingDirectory()}/$relativePath"
 			boolean success
 			// in 90% der Fälle ist die Verzeichnisstruktur bereits vorhanden, also erstmal versuchen
 			success = copyFile(sourceFile, relativePath)
@@ -100,7 +100,7 @@ class FtpCopier extends CopierBase {
 				success = copyFile(sourceFile, relativePath)
 			}
 			if (replyCode != TRANSFER_COMPLETE) {
-				println("Kopieren von $relativePath fehlgeschlagen ($replyString) !")
+				config.log("Kopieren von $relativePath fehlgeschlagen ($replyString) !")
 				success = false
 			}
 			return success
@@ -135,7 +135,7 @@ class FtpCopier extends CopierBase {
 			try {
 				ftp.disconnect();
 			} catch(IOException ioe) {
-				config.log.append "Unterbrechen der FTP-Verbindung fehlgeschlagen!\n  > ($ioe.message)"
+				config.log "Unterbrechen der FTP-Verbindung fehlgeschlagen!\n  > ($ioe.message)"
 			}
 		}
 	}

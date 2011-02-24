@@ -1,6 +1,5 @@
 package org.dereglobus.updater
 
-import groovy.beans.Bindable;
 import groovy.swing.SwingBuilder
 
 import java.io.File
@@ -9,7 +8,6 @@ import javax.swing.*
 
 import org.dereglobus.updater.tree.CheckRenderer
 import org.dereglobus.updater.tree.FileSystemCheckModel
-import org.dereglobus.updater.tree.JTextPaneOutputStream
 import org.dereglobus.updater.tree.NodeSelectionListener
 
 import com.jgoodies.forms.factories.Borders
@@ -24,6 +22,8 @@ import com.jgoodies.forms.layout.FormLayout
  *
  */
 class DereGlobusUpdater {
+
+	def invokeOutside = { SwingUtilities.isEventDispatchThread() ? Thread.start(it) : it() }
 
 	static config
 
@@ -119,7 +119,6 @@ class DereGlobusUpdater {
 				}
 			}
 		}
-		JTextPaneOutputStream.setSysout(config.log)
 	}
 
 	def openSourceChooser = {
@@ -149,12 +148,16 @@ class DereGlobusUpdater {
 
 	def copy = {
 		saveConfig()
-		new LocalCopier(config).copy(filesTree.getModel().getRoot())
+		invokeOutside {
+			new LocalCopier(config).copy(filesTree.getModel().getRoot())
+		}
 	}
 
 	def copyFtp = {
 		saveConfig()
-		new FtpCopier(config).copy(filesTree.getModel().getRoot())
+		invokeOutside {
+			new FtpCopier(config).copy(filesTree.getModel().getRoot())
+		}
 	}
 
 	private void saveConfig() {

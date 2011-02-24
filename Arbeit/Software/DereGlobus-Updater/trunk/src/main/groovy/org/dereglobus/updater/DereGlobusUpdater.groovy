@@ -41,6 +41,14 @@ class DereGlobusUpdater {
 
 	def sourceField
 
+	def releaseUrlField
+
+	def publicUrlField
+
+	def serverField
+
+	def pathField
+
 
 	public static void main(String[] args) {
 		config = new Config()
@@ -51,7 +59,7 @@ class DereGlobusUpdater {
 	private void initComponents() {
 		FormLayout layout = new FormLayout(
 				"right:pref, 3dlu, 200dlu, 3dlu, min", // columns
-				"p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 3dlu, p");  // rows
+				"p, 3dlu, p, 3dlu, p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 9dlu, p, 3dlu, p, 3dlu, p, 3dlu, p, 3dlu, p, 3dlu, p");  // rows
 		CellConstraints contraints = new CellConstraints();
 		def compFactory = DefaultComponentFactory.getInstance()
 
@@ -71,7 +79,7 @@ class DereGlobusUpdater {
 							rowHeight: 18)
 					filesTree.addMouseListener(new NodeSelectionListener(filesTree));
 				}
-				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:400) {
+				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:450) {
 					scrollPane(constraints: "top") {
 						panel( layout: layout, border: Borders.DIALOG_BORDER) {
 							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 5))
@@ -79,21 +87,29 @@ class DereGlobusUpdater {
 							sourceField = textField(text: config.sourcePath, constraints: contraints.xy (3, 3), editable: false)
 							button(constraints: contraints.xy (5, 3, "left, default"),
 									action: action(name: '...', closure: openSourceChooser))
+							label("Release-URL",constraints: contraints.xy (1, 5))
+							releaseUrlField = textField(text: config.releaseUrl,	constraints: contraints.xyw (3, 5, 3))
+							label("Public-URL",constraints: contraints.xy (1, 7))
+							publicUrlField = textField(text: config.publicUrl,	constraints: contraints.xyw (3, 7, 3))
 
-							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 5, 5))
-							label("Zielverzeichnis",constraints: contraints.xy (1, 7))
-							destField = textField(text: config.destPath, constraints: contraints.xy (3, 7), editable: false)
-							button(constraints: contraints.xy (5, 7),
+							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 9, 5))
+							label("Zielverzeichnis",constraints: contraints.xy (1, 11))
+							destField = textField(text: config.destPath, constraints: contraints.xy (3, 11), editable: false)
+							button(constraints: contraints.xy (5, 11),
 									action: action(name: '...', closure: openDestChooser))
-							button(constraints: contraints.xyw (3, 9, 3, "right, default"),
+							button(constraints: contraints.xyw (3, 13, 3, "right, default"),
 									action: action(name: 'Kopieren!', closure: copy))
 
-							widget( widget: compFactory.createSeparator('Kopieren auf FTP-Server'), constraints: contraints.xyw(1, 11, 5))
-							label("Benutzername",constraints: contraints.xy (1, 13))
-							userField = textField(text: config.ftpUser,	constraints: contraints.xyw (3, 13, 3))
-							label("Passwort",constraints: contraints.xy (1, 15))
-							passwordField = passwordField(text: config.ftpPass,	constraints: contraints.xyw (3, 15, 3))
-							button(constraints: contraints.xyw (3, 17, 3, "right, default"),
+							widget( widget: compFactory.createSeparator('Kopieren auf FTP-Server'), constraints: contraints.xyw(1, 15, 5))
+							label("FTP-Server",constraints: contraints.xy (1, 17))
+							serverField = textField(text: config.ftpServer,	constraints: contraints.xyw (3, 17, 3))
+							label("FTP-Server-Pfad",constraints: contraints.xy (1, 19))
+							pathField = textField(text: config.ftpPath,	constraints: contraints.xyw (3, 19, 3))
+							label("Benutzername",constraints: contraints.xy (1, 21))
+							userField = textField(text: config.ftpUser,	constraints: contraints.xyw (3, 21, 3))
+							label("Passwort",constraints: contraints.xy (1, 23))
+							passwordField = passwordField(text: config.ftpPass,	constraints: contraints.xyw (3, 23, 3))
+							button(constraints: contraints.xyw (3, 25, 3, "right, default"),
 									action: action(name: 'Kopieren!', closure: copyFtp))
 						}
 					}
@@ -115,7 +131,7 @@ class DereGlobusUpdater {
 			File file = fc.getSelectedFile();
 			filesTree.setModel (new FileSystemCheckModel(file))
 			sourceField.text = file.getAbsolutePath()
-			config.setSourcePath(file.getAbsolutePath())
+			saveConfig()
 		}
 	}
 
@@ -127,17 +143,28 @@ class DereGlobusUpdater {
 		if (returnVal == JFileChooser.APPROVE_OPTION) {
 			File file = fc.getSelectedFile();
 			destField.text = file.getAbsolutePath()
-			config.setDestPath(file.getAbsolutePath())
+			saveConfig()
 		}
 	}
 
 	def copy = {
+		saveConfig()
 		new Copier(config).copy(filesTree.getModel().getRoot())
 	}
 
 	def copyFtp = {
+		saveConfig()
+		new FtpCopier(config).copy(filesTree.getModel().getRoot())
+	}
+
+	private void saveConfig() {
+		config.setSourcePath(sourceField.text)
+		config.setReleaseUrl(releaseUrlField.text)
+		config.setPublicUrl(publicUrlField.text)
+		config.setDestPath(destField.text)
+		config.setFtpServer(serverField.text)
+		config.setFtpPath(pathField.text)
 		config.setFtpUser(userField.text)
 		config.setFtpPass(passwordField.text)
-		new FtpCopier(config).copy(filesTree.getModel().getRoot())
 	}
 }

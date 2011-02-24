@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Placemark>
+	<name>Shamaham</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: Wulf</li>
+                                  <li>Beschreibung: Das Modell stellt die Stadt Shamaham zu der Zeit dar, als Galotta sein Ritual zur Beherrschung der Oger im Zuge der Invasion der Verdammten ausf�hren wollte.</li>
+                                   
+                                  <li>Link zum Wiki: <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a></li>
+                                  </ul>]]></description>
+
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>9.201515069247414</longitude>
+			<latitude>30.07124766045634</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>-0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>1</x>
+			<y>1</y>
+			<z>1</z>
+		</Scale>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Mittelreich/Weisstobrien/Shamaham/Shamaham2.dae</href>
+		</Link>
+		<ResourceMap>
+			<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_heller_Bruchstein_klein_grau.jpg</targetHref>
+				<sourceHref>../images/texture0.jpg</sourceHref>
+			</Alias>
+			
+<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Erde.jpg</targetHref>
+				<sourceHref>../images/texture1.jpg</sourceHref>
+			</Alias>
+			
+<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_blasgruen.jpg</targetHref>
+				<sourceHref>../images/texture2.jpg</sourceHref>
+			</Alias>
+			
+<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Lehm.jpg</targetHref>
+				<sourceHref>../images/texture3.jpg</sourceHref>
+			</Alias>
+			
+<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holz_schlank_verwittert.jpg</targetHref>
+				<sourceHref>../images/texture4.jpg</sourceHref>
+			</Alias>
+			
+<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Dachbedeckung/Schindel_Schiefer.jpg</targetHref>
+				<sourceHref>../images/texture5.jpg</sourceHref>
+			</Alias>
+			
+<Alias>
+				<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_dunkler_Bruchstein_klein.jpg</targetHref>
+				<sourceHref>../images/texture6.jpg</sourceHref>
+			</Alias>
+		</ResourceMap>
+	</Model>
+</Placemark>
+</kml>

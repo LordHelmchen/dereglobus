@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+    <name>Khunchom</name>
+    
+    <!-- Style -->
+    
+    <!-- Stadtviertel -->
+    
+    <!-- Die nördliche Altstadt -->
+    <Folder>
+        <name>Nördliche Altstadt</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+		<!-- Tempel des Lebens -->
+            <Placemark>
+              <name>Tempel des Lebens</name>
+              <open>0</open>
+              <visibility>1</visibility>
+              <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: Wulf</li>
+                                  </ul>]]>
+              </description>
+			  <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+ <Model id="Tempel_des_Lebens"><altitudeMode>relativeToGround</altitudeMode>					<Location id="Tempel_des_Lebens">
+				<longitude>7.471152976217381</longitude>
+				<latitude>25.01148623898862</latitude>
+				<altitude>4</altitude>
+			</Location>
+			<Orientation id="Tempel_des_Lebens">
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1.012225072983184</x>
+				<y>1.004816856201798</y>
+				<z>1.008520964592491</z>
+			</Scale>			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Tempel_des_Lebens.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_Sandstein_bewachsen.jpg</targetHref>
+					<sourceHref>../images/texture0.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Efeu.png</targetHref>
+					<sourceHref>../images/texture0.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_blasgruen.jpg</targetHref>
+					<sourceHref>../images/texture1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Klippe_roter_Sandstein.png</targetHref>
+					<sourceHref>../images/texture1.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Sonstiges/Wandteppich.jpg</targetHref>
+					<sourceHref>../images/texture2.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Palme.png</targetHref>
+					<sourceHref>../images/texture2.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture3.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Baum.png</targetHref>
+					<sourceHref>../images/texture3.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wasser_grau.jpg</targetHref>
+					<sourceHref>../images/texture4.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Kies.jpg</targetHref>
+					<sourceHref>../images/texture5.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Dachbedeckung/Dachziegel_Biberschwanz_rot.jpg</targetHref>
+					<sourceHref>../images/texture6.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+	
+	     
+	<!-- Drachenei Akademie -->
+            <NetworkLink>
+              <name>Drachenei-Akademie</name>
+              <open>0</open>
+              <visibility>1</visibility>
+              <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: Thethan</li>
+                                  </ul>]]>
+              </description>
+			  <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+              <Link>
+                <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/kmz/Khunchom/Drachenei_Akademie.kmz</href>
+               <refreshMode>onInterval</refreshMode>
+              </Link>
+             </NetworkLink>
+        
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Die Palastinsel und die nördlich angrenzende Insel -->
+    <Folder>
+        <name>Palastinsel</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Das zentrale eher mittelreischisch geprägte Marktviertel -->
+    <Folder>
+        <name>Zentrales Marktviertel</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+		
+		
+		    <!-- Rastullah-Bethaus -->
+			<Placemark>
+				<name>Rastullah-Bethaus</name>
+				<visibility>1</visibility>
+				<description><![CDATA[<style type="text/css"><!--
+										a:link, a:visited { text-decoration: none; color: #814F21; }
+										a:hover { text-decoration: underline; color: #814F21; }
+										hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+										#wiki { font-size:10px; }
+										--></style>
+											<ul>								   
+												  <li>K&uuml;nstler: Corabis</li>
+												  </ul>]]>
+				</description>
+				<LookAt>
+					<longitude>7.478551378706261</longitude>
+					<latitude>25.01776142440637</latitude>
+					<altitude>0</altitude>
+					<range>150.0940400734654</range>
+					<tilt>68.70047271647954</tilt>
+					<heading>25.81685750951954</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>			  
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+				<Model id="Rastullah-Bethaus">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<Location>
+						<longitude>7.478482441266</longitude>
+						<latitude>25.017495412838</latitude>
+						<altitude>0</altitude>
+					</Location>
+					<Orientation>
+						<heading>359.356231010638</heading>
+						<tilt>0</tilt>
+						<roll>0</roll>
+					</Orientation>
+					<Scale>
+						<x>1</x>
+						<y>1</y>
+						<z>1</z>
+					</Scale>
+					<Link>
+						<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Rastullah-Bethaus.dae</href>
+					</Link>
+					<ResourceMap>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture0.jpg</targetHref>
+							<sourceHref>../images/texture0.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture0.png</targetHref>
+							<sourceHref>../images/texture0.png</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture1.jpg</targetHref>
+							<sourceHref>../images/texture1.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture1.png</targetHref>
+							<sourceHref>../images/texture1.png</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture2.jpg</targetHref>
+							<sourceHref>../images/texture2.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture3.jpg</targetHref>
+							<sourceHref>../images/texture3.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture4.jpg</targetHref>
+							<sourceHref>../images/texture4.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture5.jpg</targetHref>
+							<sourceHref>../images/texture5.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture6.jpg</targetHref>
+							<sourceHref>../images/texture6.jpg</sourceHref>
+						</Alias>
+						<Alias>
+							<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Rastullah-Bethaus/texture7.jpg</targetHref>
+							<sourceHref>../images/texture7.jpg</sourceHref>
+						</Alias>
+					</ResourceMap>
+				</Model>
+			</Placemark>
+		
+			
+            <!-- Tempel der Mondschleier -->
+            <Placemark>
+                <name>Tempel der Mondschleier</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: Archon</li>
+                                  </ul>]]>
+                </description>
+                <LookAt>
+                    <longitude>7.474272140753834</longitude>
+                    <latitude>25.01717178774003</latitude>
+                    <altitude>0</altitude>
+                    <range>56.12188161730041</range>
+                    <tilt>65.78232003052564</tilt>
+                    <heading>-167.8772733861705</heading>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </LookAt>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+                <Model id="mod_tempMond">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    			<Location>
+				<longitude>7.479248839806995</longitude>
+				<latitude>25.02442159471491</latitude>
+				<altitude>3</altitude>
+			</Location>                    			<Orientation>
+				<heading>122.2750127659647</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+                    <Scale>
+                        <x>1</x>
+                        <y>1</y>
+                        <z>1</z>
+                    </Scale>
+                    <Link>
+                        <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Tempel_der_Mondschleier.dae</href>
+                    </Link>
+                    <ResourceMap>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Marmor2.jpg</targetHref>
+                            <sourceHref>../images/texture0.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Metalltuer_Ornamente.jpg</targetHref>
+                            <sourceHref>../images/texture1.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Sonstiges/Gold.jpg</targetHref>
+                            <sourceHref>../images/texture2.jpg</sourceHref>
+                        </Alias>
+                    </ResourceMap>
+                </Model>
+            </Placemark>
+            
+            <!-- Tempel des  Gesetzes -->
+            <Placemark>
+                <name>Tempel des Gesetzes</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: gnom</li>
+                                  </ul>]]>
+                </description>
+                <LookAt>
+                    <longitude>7.474753911942658</longitude>
+                    <latitude>25.01659577951778</latitude>
+                    <altitude>0</altitude>
+                    <range>213.5051879998093</range>
+                    <tilt>58.16060717506153</tilt>
+                    <heading>-179.3839449812684</heading>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </LookAt>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+                <Model id="mod_tempges">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    			<Location>
+				<longitude>7.474568967082</longitude>
+				<latitude>25.016435926583</latitude>
+				<altitude>4</altitude>
+			</Location>
+			<Orientation>
+				<heading>359.354600091163</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>                   <Scale>
+                        <x>1</x>
+                        <y>1</y>
+                        <z>1</z>
+                    </Scale>
+                    <Link>
+                        <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Tempel_des_Gesetzes.dae</href>
+                    </Link>
+                    <ResourceMap>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Sonstiges/Gold_hell.jpg</targetHref>
+                            <sourceHref>../images/texture0.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Tor_rotes_Holz_Eisennaegel.png</targetHref>
+                            <sourceHref>../images/texture0.png</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_Sandstein_gelb.jpg</targetHref>
+                            <sourceHref>../images/texture1.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Dachbedeckung/Dachziegel_rot.jpg</targetHref>
+                            <sourceHref>../images/texture10.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fenster/Glasmuster_gelb.jpg</targetHref>
+                            <sourceHref>../images/texture2.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fenster/Glasmuster_gelb.jpg</targetHref>
+                            <sourceHref>../images/texture3.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fenster/Glasmuster_gelb.jpg</targetHref>
+                            <sourceHref>../images/texture4.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fenster/Glasmuster_gelb.jpg</targetHref>
+                            <sourceHref>../images/texture5.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Ornamentik/Ornament_Praios.jpg</targetHref>
+                            <sourceHref>../images/texture6.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Ornamentik/Ornament_Praios.jpg</targetHref>
+                            <sourceHref>../images/texture7.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Ornamentik/Ornament_Greif.jpg</targetHref>
+                            <sourceHref>../images/texture8.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_Granit_gemauert.jpg</targetHref>
+                            <sourceHref>../images/texture9.jpg</sourceHref>
+                        </Alias>
+                    </ResourceMap>
+                </Model>
+            </Placemark>
+            <!-- Ordenshaus der Thêrbuniten -->
+            <Placemark>
+                <name>Ordenshaus der Thêrbuniten</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: Archon</li>
+                                  </ul>]]>
+                </description>
+                <LookAt>
+                    <longitude>7.473990920624711</longitude>
+                    <latitude>25.01837173194123</latitude>
+                    <altitude>15.4</altitude>
+                    <range>186.1246203901968</range>
+                    <tilt>59.46321493350141</tilt>
+                    <heading>-9.119648565775096</heading>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </LookAt>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+                <Model id="mod_ordther">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <Location>
+                        <longitude>7.474568967082</longitude>
+                        <latitude>25.016435926583</latitude>
+                        <altitude>16.7</altitude>
+                    </Location>
+                    <Orientation>
+                        <heading>359.354600091163</heading>
+                        <tilt>0</tilt>
+                        <roll>0</roll>
+                    </Orientation>
+                    <Scale>
+                        <x>1</x>
+                        <y>1</y>
+                        <z>1</z>
+                    </Scale>
+                    <Link>
+                        <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Ordenshaus_Therbuniten.dae</href>
+                    </Link>
+                    <ResourceMap>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Dachbedeckung/Dachziegel_alt.jpg</targetHref>
+                            <sourceHref>../images/texture0.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Baum.png</targetHref>
+                            <sourceHref>../images/texture0.png</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_gleichartig.jpg</targetHref>
+                            <sourceHref>../images/texture1.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_helle_Backstein_Sockel.jpg</targetHref>
+                            <sourceHref>../images/texture10.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_heller_Bruchstein_klein.jpg</targetHref>
+                            <sourceHref>../images/texture11.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Pflanzenreihe_Erde.jpg</targetHref>
+                            <sourceHref>../images/texture12.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Vegetation/Melonenfeld.jpg</targetHref>
+                            <sourceHref>../images/texture13.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Boden_helle_Kacheln.jpg</targetHref>
+                            <sourceHref>../images/texture2.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_helle_Sandstein.jpg</targetHref>
+                            <sourceHref>../images/texture3.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Holztuer_beschlagen.jpg</targetHref>
+                            <sourceHref>../images/texture4.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fenster/Butzenglas.jpg</targetHref>
+                            <sourceHref>../images/texture5.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+                            <sourceHref>../images/texture6.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Holz/Holzbretter_alt.jpg</targetHref>
+                            <sourceHref>../images/texture7.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Metalltuer_verstaerkte.jpg</targetHref>
+                            <sourceHref>../images/texture8.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_helle_Backstein_Sockel.jpg</targetHref>
+                            <sourceHref>../images/texture9.jpg</sourceHref>
+                        </Alias>
+                    </ResourceMap>
+                </Model>
+            </Placemark>
+        
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Das westliche Marktviertel -->
+    <Folder>
+        <name>Westliches Marktviertel</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+	
+	<!-- Das westliche Marktviertel - Stadtmodell -->
+	<Placemark>
+		<name>Westliches Marktviertel</name>
+		<visibility>1</visibility>
+                <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: Archon, Salex, Wulf</li>
+                                  </ul>]]>
+                </description>
+		<LookAt>
+			<longitude>7.472860497013114</longitude>
+			<latitude>25.01785911573344</latitude>
+			<altitude>0</altitude>
+			<range>654.8455831873416</range>
+			<tilt>40.61709999999994</tilt>
+			<heading>-77.95251944060702</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+		<Model id="model_marktwest">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>7.474568967082</longitude>
+				<latitude>25.016435926583</latitude>
+				<altitude>0</altitude>
+			</Location>
+			<Orientation>
+				<heading>359.354600091163</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Marktviertel_West.dae</href>
+			</Link>
+			<ResourceMap>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+        <!-- Modellierte Gebäude -->
+            
+            
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Rahjagarten -->
+    <Folder>
+        <name>Rahjagarten</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+            <!-- Tempel der Geschenkten Freuden -->
+            <Placemark>
+                <name>Tempel der Geschenkten Freuden</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: Wulf</li>
+                                  </ul>]]>
+                </description>
+                <LookAt>
+                    <longitude>7.471604890311383</longitude>
+                    <latitude>25.01540303948628</latitude>
+                    <altitude>0</altitude>
+                    <range>303.8546869978803</range>
+                    <tilt>57.81029011036702</tilt>
+                    <heading>-22.06706282671098</heading>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </LookAt>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+                <Model id="mod_tempfreu">
+                    			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>7.47078300722909</longitude>
+				<latitude>25.01087946366297</latitude>
+				<altitude>3</altitude>
+			</Location>
+			<Orientation>
+				<heading>359.354600091163</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>                 <Scale>
+                        <x>1</x>
+                        <y>1</y>
+                        <z>1</z>
+                    </Scale>
+                    <Link>
+                        <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Tempel_der_Freuden.dae</href>
+                    </Link>
+                    <ResourceMap>
+
+<Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_gelb.jpg</targetHref>
+                            <sourceHref>../images/texture0.jpg</sourceHref>
+                        </Alias>
+ 
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Putz/Wand_Putz_weisz.jpg</targetHref>
+                            <sourceHref>../images/texture1.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Tueren/Tuer_Holz_eisenbeschlagen.jpg</targetHref>
+                            <sourceHref>../images/texture2.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_Sandstein_rot.jpg</targetHref>
+                            <sourceHref>../images/texture3.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Marmor2.jpg</targetHref>
+                            <sourceHref>../images/texture4.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Fenster/Glasmuster_tuerkis.jpg</targetHref>
+                            <sourceHref>../images/texture5.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_helle_Sandstein.jpg</targetHref>
+                            <sourceHref>../images/texture6.jpg</sourceHref>
+                        </Alias>
+                        <Alias>
+                            <targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Ornamentik/Ornament_Blumen.jpg</targetHref>
+                            <sourceHref>../images/texture7.jpg</sourceHref>
+                        </Alias>
+                    </ResourceMap>
+                </Model>
+            </Placemark>
+        
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Das Maraskan/Schmiede-viertel -->
+    <Folder>
+        <name>Maraskanviertel</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler:</li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+            
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Der Hafen -->
+    <Folder>
+        <name>Hafen</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: Wulf</li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Die Südstadt -->
+    <Folder>
+        <name>Südstadt</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler:</li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+            
+       
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+    
+    <!-- Fürst-Istav-Allee -->
+    <Folder>
+        <name>Fürst-Istav-Allee</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+            <!-- Tempel der Magischen Schlange -->
+            <NetworkLink>
+              <name>Tempel der Magischen Schlange</name>
+              <open>0</open>
+              <visibility>0</visibility>
+              <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: Wulf</li>
+                                  </ul>]]>
+              </description>
+			  <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+              <Link>
+                <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/kmz/Khunchom/Tempel_der_Schlange.kmz</href>
+               <refreshMode>onInterval</refreshMode>
+              </Link>
+             </NetworkLink>
+
+
+        
+        <!-- Ambiente-Komponenten -->
+    </Folder>
+<!-- Außerhalb -->
+    <Folder>
+        <name>Außerhalb</name>
+        <open>0</open>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: </li>
+                                  </ul>]]>
+        </description>
+	<Snippet maxLines="0"></Snippet>
+        <!-- Modellierte Gebäude -->
+            <!-- Fechtschule -->
+           <Placemark>
+		<name>Nerida Shirinhas Schule der Fechtkunst </name><description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: MightyAndy</li>
+                                  </ul>]]>
+                </description>		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>		<Model id="fecht">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>7.471469520007995</longitude>
+				<latitude>25.02031102898406</latitude>
+				<altitude>17</altitude>
+			</Location>
+			<Orientation>
+				<heading>357.8300862393563</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Fechtschule.dae</href>
+			</Link>
+			<ResourceMap>
+				
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Ornamentik/Tulamidisch02.jpg</targetHref>
+					<sourceHref>../images/texture0.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Ornamentik/Tulamidisch01.jpg</targetHref>
+					<sourceHref>../images/texture1.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+      </Folder>
+
+
+
+
+    
+    
+    <!-- Stadtgelände -->
+    <Placemark>
+		<name>Stadtgelände</name>
+		<visibility>1</visibility>
+                <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		<ul>
+                                   
+                                  <li>K&uuml;nstler: Thethan, gnom</li>
+                                  </ul>]]>
+                </description>
+		<name>Gelände</name>
+		<LookAt>
+			<longitude>7.477723923408181</longitude>
+			<latitude>25.01230317098913</latitude>
+			<altitude>0</altitude>
+			<range>1972.170076982588</range>
+			<tilt>41.8927962253117</tilt>
+			<heading>-32.32882596352326</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+		<Model id="mod_gelaende">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>7.474467517262005</longitude>
+				<latitude>25.01657161853518</latitude>
+				<altitude>2</altitude>
+			</Location>
+			<Orientation>
+				<heading>-0.04411161615597698</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Khunchom/Stadtgelaende.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture0.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Boden_Sandstein_Kacheln.jpg</targetHref>
+					<sourceHref>../images/texture1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture10.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wasser_wellig.jpg</targetHref>
+					<sourceHref>../images/texture11.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wiese_gelb.jpg</targetHref>
+					<sourceHref>../images/texture2.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_fein.jpg</targetHref>
+					<sourceHref>../images/texture3.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Terrain/Wueste_fein.jpg</targetHref>
+					<sourceHref>../images/texture4.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture5.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture6.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture7.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture8.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/Stein/Wand_alt_dreckig.jpg</targetHref>
+					<sourceHref>../images/texture9.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+<!-- Flaggschiff -->
+            <NetworkLink>
+              <name>DereGlobus-Flaggschiff</name>
+              <open>0</open>
+              <visibility>1</visibility>
+              <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+	<ul>
+                                   
+                                  <li>K&uuml;nstler: http://sketchup.google.com/3dwarehouse/details?mid=7e4c6563bbb675b885f7a3de54751f1b&ct=mdrm&prevstart=0</li>
+                                  </ul>]]>
+              </description>
+			  <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+              <Link>
+                <href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/kmz/Khunchom/Flaggschiff.kmz</href>
+               <refreshMode>onInterval</refreshMode>
+              </Link>
+             </NetworkLink>
+
+
+
+    
+    
+   </Document>
+</kml>
+

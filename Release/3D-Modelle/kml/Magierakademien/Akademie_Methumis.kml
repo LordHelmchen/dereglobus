@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Halle des magischen Wissens zu Methumis.kml</name>
+	<Placemark>
+		<name>Halle des magischen Wissens zu Methumis</name>
+	<Region>
+      <LatLonAltBox>
+        <north>24.40999537364826</north>
+		<south>24.40376673182352</south>
+		<east>-0.6153675342119886</east>
+		<west>-0.6247157652578632</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>512</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Thethan / Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a>,  <a title="Universität Bologna auf Wikipedia" href="http://de.wikipedia.org/wiki/Universit%C3%A4t_Bologna">Universität Bologna</a></span><br />
+<br />
+<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php?title=Datei:Akademie_des_magischen_Wissens_zu_Methumis_von_Thethan_fuer_das_DereGlobus-Projekt.jpg"><img height="167" alt="Bild des der Akademie" hspace="5" width="280" align="right" border="1" src="http://www.wiki-aventurica.de/images/8/80/Akademie_des_magischen_Wissens_zu_Methumis_von_Thethan_fuer_das_DereGlobus-Projekt.jpg" /></a>
+</br></br><a href="http://www.wiki-aventurica.de/index.php?title=Akademie_des_Magischen_Wissens">Die Akademie im Wiki Aventruica</a>]]></description>
+		<Camera>
+			<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+			<longitude>-0.6221419237722325</longitude>
+			<latitude>24.40593951996998</latitude>
+			<altitude>5.008287014577205</altitude>
+			<heading>-147.1968765882334</heading>
+			<tilt>99.26607854691437</tilt>
+			<roll>-1.229299185573952e-005</roll>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+	      	<styleUrl>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+		<Model id="model_2">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>-0.6225355910918</longitude>
+				<latitude>24.40499015739</latitude>
+				<altitude>0</altitude>
+			</Location>
+			<Orientation>
+				<heading>0.9831202693576</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>1</x>
+				<y>1</y>
+				<z>1</z>
+			</Scale>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Magierakademien/Akademie_Methumis.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture0.gif</targetHref>
+					<sourceHref>untitled/texture0.gif</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture1.gif</targetHref>
+					<sourceHref>untitled/texture1.gif</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture10.jpg</targetHref>
+					<sourceHref>untitled/texture10.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture11.png</targetHref>
+					<sourceHref>untitled/texture11.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture12.png</targetHref>
+					<sourceHref>untitled/texture12.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture13.png</targetHref>
+					<sourceHref>untitled/texture13.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture14.jpg</targetHref>
+					<sourceHref>untitled/texture14.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture15.jpg</targetHref>
+					<sourceHref>untitled/texture15.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture2.jpg</targetHref>
+					<sourceHref>untitled/texture2.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture3.jpg</targetHref>
+					<sourceHref>untitled/texture3.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture4.jpg</targetHref>
+					<sourceHref>untitled/texture4.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture5.jpg</targetHref>
+					<sourceHref>untitled/texture5.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture6.jpg</targetHref>
+					<sourceHref>untitled/texture6.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture7.png</targetHref>
+					<sourceHref>untitled/texture7.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture8.png</targetHref>
+					<sourceHref>untitled/texture8.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen//ModellspezifischeTexturen/Magierakademien/Methumis/texture9.jpg</targetHref>
+					<sourceHref>untitled/texture9.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+</Document>
+</kml>

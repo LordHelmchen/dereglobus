@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+<name>3D-Modelle-Styles</name>
+
+
+
+	<!-- STYLES -->
+	<Style id="list">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.northgates.ca/kmleditor/icons/pal3/icon56.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+</Document>
+</kml>
+
+
+
+
+

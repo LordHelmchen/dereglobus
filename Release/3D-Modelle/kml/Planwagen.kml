@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+      <Placemark>
+		<name>Planwagen der Weltenbauer</name>
+      <Region>
+        <LatLonAltBox>
+            <north>33.03381746558505</north>
+            <south>33.02788944450911</south>
+            <east>8.09265441476885</east>
+            <west>8.082897651098781</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+         </LatLonAltBox>
+         <Lod>
+            <minLodPixels>4096</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>0</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+    </Region>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+		Herzlich Willkommen beim Planwagen der Gilde der Weltenbauer!<br /><br />
+		<small>(Das Modell basiert auf der Vorlage von <a href="http://sketchup.google.com/3dwarehouse/details?mid=65b9089cdf8d254575ffe5b08493cffc">Tom</a>)</small>]]></description>
+	      	<LookAt>
+			<longitude>8.087743371801178</longitude>
+			<latitude>33.03089712763115</latitude>
+			<altitude>0</altitude>
+			<range>111.626585912385</range>
+			<tilt>84.34987959082517</tilt>
+			<heading>153.7950700534726</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+	      	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+		<Model id="model_1">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>8.087249967179757</longitude>
+				<latitude>33.03161181145953</latitude>
+				<altitude>5.75</altitude>
+			</Location>
+			<Orientation>
+				<heading>186.9822578681846</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>0.7217049059438886</x>
+				<y>0.7217050960185762</y>
+				<z>0.7217050009812325</z>
+			</Scale>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/3D-Modelle/dae/Team/Planwagen.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Team/Planwagen/Holz_leichtgemasert_braun.jpg</targetHref>
+					<sourceHref>../images/texture0.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Team/Planwagen/Wappen_Stoff_braun.png</targetHref>
+					<sourceHref>../images/texture0.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Team/Planwagen/Holz_leichtgemasert_rotbraun.jpg</targetHref>
+					<sourceHref>../images/texture1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Team/Planwagen/Holz_ungemasert_braun.jpg</targetHref>
+					<sourceHref>../images/texture2.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>http://www.dereglobus.orkenspalter.de/public/Medien/3D-Modelle/media/Texturen/ModellspezifischeTexturen/Team/Planwagen/Holzbrett_gemasert_dunkelbraun.jpg</targetHref>
+					<sourceHref>../images/texture3.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+</kml>

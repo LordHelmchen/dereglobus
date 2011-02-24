@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Osterhase.kml</name>
+		<LookAt>
+			<longitude>8.086924740599029</longitude>
+			<latitude>33.0305457530533</latitude>
+			<altitude>0</altitude>
+			<range>40.13570343264039</range>
+			<tilt>53.88872147540437</tilt>
+			<heading>-141.4769636281535</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+	<Style id="sn_Osterhase">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/Ostern/Osterhase.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+			<hotSpot x="0" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		
+		
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>ff51b7ee</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Osterhase</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<div style="text-align: center"><br /><img alt="Der Osterhase" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/Ostern/Osterhase.png" /><br /><span style="font-size: 12pt"><span style="font-family: Comic Sans MS"><br />
+Da ist er!<br />
+Der Osterhase ... schnell </span></span><a href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/Ostern/DereGlobus_Osternest.kml#Osternest;balloonFlyto"><span style="font-size: 12pt"><span style="font-family: Comic Sans MS">hinterher</span></span></a><span style="font-size: 12pt"><span style="font-family: Comic Sans MS">!</span></span></div>]]></description>
+		<LookAt>
+			<longitude>8.086924740599029</longitude>
+			<latitude>33.0305457530533</latitude>
+			<altitude>0</altitude>
+			<range>40.13570343264039</range>
+			<tilt>53.88872147540437</tilt>
+			<heading>-141.4769636281535</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_Osterhase</styleUrl>
+		<Point id="KMLe_6">
+			<coordinates>8.086924740599011,33.0305457530533,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

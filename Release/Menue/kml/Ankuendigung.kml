@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Ankuendigung.kml</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>8.087433940775874</longitude>
+		<latitude>33.03012729014745</latitude>
+		<altitude>0</altitude>
+		<range>176.4853557232264</range>
+		<tilt>86.18879271127871</tilt>
+		<heading>-18.4277110943215</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>33.03381746558505</north>
+			<south>33.02788944450911</south>
+			<east>8.09265441476885</east>
+			<west>8.082897651098781</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>2048</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>2048</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Style id="sn_schriftrolle-icon2">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon3">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Ankuendigung">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon4">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon5">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon1">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon0">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_schriftrolle-icon6">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font color="#000000">$[description]</font>]]></text>
+			<bgColor>33a5cbdc</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/schriftrolle-icon.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.087433940775874</longitude>
+			<latitude>33.03012729014745</latitude>
+			<altitude>0</altitude>
+			<range>176.4853557232264</range>
+			<tilt>86.18879271127871</tilt>
+			<heading>-18.4277110943215</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon2</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.087951131447344,33.02878149897182,8</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.088852777933099</longitude>
+			<latitude>33.03122058522209</latitude>
+			<altitude>0</altitude>
+			<range>73.82224103404664</range>
+			<tilt>80.43313253136158</tilt>
+			<heading>160.5886084548429</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon5</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.088666,33.03164843486637,7</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.087994733366818</longitude>
+			<latitude>33.02978163559486</latitude>
+			<altitude>0</altitude>
+			<range>224.7374811359448</range>
+			<tilt>86.58086870384858</tilt>
+			<heading>12.67142212605561</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon0</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.087559000000001,33.02810621603081,11</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.08698711741892</longitude>
+			<latitude>33.03221415959687</latitude>
+			<altitude>0</altitude>
+			<range>86.21250425006159</range>
+			<tilt>82.0955663990778</tilt>
+			<heading>143.1574730349384</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon3</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.086543000000001,33.03270432202892,10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.091123063776477</longitude>
+			<latitude>33.03168267471223</latitude>
+			<altitude>0</altitude>
+			<range>107.121124355599</range>
+			<tilt>83.78264846819934</tilt>
+			<heading>-142.411342502176</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon1</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.091664,33.032312933513,9.000000000000002</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.087933714490308</longitude>
+			<latitude>33.03112367435958</latitude>
+			<altitude>0</altitude>
+			<range>29.55357724596746</range>
+			<tilt>72.777694716258</tilt>
+			<heading>101.402640044264</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.087854999999999,33.03112074558275,4</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weltenbauer gesucht!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Ankuendigung.png" />]]></description>
+		<LookAt>
+			<longitude>8.087022159788047</longitude>
+			<latitude>33.03156719871241</latitude>
+			<altitude>0</altitude>
+			<range>26.97012673396447</range>
+			<tilt>70.72492378198048</tilt>
+			<heading>-142.0956835761075</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon4</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.087125,33.03168646822197,7</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Herzlich willkommen!</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<a href="http://dereglobus.orkenspalter.de/memberlist.php?mode=group&g=4" title="Klicke um Teil des DereGlobus Teams zu werden!"><img alt="Ankündigung wird geladen..." src="http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/PR/Aufruf.png" /></a>]]></description>
+		<LookAt>
+			<longitude>8.087846718056511</longitude>
+			<latitude>33.03145136658633</latitude>
+			<altitude>0</altitude>
+			<range>65.43181395163357</range>
+			<tilt>83.00231621350002</tilt>
+			<heading>115.484394459009</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_schriftrolle-icon6</styleUrl>
+		<Point id="KMLe_14">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>8.087263999999999,33.03167711665552,7</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

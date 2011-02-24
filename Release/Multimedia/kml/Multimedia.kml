@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+
+    <Style id="Musik">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Musik.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+	    <Style id="Video">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Video.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+
+	<name>Multimedia</name>
+	<open>0</open>
+		<NetworkLink>
+			<visibility>0</visibility>
+			<open>0</open>
+			<name>Musik</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+<p>Im Musik-Projekt georeferenzieren wir rollenspielgeeignete Hintergrundmusik unserer Partner in passenden Regionen oder Orten. Dabei ist die Position meist recht vage und vielleicht mag genauso ein Ort am anderen Ende des Kontinents passend erscheinen - wir bitten hier um ein gewisse Flexibilität. </p>
+
+<p>Die Musikstücke sind per <b>Flashplayer</b> (<a href="http://get.adobe.com/de/flashplayer/">Download</a>) in die Beschreibungskästen eingefügt und können direkt angehört werden, wobei man in der Abspielleiste auch weiter nach vorne springen kann. Sobald der Beschreibungskasten geschlossen wird, endet auch die Musik. Die meisten Musikstücke können übrigens auf den Seiten ihrer Komponisten heruntergeladen werden.</p>
+]]></description>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Multimedia/kml/Musik.kml</href>
+			</Link>
+			<styleUrl>#Musik</styleUrl>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Videos</name>
+			<visibility>0</visibility>
+			<open>0</open>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+<p>Im Video-Projekt georeferenzieren wir DSA-relevante Youtube-Filme in passenden Regionen oder Orten. Dabei ist die Position meist recht vage und vielleicht mag genauso ein Ort am anderen Ende des Kontinents passend erscheinen - wir bitten hier um ein gewisse Flexibilität. </p>
+
+<p>Jeder der passende Youtube-Filme kennt ist aufgerufen sich an der Positionierung derselben auf dem Globus zu beteiligen. Dazu haben wir untenstehenden Wizard entwickelt, mit dem es auf einfachste Weise möglich ist Filme zu integrieren. Lediglich Name, Koordinaten und Link sind vonnöten, um ein Video einzufügen. Mach mit!</p>
+
+<iframe src="http://spreadsheets.google.com/embeddedform?formkey=dHAyS19HdlEwMklzSGFVejJPYjgtaEE6MA" width="700" height="420">Wizard wird geladen...</iframe>
+]]></description>
+			<Link>
+				<href>http://spreadsheets.google.com/pub?key=0ApSSGF7wh5V6dHAyS19HdlEwMklzSGFVejJPYjgtaEE&amp;hl=de&amp;single=true&amp;gid=18&amp;range=A2%3AA101&amp;output=txt</href>
+		</Link>
+			<styleUrl>#Video</styleUrl>
+		</NetworkLink>
+
+		
+		
+</Document>
+</kml>

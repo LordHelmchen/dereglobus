@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Adventskalender.kml</name>
+	<Style id="sh_Paeckchen22">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen22.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen12">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen12.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen24</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="msn_Paeckchen5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen6">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen6.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen8">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen8.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen10.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen15">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen15.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen12">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen12.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen8">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen8.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Paeckchen9">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen9.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen11">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen11.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen4">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen4.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen14">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen14.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen16">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen16.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen7">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen7.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen7.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen11">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen11.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+
+	<Style id="sh_Paeckchen24">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen24.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen2.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Paeckchen17">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen17.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen15">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen15.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen4">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen4.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen18">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen18.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen23">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen23.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen3">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen3.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen18">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen18.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen13">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen13.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen5.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen19">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen19.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen19">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen19.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen23">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen23.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen21">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen21.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Paeckchen20">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen20.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen13">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen13.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen22">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen22.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Paeckchen6">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen6.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen21">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen21.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen24">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen24.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen16">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen16.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Paeckchen5">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen5.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Paeckchen7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Paeckchen20">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen20.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen17">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen17.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen9">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen9.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Paeckchen11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Paeckchen11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Paeckchen11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Paeckchen1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen1.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Paeckchen10">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen10.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Paeckchen14">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Adventskalender/Paeckchen14.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Adventskalender</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Siedlungen Meridianas</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Wir beginnen den DereGlobus Adventskalender mit einem Ausflug nach Süden: Mathieu und Gnom haben die Siedlungen des meridianischen Festlandes georeferenziert. Wieder sind zahlreiche nicht auf der Karte verzeichnete Ansiedlungen dabei.</p>
+
+<p>Dere > Städte > Siedlungen</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>0.5537145017194156</longitude>
+				<latitude>17.6758655723275</latitude>
+				<altitude>1013752.569417194</altitude>
+				<heading>-3.241479305307442</heading>
+				<tilt>0</tilt>
+				<roll>-3.975693351829396e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen1</styleUrl>
+			<Point>
+				<coordinates>-1.669778172896453,17.45708420847882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Romane</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Im zweiten Türchen finden sich ausgewählte Romane in allen Regionen Aventuriens - von Aikar Brazoragh.</p>
+
+<p>Dere > Publikationen > Romane</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>3.901262374709656</longitude>
+				<latitude>28.24830279539508</latitude>
+				<altitude>1259832.40945017</altitude>
+				<heading>-1.556780140398186</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen2</styleUrl>
+			<Point>
+				<coordinates>2.774256929842189,29.13985379068579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Handlungsorte Schlachtfest!</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Heute finden sich die Handlungsorte zu einem DSA-Einsteiger Abenteuer im Päckchen: Schlachtfest! aus Flüstern der Wälder. Dazu gibt es Bonusmaterial: Die Stadtkarte und Gebäudeicons von Hoheneych sowie fünf neue Siedlungen in Andergast. Von Thamor.</p>
+
+<p>Dere > Publikationen > Handlungsorte (MI) > Schlachtfest<br>
+Dere > Städte > Siedlungen/Stadtkarten/Gebäude</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-1.7531632531272</longitude>
+				<latitude>32.25539360630042</latitude>
+				<altitude>138087.198873297</altitude>
+				<heading>-4.498159111469361</heading>
+				<tilt>0</tilt>
+				<roll>-4.969616689786745e-017</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen3</styleUrl>
+			<Point>
+				<coordinates>-1.552560343439254,32.3067557986578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grenzen Araniens</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Die fünf Sultanate Araniens, das Mhaharansland Llanka und das Sultanat Selem (letzteres vom Kalifat beansprucht) - alle georeferenziert von Taurum - bilden das vierte Päckchen des Adventskalenders.</p>
+
+<p>Dere > Grenzen > Aranien/Kalifat</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>7.013077945057029</longitude>
+				<latitude>26.95692718861147</latitude>
+				<altitude>706420.7952017592</altitude>
+				<heading>-0.4723509719835456</heading>
+				<tilt>0</tilt>
+				<roll>3.975693351829396e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen4</styleUrl>
+			<Point>
+				<coordinates>6.296531990482047,27.47735137960084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karawanenrouten der Khôm</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Hiermit startet ein neues Projekt: Reisewege. Den Anfang machen die Karawanenrouten der Wüste Khôm von McFly.</p>
+
+<p>Dere > Reisewege > Wege</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>2.452250418863882</longitude>
+				<latitude>23.76988479478703</latitude>
+				<altitude>701658.7097914709</altitude>
+				<heading>-2.438180654526061</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen5</styleUrl>
+			<Point>
+				<coordinates>2.897553829985127,23.71174964390001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stadtkarten des Bornlands</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Zum Nikolaus gibt es heute elf neue, von Salex georeferenzierte Stadtkarten welche überwiegend im Bornland angesiedelt sind. Im einzelnen sind das: Festum, Firunen, Neersand, Norburg, Notmark, Ouvenmas, Burg Ouvenstam, Pervin, Rodebrannt und Bjaldorn sowie als besonderes Extra eine inoffizielle Borbra-Karte von Marc Jenneßen.</p>
+
+<p>Dere > Städte > Stadtkarten</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>8.79950116613724</longitude>
+				<latitude>33.0835013839451</latitude>
+				<altitude>701658.7097914695</altitude>
+				<heading>0.3221911812778925</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen6</styleUrl>
+			<Point>
+				<coordinates>10.16205607455593,34.43465344776753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siedlungen der Waldinseln</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Anschließend an das erste Türchen präsentieren wir auch die Siedlungen der Waldinseln von Mathieu und gnom. Highlight ist die Zeitfunktion für Altaia!</p>
+
+<p>Dere > Städte > Siedlungen</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>4.305737150598207</longitude>
+				<latitude>15.93039566857877</latitude>
+				<altitude>1026753.926673214</altitude>
+				<heading>-1.708301472760386</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen7</styleUrl>
+			<Point>
+				<coordinates>7.494107782926918,15.08784784365424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Handlungsorte überarbeitet</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Heute gibt es keine Neuheiten dafür aber Überarbeitungen: Die Handlungsorte von "Drachenschatten: Im Sand verborgen" und "Die Letzte Schlacht des Wolfes" verfügen nun vollständig über Seitenzahlen und Navigations-Links und letzters darüberhinaus auch über Wiki-Links und eine Wiki-Zeitleiste. Von MightyAndy und Thamor.</p>
+
+<p>Dere > Publikationen > Handlungsorte (MI) > Drachenchronik, Die Letzte Schlacht des Wolfes</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>7.50150612888944</longitude>
+				<latitude>31.62282856435645</latitude>
+				<altitude>284235.7424525692</altitude>
+				<heading>0.5330363370268427</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen8</styleUrl>
+			<Point>
+				<coordinates>7.776899054460841,31.5754277779985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abenteuer</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Mit diesem Update verdoppelt Rorkror die Abenteuermarken, so dass jetzt über hundert in DereGlobus zu betrachten sind. Hinzugekommen sind vor allem DSA-Klassiker. Desweiteren wurde die Menüstruktur und Styles der Abenteuer überarbeitet, so dass der Meister jetzt die verschiedenen Arten nach Stufe sortiert vorfindet. Die Anzahl der roten Bändchen die unten am Buchsymbol herausschauen geben an ob die Erfahrungsstufe Einsteiger, Erfahren oder Experte ist.</p>
+
+<p>Dere > Publikationen > Abenteuer</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>0.4325463435412003</longitude>
+				<latitude>30.15175169406621</latitude>
+				<altitude>1178072.348457599</altitude>
+				<heading>-3.18987761291974</heading>
+				<tilt>0</tilt>
+				<roll>3.975693351829396e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen9</styleUrl>
+			<Point>
+				<coordinates>-2.301097794122936,29.20119604465066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reichsstraßen</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Das Straßennetz wächst und wächst: Nun präsentieren McFly, Grakvaloth und MilesTeg die acht Straßen mit Reichsstraßen-Qualität aus der Geographia Aventurica, wobei die Reichsstraßen 1-3 sogar mit Zeitfunktion ausgestattet sind. Irgendwann soll das Straßennetz die Grundlage für eine Routenfunktion bilden, doch bis dahin ist es noch ein langer Weg.</p>
+
+<p>Dere > Reisewege > Reichsstraßen</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>4.725466327446537</longitude>
+				<latitude>29.62801351006215</latitude>
+				<altitude>210254.8081062893</altitude>
+				<heading>2.720067838074496</heading>
+				<tilt>0</tilt>
+				<roll>1.987846675914698e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen10</styleUrl>
+			<Point>
+				<coordinates>3.724296910214271,29.66015372726669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harben</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Auf der Vorlage von Peter Diehn, Jan Rodewald und Heinrich Schmidt  aus dem <a href="http://windhag.koenigreich-albernia.de/wndwiki/index.php?title=Harben_%28inoffiziell%29">Windhag-Wiki</a> hat unser Kartograph Anshelm diese Karte von Harben - bislang die letzte (Provinz-)Hauptstadt Aventuriens ohne Detailplan - gezeichnet und Gebäude georeferenziert. Das DereGlobus-Team dankt für die gute Zusammenarbeit und die fruchtbaren Diskussionen im <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=42&t=717">Forum</a>.
+<br>
+<br>Desweiteren ergänzt Salex die Stadtkarten des Bornlands um Gartangen und Brechtenow, so das dort nach unserem besten Wissen nur noch Ilmenstein fehlt.</p>
+
+<p>Dere > Städte > Stadtkarten</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-1.732696458943333</longitude>
+				<latitude>26.90254457733441</latitude>
+				<altitude>1481.563897958265</altitude>
+				<heading>-0.001370295902625828</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen11</styleUrl>
+			<Point>
+				<coordinates>-1.733154368417601,26.9039872749387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Handlungsorte von 24 Stunden von Khunchom</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Xeledon zeichnet die Handlungsorte und Route der Helden in 24 Stunden von Khunchom, dem zweiten Abenteuer der Drachenchronik, nach.</p>
+
+<p> Dere > Publikationen > Handlungsorte (MI) > Drachenchronik > 24 Stunden von Khunchom</p>
+
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>7.475900319632016</longitude>
+				<latitude>25.01667697839837</latitude>
+				<altitude>2107.050811826264</altitude>
+				<heading>9.541664044390546e-015</heading>
+				<tilt>0</tilt>
+				<roll>3.975693351829396e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen12</styleUrl>
+			<Point>
+				<coordinates>7.477976604395455,25.01917783366964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kraftlinien</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Horadan hat folgende Überarbeitungen und Erweiterungen bei den Kraftlinien vorgenommen.
+<li>Lagekorrektur der magischen Orte Drachenei-Akademie und Pentagrammaton</li><li>Verlauf der Basliuslinie um inoffizielle Angaben aus dem "Thorwal Standard" ergänzt</li><li>Strick des Schwarzen Mannes jetzt auch durch Notmark (gemäß Roman "Der Lichtvogel")</li><li>Fächer der Macht zum Baan Bashur verlängert (inoffiziell), Anpassungen des LOD</li><li>Shafirs Hort als magischen Ort hinzugefügt</li><li>Orthosphärische Linie bei Anchopal hinzugefügt</li><li>Transparente Ortsmarken für magische Orte, die in offiziellen Quellen nicht exakt lokalisiert wurden</li><li>diverse kleine Fehlerkorrekturen und Anpassungen</li>
+
+<p> Dere > Kraftlinien</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>6.372750454146643</longitude>
+				<latitude>22.89993747436533</latitude>
+				<altitude>109030.2930811993</altitude>
+				<heading>-7.528031662409077</heading>
+				<tilt>73.68918613827626</tilt>
+				<roll>1.765207848212252e-013</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen13</styleUrl>
+			<Point>
+				<coordinates>6.004735859784331,25.52830275953354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grenzen der Baronien Weidens</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<p>
+Taurum hat die 47 Baronien des Herzogtum Weidens georeferenziert, welche wir heute im 14. Türchen präsentieren.
+</p>
+
+<p> Dere > Grenzen > Herzogtum Weiden</p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>5.044349954289856</longitude>
+				<latitude>33.36668161756293</latitude>
+				<altitude>726695.6598831845</altitude>
+				<heading>-0.8097289325303713</heading>
+				<tilt>0</tilt>
+				<roll>-3.975693351829396e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen14</styleUrl>
+			<Point>
+				<coordinates>5.527756372114919,33.3260430273487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siedlungen Weidens</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>
+Passend zum gestrigen Grenzenupdate gibt es heute die Siedlungen Weidens und der Umgebung des Neunaugensees von Mathieu und Gnom.
+</p>
+
+<p> Dere > Städte > Siedlungen</p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>4.764291622696186</longitude>
+				<latitude>27.90449545898374</latitude>
+				<altitude>2855736.341696535</altitude>
+				<heading>0.2607369749494728</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen15</styleUrl>
+			<Point>
+				<coordinates>4.274613673748659,32.85337037531432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inseln Deres</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>
+DereGlobus ist mehr als Aventurien! Das wollen wir auch mit dem heutigen Update demonstrieren: Über 150 neue Inselmarken - großteils mit Wikitext - von Mathieu (Aventurien) und Geofax (Myranor) sowie 16 neue Detailkarten (davon 9 hochauflösend!) der Inseln des Südmeers von Corabis (georeferenziert von Thamor).
+</p>
+
+<p> Dere > Kontinente > Inseln</p>
+<p> Dere > Landschaft > Landmarken > Inseln</p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>5.392592803804157</longitude>
+				<latitude>13.09919112762338</latitude>
+				<altitude>1108450.216730742</altitude>
+				<heading>0.5862760538303019</heading>
+				<tilt>0.09767224354207565</tilt>
+				<roll>-0.1217729023475793</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen16</styleUrl>
+			<Point>
+				<coordinates>5.044583241613436,12.30095138806763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siedlungen des Südmeers</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>
+Anknüpfend an das gestrige Insel-Update, gibt es heute die Siedlungen des Südmeers sowie zwei neue Mysterien dieser Region - von Thamor.
+</p>
+
+<p> Dere > Städte > Siedlungen</p>
+<p> Dere > Publikationen > Mysterien > Mysterien der Meere</p>
+<p> (Dere > Kontinente > Inseln)</p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>3.759782916499037</longitude>
+				<latitude>10.60231069567143</latitude>
+				<altitude>2293602.22869174</altitude>
+				<heading>-0.65317694567556</heading>
+				<tilt>0.1405868106929973</tilt>
+				<roll>-1.407436197404462e-009</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen17</styleUrl>
+			<Point>
+				<coordinates>1.769814222087311,5.456062881727598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siedlungen Schwarztobriens</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<p>
+Die Siedlungen Schwarztobriens sind von Branibor und Gnom georeferenziert worden. Als kleines Extra wurde Ysil'elah/Ysilia/Yol-Gurmak mit Zeitinformationen ausgestattet.
+</p>
+
+<p> Dere > Städte > Siedlungen</p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>7.666860323905777</longitude>
+				<latitude>32.03936195176062</latitude>
+				<altitude>16321.80160577702</altitude>
+				<heading>0.6202086605202596</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen18</styleUrl>
+			<Point>
+				<coordinates>8.485149139481855,30.93175185124041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grenzen Schwarztobriens</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<p>Die über 100 ehemaligen Baronien des Mittelreiches, welche sich innerhalb der Grenzen Schwarztobriens befinden wurden von Wulf georeferenziert, wobei sich dieses Projekt noch im Beta-Zustand befindet. Unter anderem sollen die Gebiete noch mit der Zeitfunktion ausgestattet werden (einige im Osten sind es schon) so dass man in Zukunft die Eroberung durch die Schwarzen Horden interaktiv miterleben kann.
+</p>
+
+<p> Dere >Grenzen > Schwarztobrien</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>10.19231176297576</longitude>
+				<latitude>30.82359116368943</latitude>
+				<altitude>719698.0456524605</altitude>
+				<heading>1.880034537370316</heading>
+				<tilt>0</tilt>
+				<roll>7.951386703658793e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen19</styleUrl>
+			<Point>
+				<coordinates>9.086664310270045,30.88978206711655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trutzbachs Gebäude</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Die von Anshelm gezeichnete Karte des generischen Musterdorfes Trutzbach wird nun von Zakkarus und Thamor mit Leben gefüllt: Die Burgruine mit Efferdtempel, das Gasthaus "Zum Stachel", das Amtshaus, das Zeughaus und die Villa Vogelflug sind bereits mit Beschreibungstexten ausgestattet, sowie alle Gebäude georeferenziert. Weitere Informationen finden sich im <a href="http://www.wiki-aventurica.de">Wiki-Aventurica</a>.</p>
+
+<p>Dere > Städte > Gebäude > <a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Trutzbach_am_Erlbach-Plan;flyto">Klicken um Trutzbach zu betrachten</a></p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>9.584113779343085</longitude>
+				<latitude>31.80136908480834</latitude>
+				<altitude>503812.5353732469</altitude>
+				<heading>3.214863712401819</heading>
+				<tilt>0</tilt>
+				<roll>7.951386703658791e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen20</styleUrl>
+			<Point>
+			<coordinates>7.801481468483749,32.94422771010567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Handlungsorte "Aus Hass geboren"</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<p>
+Mit "Aus Hass geboren" von Xeledon sind die Handlungsorte und Reiserouten der Drachenchronik Teil 1: Drachenschatten vollständig. Passend dazu wurden die bekannten Berge der Drachensteine nach Sichtung aller bekannten, aber widersprüchlichen Quellen nach bestem Wissen und Gewissen georeferenziert.
+</p>
+
+<p> Dere > Publikationen > Handlungsorte (MI) > Drachenchronik > Aus Hass geboren</p>
+<p> Dere > Landschaft > Landmarken > Berge</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>8.367467135160531</longitude>
+				<latitude>33.06329364526152</latitude>
+				<altitude>332175.5231329696</altitude>
+				<heading>2.575774771771818</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen21</styleUrl>
+			<Point>
+			<coordinates>8.441441393343798,33.74761567388515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tie'Shianna, Nevelung und Rastullah-Bethaus in 3D</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>
+Drei neue 3D-Modelle präsentieren wir heute: Die alte Elfenstadt Tie'Shianna von Gornholden, Dorf und Schloss Nevelung von Bernhard Pesch und für Khunchom das Rastullah-Bethaus von Corabis.
+Mit einem Doppelklick auf den Menüordner fliegt man zum Modell, ein Klick auf den Menüeintrag des Modells zeigt weitere Informationen dazu. Da die Modelle noch nicht größenoptimiert sind, ist die Ladezeit entsprechend lang.
+</p>
+
+<p> Dere > 3D-Modelle > Tie'Shianna</p>
+<p> Dere > 3D-Modelle > Nevelung</p>
+<p> Dere > 3D-Modelle > Khunchom > Zentrales Marktviertel > Rastullah-Bethaus</p>]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>1.97673194318158</longitude>
+				<latitude>27.11303269215785</latitude>
+				<altitude>758896.4455796615</altitude>
+				<heading>-1.358622937832764</heading>
+				<tilt>0</tilt>
+				<roll>-1.987846675914698e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen22</styleUrl>
+			<Point>
+			<coordinates>1.59924770950729,25.29636277410183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siedlungen Perricums und Update Bornland</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>
+Mit den Siedlungen der Markgrafschaft Perricum von Thamor, Gnom und Miro ist nun die gesamte aventurische Ostküste vollständig - was die Siedlungen betrifft, die anderen Projekt werden folgen. Desweiteren gibt es von Mustafa, Miro, Gnom und Thamor ein Update für die Siedlungen des Bornlands, wo unzählige Wiki-Texte hinzugefügt wurden sowie einige Siedlungen hinzugekommen sind. Auch die Zeitfunktion wurde bei manchen Siedlungen verwendet.
+</p>
+
+<p> Dere > Städte > Siedlungen</p>
+
+
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>1.896117283569047</longitude>
+				<latitude>25.69881612747455</latitude>
+				<altitude>505743.8739917809</altitude>
+				<heading>-1.391865201587102</heading>
+				<tilt>0</tilt>
+				<roll>-1.987846675914698e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen23</styleUrl>
+			<Point>
+			<coordinates>6.032624593294214,29.1452618394895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aventurien Superoverlay</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Zum Heiligen Abend gibts ein umfassendes Kartenupdate: Aventurien erstrahlt in neum Glanz! Das vollständige Aventurien-Superoverlay wurde ausgetauscht und dabei einige kosmetische Verbesserungen durchgeführt. Die alten Karten aus den Kartenwerken sind nicht mehr in tristem braun gehalten, sondern erstahlen jetzt auch in Farbe. Allerdings sei weiterhin davor gewarnt dort zu georeferenzieren, da diese nicht mit kommenden Karten-Updates kompatibel sein werden. Desweiteren gibt es jetzt rundrum einen schönen Küsteneffekt und die verwaschenen Beschriftungen im Meer sind nun klar zu lesen. Außerdem wurden einige Grafikfehler bei Maraskan, dem Delta des Großen Flusses, Hutzenmoor und Brabak ausgemerzt.
+<br><br>
+Frohe Weihnachten wünscht das DereGlobus-Team!
+</p>
+]]></description>
+			<Camera>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>12.13867404251648</longitude>
+				<latitude>36.91507553071595</latitude>
+				<altitude>262410.1112122973</altitude>
+				<heading>3.530990542032406</heading>
+				<tilt>0</tilt>
+				<roll>7.951386703658792e-016</roll>
+			</Camera>
+			<styleUrl>#msn_Paeckchen24</styleUrl>
+			<Point>
+			<coordinates>6.315620439374861,39.23277776399842,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

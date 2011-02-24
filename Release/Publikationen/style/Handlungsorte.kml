@@ -1,0 +1,5080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+<name>Publikationen-Ortsmarken-Styles</name>
+
+
+
+
+
+				<!-- Zuerst definieren wir alle Stylemaps der Ortsmarken -->
+
+
+	<StyleMap id="Szene1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene4-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene4-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene5-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene5-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene6-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene6-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene7-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene7-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene8-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene8-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene9-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene9-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene10-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene10-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene11-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene11-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene12-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene12-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene13-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene13-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene14-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene14-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene15-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene15-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene16-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene16-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene17-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene17-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene18-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene18-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene19-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene19-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene20-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene20-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene21-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene21-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene22-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene22-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene23-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene23-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene24-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene24-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene25-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene25-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene26-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene26-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene27-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene27-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene28-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene28-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene29-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene29-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene30-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene30-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene31-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene31-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene32-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene32-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene33-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene33-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene34-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene34-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene35-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene35-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene36-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene36-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene37-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene37-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene28-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene38-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene39-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene39-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene40-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene40-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	
+	
+	<StyleMap id="SzeneX">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#SzeneX-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#SzeneX-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Strecke">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Strecke-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Strecke-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Szene1-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene1-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene1-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene2-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene2-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene2-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene3-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene3-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene3-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene4-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene4-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene4-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene5-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene5-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene5-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene6-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene6-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene6-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene7-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene7-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene7-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene8-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene8-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene8-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene9-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene9-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene9-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene10-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene10-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene10-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene11-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene11-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene11-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene12-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene12-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene12-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene13-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene13-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene13-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene14-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene14-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene14-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene15-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene15-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene15-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene16-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene16-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene16-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene17-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene17-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene17-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene18-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene18-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene18-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene19-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene19-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene19-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene20-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene20-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene20-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene21-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene21-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene21-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene22-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene22-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene22-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene23-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene23-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene23-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene24-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene24-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene24-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene25-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene25-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene25-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene26-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene26-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene26-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene27-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene27-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene27-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene28-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene28-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene28-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene29-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene29-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene29-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene30-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene30-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene30-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene31-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene31-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene31-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene32-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene32-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene32-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene33-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene33-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene33-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene34-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene34-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene34-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene35-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene35-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene35-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szene36-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene36-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene36-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene37-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene37-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene37-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene38-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene38-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene38-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene39-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene39-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene39-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szene40-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene40-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene40-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+
+
+
+
+
+
+
+
+<!-- So, ab hier werden die einzelnen Styles definiert -->
+				<!-- Moegliche Styles sind 
+					<IconStyle>...</IconStyle>
+					<LabelStyle>...</LabelStyle>
+					<LineStyle>...</LineStyle>
+					<PolyStyle>...</PolyStyle>
+					<BalloonStyle>...</BalloonStyle>
+					<ListStyle>...</ListStyle>
+
+				 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<Style id="Szene1-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene1-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene2-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene2-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene3-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene3-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene4-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene4-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene5-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene5-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene6-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene6-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene7-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene7.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene7-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene7.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene8-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene8.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene8-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene8.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene9-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene9.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene9-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+ <text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene9.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene10-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene10-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene11-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene11.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene11-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene11.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene12-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene12.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene12-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene12.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene13-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene13.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene13-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene13.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene14-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene14.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene14-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene14.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene15-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene15.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene15-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene15.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene16-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene16.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene16-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene16.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene17-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene17.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene17-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene17.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene18-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene18.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene18-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene18.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene19-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene19.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene19-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene19.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene20-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene20.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene20-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene20.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene21-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene21.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene21-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene21.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene22-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene22.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene22-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene22.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene23-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene23.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene23-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene23.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene24-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene24.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene24-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene24.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene25-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene25.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene25-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene25.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene26-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene26.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene26-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene26.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene27-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene27.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene27-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene27.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene28-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene28.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene28-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene28.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene29-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene29.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene29-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene29.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene30-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene30.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene30-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene30.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+	
+	
+	<Style id="Szene31-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene31.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene31-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene31.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene32-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene32.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene32-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene32.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene33-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene33.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene33-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene33.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene34-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene34.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene34-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene34.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene35-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene35.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene35-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene35.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene36-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene36.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene36-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene36.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene37-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene37.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene37-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene37.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene38-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene38.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene38-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene38.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene39-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene39.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene39-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene39.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene40-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene40.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene40-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene40.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<Style id="SzeneX-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<color>7fffffff</color>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/SzeneX.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+	<Style id="SzeneX-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<color>7fffffff</color>
+			<Icon>
+<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/SzeneX.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+	<Style id="Strecke-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+
+	<Style id="Strecke-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+
+
+<Style id="Szene1-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene1-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene2-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene2-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene3-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene3-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene4-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene4-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene5-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene5-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene6-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene6-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+ <text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene7-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene7.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene7-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene7.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene8-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene8.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene8-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene8.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene9-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene9.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene9-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene9.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene10-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene10-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene11-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene11.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene11-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene11.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene12-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene12.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene12-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene12.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene13-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene13.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene13-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene13.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene14-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene14.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene14-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene14.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene15-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene15.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene15-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene15.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene16-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene16.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene16-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene16.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene17-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene17.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene17-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene17.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene18-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene18.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene18-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene18.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene19-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene19.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene19-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene19.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene20-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene20.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene20-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene20.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene21-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene21.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene21-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene21.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene22-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene22.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene22-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene22.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene23-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene23.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene23-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene23.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene24-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene24.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene24-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene24.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene25-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene25.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene25-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene25.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene26-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene26.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene26-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene26.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene27-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene27.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene27-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene27.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene28-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene28.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene28-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene28.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene29-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene29.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene29-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene29.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene30-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene30.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene30-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene30.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene31-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene31.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene31-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene31.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene32-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene32.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene32-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+ <text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene32.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene33-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene33.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene33-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene33.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene34-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene34.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene34-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene34.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene35-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene35.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene35-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene35.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+
+	<Style id="Szene36-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene36.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene36-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene36.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene37-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene37.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene37-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene37.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene38-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene38.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene38-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene38.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene39-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene39.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene29-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene29.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+
+	<Style id="Szene40-X-n">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene40.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Szene40-X-h">
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]/Meisterinformationen/Zeitleiste">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene40.png</href>
+			</Icon><color>7fffffff</color>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+
+
+	
+	
+
+</Document>
+</kml>

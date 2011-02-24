@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	
+		<Style id="Mysterien">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Mysterium.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+
+<NetworkLink>
+	<name>Unter dem Westwind</name>
+	<visibility>0</visibility>
+	      <name>Unter dem Westwind</name>
+      <open>1</open>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+Bei den&nbsp;hier versammelten Mysterien aus dem Regionalband <a href="http://www.wiki-aventurica.de/index.php?title=Unter_dem_Westwind">Unter dem Westwind</a> handelt es sich um Meisterinformationen, die als Abenteueraufh&auml;nger dienen oder eigene Abenteuer in der Region erg&auml;nzen k&ouml;nnen. Bei den mit einem Sternchen markierten Mysterien ist eine Thematisierung in offiziellen Publikationen unwahrscheinlich und somit die Gefahr deutlich geringer, mit einer eigenen Ausarbeitung Konflikte zum &quot;offiziellen Aventurien&quot; zu provozieren.]]></description>
+    <LookAt>
+      <longitude>-2.982413255560902</longitude>
+      <latitude>35.04074654015057</latitude>
+      <altitude>0</altitude>
+      <range>1165033.945007222</range>
+      <tilt>0</tilt>
+      <heading>2.318379748500798</heading>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+      <styleUrl>#Mysterien</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Mysterien_MI/Unter_dem_Westwind.kml</href>
+	</Link>
+</NetworkLink>
+
+
+
+<NetworkLink>
+	<name>Land der Ersten Sonne</name>
+	<visibility>0</visibility>
+      <name>Land der Ersten Sonne</name>
+		<open>1</open>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+Bei den&nbsp;hier versammelten Mysterien aus dem Regionalband <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne">Land der Ersten Sonne</a> handelt es sich um Meisterinformationen, die als Abenteueraufh&auml;nger dienen oder eigene Abenteuer in der Region erg&auml;nzen k&ouml;nnen. Bei den mit einem Sternchen markierten Mysterien ist eine Thematisierung in offiziellen Publikationen unwahrscheinlich und somit die Gefahr deutlich geringer, mit einer eigenen Ausarbeitung Konflikte zum &quot;offiziellen Aventurien&quot; zu provozieren.]]></description>		
+    <LookAt>
+      <longitude>5.997840792546385</longitude>
+      <latitude>26.1180845426176</latitude>
+      <altitude>0</altitude>
+      <range>638195.0830350068</range>
+      <tilt>0</tilt>
+      <heading>3.101040814426929e-014</heading>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+      <styleUrl>#Mysterien</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Mysterien_MI/Land_der_Ersten_Sonne.kml</href>
+	</Link>
+</NetworkLink>
+
+
+
+<NetworkLink>
+	<name>Rashtuls Atem</name>
+	<visibility>0</visibility>
+      <name>Raschtuls Atem</name>
+		<open>1</open>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+Bei den&nbsp;hier versammelten Mysterien aus dem Regionalband <a href="http://www.wiki-aventurica.de/index.php?title=Raschtuls_Atem">Raschtuls Atem</a> handelt es sich um Meisterinformationen, die als Abenteueraufh&auml;nger dienen oder eigene Abenteuer in der Region erg&auml;nzen k&ouml;nnen. Bei den mit einem Sternchen markierten Mysterien ist eine Thematisierung in offiziellen Publikationen unwahrscheinlich und somit die Gefahr deutlich geringer, mit einer eigenen Ausarbeitung Konflikte zum &quot;offiziellen Aventurien&quot; zu provozieren.]]></description>
+      <LookAt>
+        <longitude>3.802370098895138</longitude>
+        <latitude>23.79774017505494</latitude>
+        <altitude>0</altitude>
+        <range>991640.7940030572</range>
+        <tilt>0</tilt>
+        <heading>0.389755365926972</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#Mysterien</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Mysterien_MI/Rashtuls_Atem.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink>
+	<name>Schild des Reiches</name>
+	<visibility>0</visibility>
+	      <name>Schild des Reiches</name>
+      <open>1</open>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+Bei den&nbsp;hier versammelten Mysterien aus dem Regionalband <a href="http://www.wiki-aventurica.de/index.php?title=Schild_des_Reiches">Schild des Reiches</a> handelt es sich um Meisterinformationen, die als Abenteueraufh&auml;nger dienen oder eigene Abenteuer in der Region erg&auml;nzen k&ouml;nnen. Bei den mit einem Sternchen markierten Mysterien ist eine Thematisierung in offiziellen Publikationen unwahrscheinlich und somit die Gefahr deutlich geringer, mit einer eigenen Ausarbeitung Konflikte zum &quot;offiziellen Aventurien&quot; zu provozieren.]]></description>
+      <LookAt>
+        <longitude>5.174389392908381</longitude>
+        <latitude>31.41140565085808</latitude>
+        <altitude>0</altitude>
+        <range>920363.1609361719</range>
+        <tilt>0</tilt>
+        <heading>1.459563238684626</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#Mysterien</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Mysterien_MI/Schild_des_Reiches.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink>
+	<name>Mysterien der Meere</name>
+	<visibility>0</visibility>
+	      <name>Mysterien der Meere</name>
+      <open>1</open>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+Bei den&nbsp;hier versammelten Mysterien aus dem Regionalband <a href="http://www.wiki-aventurica.de/index.php?title=Efferds_Wogen">Efferds Wogen</a> handelt es sich um Meisterinformationen, die als Abenteueraufh&auml;nger dienen oder eigene Abenteuer in der Region erg&auml;nzen k&ouml;nnen. Bei den mit einem Sternchen markierten Mysterien ist eine Thematisierung in offiziellen Publikationen unwahrscheinlich und somit die Gefahr deutlich geringer, mit einer eigenen Ausarbeitung Konflikte zum &quot;offiziellen Aventurien&quot; zu provozieren.]]></description>
+      <LookAt>
+        <longitude>5.174389392907981</longitude>
+        <latitude>31.4114056508581</latitude>
+        <altitude>0</altitude>
+        <range>4208606.93653964</range>
+        <tilt>0</tilt>
+        <heading>1.459563238684329</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#Mysterien</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Mysterien_MI/Mysterien_der_Meere.kml</href>
+	</Link>
+</NetworkLink>
+
+
+
+</Document>
+</kml>

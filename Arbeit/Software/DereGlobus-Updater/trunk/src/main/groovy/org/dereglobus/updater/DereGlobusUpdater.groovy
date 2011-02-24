@@ -78,7 +78,7 @@ class DereGlobusUpdater {
 				scrollPane(constraints: "left", preferredSize: [300, -1]) {
 					filesTree = tree(model: new FileSystemCheckModel(new File(config.getSourcePath())),
 							cellRenderer: new CheckRenderer(),
-							rowHeight: 18)
+							rowHeight: getRowHight())
 					filesTree.addMouseListener(new NodeSelectionListener(filesTree));
 				}
 				splitPane(orientation:JSplitPane.VERTICAL_SPLIT, dividerLocation:450) {
@@ -122,6 +122,17 @@ class DereGlobusUpdater {
 			}
 		}
 		config.log "Dieses Programm verwendet das IconSet Diagona.\nCopyright (C) 2007 Yusuke Kamiyamane (http://www.pinvoke.com/)."
+	}
+
+	private int getRowHight() {
+		switch (System.getProperty("os.name").toLowerCase()) {
+			case ~/.*win.*/:
+				return 18
+			case ~/.*mac.*/:
+				return 20
+			default:
+				return 18
+		}
 	}
 
 	private JButton withIcon(JButton button, String name) {

@@ -28,7 +28,7 @@ class LocalCopier extends CopierBase {
 		File destDir = new File(new File(config.getDestPath()), relativePath)
 		destDir.mkdirs()
 		File destFile = new File(destDir, sourceFileName)
-		config.log.append "Kopiere $relativePath$File.separator$sourceFileName\n"
+		config.log "Kopiere $relativePath$File.separator$sourceFileName\n"
 
 		if (sourceFileName.endsWith(".kml")) {
 			String fileText = sourceFile.getText("UTF-8")

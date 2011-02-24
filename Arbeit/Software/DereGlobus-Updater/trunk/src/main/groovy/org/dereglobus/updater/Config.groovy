@@ -2,6 +2,8 @@ package org.dereglobus.updater
 
 import java.util.prefs.Preferences
 
+import javax.swing.SwingUtilities
+
 class Config {
 
 	static final String nodeName = "/org/dereglobus/updater";
@@ -89,5 +91,9 @@ class Config {
 
 	Filter getFilter() {
 		return new SimpleServerUrlFilter(getReleaseUrl(), getPublicUrl())
+	}
+
+	void log(String logMessage) {
+		SwingUtilities.invokeLater { log.append logMessage }
 	}
 }

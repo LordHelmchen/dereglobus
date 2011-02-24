@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Rittersteig</name>
+	<open>1</open>
+		<Placemark> 	<!-- Rittersteig-->
+			<name>Rittersteig</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Rittersteig</b> führt von dem am <a href="/index.php?title=Grevensteig&amp;action=edit&amp;redlink=1" class="new" title="Grevensteig (Seite nicht vorhanden)">Grevensteig</a> liegenden <a href="/index.php?title=Rh%C3%B4ndur&amp;action=edit&amp;redlink=1" class="new" title="Rhôndur (Seite nicht vorhanden)">Rhôndur</a> hinauf in die <a href="http://www.wiki-aventurica.de/index.php?title=Koschberge" title="Koschberge">Koschberge</a> nach <a href="/index.php?title=Drabenburg&amp;action=edit&amp;redlink=1" class="new" title="Drabenburg (Seite nicht vorhanden)">Drabenburg</a> und <a href="/index.php?title=F%C3%BCrstenhort&amp;action=edit&amp;redlink=1" class="new" title="Fürstenhort (Seite nicht vorhanden)">Fürstenhort</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Rittersteig">
+											Rittersteig
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+											GNU Lizenz für freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Rittersteig&action=history">
+											Liste der Autoren
+										</a>
+										verfügbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Rittersteig&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					1.298708200933507,29.30996618477592,0  <!--<POI>Siedlung:Rhôndur</POI>--> <!--<POI>SOE:Grevensteig</POI>-->
+					1.256599014149857,29.32532491171159,0 
+					1.212763589026555,29.35855108090897,0 
+					1.181992656425022,29.36893404892351,0 
+					1.155604429578461,29.391192905658,0 
+					1.100936464099918,29.41068863246552,0 
+					1.032325346603744,29.4612516795709,0 
+					1.008550868582478,29.47044449926076,0 
+					0.9710552078353296,29.51087262622457,0 
+					0.9287341715614095,29.54953317370362,0  <!--<POI>Siedlung:Fürstenhort</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>1.067453</longitude>
+				<latitude>29.446460</latitude>
+				<altitude>100000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

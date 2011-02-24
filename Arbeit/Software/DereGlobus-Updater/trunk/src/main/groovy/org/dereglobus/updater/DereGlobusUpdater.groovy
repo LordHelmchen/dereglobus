@@ -23,7 +23,9 @@ import com.jgoodies.forms.layout.FormLayout
  */
 class DereGlobusUpdater {
 
-	def invokeOutside = { SwingUtilities.isEventDispatchThread() ? Thread.start(it) : it() }
+	def invokeOutside = {
+		SwingUtilities.isEventDispatchThread() ? Thread.start(it) : it()
+	}
 
 	static config
 
@@ -85,8 +87,8 @@ class DereGlobusUpdater {
 							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 5))
 							label("Quellverzeichnis",constraints: contraints.xy (1, 3))
 							sourceField = textField(text: config.sourcePath, constraints: contraints.xy (3, 3), editable: false)
-							button(constraints: contraints.xy (5, 3, "left, default"),
-									action: action(name: '...', closure: openSourceChooser))
+							withIcon(button(constraints: contraints.xy (5, 3, "left, default"),
+									action: action(closure: openSourceChooser)), "046.png")
 							label("Release-URL",constraints: contraints.xy (1, 5))
 							releaseUrlField = textField(text: config.releaseUrl,	constraints: contraints.xyw (3, 5, 3))
 							label("Public-URL",constraints: contraints.xy (1, 7))
@@ -95,10 +97,10 @@ class DereGlobusUpdater {
 							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 9, 5))
 							label("Zielverzeichnis",constraints: contraints.xy (1, 11))
 							destField = textField(text: config.destPath, constraints: contraints.xy (3, 11), editable: false)
-							button(constraints: contraints.xy (5, 11),
-									action: action(name: '...', closure: openDestChooser))
-							button(constraints: contraints.xyw (3, 13, 3, "right, default"),
-									action: action(name: 'Kopieren!', closure: copy))
+							withIcon(button(constraints: contraints.xy (5, 11),
+									action: action(closure: openDestChooser)), "046.png")
+							withIcon(button(constraints: contraints.xyw (3, 13, 3, "right, default"),
+									action: action(name: 'Kopieren', closure: copy)), "095.png")
 
 							widget( widget: compFactory.createSeparator('Kopieren auf FTP-Server'), constraints: contraints.xyw(1, 15, 5))
 							label("FTP-Server",constraints: contraints.xy (1, 17))
@@ -109,8 +111,8 @@ class DereGlobusUpdater {
 							userField = textField(text: config.ftpUser,	constraints: contraints.xyw (3, 21, 3))
 							label("Passwort",constraints: contraints.xy (1, 23))
 							passwordField = passwordField(text: config.ftpPass,	constraints: contraints.xyw (3, 23, 3))
-							button(constraints: contraints.xyw (3, 25, 3, "right, default"),
-									action: action(name: 'Kopieren!', closure: copyFtp))
+							withIcon(button(constraints: contraints.xyw (3, 25, 3, "right, default"),
+									action: action(name: 'Hochladen', closure: copyFtp)), "094.png")
 						}
 					}
 					scrollPane(constraints: "bottom") {
@@ -119,6 +121,12 @@ class DereGlobusUpdater {
 				}
 			}
 		}
+		config.log "Dieses Programm verwendet das IconSet Diagona.\nCopyright (C) 2007 Yusuke Kamiyamane (http://www.pinvoke.com/)."
+	}
+
+	private JButton withIcon(JButton button, String name) {
+		button.icon = new ImageIcon(getClass().getResource(name))
+		return button
 	}
 
 	def openSourceChooser = {

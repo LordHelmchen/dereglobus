@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+<name>Multimedia-Styles</name>
+
+
+  <StyleMap id="Musik">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Musik-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Musik-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	  <StyleMap id="Video">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Video-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Video-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	
+	
+	<Style id="Musik-n">
+		<ListStyle>
+			<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Musik.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Musik.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#B21C19" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+<Style id="Musik-h">
+		<ListStyle>
+			<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Musik.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Musik.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#B21C19" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+
+	<Style id="Video-n">
+		<ListStyle>
+			<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Video.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Video.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#B21C19" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+<Style id="Video-h">
+		<ListStyle>
+			<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Video.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Video.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#B21C19" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	
+	
+</Document>
+</kml>
+
+
+
+
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+
+    <Style id="Musik">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/media/icons/Musik.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+
+	<name>Musik.kml</name>
+	<open>1</open>
+	<NetworkLink>
+		<name>Orkpack</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+<b>Fantasy Music - Pimp up your RPG</b>
+
+<p>Fantasy Musik ist ein ganz neues und eigenes Genre. In den letzten Jahrhunderten der klassischen und populären Musik war die Melodie entscheidend für die Form und Stilbildung. Beispielsweise legte die Sonaten Dreisatz Form fest in welcher Art und Weise sich Melodien und Motive zu wiederholen haben. Die Sonaten Dreisatzform ist das klassische Vorbild für Tausende Sinfonien. Damit hat sie neben der Fuge entscheidend unseren Musikgeschmack geprägt. Eins ist dieser wie auch alle anderen Formen gleich ist gibt immer Wiederholungen von Motiv und Melodie. Dies war aber nicht immer so. Es gab durchaus Zeiten in denen galt es als modern und gut Melodien nicht zu wiederholen. Die Musik sollte flüchtig sein.</p>
+
+<p>In genau diesem Spannungsfeld bewegt und komponiert Orkpack. Fantasy Musik hat die Funktion einen Rollenspieler schnell in die entsprechende Stimmung zu versetzen. Dabei soll sie sich nicht in den Vordergrund drängen. Schon alleine deshalb spielt die Melodie hier als Form gebendes Element eine unwichtige Rolle. In meinem Stück "Reise" beispielsweise habe ich versucht ständig neue Melodien zu entwickeln. Denn der Reisende sieht auf seiner Reise auch ständig neue Dinge. Dieses Beispiel zeigt, dass wer feste Strukturen und Formen in der Musik von Orkpack sucht, sicherlich schnell enttäuscht sein wird. Wer sich aber fallen lassen und mitreißen lassen möchte in eine andere Welt, der ist bei uns genau richtig.</p>
+<p>>> <a href="http://www.orkpack.de/?page_id=113">weiterlesen</a></p>
+]]></description>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Multimedia/kml/Musik/Orkpack.kml</href>
+		</Link>
+		<styleUrl>#Musik</styleUrl>
+	</NetworkLink>
+	<NetworkLink>
+		<name>DSA-Soundtracks</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+<b>Eine musikalische Ergänzung der Fantasy-Rollenspielwelt "Das Schwarze Auge".</b>
+
+<p>Kurz gesagt bieten DSA-Soundtracks:</p>
+<ul>
+    <li>exklusiv für DSA-Abenteuer komponierte Soundtracks </li>
+    <li>orchestrale Fantasymusik </li>
+    <li>passgenaue Szenenuntermalung </li>
+    <li>Einsatz von wiederkehrenden Themen und Leitmotiven </li>
+    <li>Soundtracks auf CD oder als Download </li>
+</ul>
+<p>Das aus den unter "<a href="http://www.dsa-soundtracks.de/cms/index.php?id=305">Die Idee</a>" geschilderten Überlegungen&nbsp;entwickelte Konzept für DSA-Soundtracks sieht folgendermaßen aus:</p>
+<p>Es werden für ausgewählte DSA-Abenteuer aus dem Verlagsprogramm von FanPro&nbsp;maßgeschneiderte Soundtracks komponiert. Dies geschieht in der Regel im Vorfeld des Erscheinens eines Abenteuers in Zusammenarbeit mit den Autoren. So ist eine optimale Abstimmung zwischen Szene und Musik gewährleistet.</p>
+<p>>> <a href="http://www.dsa-soundtracks.de/cms/index.php?id=306">weiterlesen</a></p>
+]]></description>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Multimedia/kml/Musik/DSA-Soundtracks.kml</href>
+		</Link>
+		<styleUrl>#Musik</styleUrl>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Erdenstern</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+<b>Die Bibliothek der Fantastischen Musik</b>
+
+<p>Erdenstern ist ein Projekt, das sich mit der professionellen Komposition und Produktion von Soundtracks für Rollenspiele beschäftigt. Unsere Musik orientiert sich an Filmsoundtracks, wenn es um die emotionale Untermalung verschiedener Situationen geht; dabei legen wir aber großen Wert auf die universelle Einsetzbarkeit für verschiedene Spielsysteme und die musikalische Eigenständigkeit der Komposition.</p>
+<p>>> <a href="http://www.erdenstern.de/erdenstern/">weiterlesen</a></p>
+]]></description>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Multimedia/kml/Musik/Erdenstern.kml</href>
+		</Link>
+		<styleUrl>#Musik</styleUrl>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Schattenreigen</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+<p>Auf den Earthdawn Seiten des <b>Schattenreigen</b> von Pablo Pirnay-Dummer, gibt es Spezialitäten und Besondernheiten rund um das erstaunliche Rollenspiel mitsamt seiner faszinierenden Spielgemeinde. Im Zentrum dieser Seiten steht mit Sicherheit der Soundtrack (der inzwischen ca. 6 CD's füllen würde), der dort zum kostenlosen Download zur Verfügung steht. Es gibt noch kostenlose Software-Downloads (einen Kreaturen Editor und einen Dice-Roller) sowie Informationen rund um die laufenden Spiele, Spieler und Charaktere.</p>
+<p>>> <a href="http://www.schattenreigen.de/earthdawn/">weiterlesen</a></p>
+]]></description>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Multimedia/kml/Musik/Schattenreigen.kml</href>
+		</Link>
+		<styleUrl>#Musik</styleUrl>
+	</NetworkLink>
+</Document>
+</kml>

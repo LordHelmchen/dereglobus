@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+<name>Meistertipps Styles</name>
+
+
+
+
+
+
+<!-- HIER OBEN NUR DIE STYLEMAPS DEFINIEREN -->
+
+
+
+	
+
+<StyleMap id="DC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#DC-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#DC-h</styleUrl>
+		</Pair>
+</StyleMap>
+
+<StyleMap id="G7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#G7-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#G7-h</styleUrl>
+		</Pair>
+</StyleMap>
+
+<StyleMap id="KM">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#KM-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#KM-h</styleUrl>
+		</Pair>
+</StyleMap>
+
+<StyleMap id="JDF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#JDF-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#JDF-h</styleUrl>
+		</Pair>
+</StyleMap>
+
+<StyleMap id="standard">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#standard-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#standard-h</styleUrl>
+		</Pair>
+</StyleMap>
+
+
+
+
+
+<!-- AB HIER DIE STYLES DEFINIEREN -->
+
+
+
+
+<Style id="DC-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/DC.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="DC-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/DC.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+
+
+
+
+
+
+<Style id="G7-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/G7.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="G7-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/G7.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+
+
+
+
+
+<Style id="KM-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/KM.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="KM-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/KM.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+
+
+
+
+
+<Style id="JDF-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/JDF.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="JDF-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/JDF.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+
+
+
+
+
+<Style id="standard-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/standard.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="standard-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/meistertipps/standard.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+	
+		
+	
+	
+	
+	
+</Document>
+</kml>

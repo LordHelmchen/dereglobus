@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+<name>Publikationen-Styles</name>
+
+
+
+
+
+				<!-- Zuerst definieren wir alle Stylemaps der Publikationen-->
+
+
+	<StyleMap id="Szenario1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szenario1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szenario1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szenario2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szenario2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szenario2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szenario3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szenario3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szenario3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	<StyleMap id="Einzel1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Einzel1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Einzel1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Einzel2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Einzel2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Einzel2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Einzel3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Einzel3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Einzel3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+
+	<StyleMap id="Anthologie1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Anthologie1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Anthologie1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Anthologie2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Anthologie2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Anthologie2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Anthologie3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Anthologie3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Anthologie3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	
+	<StyleMap id="Kampagne1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kampagne1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kampagne1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Kampagne2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kampagne2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kampagne2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Kampagne3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kampagne3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kampagne3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	
+
+	<StyleMap id="Solo1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Solo1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Solo1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Solo2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Solo2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Solo2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Solo3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Solo3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Solo3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	
+	<StyleMap id="Computer">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Computer-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Computer-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	
+	<StyleMap id="Roman">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Roman-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Roman-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="Szenario1InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szenario1InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szenario1InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szenario2InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szenario2InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szenario2InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Szenario3InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szenario3InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szenario3InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	<StyleMap id="Einzel1InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Einzel1InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Einzel1InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Einzel2InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Einzel2InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Einzel2InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Einzel3InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Einzel3InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Einzel3InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+
+	<StyleMap id="Anthologie1InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Anthologie1InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Anthologie1InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Anthologie2InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Anthologie2InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Anthologie2InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Anthologie3InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Anthologie3InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Anthologie3InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	
+	<StyleMap id="Kampagne1InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kampagne1InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kampagne1InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Kampagne2InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kampagne2InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kampagne2InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Kampagne3InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kampagne3InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kampagne3InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	
+
+	<StyleMap id="Solo1InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Solo1InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Solo1InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Solo2InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Solo2InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Solo2InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Solo3InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Solo3InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Solo3InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+<!-- So, ab hier werden die einzelnen Styles definiert -->
+				<!-- M�gliche Styles sind 
+					<IconStyle>...</IconStyle>
+					<LabelStyle>...</LabelStyle>
+					<LineStyle>...</LineStyle>
+					<PolyStyle>...</PolyStyle>
+					<BalloonStyle>...</BalloonStyle>
+					<ListStyle>...</ListStyle>
+
+				 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<Style id="Szenario1-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Szenariovorschlag-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Szenario1-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Szenariovorschlag-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	
+	
+	
+	<Style id="Szenario2-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Szenariovorschlag-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+	<Style id="Szenario2-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Szenariovorschlag-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	<Style id="Szenario3-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Szenariovorschlag-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Szenario3-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Szenariovorschlag-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	
+	<Style id="Einzel1-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Einzelabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Einzel1-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Einzelabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<Style id="Einzel2-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Einzelabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Einzel2-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Einzelabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<Style id="Einzel3-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Einzelabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+	<Style id="Einzel3-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Einzelabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	
+
+
+<Style id="Anthologie1-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Anthologieabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Anthologie1-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Anthologieabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Anthologie2-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Anthologieabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Anthologie2-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Anthologieabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Anthologie3-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Anthologieabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+	<Style id="Anthologie3-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Anthologieabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	<Style id="Kampagne1-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Kampagnenabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Kampagne1-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Kampagnenabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	<Style id="Kampagne2-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Kampagnenabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Kampagne2-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Kampagnenabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Kampagne3-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Kampagnenabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Kampagne3-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Kampagnenabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+
+
+	
+	<Style id="Solo1-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Soloabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Solo1-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Soloabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	
+	<Style id="Solo2-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Soloabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Solo2-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Soloabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Solo3-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Soloabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Solo3-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Soloabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	
+<Style id="Computer-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Computer.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Computer-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Computer.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>	
+
+
+
+
+<Style id="Roman-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Roman.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Roman-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Roman.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	<Style id="Szenario1InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Szenariovorschlag-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Szenario1InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Szenariovorschlag-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	
+	
+	
+	<Style id="Szenario2InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Szenariovorschlag-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+	<Style id="Szenario2InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Szenariovorschlag-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	<Style id="Szenario3InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Szenariovorschlag-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Szenario3InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Szenariovorschlag-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	
+	<Style id="Einzel1InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Einzelabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Einzel1InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Einzelabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<Style id="Einzel2InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Einzelabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Einzel2InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Einzelabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<Style id="Einzel3InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Einzelabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+	<Style id="Einzel3InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Einzelabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	
+
+
+<Style id="Anthologie1InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Anthologieabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Anthologie1InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Anthologieabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Anthologie2InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Anthologieabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+		<Style id="Anthologie2InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Anthologieabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+
+	<Style id="Anthologie3InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Anthologieabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+<Style id="Anthologie3InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Anthologieabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+	
+	
+	
+	
+
+	<Style id="Kampagne1InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Kampagnenabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Kampagne1InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Kampagnenabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	<Style id="Kampagne2InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Kampagnenabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Kampagne2InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Kampagnenabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Kampagne3InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Kampagnenabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Kampagne3InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Kampagnenabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+
+
+	
+	<Style id="Solo1InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Soloabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Solo1InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Soloabenteuer-Einsteiger.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	
+	<Style id="Solo2InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Soloabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Solo2InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Soloabenteuer-Erfahren.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Solo3InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Soloabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+<Style id="Solo3InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Abenteuer_InOff/Soloabenteuer-Experte.png</href>
+			</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF5999C8</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+<br/>&nbsp;<font color="#606060" size="-1">erstellt von <a href="$[weltenbauerURL]">$[weltenbauer]</a></font><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+
+</Document>
+</kml>

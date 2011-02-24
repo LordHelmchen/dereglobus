@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+
+<Style id="sh_Szene1">
+	<IconStyle>
+	<scale>1.3</scale>
+<Icon>
+	<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+</Icon>
+	<hotSpot x="0.5" y="0" xunits="UNITS_FRACTION" yunits="UNITS_FRACTION"/>
+	</IconStyle>
+	<BalloonStyle>
+	<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+	<bgColor>ffd5fcfd</bgColor>
+	</BalloonStyle>
+	<ListStyle>
+	<bgColor>ffffffff</bgColor>
+	<maxSnippetLines>0</maxSnippetLines>
+	</ListStyle>
+</Style>
+<StyleMap id="msn_ylw-pushpin">
+	<Pair>
+		<key>normal</key>
+	<styleUrl>#sn_ylw-pushpin0</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+	<styleUrl>#sh_ylw-pushpin</styleUrl>
+	</Pair>
+	</StyleMap>
+<StyleMap id="msn_ylw-pushpin0">
+	<Pair>
+		<key>normal</key>
+	<styleUrl>#sn_ylw-pushpin</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+	<styleUrl>#sh_ylw-pushpin0</styleUrl>
+	</Pair>
+	</StyleMap>
+<StyleMap id="msn_Szene2">
+	<Pair>
+		<key>normal</key>
+	<styleUrl>#sn_Szene2</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+	<styleUrl>#sh_Szene2</styleUrl>
+	</Pair>
+	</StyleMap>
+<StyleMap id="msn_Szene3">
+	<Pair>
+		<key>normal</key>
+	<styleUrl>#sn_Szene3</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+	<styleUrl>#sh_Szene3</styleUrl>
+	</Pair>
+	</StyleMap>
+<StyleMap id="msn_Szene1">
+	<Pair>
+		<key>normal</key>
+	<styleUrl>#sn_Szene1</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+	<styleUrl>#sh_Szene1</styleUrl>
+	</Pair>
+	</StyleMap>
+	
+
+
+		<Placemark>
+			<name>Der Rückmarsch</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+<!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
+<p>(2. Rondra 1034 BF)</p>
+<p>Nach ihrem Gespräch mit <a href="http://www.wiki-aventurica.de/index.php/Fuldigor" title="Fuldigor">Fuldigor</a> machen sich die Helden auf den Rückweg. Obwohl sie dabei auf unbekannten Pfaden wandeln, hat <a href="http://www.wiki-aventurica.de/index.php/Fuldigor" title="Fuldigor">Fuldigor</a> sie genau dorthin gebracht, wo sie bald gebraucht werden, und ihnen ein intuitives Wissen über die nun einzuschlagende Richtung mit auf den Weg gegeben. (ca. 110 Meilen, 6 Stunden) (S. 90)
+</p>
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf der Zeitleiste von
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+Neue Freunde, alte Feinde
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ABENTEUERS-->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>15.31147985330652</longitude>
+				<latitude>38.04853930228444</latitude>
+				<altitude>0</altitude>
+				<heading>0.1073375153791328</heading>
+				<tilt>0</tilt>
+				<range>221318.1175329646</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					15.87025631603956,37.59784104921872,0 15.83513284125358,37.65337201253755,0 15.86420711866757,37.69730932318337,0 15.94120878233933,37.73585008186014,0 15.97673652231576,37.81070242110622,0 15.92245103322,37.85451470318147,0 15.81562781297784,37.90387758520613,0 15.7085626016404,37.88029814832962,0 15.61749426715348,37.90462557613711,0 15.56546539800509,37.99694209237822,0 15.50014086412641,38.05851988137979,0 15.37734090839157,38.08620586529798,0 15.21499554293294,38.04516831785249,0 15.05801432448738,37.99435325330111,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ein Schrei in Eiseskälte</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+<!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
+<p>(2. Rondra 1034 BF, nachmittags)</p>
+<p>Die Helden werden auf vier Gestalten aufmerksam, die sich inmitten der Eiswüste des <a href="http://www.wiki-aventurica.de/index.php/Ehernes_Schwert" title="Ehernes Schwert">Ehernen Schwertes</a> gegen eine <a href="http://www.wiki-aventurica.de/index.php/D%C3%A4mon" title="Dämon">dämonische</a> Hetzmeute <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> zur Wehr setzen muss. Es handelt sich um den Troll <a href="http://www.wiki-aventurica.de/index.php/Krallerwatsch_Sohn_des_Krallulatsch" title="Krallerwatsch Sohn des Krallulatsch">Krallerwatsch Sohn des Krallulatsch</a>, Großmeister <a href="http://www.wiki-aventurica.de/index.php/Pyriander_Di%27Ariarchos" title="Pyriander Di'Ariarchos">Pyriander Di'Ariarchos</a> vom <a href="http://www.wiki-aventurica.de/index.php/Konzil_der_Elemente" title="Konzil der Elemente">Konzil der Elementaren Gewalten</a>, die <a href="http://www.wiki-aventurica.de/index.php/Hexe" title="Hexe">Hexe</a> <a href="http://www.wiki-aventurica.de/index.php/Morena_vom_Blautann" title="Morena vom Blautann">Morena vom Blautann</a> und die Kriegerin <a href="http://www.wiki-aventurica.de/index.php/Rondriga_Conchobair" title="Rondriga Conchobair">Rondriga Conchobair</a> - die vier sind die verbliebenen Mitglieder der verschollenen <a href="http://www.wiki-aventurica.de/index.php?title=Schl%C3%BCsselexpedition&amp;action=edit&amp;redlink=1" class="new" title="Schlüsselexpedition (Seite nicht vorhanden)">Schlüsselexpedition</a>. Gemeinsam gelingt es, die Feinde zu besiegen. (S. 90-91)</p>
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf der Zeitleiste von
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+Neue Freunde, alte Feinde
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ABENTEUERS-->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>15.10302761650083</longitude>
+				<latitude>38.01217174262147</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02108879699029862</heading>
+				<tilt>0</tilt>
+				<range>67197.13910247322</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Publikationen/style/Handlungsorte.kml#Szene1-X</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>15.05801432358918,37.99435323950306,-7.073241732324931e-010</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rückkehr zur Oase im ewigen Eis</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+<!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
+<p>(2. Rondra 1034 BF, nachmittags)</p>
+<p>Binnen weniger Stunden reisen die Helden und ihre neuen, ausgemergelten Gefährten zur Oase im ewigen Eis, wo sie die übrigen Mitglieder ihrer Expedition zurückgelassen haben. (ca. 10 Meilen, 4 Stunden) (S. 91)
+</p>
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf der Zeitleiste von
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+Neue Freunde, alte Feinde
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ABENTEUERS-->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>15.31147985330652</longitude>
+				<latitude>38.04853930228444</latitude>
+				<altitude>0</altitude>
+				<heading>0.1073375153791328</heading>
+				<tilt>0</tilt>
+				<range>221318.1175329646</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+			
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					15.05801430790099,37.99435322581738,0 15.0449879488541,37.98066096536196,0 14.99792652772149,37.96228008773211,0 14.97984676844283,37.96796838719296,0 14.96473391612616,37.98598027094968,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Heldenbegegnung</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+<!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
+<p>(2. Rondra 1034 BF, abends)</p>
+<p>Während sie neue Kräfte sammeln, erfahren die Helden, dass ihre vier neuen Gefährten vom <a href="http://www.wiki-aventurica.de/index.php/Frostwurm" title="Frostwurm">Frostwurm</a> <a href="http://www.wiki-aventurica.de/index.php/Schirr%27Zach" title="Schirr'Zach">Schirr'Zach</a> in Eisstatuen verwandelt, zu <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a> in die <a href="http://www.wiki-aventurica.de/index.php/D%C3%A4monenzitadelle" title="Dämonenzitadelle">Dämonenzitadelle</a> gebracht und dort verhört und gefoltert wurden. Sie können von <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> Manipulation der <a href="http://www.wiki-aventurica.de/index.php/Kraftlinie" title="Kraftlinie">Kraftlinien</a> und ihrem Interesse an den verborgenen <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">trollischen</a> Stätten <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor&amp;action=edit&amp;redlink=1" class="new" title="Traschmalgor (Seite nicht vorhanden)">Traschmalgor</a> und <a href="http://www.wiki-aventurica.de/index.php/Okdr%C3%A2gosch" title="Okdrâgosch">Okdrâgosch</a> berichten, zu denen sie sich vermutlich aufgemacht hat. (S. 91-92)</p>
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf der Zeitleiste von
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+Neue Freunde, alte Feinde
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ABENTEUERS-->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>14.97076164434718</longitude>
+				<latitude>37.99465296584153</latitude>
+				<altitude>0</altitude>
+				<heading>-0.102522295440539</heading>
+				<tilt>0</tilt>
+				<range>35699.8522791525</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Publikationen/style/Handlungsorte.kml#Szene2</styleUrl>
+			
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>14.96473400000001,37.98598000000001,-2.12197251969748e-009</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abschied von der Expedition</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+<!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
+<p>(3. Rondra 1034 BF)</p>
+<p>Die Helden beschließen, sich von den übrigen Mitgliedern der Expedition zu trennen und gemeinsam mit <a href="http://www.wiki-aventurica.de/index.php/Krallerwatsch_Sohn_des_Krallulatsch" title="Krallerwatsch Sohn des Krallulatsch">Krallerwatsch Sohn des Krallulatsch</a> in die Trollzacken zu reisen, um dort in Erfahrung zu bringen, was <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a> in <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor&amp;action=edit&amp;redlink=1" class="new" title="Traschmalgor (Seite nicht vorhanden)">Traschmalgor</a> und <a href="http://www.wiki-aventurica.de/index.php/Okdr%C3%A2gosch" title="Okdrâgosch">Okdrâgosch</a> sucht. Beim Abschied lädt sie <a href="http://www.wiki-aventurica.de/index.php/Pyriander_Di%27Ariarchos" title="Pyriander Di'Ariarchos">Pyriander Di'Ariarchos</a> ein, ihn bald einmal in <a href="http://www.wiki-aventurica.de/index.php/Drakonia" title="Drakonia">Drakonia</a> aufzusuchen. (S. 92)</p>
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf der Zeitleiste von
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+Neue Freunde, alte Feinde
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ABENTEUERS-->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ABENTEUERS -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Neue_Freunde,_alte_Feinde/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>14.97076164434718</longitude>
+				<latitude>37.99465296584153</latitude>
+				<altitude>0</altitude>
+				<heading>-0.102522295440539</heading>
+				<tilt>0</tilt>
+				<range>269313.0691771867</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Publikationen/style/Handlungsorte.kml#Szene3</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>14.96473400000001,37.98598000000002,-2.12197251969748e-009</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

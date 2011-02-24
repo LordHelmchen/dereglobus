@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Publikationen</name>
+	<open>1</open>
+
+	
+		<Style id="Mysterien">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/media/icons/Mysterium.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+<NetworkLink>
+	<name>Romane</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Romane/Romane.kml</href>
+	</Link>
+</NetworkLink>	
+	
+	
+<NetworkLink>
+	<name>Abenteuer</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Abenteuer/Abenteuer.kml</href>
+	</Link>
+</NetworkLink>
+
+
+<NetworkLink>
+	<name>Handlungsorte (MI)</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Abenteuer/Handlungsorte_MI/Handlungsorte.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink>
+	<name>Mysteria et Arcana (MI)</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Mysterien_MI/Mysterien.kml</href>
+	</Link>
+	<styleUrl>#Mysterien</styleUrl>
+</NetworkLink>
+
+
+<Folder>
+	<name>Spielhilfen</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+Unter dieser Rubrik möchten wir sowohl Inhalte aus offiziellen Spielhilfen - worunter wir auch Regionalspielhilfen verstehen - lokalisiert darstellen, als auch unsere eigenen besonderen Spielhilfen, die sich in keines der anderen Projekte einordnen lassen veröffentlichen. Auch Regeltechnische Spielhilfen sollen hier ihren Platz finden.
+
+
+]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+	
+<NetworkLink>
+	<name>Magierakademien</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	
+	 			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+ <p>
+ 
+ <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<a href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht"><img src="http://www.wiki-aventurica.de/images/thumb/8/87/Hallen_arkaner_Macht.png/150px-Hallen_arkaner_Macht.png" alt="Bild" align="right"></a>
+ 
+Im Zuge unseres Projektfokus "Magierakademien" anlässlich der Veröffentlichung "<a href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a>" ist auch diese Spielhilfe entstanden, welche alle <a href="http://www.wiki-aventurica.de/index.php?title=Magierakademie">Akademien</a> des heutigen Aventuriens mit wichtigen Eckdaten aus dem Wiki Aventurica darstellt.
+
+<p></p>Diese Spielhilfe richtet sich auch an Spieler, die einen Magier spielen wollen und sich einen derographischen Überblick der Akademien verschaffen wollen. Die Akademien sind - soweit vorhanden - mit Zeitstempeln entsprechend ihres Gründungsdatums ausgestattet, so das es sich lohnt mal den Zeitschieberegler zu bedienen. Außerdem finden sich bei ausgewählten Akademien Links direkt zu den entsprechenden 3D-Modellen. Viel Spaß mit dieser Spielhilfe, wir freuen uns über <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=17&t=1351">Feedback</a>!
+ 
+ <!-- END EDIT -->
+ 
+ </p>
+]]></description> 
+
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+	
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Spielhilfen/Magierakademien.kml</href>
+	</Link>
+</NetworkLink>
+
+
+<NetworkLink>	
+	<name>Imman-Mannschaften</name>
+	<visibility>0</visibility>
+	<open>1</open>
+
+	 			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+ <p>
+ 
+ <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<a href="http://www.wiki-aventurica.de/images/b/be/AB_A149.jpg"><img src="http://www.wiki-aventurica.de/images/b/be/AB_A149.jpg" alt="Bild" align="right"></a>
+
+Diese Spielhilfe zeigt die bekannten Mannschaften des aventurischen Volkssports <a href="http://www.wiki-aventurica.de/index.php/Imman" title="Imman">Imman</a>. Beim beliebtesten Mannschaftsspiel <a href="http://www.wiki-aventurica.de/index.php?title=Aventurien" title="Aventurien">Aventuriens</a> treten zwei Teams mit je 15 Spielern gegeneinander an und versuchen, mit Holzschlägern einen Ball aus Kork ins gegnerische Tor zu befördern.
+
+<p></p>Die Mannschaften spielen jährlich in <a href="http://www.wiki-aventurica.de/index.php/Gareth" title="Gareth">Gareth</a> um den <a href="http://www.wiki-aventurica.de/index.php/Kaiser-Reto-Pokal" title="Kaiser-Reto-Pokal">Kaiser-Reto-Pokal</a> (letztmalige Austragung <a href="http://www.wiki-aventurica.de/index.php/Chronik:1020" title="Chronik:1020">1020 BF</a>) und seit <a href="http://www.wiki-aventurica.de/index.php/Chronik:941" title="Chronik:941" class="mw-redirect">941 BF</a> in der Stadt des Vorjahressiegers um die <a href="http://www.wiki-aventurica.de/index.php/Aventurische_Immanmeisterschaft" title="Aventurische Immanmeisterschaft">Aventurische Immanmeisterschaft</a>.
+
+<p></p>Bei bekannten Spielstätten der Teams liegt das jeweilige Icon auf dem Heimstadion oder auch dem Acker, der als Spielfeld oder Trainingsstätte dient.
+ 
+ <!-- END EDIT -->
+ 
+ </p>
+]]></description> 
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Publikationen/kml/Spielhilfen/Imman_Mannschaften.kml</href>
+	</Link>
+</NetworkLink>
+
+</Folder>
+
+
+
+<NetworkLink>
+	<name>Webseiten</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+
+
+Das Ziel des <span style="font-weight: bold;">Webseiten-Projekts</span> ist es einen umfassenden, derographischen Index der DSA-Webseiten zu erstellen. Jede Webseite, welche sich vornehmlich mit einem Landstrich oder einem Ort auf Dere befasst, bekommt durch eine Ortsmarke eine Position auf dem Globus zugewiesen. Diese Geolokalisierung der Webseiten ermöglicht dem DereGlobus-Nutzer den "Blick von Oben" auf das "Große Ganze". Beispielsweise erleichtert das die Recherchearbeit des Meisters bei der Kampagnenplanung: Mit einem Blick kann er sehen, welche Webseiten Material zum bespielten Landstrich bereithalten. Diese weiterführende Inhalte sind meist besonders wertvoll für den Meister, da sie direkt und kostenlos verfügbar sind.<br>
+<br>
+Helfe mit, all den im wabernden Limbus treibenden Webseiten einen festen Anker in der dritten Sphäre zu geben, indem Du ihnen ihren auf dem Globus zuweist. Hast Du eine Lieblings-DSA-Webseite mit einem Ortsfokus oder bist selbst Betreiber einer solchen Homepage? Dann füge sie <span style="font-style: italic;">jetzt</span> dem DereGlobus-Projekt hinzu! Das folgende Video zeigt wie schnell und einfach das setzten einer Ortsmarke mit Hilfe des Formulars geht.<br>
+<br>
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/Ig-qtNbbgCo&hl=de_DE&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Ig-qtNbbgCo&hl=de_DE&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+
+
+]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+	<Link>
+		<href>http://spreadsheets.google.com/pub?key=0ApSSGF7wh5V6dF9RclFscHd0bmFyVkZrS1FMa0hvTkE&amp;hl=de&amp;output=txt&amp;gid=0&amp;range=kml_output</href>
+	</Link>
+	<atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="www.dereglobus.org"></atom:link><atom:generator url="http://spreadsheets.google.com/pub?key=0ApSSGF7wh5V6dF9RclFscHd0bmFyVkZrS1FMa0hvTkE&amp;hl=de&amp;output=html&amp;output=txt&amp;gid=1&amp;range=kml_output" version="">Google Earth Outreach - Spreadsheet Mapper 2.0 - http://earth.google.com/outreach/tutorial_mapper.html</atom:generator>
+</NetworkLink>
+
+
+</Document>
+</kml>

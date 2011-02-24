@@ -94,6 +94,6 @@ class Config {
 	}
 
 	void log(String logMessage) {
-		SwingUtilities.invokeLater { log.append logMessage }
+		SwingUtilities.invokeLater { log.append logMessage + "\n" }
 	}
 }

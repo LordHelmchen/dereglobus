@@ -138,5 +138,6 @@ class FtpCopier extends CopierBase {
 				config.log "Unterbrechen der FTP-Verbindung fehlgeschlagen!\n  > ($ioe.message)"
 			}
 		}
+		super.finish()
 	}
 }

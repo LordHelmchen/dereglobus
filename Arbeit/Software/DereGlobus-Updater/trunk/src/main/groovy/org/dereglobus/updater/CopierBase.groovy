@@ -37,5 +37,6 @@ abstract class CopierBase {
 	abstract protected boolean copyFile(File sourceFile);
 
 	protected void finish() {
+		config.log "Das Kopieren wurde erfolgreich beendet!"
 	}
 }

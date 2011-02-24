@@ -39,6 +39,8 @@ class DereGlobusUpdater {
 
 	def destField
 
+	def sourceField
+
 
 	public static void main(String[] args) {
 		config = new Config()
@@ -73,8 +75,10 @@ class DereGlobusUpdater {
 					scrollPane(constraints: "top") {
 						panel( layout: layout, border: Borders.DIALOG_BORDER) {
 							widget( widget: compFactory.createSeparator('Grundeinstellungen'), constraints: contraints.xyw(1, 1, 5))
-							button(constraints: contraints.xyw (1, 3, 2, "left, default"),
-									action: action(name: 'Quellverzeichnis wechseln', closure: openSourceChooser))
+							label("Quellverzeichnis",constraints: contraints.xy (1, 3))
+							sourceField = textField(text: config.sourcePath, constraints: contraints.xy (3, 3), editable: false)
+							button(constraints: contraints.xy (5, 3, "left, default"),
+									action: action(name: '...', closure: openSourceChooser))
 
 							widget( widget: compFactory.createSeparator('Lokales Kopieren'), constraints: contraints.xyw(1, 5, 5))
 							label("Zielverzeichnis",constraints: contraints.xy (1, 7))
@@ -110,6 +114,7 @@ class DereGlobusUpdater {
 		if (returnVal == JFileChooser.APPROVE_OPTION) {
 			File file = fc.getSelectedFile();
 			filesTree.setModel (new FileSystemCheckModel(file))
+			sourceField.text = file.getAbsolutePath()
 			config.setSourcePath(file.getAbsolutePath())
 		}
 	}

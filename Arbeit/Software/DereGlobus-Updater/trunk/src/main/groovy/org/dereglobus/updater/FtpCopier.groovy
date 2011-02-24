@@ -92,8 +92,10 @@ class FtpCopier extends Copier {
 			relativePath = relativePath.replace("\\", "/")
 			println "Kopiere $relativePath nach ${ftp.printWorkingDirectory()}/$relativePath"
 			boolean success
+			// in 90% der Fälle ist die Verzeichnisstruktur bereits vorhanden, also erstmal versuchen
 			sourceFile.withInputStream { instream -> success = storeFile ("$relativePath", instream) }
 			if (replyCode == NO_SUCH_FILE) {
+				// Verzeichnisse fehlen, also anlegen und nochmal versuchen
 				createPath relativePath[0..(relativePath.size()-sourceFile.name.size()-2)]
 				sourceFile.withInputStream { instream -> success = storeFile (relativePath, instream) }
 			}

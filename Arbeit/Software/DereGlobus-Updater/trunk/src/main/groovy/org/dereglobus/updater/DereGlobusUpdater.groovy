@@ -149,7 +149,7 @@ class DereGlobusUpdater {
 
 	def copy = {
 		saveConfig()
-		new Copier(config).copy(filesTree.getModel().getRoot())
+		new LocalCopier(config).copy(filesTree.getModel().getRoot())
 	}
 
 	def copyFtp = {

@@ -8,7 +8,7 @@ import org.apache.commons.net.ftp.FTPClient
 import org.apache.commons.net.ftp.FTPReply
 import org.dereglobus.updater.tree.CheckNode;
 
-class FtpCopier extends Copier {
+class FtpCopier extends CopierBase {
 
 	static final int NO_SUCH_FILE = 550
 	static final int TRANSFER_COMPLETE = 226

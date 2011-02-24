@@ -89,7 +89,7 @@ class FtpCopier extends Copier {
 	protected boolean copyFile(File sourceFile) {
 		ftp.with {
 			def relativePath = sourceFile.getAbsolutePath() - (config.sourcePath + File.separator)
-			relativePath.replace("\\", "/")
+			relativePath = relativePath.replace("\\", "/")
 			println "Kopiere $relativePath nach ${ftp.printWorkingDirectory()}/$relativePath"
 			boolean success
 			sourceFile.withInputStream { instream -> success = storeFile ("$relativePath", instream) }

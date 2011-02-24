@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+	<name>Siedlungen</name>
+	<open>1</open>
+	
+	<Folder><name>Aranien</name>
+				<open>1</open>
+				<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>1200</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+				<Placemark>
+					<name>Baburin</name>
+					<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+					<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">
+<!-- EDIT: LINK DES WAPPENS -->
+<img src="http://www.wiki-aventurica.de/images/2/21/Baburinwappenklein.gif" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Baburin</b> ist eine Großstadt im nördlichen <a href="www.wiki-aventurica.de/index.php?title=Aranien" title="Aranien">Aranien</a>, am <a href="www.wiki-aventurica.de/index.php?title=Barun-Ulah" title="Barun-Ulah">Barun-Ulah</a>. Sie ist Hauptsitz der tulamidischen <a href="www.wiki-aventurica.de/index.php?title=Rondra" title="Rondra">Rondrakirche</a> und besitzt das älteste erhaltene Standbild der Kriegsgöttin, die <a href="www.wiki-aventurica.de/index.php?title=Sechsarmige_Rondra_von_Nebachot&amp;action=edit&amp;redlink=1" class="new" title="Sechsarmige Rondra von Nebachot (Seite nicht vorhanden)">Sechsarmige Rondra von Nebachot</a>. Vor der Stadt befinden sich die <a href="www.wiki-aventurica.de/index.php?title=Blutfelder_von_Baburin&amp;action=edit&amp;redlink=1" class="new" title="Blutfelder von Baburin (Seite nicht vorhanden)">Blutfelder von Baburin</a>, auf denen das erste <a href="www.wiki-aventurica.de/index.php?title=Donnersturm" title="Donnersturm">Donnersturmrennen</a> stattfand. Der <a href="www.wiki-aventurica.de/index.php?title=Aventurien" title="Aventurien">aventurienweit</a> beliebte grüne Marmor wird in der Nähe gebrochen. Im Rondra findet jährlich ein <a href="www.wiki-aventurica.de/index.php?title=Ritterturnier" title="Ritterturnier">Ritterturnier</a> statt.
+
+
+<!-- END EDIT -->
+
+</p>
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Baburin-Plan;flyto">Stadtplan betrachten</a></div>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+				
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<longitude>6.157355264087935</longitude>
+						<latitude>28.76000295026938</latitude>
+						<altitude>0</altitude>
+						<range>405708.4185770254</range>
+						<tilt>0</tilt>
+						<heading>0.881939106497158</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Grossstadt_Karte</styleUrl>
+					<Point>
+						<coordinates>5.763380,28.085388,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Elburum</name>
+					<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+					<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">
+<!-- EDIT: LINK DES WAPPENS -->
+<img src="http://www.wiki-aventurica.de/images/6/62/Elburumwappenklein.gif" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Elburum</b>, die <i>weiße Stadt</i>, benannt nach den weißgetünchten Häusern, war bis <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" title="Chronik:1027">1027 BF</a> die Hauptstadt des <a href="http://www.wiki-aventurica.de/index.php?title=Oron" class="mw-redirect" title="Oron">Moghulats Oron</a>.<br>
+Nach der Befreiung durch <a href="http://www.wiki-aventurica.de/index.php?title=Iphemia_von_Narhuabad&amp;action=edit" class="new" title="Iphemia von Narhuabad">Iphemia von Narhuabad</a> wurde sie als Sultana eingesetzt. Ihr Ziel ist die Tilgung aller <a href="http://www.wiki-aventurica.de/index.php?title=Oron" class="mw-redirect" title="Oron">oronischer</a> Spuren in der Stadt und eine Restaurierung der Gesellschaft durch das Fördern <a href="http://www.wiki-aventurica.de/index.php?title=Aranien" title="Aranien">aranischer</a> Werte und des Sippenzusammenhaltes.<br>
+
+Der Hafen, der Bazar und die <a href="http://www.wiki-aventurica.de/index.php?title=Mada_Basari" class="mw-redirect" title="Mada Basari">Mada Basari</a> versprechen Reichtum.
+<!-- END EDIT -->
+
+</p>
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Elburum-Plan;flyto">Stadtplan betrachten</a></div>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<longitude>7.376405032664109</longitude>
+						<latitude>26.96772774997448</latitude>
+						<altitude>0</altitude>
+						<range>364736.9651341996</range>
+						<tilt>0</tilt>
+						<heading>0.393646557306365</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Grossstadt_Karte</styleUrl>
+					<Point>
+						<coordinates>8.719976,27.156839,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zorgan</name>
+					<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+					<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">
+<!-- EDIT: LINK DES WAPPENS -->
+<img src="http://www.wiki-aventurica.de/images/4/45/Zorganwappenklein.gif" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Hauptstadt <a href="www.wiki-aventurica.de/index.php?title=Aranien" title="Aranien">Araniens</a>, <b>Zorgan</b> (früher <b>Zorrigan </b> und <b>Zorgahan</b>), liegt im gleichnamigen <a href="www.wiki-aventurica.de/index.php?title=Sultanat_Zorgan" title="Sultanat Zorgan">Sultanat</a> an der Mündung des <a href="www.wiki-aventurica.de/index.php?title=Barun-Ulah" title="Barun-Ulah">Barun-Ulahs</a> ins <a href="www.wiki-aventurica.de/index.php?title=Perlenmeer" title="Perlenmeer">Perlenmeer</a>.<br>
+
+Der Name ist bekannt und gefürchtet wegen der <a href="www.wiki-aventurica.de/index.php?title=Zorgan-Pocken" title="Zorgan-Pocken">Zorgan-Pocken</a>, einer <a href="www.wiki-aventurica.de/index.php?title=Krankheit" title="Krankheit">Krankheit</a>, die vor knapp 100 Jahren etliche tausend Tote forderte und nur durch geschicktes Eingreifen der <a href="www.wiki-aventurica.de/index.php?title=Peraine" title="Peraine">Peraine</a>-Kirche gestoppt werden konnte. In der Folge war Zorgan Hauptsitz der <a href="www.wiki-aventurica.de/index.php?title=Peraine-Kirche" title="Peraine-Kirche">Peraine-Kirche</a>, die diesen aber <a href="www.wiki-aventurica.de/index.php?title=Chronik:1029" title="Chronik:1029">1029 BF</a> nach <a href="www.wiki-aventurica.de/index.php?title=Ilsur" title="Ilsur">Ilsur</a> verlegte.<br>
+In der Stadt stehen außerdem die <a href="www.wiki-aventurica.de/index.php?title=Schule_des_Seienden_Scheins" title="Schule des Seienden Scheins">Zauberschule des Seienden Scheins</a>, der Hauptsitz der <a href="www.wiki-aventurica.de/index.php?title=Blaue_Pfeile" title="Blaue Pfeile">Blauen Pfeile</a>, der Mondsilberpalast, die Schreiberschule mit typographischem Institut, das Theater und der Hauptsitz der <a href="www.wiki-aventurica.de/index.php?title=Mada_Basari" title="Mada Basari" class="mw-redirect">Mada Basari</a>.<br>
+
+Alle vier Jahre findet in Zorgan das <a href="www.wiki-aventurica.de/index.php?title=Aventurisches_Bardentreffen" title="Aventurisches Bardentreffen">aventurische Bardentreffen</a> statt.
+
+<!-- END EDIT -->
+
+</p>
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Zorgan-Plan;flyto">Stadtplan betrachten</a></div>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>7.052615380053671</longitude>
+					<latitude>27.13871740148224</latitude>
+					<altitude>0</altitude>
+					<range>240499.5687451957</range>
+					<tilt>0</tilt>
+					<heading>0.2467736637812835</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Grossstadt_Karte</styleUrl>
+				<Point>
+					<coordinates>6.982814,27.148798,0</coordinates>
+				</Point>
+			</Placemark>
+			</Folder>
+	</Document>
+</kml>

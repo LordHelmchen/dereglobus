@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Staatliche Bauwerke Anchopal</name>
+	<Region>
+      <LatLonAltBox>
+        <north>25.52146813100769</north>
+			<south>25.49415259521553</south>
+			<east>6.12567503533441</east>
+			<west>6.104396479180085</west>
+
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Morgenröte-Tor (1)</name>
+          <LookAt>
+            <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.110974250324994,25.51201916723129,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Abendsonnen-Tor (2)</name>
+          <LookAt>
+            <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.105421733397611,25.51166849333698,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Mondtor (3)</name>
+          <LookAt>
+            <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.108566740060748,25.51434360244129,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Sternentor (4)</name>
+          <LookAt>
+            <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.108256378421499,25.50969457374072,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Aquädukt (5)</name>
+          <LookAt>
+            <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.111517795632158,25.51422688899919,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Sultanspalast (6)</name>
+          <LookAt>
+            <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.109032817770855,25.51210086766946,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Garnison (12)</name>
+          <LookAt>
+            <longitude>6.108385099367642</longitude>
+            <latitude>25.50653392406414</latitude>
+            <altitude>0</altitude>
+            <range>494.8259740090246</range>
+            <tilt>0</tilt>
+            <heading>-0.002864161600797315</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.107678881033509,25.50658864863515,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      
+    </Document>
+</kml>

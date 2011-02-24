@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Sakrale Bauwerke Al'Ahabad</name>
+	<Region>
+      <LatLonAltBox>
+         <north>24.94240491187294</north>
+			<south>24.93742580187806</south>
+			<east>6.541741335862592</east>
+			<west>6.538226668038076</west>
+			<rotation>-47.70130691803328</rotation>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <Placemark>
+          <name>Rasthullah-Bethaus (6)</name>
+          <LookAt>
+            <longitude>6.540008295480343</longitude>
+            <latitude>24.93952784466773</latitude>
+            <altitude>1000</altitude>
+            <range>263.7852597187221</range>
+            <tilt>0</tilt>
+            <heading>1.023764805943883e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <Point id="KMLe_64">
+            <coordinates>6.540462857135639,24.93971116237437,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        </Placemark>
+        <Placemark>
+          <name>Grabmal (11)</name>
+          <LookAt>
+            <longitude>6.540562153480124</longitude>
+            <latitude>24.9402132650827</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583392871</range>
+            <tilt>0</tilt>
+            <heading>0.0002437918164977473</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <Point id="KMLe_66">
+            <coordinates>6.540875525769403,24.94063097279684,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        </Placemark>
+        <Placemark>
+          <name>Kleines Rasthullah-Bethaus (14)</name>
+          <LookAt>
+            <longitude>6.540562153480124</longitude>
+            <latitude>24.9402132650827</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583392871</range>
+            <tilt>0</tilt>
+            <heading>0.0002437918164977473</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <Point id="KMLe_68">
+            <coordinates>6.540456737181854,24.94098976036055,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+      </Folder>
+    </Document>
+</kml>

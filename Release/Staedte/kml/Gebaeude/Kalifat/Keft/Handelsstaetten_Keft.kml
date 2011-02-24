@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">   
+   <Folder>
+        <name>Keft</name>
+    <Region>
+      <LatLonAltBox>
+        <north>23.55872551719856</north>
+		<south>23.55210428180258</south>
+		<east>3.192472919155192</east>
+		<west>3.1816822016257</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+        <Placemark>
+          <name>Karawanserei (4)</name>
+          <LookAt>
+            <longitude>3.187690267666981</longitude>
+            <latitude>23.55601396814191</latitude>
+            <altitude>0</altitude>
+            <range>1011.878509649305</range>
+            <tilt>1.452909209547815</tilt>
+            <heading>0.0001059250083113551</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+          <Point>
+            <coordinates>3.187450139370733,23.55706997868932,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+  </Document>
+</kml>

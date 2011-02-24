@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Gaststätten Unau</name>
+		<Region>
+      <LatLonAltBox>
+         <north>22.54930733346729</north>
+			<south>22.54389861405931</south>
+			<east>3.500683301590294</east>
+			<west>3.492824491738181</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Gasthaus "Bei Assaf" (9)</name>
+          <LookAt>
+            <longitude>3.496971700869909</longitude>
+            <latitude>22.54746355635644</latitude>
+            <altitude>0</altitude>
+            <range>264.9227883200103</range>
+            <tilt>3.016796275200939</tilt>
+            <heading>0.04766214901465</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+          <Point>
+            <coordinates>3.496645735738642,22.54739051182432,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schenke "Cichanebi" (10)</name>
+          <LookAt>
+            <longitude>3.495653266826849</longitude>
+            <latitude>22.54668974801754</latitude>
+            <altitude>0</altitude>
+            <range>434.1747928295581</range>
+            <tilt>3.016796275202994</tilt>
+            <heading>0.0471566514067646</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+          <Point>
+            <coordinates>3.494819100696318,22.54650959431174,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Gasthaus "Die Peitsche" (11)</name>
+          <LookAt>
+            <longitude>3.496384590890416</longitude>
+            <latitude>22.5457770407672</latitude>
+            <altitude>0</altitude>
+            <range>466.8477586015533</range>
+            <tilt>1.844759486969653</tilt>
+            <heading>0.04745523430016193</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+          <Point>
+            <coordinates>3.496012104350983,22.545395570492,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schenke "Lotusgarten" (18)</name>
+          <LookAt>
+            <longitude>3.495308917977213</longitude>
+            <latitude>22.54533619259619</latitude>
+            <altitude>0</altitude>
+            <range>466.8477586008791</range>
+            <tilt>1.844759486969456</tilt>
+            <heading>0.04704280983760138</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+          <Point>
+            <coordinates>3.494893854763075,22.54489972166597,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Sakrale Bauwerke Anchopal</name>
+	<Region>
+      <LatLonAltBox>
+        <north>25.52146813100769</north>
+			<south>25.49415259521553</south>
+			<east>6.12567503533441</east>
+			<west>6.104396479180085</west>
+
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Peraine-Tempel (Stadttempel) (7)</name>
+          <LookAt>
+            <longitude>6.108175256248719</longitude>
+            <latitude>25.51106124225797</latitude>
+            <altitude>0</altitude>
+            <range>494.8259740067164</range>
+            <tilt>0</tilt>
+            <heading>-0.002954468169289866</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>6.107755370451489,25.5114576708595,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Bethaus des Rastullah (8)</name>
+          <LookAt>
+            <longitude>6.108175256248719</longitude>
+            <latitude>25.51106124225797</latitude>
+            <altitude>0</altitude>
+            <range>494.8259740067164</range>
+            <tilt>0</tilt>
+            <heading>-0.002954468169289866</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>6.108498032031462,25.51120800861341,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Rondratempel (9)</name>
+          <LookAt>
+            <longitude>6.108175256248719</longitude>
+            <latitude>25.51106124225797</latitude>
+            <altitude>0</altitude>
+            <range>494.8259740067164</range>
+            <tilt>0</tilt>
+            <heading>-0.002954468169289866</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>6.108580593906419,25.51036692725901,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Phextempel (10)</name>
+          <LookAt>
+            <longitude>6.108175256248719</longitude>
+            <latitude>25.51106124225797</latitude>
+            <altitude>0</altitude>
+            <range>494.8259740067164</range>
+            <tilt>0</tilt>
+            <heading>-0.002954468169289866</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>6.10697385764484,25.51190007834416,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Rahja-Tempel (13)</name>
+          <LookAt>
+            <longitude>6.120570981580523</longitude>
+            <latitude>25.51177235124471</latitude>
+            <altitude>0</altitude>
+            <range>483.3608384987095</range>
+            <tilt>0</tilt>
+            <heading>0.002383849764918035</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>6.120587597351661,25.51221952163387,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Peraine-Tempel (Pilgertempel) (14)</name>
+          <LookAt>
+            <longitude>6.120570981580523</longitude>
+            <latitude>25.51177235124471</latitude>
+            <altitude>0</altitude>
+            <range>483.3608384987095</range>
+            <tilt>0</tilt>
+            <heading>0.002383849764918035</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>6.121317790193032,25.51231791334372,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

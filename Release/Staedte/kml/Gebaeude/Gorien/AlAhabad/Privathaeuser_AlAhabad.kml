@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+     <Folder>
+        <name>Privathäuser Al'Ahabad</name>
+	<Region>
+      <LatLonAltBox>
+         <north>24.94240491187294</north>
+			<south>24.93742580187806</south>
+			<east>6.541741335862592</east>
+			<west>6.538226668038076</west>
+			<rotation>-47.70130691803328</rotation>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+      </Region>
+        <Placemark>
+          <name>Haus des Abu'l Ghulshachim (19)</name>
+          <LookAt>
+            <longitude>6.541043643530816</longitude>
+            <latitude>24.93928095870989</latitude>
+            <altitude>0</altitude>
+            <range>101.2549595273045</range>
+            <tilt>0</tilt>
+            <heading>0.0004467996689224718</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+          <Point id="KMLe_68">
+            <coordinates>6.541094555458489,24.93928499214295,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Zugang zum "beît al'Khor" (20)</name>
+          <LookAt>
+            <longitude>6.539873603861444</longitude>
+            <latitude>24.93989868705813</latitude>
+            <altitude>1000</altitude>
+            <range>177.7597542943263</range>
+            <tilt>0</tilt>
+            <heading>-4.655720039602998e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+          <Point id="KMLe_71">
+            <coordinates>6.539315629878606,24.94012136310129,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+      </Folder>
+    </Document>
+</kml>

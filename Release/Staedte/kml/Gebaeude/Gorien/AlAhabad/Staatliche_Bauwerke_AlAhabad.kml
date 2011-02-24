@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Staatliche Bauwerke Al'Ahabad</name>
+	<Region>
+      <LatLonAltBox>
+         <north>24.94240491187294</north>
+			<south>24.93742580187806</south>
+			<east>6.541741335862592</east>
+			<west>6.538226668038076</west>
+			<rotation>-47.70130691803328</rotation>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <Placemark>
+          <name>Aufgang und Wächter-Golemid (1)</name>
+          <LookAt>
+            <longitude>6.53859182357879</longitude>
+            <latitude>24.93878288779573</latitude>
+            <altitude>1000</altitude>
+            <range>263.7852597197153</range>
+            <tilt>0</tilt>
+            <heading>-0.0005870214692882955</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_70">
+            <coordinates>6.538600837854096,24.93874902653101,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>"bab-el-masa" - Tor des Abends (2)</name>
+          <LookAt>
+            <longitude>6.539482910711552</longitude>
+            <latitude>24.93924761208119</latitude>
+            <altitude>0</altitude>
+            <range>263.7852597205399</range>
+            <tilt>0</tilt>
+            <heading>-0.0002112958718008311</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_72">
+            <coordinates>6.539010324133441,24.9390946497567,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>"bab-es-sabah" - Tor des Morgens (8)</name>
+          <LookAt>
+            <longitude>6.540547708276152</longitude>
+            <latitude>24.93989638164082</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583358019</range>
+            <tilt>0</tilt>
+            <heading>0.0002376941641083327</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_74">
+            <coordinates>6.540416297015639,24.94025909499584,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>"bab-el-bir" - Tor der Quelle (9)</name>
+          <LookAt>
+            <longitude>6.540423517643295</longitude>
+            <latitude>24.94035468366977</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583367978</range>
+            <tilt>0</tilt>
+            <heading>0.0001853291034825335</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_76">
+            <coordinates>6.540621359569416,24.94043455833883,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Audienzhalle (10)</name>
+          <LookAt>
+            <longitude>6.540423517643295</longitude>
+            <latitude>24.94035468366977</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583367978</range>
+            <tilt>0</tilt>
+            <heading>0.0001853291034825335</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_78">
+            <coordinates>6.540768658569793,24.94054978775857,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Alter Palast (12)</name>
+          <LookAt>
+            <longitude>6.540562153480124</longitude>
+            <latitude>24.9402132650827</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583392871</range>
+            <tilt>0</tilt>
+            <heading>0.0002437918164977473</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_80">
+            <coordinates>6.540976614032443,24.94073572710487,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Kleiner (Wesirs-)Palast (13)</name>
+          <LookAt>
+            <longitude>6.540562153480124</longitude>
+            <latitude>24.9402132650827</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583392871</range>
+            <tilt>0</tilt>
+            <heading>0.0002437918164977473</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_82">
+            <coordinates>6.540326767079994,24.94082477152783,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Neuer (Sultans-)Palast (15)</name>
+          <LookAt>
+            <longitude>6.541203329870046</longitude>
+            <latitude>24.93992256715124</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583390357</range>
+            <tilt>0</tilt>
+            <heading>0.0005141569391633316</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_84">
+            <coordinates>6.541019932079733,24.94017528903954,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Palast des Yakubanim (16)</name>
+          <LookAt>
+            <longitude>6.541203329870046</longitude>
+            <latitude>24.93992256715124</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583390357</range>
+            <tilt>0</tilt>
+            <heading>0.0005141569391633316</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_86">
+            <coordinates>6.541074804233633,24.9397746022757,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Gesindetrakt (18)</name>
+          <LookAt>
+            <longitude>6.540510161976084</longitude>
+            <latitude>24.94055371970765</latitude>
+            <altitude>0</altitude>
+            <range>295.8198583385331</range>
+            <tilt>0</tilt>
+            <heading>0.0002218753784903964</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point id="KMLe_88">
+            <coordinates>6.539893529438872,24.94105261522632,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+      </Folder>
+    </Document>
+</kml>

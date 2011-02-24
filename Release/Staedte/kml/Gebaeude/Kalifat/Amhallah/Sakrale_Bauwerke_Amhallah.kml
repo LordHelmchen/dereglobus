@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Sakrale Bauwerke Amhallah</name>
+	<Region>
+		<LatLonAltBox>
+			<north>26.38088943619859</north>
+			<south>26.37212976563695</south>
+			<east>0.4528332612749736</east>
+			<west>0.438634977829398</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <Placemark>
+          <name>Schrein des Phex (4)</name>
+          <LookAt>
+            <longitude>0.4464044122111832</longitude>
+            <latitude>26.37727969522851</latitude>
+            <altitude>0</altitude>
+            <range>410.4962641442092</range>
+            <tilt>0</tilt>
+            <heading>0.0002981760954548603</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>0.4459399542647402,26.37764128823349,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Haus der Tsa (6)</name>
+          <LookAt>
+            <longitude>0.4464044122111832</longitude>
+            <latitude>26.37727969522851</latitude>
+            <altitude>0</altitude>
+            <range>410.4962641442092</range>
+            <tilt>0</tilt>
+            <heading>0.0002981760954548603</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>0.4470595117201826,26.37623852218501,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Haus der Peraine (9)</name>
+          <LookAt>
+            <longitude>0.4456261058666101</longitude>
+            <latitude>26.37671076673066</latitude>
+            <altitude>0</altitude>
+            <range>483.1986584585852</range>
+            <tilt>0</tilt>
+            <heading>-4.759762997984327e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>0.4444013614547626,26.37704656180831,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Tempel des Rasthullah (10)</name>
+          <LookAt>
+            <longitude>0.4459460144381033</longitude>
+            <latitude>26.37564561062228</latitude>
+            <altitude>0</altitude>
+            <range>483.1986584572788</range>
+            <tilt>0</tilt>
+            <heading>9.450749640095758e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>0.4451605677409609,26.37512586695837,0</coordinates>
+          </Point>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+      </Folder>
+    </Document>
+</kml>

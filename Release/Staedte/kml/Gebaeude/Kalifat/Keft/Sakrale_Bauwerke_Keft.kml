@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+       <Folder>
+        <name>Sakrale Bauwerke Keft</name>
+    <Region>
+      <LatLonAltBox>
+        <north>23.55872551719856</north>
+		<south>23.55210428180258</south>
+		<east>3.192472919155192</east>
+		<west>3.1816822016257</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Placemark>
+          <name>Bethaus des Rastullah (1)</name>
+          <LookAt>
+            <longitude>3.187155591075719</longitude>
+            <latitude>23.55545842666132</latitude>
+            <altitude>0</altitude>
+            <range>1069.073678659499</range>
+            <tilt>1.452909209550575</tilt>
+            <heading>-0.0001077336882972231</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>3.185306904068022,23.55451873337609,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Feld der Offenbarung (2)</name>
+          <LookAt>
+            <longitude>3.186728733751352</longitude>
+            <latitude>23.55523388386224</latitude>
+            <altitude>0</altitude>
+            <range>1069.073678660107</range>
+            <tilt>1.452909209549571</tilt>
+            <heading>-0.0002783292259801526</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+          <Point>
+            <coordinates>3.184943453674001,23.55395534763758,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

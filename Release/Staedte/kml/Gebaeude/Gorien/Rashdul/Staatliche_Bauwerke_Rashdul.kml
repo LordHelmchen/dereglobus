@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Staatliches Bauwerk Rashdul</name>
+		<Region>
+      <LatLonAltBox>
+         <north>24.24816262826509</north>
+			<south>24.23520578742035</south>
+			<east>6.276232769565437</east>
+			<west>6.266455384534377</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Rashduls Wehrhaus (2)</name>
+          <LookAt>
+            <longitude>6.273388946401834</longitude>
+            <latitude>24.24184815200676</latitude>
+            <altitude>0</altitude>
+            <range>430.7041298584818</range>
+            <tilt>0</tilt>
+            <heading>0.0008395866640456876</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.273679575845246,24.2418233634607,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Palast des Sultans (4)</name>
+          <LookAt>
+            <longitude>6.274814913911007</longitude>
+            <latitude>24.241871006604</latitude>
+            <altitude>0</altitude>
+            <range>430.7041298554992</range>
+            <tilt>0</tilt>
+            <heading>0.001424989054396884</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.275323003357023,24.2421741265159,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Madamaltor (18)</name>
+          <LookAt>
+            <longitude>6.271915686448402</longitude>
+            <latitude>24.24166564430465</latitude>
+            <altitude>0</altitude>
+            <range>495.4763310917198</range>
+            <tilt>0</tilt>
+            <heading>0.0002344560567380544</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.271581350390743,24.24181258975455,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      
+      
+    </Document>
+</kml>

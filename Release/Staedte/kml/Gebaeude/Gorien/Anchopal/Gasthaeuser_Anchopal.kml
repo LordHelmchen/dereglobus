@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+   <Folder>
+        <name>Gaststätten Anchopal</name> 
+	<Region>
+      <LatLonAltBox>
+        <north>25.52146813100769</north>
+			<south>25.49415259521553</south>
+			<east>6.12567503533441</east>
+			<west>6.104396479180085</west>
+
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+          <LabelStyle>
+            <scale>1</scale>
+          </LabelStyle>
+        </Style>
+        <Placemark>
+          <name>Karawanserei der Mada Basari (11)</name>
+          <LookAt>
+            <longitude>6.108175256248719</longitude>
+            <latitude>25.51106124225797</latitude>
+            <altitude>1000</altitude>
+            <range>494.8259740067164</range>
+            <tilt>0</tilt>
+            <heading>-0.002954468169289866</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+          <Point id="KMLe_223">
+            <coordinates>6.107750478610276,25.51207096320077,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

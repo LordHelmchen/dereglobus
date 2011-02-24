@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document><atom:author><atom:name>DereGlobus</atom:name></atom:author><atom:link href="http://www.dereglobus.orkenspalter.de/public/">
+             <Folder>
+        <name>Öffentliches Gebäude Rashdul</name>
+		<Region>
+      <LatLonAltBox>
+         <north>24.24816262826509</north>
+			<south>24.23520578742035</south>
+			<east>6.276232769565437</east>
+			<west>6.266455384534377</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Hauptplatz (1)</name>
+          <LookAt>
+            <longitude>6.271344077049927</longitude>
+            <latitude>24.24168420784273</latitude>
+            <altitude>0</altitude>
+            <range>430.7041298564454</range>
+            <tilt>0</tilt>
+            <heading>-1.272221872585406e-013</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.27227451211702,24.24182337908874,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Pentagrammakademie (3)</name>
+          <LookAt>
+            <longitude>6.271707869092118</longitude>
+            <latitude>24.24032677827743</latitude>
+            <altitude>0</altitude>
+            <range>430.7041298564182</range>
+            <tilt>0</tilt>
+            <heading>0.0001493256553599429</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.27038017785017,24.24088919277503,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Reiterlager der Novadis (15)</name>
+          <LookAt>
+            <longitude>6.271535642502868</longitude>
+            <latitude>24.24688987856525</latitude>
+            <altitude>0</altitude>
+            <range>495.4763310926901</range>
+            <tilt>0</tilt>
+            <heading>7.857207696398742e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/ReleaseDereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.270561454084554,24.24714648174698,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

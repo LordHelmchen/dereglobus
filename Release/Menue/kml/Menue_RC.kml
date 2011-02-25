@@ -97,10 +97,10 @@ a:hover { text-decoration: underline; color: #d5ac00; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 #footnote { font-size:10px; }
 --></style>
-<table cellpadding="10" cellspacing="0" align="center" width="470" height="390">
+<table cellpadding="10" cellspacing="0" align="center" width="350" height="550">
 <tr>
 <td>
-<span style="color:#cccccc">Hier erfährst Du brandneue Neuigkeiten rund um DereGlobus: Blog-Artikel, Updates und Einträge im Entwicklertagebuch. Um den Ticker anzuhalten, einfach mit der Maus drüberfahren und in Ruhe lesen - und bei interessanten Themen auf die weiterführende Links klicken. Du kannst die News auch <a href="http://www.dereglobus.org/neuigkeiten">abonnieren</a>.<br><br>
+<span style="color:#cccccc">Hier erfährst Du brandneue News rund um DereGlobus: Updates, Blog-Posts, Einträge im Entwicklertagebuch und Gezwitscher bei Twitter. Um den Ticker anzuhalten, einfach mit der Maus drüberfahren und in Ruhe lesen - und bei interessanten Themen auf die weiterführende Links klicken.</span>
 <script src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
 new TWTR.Widget({
@@ -111,7 +111,7 @@ new TWTR.Widget({
   title: 'Tweets von Weltenbauern:',
   subject: 'DereGlobus Twitter',
   width: 'auto',
-  height: 200,
+  height: 300,
   theme: {
     shell: {
       background: '#1c1c1c',
@@ -133,7 +133,9 @@ new TWTR.Widget({
     behavior: 'default'
   }
 }).render().setUser('DereGlobus').start();
-</script>
+</script><br><span style="color:#4D4D4D"><small>Falls du über diesem Satz keine Neuigkeiten angezeigt bekommst, verwendest du die falsche Google Earth Version. Dadurch ergeben sich weitere Einschränkungen für DereGlobus! <a href="http://www.dereglobus.org/dokumentation/handbuch/dereglobus-probleme-mit-google-earth-5-1">Problem lösen</a></small></span><br>
+<center><p><span style="color:#cccccc">News-Twitter abonnieren: <a href="http://feeds.feedburner.com/dereglobus/news-twitter" rel="alternate" title="Per E-Mail abonnieren" type="application/rss+xml"><img alt="E-Mail" style="border: 0pt none;" src="http://www.dereglobus.org/_/rsrc/1264274211880/Mail.jpg" /></a> 
+<a href="http://twitter.com/statuses/user_timeline/19227026.rss" rel="alternate" title="per Rss-feed abonnieren" type="application/rss+xml"><img alt="RSS" style="border: 0pt none;" src="http://www.dereglobus.org/_/rsrc/1264094398631/RSS27x27.png?height=16&width=16" /></a></span></p></center>
 </td>
 </tr>
 </table>]]></description>
@@ -154,7 +156,7 @@ new TWTR.Widget({
 			</Lod>
 		</Region>
 		<styleUrl>#menue</styleUrl>
-		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<!--<gx:balloonVisibility>1</gx:balloonVisibility>-->
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Twitterbird.png</href>
 		</Icon>

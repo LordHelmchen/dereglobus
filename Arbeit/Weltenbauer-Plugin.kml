@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+ 	<Style id="wip">
+    	<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+			<ItemIcon>     
+				<href>http://dereglobus.googlecode.com/svn/Release/Menue/media/WIP.png</href>
+  			</ItemIcon>     
+		</ListStyle>
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
 <NetworkLink>
-	<name>WIP</name>
+	<name>Arbeitsdaten</name>
 	<open>1</open>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #d5ac00; } a:hover { text-decoration: underline; color: #d5ac00; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #footnote { font-size:10px; } .style4 {font-size: x-large} --></style>Der Weltenbauer-Manager hilft uns den Überblick über laufende Projekte in DereGlobus zu behalten. Du kannst über ein Formular neue KML-Arbeitsdateien und zugehörige Informationen verschicken, welche dann in einer Tabelle weiterverarbeitet und verwaltet werden. Die KML-Dateien können direkt mit diesem Plugin im DereGlobus Release Candidate (RC) betrachtet werden genau wie die dazugehörigen Forenthreads. Dadurch erreichen Deine Dateien auf direktem Weg die Tester und Lektoren - hier in Google Earth!]]></description>
+	<styleUrl>#wip</styleUrl>
 	<Link>
 		<href>https://spreadsheets.google.com/pub?key=0ApSSGF7wh5V6dHpGN1RYSmVWZmJvVkZEaWtGSXl2OWc&amp;single=true&amp;gid=4&amp;range=A2%3AA100&amp;output=txt</href>
 	</Link>
 </NetworkLink>
+
+</Document>
 </kml>

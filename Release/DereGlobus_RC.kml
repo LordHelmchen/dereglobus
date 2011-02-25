@@ -15,7 +15,18 @@
 		</ListStyle>
 	</Style>
 
+	
+	
 
+ 	<Style id="wip">
+    		<ListStyle>
+			<ItemIcon>     
+				<href>http://dereglobus.googlecode.com/svn/Release/Menue/media/WIP.png</href>
+  			</ItemIcon>     
+		</ListStyle>
+	</Style>
+
+	
 
 
  	<Style id="Menue">
@@ -50,8 +61,17 @@
 		<altitudeMode>relativeToGround</altitudeMode>
 	</LookAt>
 
+	
 
-
+	<NetworkLink>
+		<name>Weltenbau</name>
+		<open>0</open>
+		<styleUrl>#wip</styleUrl>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Arbeit/Weltenbauer-Plugin.kml</href>
+		</Link>
+	</NetworkLink>
+	
 
 
 	<NetworkLink>
@@ -79,6 +99,8 @@
 
 
 
+	
+	
 
 </Document>
 </kml>

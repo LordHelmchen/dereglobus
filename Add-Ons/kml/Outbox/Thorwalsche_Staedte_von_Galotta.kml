@@ -1,0 +1,3295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mein Thorwal.kmz</name>
+	<Style id="sn_Dorf4">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf8">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf13">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf8">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf5">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf15">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Grossstadt_Karte">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt_Karte.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf21">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Kleinstadt2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Kleinstadt</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Kleinstadt1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Kleinstadt2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Kleinstadt1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Kleinstadt0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Kleinstadt3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Kleinstadt2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf50">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf10">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Kleinstadt2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf11">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf0000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf6">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf9">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf90">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf100">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf00">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Kleinstadt1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Kleinstadt2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Kleinstadt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Kleinstadt">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf500">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf12">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf3">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf13">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf50">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf40">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf11">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf71">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf4">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Kleinstadt3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf31">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf000">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf41">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf12">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf9">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Kleinstadt">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf14">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf0000">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Grossstadt_Karte3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt_Karte.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf01">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf30">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf70">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt_Karte2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt_Karte3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt_Karte</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Mein Thorwal</name>
+		<Folder>
+			<name>Metropolen</name>
+			<Placemark>
+				<name>Thorwal</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Thorwal"><!-- END EDIT --><!-- EDIT: LINK DES WAPPENS --><img height="122" alt="Wappen" src="http://www.wiki-aventurica.de/images/a/ac/Andergaststadtwappenklein.gif" width="100" align="right" /></a> <!-- END EDIT --><!-- EDIT: KURZBESCHREIBUNG (CODE) --><b>Thorwal</b> ist die größte Siedlung der Thorwaler, Hafenstadt und Hjaldinghjolm (Ort des obersten Hjalding) an der M&uuml;ndung des <a title="Bodir" href="http://www.wiki-aventurica.de/index.php?title=Bodir">Bodir</a> in den <a title="Golf von Prem" href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem">Golf von Prem</a>.
+Die Stadt wird von <a title="Hasgar Tildasson" href="http://www.wiki-aventurica.de/index.php?title=Hasgar Tildasson">Hasgar Tildasson</a>, dem Hetmann vom Bodir und der <a title="Surensdottir-Ottajasko" href="http://www.wiki-aventurica.de/index.php?title=Surensdottir-Ottajasko">Surensdottir-Ottajasko</a>, und von Jurga Trondesdottir, der Obersten Hetfrau, gemeinsam mit dem Folkerat und dem Rat der Schiffsführer geleitet.
+Sie bezeichnet sich auch als "Stadt der Freien" und stellt zugleich das Jarltum Thorwal dar.</p>
+            <!-- END EDIT -->
+            <p>&nbsp;</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel 
+
+<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)">
+<!-- END EDIT -->
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+
+</a>aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine 
+
+<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den 
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.363637342565319</longitude>
+					<latitude>32.63993354822131</latitude>
+					<altitude>58948.20308063996</altitude>
+					<heading>-1.227032558541719</heading>
+					<tilt>0.3733125395228763</tilt>
+					<roll>1.672827047211803e-009</roll>
+				</Camera>
+				<styleUrl>#msn_Grossstadt_Karte2</styleUrl>
+				<Point>
+					<coordinates>-4.125619357846855,32.73728743535767,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Dorf</name>
+			<Placemark>
+				<name>Angbodirtal</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Angbodirtal</b> liegt an der Mündung des <a href="http://www.wiki-aventurica.de/index.php?title=Arval" title="Arval">Arval</a> in den <a href="http://www.wiki-aventurica.de/index.php?title=Bodir" title="Bodir">Bodir</a>. Der Ort befindet sich auf der rechten Seite des Bodir, welcher hier - allerdings nicht durch eine Brücke - überquert werden kann.
+<!-- END EDIT -->
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.65270226449623</longitude>
+					<latitude>33.21538981560011</latitude>
+					<altitude>77816.45223148135</altitude>
+					<heading>-1.163397420182197</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf41</styleUrl>
+				<Point>
+					<coordinates>-3.964305347809257,33.19398674298174,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Auplog</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Auplog</b> liegt im <a href="http://www.wiki-aventurica.de/index.php?title=Bodirtal" title="Bodirtall">Bodirtal</a> am <a href="http://www.wiki-aventurica.de/index.php?title=Bodir" title="Bodir">Bodir</a>. Hier trifft der Weg von <a href="http://www.wiki-aventurica.de/index.php?title=Varnheim" title="Varnheim">Varnheim</a> an der Küste des <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golfs von Prem</a> auf den <a href="http://www.wiki-aventurica.de/index.php?title=Bodirstieg" title="Bodirstieg">Bodirstieg</a> Richtung <a href="http://www.wiki-aventurica.de/index.php?title=Phexcaer" title="Phexcaer">Phexcaer</a>.
+<!-- END EDIT -->
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.941640360467471</longitude>
+					<latitude>33.28460536881696</latitude>
+					<altitude>38528.07215393271</altitude>
+					<heading>-1.319875804719026</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf9</styleUrl>
+				<Point>
+					<coordinates>-4.044121817438291,33.31400240420831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bodon</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Bodon</b> liegt im <a href="http://www.wiki-aventurica.de/index.php?title=Bodirtal" title="Arval">Bodirtal</a> an der Mündung des <a href="http://www.wiki-aventurica.de/index.php?title=Vrala" title="Vrala">Vrala</a> in den <a href="http://www.wiki-aventurica.de/index.php?title=Bodir" title="Bodir">Bodir</a>. Ganz in der Nähe verläuft der <a href="http://www.wiki-aventurica.de/index.php?title=Bodirstieg" title="Bodirstieg">Bodirstieg</a> Richtung <a href="http://www.wiki-aventurica.de/index.php?title=Phexcaer" title="Phexcaer">Phexcaer</a>. In <a href="http://www.wiki-aventurica.de/index.php?title=Bodon" title="Bodon">Bodon</a> befindet sich nach Phexcaer die zweite Brücke über den Bodir. Der Ort wurde einst von einer Friedlosen aus Vilnvad und ihren Anhängern gegründet. Mit den <a href="http://www.wiki-aventurica.de/index.php?title=Ork" title="Ork">Orks</a> treiben die Bewohner viel Handel, auch kultureller Art.
+<!-- END EDIT -->
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.965454671963915</longitude>
+					<latitude>33.49110248746292</latitude>
+					<altitude>35439.64007564948</altitude>
+					<heading>-1.336169823141753</heading>
+					<tilt>0</tilt>
+					<roll>-1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf3</styleUrl>
+				<Point>
+					<coordinates>-3.930684969306881,33.49837716078246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Breida</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Breida</b> liegt im fruchtbaren Hügelland in der Umgebung des <a href="http://www.wiki-aventurica.de/index.php?title=Bodirtal" title="Bodirtal">Bodirtals</a>. Über den <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a>, der sich hier aufgabelt, ist es mit drei Ortschaften verbunden.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.726776669548404</longitude>
+					<latitude>32.66608392314868</latitude>
+					<altitude>43771.35442741164</altitude>
+					<heading>2.346053557157973</heading>
+					<tilt>0</tilt>
+					<roll>3.975693351829396e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf40</styleUrl>
+				<Point>
+					<coordinates>-3.738477607092283,32.67464698176773,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Daspota</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Daspota</b> war ein berüchtigtes Piratennest. <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1005" title="Chronik:1005">1005 BF</a> entführten Piraten aus Daspota sogar die nostrische <a href="http://www.wiki-aventurica.de/index.php?title=Yasmina" title="Yasmina">Yasmina</a>. Doch auch vor ihren Landsleuten machten die Piraten nicht halt. Deshalb stürmte der Oberste <a href="http://www.wiki-aventurica.de/index.php?title=Hetmann" title="Hetmann">Hetmann</a> <a href="http://www.wiki-aventurica.de/index.php?title=Tronde Torbensson" title="Tronde Torbensson">Tronde Torbensson</a> <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1014" title="Chronik:1014 ">1014 BF</a> zusammen mit seiner Hetgarde und Kämpfern von <a href="http://www.wiki-aventurica.de/index.php?title=Hjalland" title="Hjalland">Hjalland</a> den Ort und richtete die überlebenden Piraten hin. Anschließend erklärte er den Ort zum <a href="http://www.wiki-aventurica.de/index.php?title=Hetort" title="Hetort">Hetort</a> und unterstellte ihn direkt den Obersten Hetleuten. Heute prägen Händler das Bild des Ortes.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.761718871736373</longitude>
+					<latitude>33.45867938147951</latitude>
+					<altitude>37501.11566125952</altitude>
+					<heading>-1.454563559492305</heading>
+					<tilt>0.3745619063274672</tilt>
+					<roll>7.059873250751217e-010</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf4</styleUrl>
+				<Point>
+					<coordinates>-4.693317218492183,33.41198025913161,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Efferdûn</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Efferdûn</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a> südlich von <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)" title="Thorwal (Stadt)">Thorwal</a>. Die nächsten Orte an der Küstenstraße sind <a href="http://www.wiki-aventurica.de/index.php?title=Merske" title="Merske">Merske</a> im Norden und <a href="http://www.wiki-aventurica.de/index.php?title=Svafdûn" title="Svafdûn">Svafdûn</a> im Süden. Ein Weg führt ins Landesinnere nach <a href="http://www.wiki-aventurica.de/index.php?title=Oberluell" title="Oberluell">Oberluell</a>. In dem umliegenden Land gibt es viele <a href="http://www.wiki-aventurica.de/index.php?title=Troll" title="Troll">Trolle</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.874872556922485</longitude>
+					<latitude>32.25662878308905</latitude>
+					<altitude>81779.57743348905</altitude>
+					<heading>-1.326306607377766</heading>
+					<tilt>0</tilt>
+					<roll>-1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf8</styleUrl>
+				<Point>
+					<coordinates>-4.2335096105917,32.29337465387435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Felsteyn</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+In <b>Felsteyn</b> wird lediglich Erz und <a href="http://www.wiki-aventurica.de/index.php?title=Zwergensilber" title="Zwergensilber">Zwergensilber</a> abgebaut. Aber die Gier der <a href="http://www.wiki-aventurica.de/index.php?title=Zwerg" title="Zwerg">Zwerge</a>, die untereinander zerstritten sind, erweckt den Eindruck, dass in den umliegenden <a href="http://www.wiki-aventurica.de/index.php?title=Hjaldorberge" title="Hjaldorberge">Hjaldorbergen</a> ein weit größerer Schatz versteckt ist.
+
+<!-- END EDIT -->
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.082543171371515</longitude>
+					<latitude>33.78133648126909</latitude>
+					<altitude>42073.42448989431</altitude>
+					<heading>-2.090628369217461</heading>
+					<tilt>0</tilt>
+					<roll>-1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf21</styleUrl>
+				<Point>
+					<coordinates>-4.023478222583799,33.77919326445453,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ingvalla</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Ingvalla </b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Ingval" title="Ingval">Ingval</a> im südlichen <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a> an der Grenze zu <a href="http://www.wiki-aventurica.de/index.php?title=Nostria" title="Nostria">Nostria</a>. Parallel zum namensgebenden Fluss verläuft ein Weg, der nach <a href="http://www.wiki-aventurica.de/index.php?title=Rovamund" title="Rovamund">Rovamund</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Lyckmoor" title="Lyckmoor">Lyckmoor</a> geht, wobei sich in Richtung des letztgenannten Ortes Sümpfe befinden. Außerdem führt ein Weg über <a href="http://www.wiki-aventurica.de/index.php?title=Nehult" title="Nehult">Nehult</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Oberluell" title="Oberluell">Oberluell</a> bis an die Küste nach <a href="http://www.wiki-aventurica.de/index.php?title=Efferdûn" title="Efferdûn">Efferdûn</a>. Auf dieser Strecke gibt es viele <a href="http://www.wiki-aventurica.de/index.php?title=Troll" title="Troll">Trolle</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.313766861421376</longitude>
+					<latitude>31.8136171255687</latitude>
+					<altitude>84289.62649835505</altitude>
+					<heading>-2.040314440562892</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf1</styleUrl>
+				<Point>
+					<coordinates>-3.484862010444088,31.76868784626252,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lervik</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Lervik</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a> im südlichen <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a>. Hier verläuft die <a href="http://www.wiki-aventurica.de/index.php?title=Küstenstraße (Thorwal-Nostria)" title="Küstenstraße (Thorwal-Nostria)">Küstenstraße</a> von <a href="http://www.wiki-aventurica.de/index.php?title=Salza" title="Salza">Salza</a>/<a href="http://www.wiki-aventurica.de/index.php?title=Salzerhaven" title="Salzerhaven">Salzerhaven</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)" title="Thorwal (Stadt)">Thorwal</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.280481843412072</longitude>
+					<latitude>31.67394921872518</latitude>
+					<altitude>72183.66878741118</altitude>
+					<heading>-2.154307434985787</heading>
+					<tilt>0</tilt>
+					<roll>3.975693351829396e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf000</styleUrl>
+				<Point>
+					<coordinates>-4.367601998052699,31.61898461168987,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lerpin</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Lerpin</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a> im südlichen <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a>. Hier verläuft die <a href="http://www.wiki-aventurica.de/index.php?title=Küstenstraße (Thorwal-Nostria)" title="Küstenstraße (Thorwal-Nostria)">Küstenstraße</a> von <a href="http://www.wiki-aventurica.de/index.php?title=Salza" title="Salza">Salza</a>/<a href="http://www.wiki-aventurica.de/index.php?title=Salzerhaven" title="Salzerhaven">Salzerhaven</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)" title="Thorwal (Stadt)">Thorwal</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.505212355558365</longitude>
+					<latitude>31.86203089924982</latitude>
+					<altitude>62598.51662028479</altitude>
+					<heading>-2.324688441789552</heading>
+					<tilt>0</tilt>
+					<roll>1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf5</styleUrl>
+				<Point>
+					<coordinates>-4.441693376876762,31.81411970347181,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Merske</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Merske<b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Waldwildnis" title="Golf von Prem">Golf von Prem</a> südlich von <a href="http://www.wiki-aventurica.de/index.php?title=Thorwa (Stadt)l" title="Thorwal (Stadt)">Thorwal</a>. Die nächsten Orte an der Küstenstraße sind <a href="http://www.wiki-aventurica.de/index.php?title=Serske" title="Serske">Serske</a> im Norden und <a href="http://www.wiki-aventurica.de/index.php?title=Efferdûn" title="Efferdûn">Efferdûn</a> im Süden. Außerdem führt ein Weg nach <a href="http://www.wiki-aventurica.de/index.php?title=Brattasö" title="Brattasö">Brattasö</a>. 
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.200441853049646</longitude>
+					<latitude>32.39523675649956</latitude>
+					<altitude>53211.81917431069</altitude>
+					<heading>-1.524713064574518</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf30</styleUrl>
+				<Point>
+					<coordinates>-4.183447840408483,32.44544227961285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nehult</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Nehult</b> ist ein gößerer Ort im Binnenland des <a href="http://www.wiki-aventurica.de/index.php?title=Jarltum" title="Jarltum">Jarltums</a> <a href="http://www.wiki-aventurica.de/index.php?title=Nyrs Land" title="Nyrs Land">Nyrs Land</a>. Im letzten Krieg gegen <a href="http://www.wiki-aventurica.de/index.php?title=Nostria" title="Nostria">Nostria</a> wurde der Ort befestigt. Hier verläuft der <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> von <a href="http://www.wiki-aventurica.de/index.php?title=Skardan" title="Skardan">Skardan</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Rovamund" title="Rovamund">Rovamund</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.754432156476437</longitude>
+					<latitude>32.02777793660737</latitude>
+					<altitude>25121.59559925639</altitude>
+					<heading>-2.277568580215669</heading>
+					<tilt>0</tilt>
+					<roll>-1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf6</styleUrl>
+				<Point>
+					<coordinates>-3.745870808804948,32.02762679406111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oberluell</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Oberluell</b> liegt im Hinterland des südlichen <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a>. Ein Weg führt an die Küste nach <a href="http://www.wiki-aventurica.de/index.php?title=Efferdûn" title="Efferdûn">Efferdûn</a> und weiter ins Landesinnere nach <a href="http://www.wiki-aventurica.de/index.php?title=Nehult" title="Nehult">Nehult</a>. In dem umliegenden Land gibt es viele <a href="http://www.wiki-aventurica.de/index.php?title=Troll" title="Troll">Trolle</a>. 
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.895424985240636</longitude>
+					<latitude>32.07772127860911</latitude>
+					<altitude>12541.81356484374</altitude>
+					<heading>-2.352398662995942</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf31</styleUrl>
+				<Point>
+					<coordinates>-3.885171336376798,32.0914141104733,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ottarje</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Ottarje</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a>. Die Einwohner liegen seit Jahrhunderten im Clinch mit denen aus <a href="http://www.wiki-aventurica.de/index.php?title=Varnheim" title="Varnheim">Varnheim</a> um die besten Fischgründe. Ein Pass führt über die <a href="http://www.wiki-aventurica.de/index.php?title=Hjaldorberge" title="Hjaldorberge">Hjaldorberge</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-5.046596993512729</longitude>
+					<latitude>33.19231750973499</latitude>
+					<altitude>47191.77940567667</altitude>
+					<heading>-6.115162239282262</heading>
+					<tilt>0</tilt>
+					<roll>-3.975693351829396e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf</styleUrl>
+				<Point>
+					<coordinates>-4.951212019057402,33.25940876671854,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peilinen</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Peilinen</b> liegt am Oberlauf des <a href="http://www.wiki-aventurica.de/index.php?title=Roval" title="Roval">Roval</a> im <a href="http://www.wiki-aventurica.de/index.php?title=Jarltum" title="Jarltum">Jarltums</a> <a href="http://www.wiki-aventurica.de/index.php?title=Steineikiskov" title="Steineikiskov">Steineikiskov</a>. Es ist ein Zentrum der Holzwirtschaft mit einem modernen, wassergetriebenen Sägewerk und liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Rovamund" title="Rovamund">Rovamund</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Breida" title="Breida">Breida</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.441439410513546</longitude>
+					<latitude>32.61331521009223</latitude>
+					<altitude>21869.23584055603</altitude>
+					<heading>2.500039660833824</heading>
+					<tilt>0</tilt>
+					<roll>3.975693351829396e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf11</styleUrl>
+				<Point>
+					<coordinates>-3.41625075001309,32.57796821063566,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serske</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Serske</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a> als erster Ort südlich von <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)" title="Thorwal (Stadt)">Thorwal</a>. Der nächst Ort an der Küstenstraße Richtung Süden ist <a href="http://www.wiki-aventurica.de/index.php?title=Merske" title="Merske">Merske</a>. Über den <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> geht es nach <a href="http://www.wiki-aventurica.de/index.php?title=Breida" title="Breida">Breida</a>. Außerdem führt ein Weg nach <a href="http://www.wiki-aventurica.de/index.php?title=Trollshoved" title="Trollshoved">Trollshoved</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.352077126120114</longitude>
+					<latitude>32.62003809710026</latitude>
+					<altitude>141732.5817579764</altitude>
+					<heading>-2.217819487687733</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf10</styleUrl>
+				<Point>
+					<coordinates>-4.112179189333551,32.65832668829737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Skardan</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Skardan</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Angra" title="Waldwildnis">Angra</a> im südlichen <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a>. Hier verläuft der <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> von <a href="http://www.wiki-aventurica.de/index.php?title=Kendrar" title="Kendrar">Kendrar</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Nehult" title="Nehult">Nehult</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.24437669417257</longitude>
+					<latitude>31.79203215306609</latitude>
+					<altitude>75836.48710457969</altitude>
+					<heading>-2.52849854809823</heading>
+					<tilt>0</tilt>
+					<roll>1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf400</styleUrl>
+				<Point>
+					<coordinates>-4.080176262117842,31.75742294009953,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tjoila</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Tjoila</b> liegt im <a href="http://www.wiki-aventurica.de/index.php?title=Bodirtal" title="Bodirtal">Bodirtal</a> und ist der erste Ort nordöstlich von <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a>. Ganz in der Nähe verläuft der <a href="http://www.wiki-aventurica.de/index.php?title=Bodirstieg" title="Bodirstieg">Bodirstieg</a> Richtung <a href="http://www.wiki-aventurica.de/index.php?title=Phexcaer" title="Phexcaer">Phexcaer</a>. Bei Tjoila kann der <a href="http://www.wiki-aventurica.de/index.php?title=Bodir" title="Bodir">Bodir</a> überquert werden, hier findet der <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> seinen Abschluß.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.929486378633259</longitude>
+					<latitude>32.90053234702714</latitude>
+					<altitude>24071.45246283725</altitude>
+					<heading>2.233498027201196</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf00</styleUrl>
+				<Point>
+					<coordinates>-3.93509376864243,32.86126385044519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rovamund</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Rovamund</b> liegt an der Westgrenze des <a href="http://www.wiki-aventurica.de/index.php?title=Jarltum" title="Jarltum">Jarltums</a> <a href="http://www.wiki-aventurica.de/index.php?title=Steineikiskov" title="Steineikiskov">Steineikiskov</a>. Der Ort ist das Zentrum des Überlandhandels mit <a href="http://www.wiki-aventurica.de/index.php?title=Andergast" title="Andergast">Andergast</a> und dem <a href="http://www.wiki-aventurica.de/index.php?title=Mittelreich" title="Mittelreich">Mittelreich</a>. Es kommt öfters zu Auseinandersetzungen mit dem nördlichen Nachbarort <a href="http://www.wiki-aventurica.de/index.php?title=Peilinen" title="Peilinen">Peilinen</a>. Rovamund gehörte einst zu <a href="http://www.wiki-aventurica.de/index.php?title=Nostria" title="Nostria">Nostria</a>, im <a href="http://www.wiki-aventurica.de/index.php?title=Vertrag von Gareth" title="Vertrag von Gareth">Vertrag von Gareth</a> <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1006" title="Chronik:1006">1006 BF</a> wurde das Gebiet allerdings als zu <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">Thorwal</a> zugehörig festgelegt. Zudem liegt Rovamund auf dem Handelsweg <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Nehult" title="Nehult">Nehult</a> und Peilinen.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.586729787342798</longitude>
+					<latitude>32.36872682545619</latitude>
+					<altitude>60446.69235613528</altitude>
+					<heading>-2.185904391821306</heading>
+					<tilt>0</tilt>
+					<roll>1.987846675914698e-016</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf90</styleUrl>
+				<Point>
+					<coordinates>-3.470355060637063,32.30713104050548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rukian</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Rukian</b> liegt im <a href="http://www.wiki-aventurica.de/index.php?title=Bodirtal" title="Bodirtal">Bodirtal</a> am <a href="http://www.wiki-aventurica.de/index.php?title=Bodir" title="Bodir">Bodir</a> und am <a href="http://www.wiki-aventurica.de/index.php?title=Bodirstieg" title="Bodirstieg">Bodirstieg</a> Richtung <a href="http://www.wiki-aventurica.de/index.php?title=Phexcaer" title="Phexcaer">Phexcaer</a>. Die Umgebung bietet gute Lebensbedingungen für die Einwohner.
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-3.616362527842803</longitude>
+					<latitude>32.99431370350619</latitude>
+					<altitude>74489.81471935478</altitude>
+					<heading>-1.142628532142309</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf13</styleUrl>
+				<Point>
+					<coordinates>-3.942590608940609,32.969189519289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rybon</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Rybon</b> liegt umgeben von Wäldern direkt südlich der <a href="http://www.wiki-aventurica.de/index.php?title=Hjaldorberge" title="Hjaldorberge">Hjaldorberge</a>. Das kleine Flüsschen <a href="http://www.wiki-aventurica.de/index.php?title=Rybossl" title="Rybossl">Rybossl</a> fließt weiter in den <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.720810009448281</longitude>
+					<latitude>33.52046657630599</latitude>
+					<altitude>69174.93033814935</altitude>
+					<heading>-1.428959985973</heading>
+					<tilt>0.3727197274463066</tilt>
+					<roll>9.56358999322589e-010</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf0</styleUrl>
+				<Point>
+					<coordinates>-4.654646815606879,33.54330081764616,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varmhag</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Vaermhag</b> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Golf von Prem" title="Golf von Prem">Golf von Prem</a>. Der kleine Ort ist sowohl per Schiff als auch über den <a href="http://www.wiki-aventurica.de/index.php?title=Küstenpfad" title="Küstenpfad">Küstenpfad</a> gut zu erreichen.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.272591062707107</longitude>
+					<latitude>33.09082743891847</latitude>
+					<altitude>40611.37559783235</altitude>
+					<heading>-1.1822101429035</heading>
+					<tilt>0.3743802047945912</tilt>
+					<roll>4.790082329404833e-010</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf2</styleUrl>
+				<Point>
+					<coordinates>-4.275050655950244,33.0182565560538,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varnheim</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das Dorf <b>Varnheim</b> liegt nördlich von <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal (Stadt)" title="Thorwal (Stadt)">Thorwal </a> und ist dank dem <a href="http://www.wiki-aventurica.de/index.php?title=Küstenpfad" title="Küstenpfad">Küstenpfad </a> gut zu erreichen. Es dominiert den Fischfang im Golf von Prem, welchen die ortsansässigen Fischer mit aller Macht beibehalten wollen. Hier wird der bekannte <a href="http://www.wiki-aventurica.de/index.php?title=Varnheimer Holzfisch" title="Varnheimer Holzfisch">Varnheimer Holzfisch </a> gefangen und in andere Länder und Städte exportiert.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.745327608634211</longitude>
+					<latitude>33.28851496310186</latitude>
+					<altitude>64452.77362394535</altitude>
+					<heading>-1.448512783537719</heading>
+					<tilt>0.3729932223026561</tilt>
+					<roll>7.544208117644481e-010</roll>
+				</Camera>
+				<styleUrl>#msn_Dorf12</styleUrl>
+				<Point>
+					<coordinates>-4.578057416841137,33.25144813675667,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Kleinstadt</name>
+			<Placemark>
+				<name>Orkbrand</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Stadt <b>Orkbrand</b> liegt südlich von <a href="http://www.wiki-aventurica.de/index.php?title=Felsteyn" title="Felsteyn">Felsteyn</a>. Die <a href="http://www.wiki-aventurica.de/index.php?title=Ork" title="Ork">Orks</a>, die ursprünglich die Einwohner des Dorfes waren, starben an einer für Menschen ungefährlichen Epidemie.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.151414601742793</longitude>
+					<latitude>33.5997286137637</latitude>
+					<altitude>36857.91257224207</altitude>
+					<heading>-2.128082145044756</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Kleinstadt1</styleUrl>
+				<Point>
+					<coordinates>-4.047982199377125,33.59257982531393,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Svafdûn</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Svafdûn </b> ist ein gößerer Küstenort im <a href="http://www.wiki-aventurica.de/index.php?title=Jarltum" title="Jarltum">Jarltum</a> <a href="http://www.wiki-aventurica.de/index.php?title=Nyrs Land" title="Nyrs Land">Nyrs Land</a>. Die Bewohner sind dafür bekannt, miteinander im Streit zu liegen.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.482520171948731</longitude>
+					<latitude>32.0611778008772</latitude>
+					<altitude>53313.32781453376</altitude>
+					<heading>-2.312101642595966</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Kleinstadt0</styleUrl>
+				<Point>
+					<coordinates>-4.355121834893647,32.0435215010368,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vilnvad</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Vilnvad</b> liegt im <a href="http://www.wiki-aventurica.de/index.php?title=Bodirtal" title="Bodirtal">Bodirtal</a> und ist das Zentrum der Bodirflößer. Hier mündet der <a href="http://www.wiki-aventurica.de/index.php?title=Vrala" title="Vrala">Vrala</a> in den <a href="http://www.wiki-aventurica.de/index.php?title=Bodir" title="Bodir">Bodir</a>.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">
+<!-- END EDIT -->
+
+<!-- EDIT: NAME DES ORTES -->
+$[name]
+<!-- END EDIT -->
+</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+<!-- END EDIT -->
+
+verfügbar, dort kann man den
+
+<!-- EDIT: NAME DES ORTES -->
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+<!-- END EDIT -->
+
+</td>
+</tr>
+</table>]]></description>
+				<Camera>
+					<longitude>-4.004836648437532</longitude>
+					<latitude>33.52156447963695</latitude>
+					<altitude>16971.5105649645</altitude>
+					<heading>-1.355733437774207</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Camera>
+				<styleUrl>#msn_Kleinstadt2</styleUrl>
+				<Point>
+					<coordinates>-3.955833418209926,33.5043375219007,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Stadt</name>
+			<Placemark>
+				<name>Kendrar</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Kendrar</b> ist eine <a href="http://www.wiki-aventurica.de/index.php?title=Nostria" title="Nostria">nostrische</a> Stadt unter <a href="http://www.wiki-aventurica.de/index.php?title=Thorwal" title="Thorwal">thorwalscher</a> Herrschaft. Das reiche Handelsstädtchen wurde von <a href="http://www.wiki-aventurica.de/index.php?title=Hetmann" title="Hetmann">Hetmann</a> <a href="http://www.wiki-aventurica.de/index.php?title=Eldgrimm Oriksson" title="Eldgrimm Oriksson">Eldgrimm Oriksson</a> im Jahre <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1001" title="Chronik:1001">1001 BF</a> mitsamt des gesamten Umlandes aufgrund einer Wette erobert. Damit verschob sich die thorwalsche Grenze bis zum <a href="http://www.wiki-aventurica.de/index.php?title=Ingval" title="Ingval">Ingval</a>. 
+<p>
+Nachdem Kendrar zwischenzeitlich von den Nostriern zurückerobert worden war, befindet es sich wieder unter der Herrschaft der <a href="http://www.wiki-aventurica.de/index.php?title=Eldgrimm-Ottajasko" title="Eldgrimm-Ottajasko">Eldgrimm-Ottajasko</a>. Kendrar ist für den thorwalschen Handel ein wichtiger Handelsknotenpunkt, da hier die <a href="http://www.wiki-aventurica.de/index.php?title=Küstenstraße (Thorwal-Nostria)" title="Küstenstraße (Thorwal-Nostria)">Küstenstraße</a> und der <a href="http://www.wiki-aventurica.de/index.php?title=Heidestieg" title="Heidestieg">Heidestieg</a> verlaufen und die Stadt für Handelsschiffe aus dem Süden leichter erreichbar ist. 
+<p>
+Die Stimmung zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Thorwaler" title="Thorwaler">Thorwalern</a> und Kendrarern ist noch von leichten Spannungen geprägt, dennoch haben beide Seiten inzwischen gelernt, miteinander auszukommen.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>-4.087777470615793</longitude>
+					<latitude>31.61832672549615</latitude>
+					<altitude>0</altitude>
+					<range>109870.0750450755</range>
+					<tilt>0</tilt>
+					<heading>-2.51848839763413</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Stadt0</styleUrl>
+				<Point>
+					<coordinates>-4.243232696817055,31.58385196428124,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phexcaer</name>
+				<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Phexcaer</b> im <a href="http://www.wiki-aventurica.de/index.php?title=Orkland" title="Orkland">Orkland</a> wurde zur Zeit der Klugen Kaiser als <a href="http://www.wiki-aventurica.de/index.php?title=Myrburg" title="Myrburg">Myrburg</a> (nach Talia Myr) gegründet und stellte ein Bollwerk gegen die <a href="http://www.wiki-aventurica.de/index.php?title=Ork" title="Ork">Orks</a> dar. Erst als das Reich unter den <a href="http://www.wiki-aventurica.de/index.php?title=Priesterkaiser" title="Priesterkaiser">Priesterkaisern</a> versank, griffen die Schwarzpelze die Stadt an. Das Eingreifen des <a href="http://www.wiki-aventurica.de/index.php?title=Riese" title="Riese">Riesen</a> <a href="http://www.wiki-aventurica.de/index.php?title=Orkfresser" title="Orkfresser">Orkfresser</a> rettete die Stadt, die daraufhin lange von den Orks gemieden wurde. 
+
+<a href="http://www.wiki-aventurica.de/index.php?title=Chronik:795" title="Chronik:795">795 BF</a> griffen die Orks erneut an. Inzwischen war der Gesetzlose <a href="http://www.wiki-aventurica.de/index.php?title=Jirtan Orbas" title="Jirtan Orbas">Jirtan Orbas</a> aus <a href="http://www.wiki-aventurica.de/index.php?title=Gareth" title="Gareth">Gareth</a> mit seiner Schar in Myrburg eingetroffen. Fest entschlossen, nicht weiter zu fliehen, bekämpften sie die Orks und vertrieben den Stamm der <a href="http://www.wiki-aventurica.de/index.php?title=Zholochai" title="Zholochai">Zholochai</a>. Anschließend handelte Jirtan einen Nichtangriffsvertrag mit den Orks aus. Er wurde der neue Herrscher Myrburgs, benannte die Stadt in Phexcaer um und baute sie zu einem Refugium der Gesetzlosen aus. 
+<p>
+Noch heute herrscht in Phexcaer das Recht des Stärkeren, wodurch einige Banden die Stadt beherrschen. Neuankömmlinge müssen eine Aufnahmegebühr an eine der Banden entrichten, um unbehelligt zu bleiben. 
+<p>
+Ab <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1029" title="Chronik:1029">1029 BF</a> wurde Phexcaer wieder von Orks belagert und unter dem Kommando von <a href="http://www.wiki-aventurica.de/index.php?title=Sharraz Eisauge" title="Sharraz Eisauge">Sharraz Eisauge</a> gestürmt. Die Stadt wurde geplündert und verwüstet, die Reparaturen gehen nur langsam voran.
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>-3.12093561891392</longitude>
+					<latitude>33.91858250843567</latitude>
+					<altitude>0</altitude>
+					<range>46155.7069690407</range>
+					<tilt>0</tilt>
+					<heading>2.664202854055497</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Stadt</styleUrl>
+				<Point>
+					<coordinates>-2.966182498952747,33.92578377181385,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

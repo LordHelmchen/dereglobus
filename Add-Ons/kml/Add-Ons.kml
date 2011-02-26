@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+	<Style id="Add-On">
+		<ListStyle>
+			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DGAdd-Ons_Staedte.png</href>
+			</ItemIcon>     
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text><![CDATA[
+			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>
+			<font face="Calibri" color="#366698" size="+3">$[name]</font>
+			<br/>
+			<font face="Calibri" color="#366698" size="+1">$[Snippet]</font>
+			<br/><br/>
+			<font color="#bbbbbb">$[description]</font>
+			<br/><br/>
+			<hr style="border:0; background: gray; height: 1px; width: 400px;">
+			<span style="font-size: 8pt; color: gray">
+				Bist du der Weltenbauer des "$[name]"-Add-Ons und m&ouml;chtest&nbsp;den Nutzern von DereGlobus 
+				eine besser Beschreibung deines Add-Ons zur Verf&uuml;gung stellen, dann poste 
+				deine Bescheibung im DereGlobus-Forum unter
+				<a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=2&amp;t=306&amp;sid=57795e52b0b08ac3fbbf111669bc77b4"> 
+					Add-On-Absprache
+				</a>
+			</span>
+			]]></text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+	<name>DereGlobus Add-Ons</name>
+	<visibility>0</visibility>
+	<open>1</open>
+		
+		
+		
+		
+	<NetworkLink>
+		<name>Myranor - Landmarken und Städte</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Geofax Steinhauer</Snippet>
+		<description>Gebirge, Flüsse, mystischen und besondere Orte, Reisewege, Gletschergebiete, Wüsten Seen, Reiche, Halbinseln, Seegebiete, Landschftsmarken, Täler und zusätzliche Siedlungen Myranors.</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Myranor_GeofaxSteinhauer.kml</href>
+		</Link>
+	</NetworkLink>		
+	<NetworkLink>
+		<name>Klimazonen und Windgürtel</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Thamor</Snippet>
+		<description><![CDATA[			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>Darstellungsvorschlag für die Klimazonen und Windgürtel Deres. Für weitere Informationen siehe:
+			<a href="http://sites.google.com/site/dereglobus/dokumentation/die-gestalt-deres" rel="nofollow" target="_blank">Traktat zur Gestalt Deres</a>.]]></description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Kilma-_und_Windzonen_von_Thamor.kmz</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Borbarad-Kamapgne - Meisternotizen</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Wulf</Snippet>
+		<description>Allerlei nützliche Notizen, Karten, Ortsmarken, Reiserouten u.v.m. für die Abenteuer "Pforte des Grauens", "Bastrabuns Bann" und "Schatten im Zwielicht".</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/7G-Vorbereitung_Wulf.kmz</href>
+		</Link>
+	</NetworkLink>	
+	<NetworkLink>
+		<name>Gebäude verschiedener Städte</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Chris1303</Snippet>
+		<description>Gebäudemarken und teils Stadtteile und Straßen der Städte Andergast, Nostria, Greifenfurt, Punin, Selem und Khunchom</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Gebaeude_Chris1303.kml</href>
+		</Link>
+	</NetworkLink>	
+	<NetworkLink>
+		<name>Drôl - Gebäude und Karte</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Thamor</Snippet>
+		<description>Gebäudemarken und Stadtplan Drôls.</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Gebaeude_Drols_von_Thamor.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Talf - Stadtkarte</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Salex</Snippet>
+		<description>Stadtplan von Talf für das Abenteuer "Von eigenen Gnaden".</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Talf_Stadtkarte_von_Salex.kmz</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Zyklopeninseln - Städte und Inseln</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Matthias</Snippet>
+		<description>Siedlungsmarken und Inseln der Zyklopeninseln</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Zyklopeninseln_von_Matthias.kml</href>
+		</Link>
+	</NetworkLink>	
+	<NetworkLink>
+		<name>Golgarians Dere</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Golgarian, Branibor, Drogo, Shagrash</Snippet>
+		<description>Einige Orte und (alle) Städte, Gebirge, Gewässer, Inseln, magische Orte.</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/GolgariansDere.kmz</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Die 94 wichtigsten aventurische Staedte</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Branibor</Snippet>
+		<description>Die 94 wichtigsten aventurische Staedte.</description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Die_94_wichtigsten_aventurische_Staedte_von_Branibor.kmz</href>
+		</Link>
+	</NetworkLink>
+
+</Document>
+</kml>

@@ -5,7 +5,7 @@
 
 	<groupId>org.dereglobus</groupId>
 	<artifactId>dereglobus-updater</artifactId>
-	<version>0.2</version>
+	<version>0.3-SNAPSHOT</version>
 
 	<name>DereGlobus Updater</name>
 	<description>
@@ -27,9 +27,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:svn:https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/tags/v0.2</connection>
-		<developerConnection>scm:svn:https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/tags/v0.2</developerConnection>
-		<url>https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/tags/v0.2</url>
+		<connection>scm:svn:https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/trunk</connection>
+		<developerConnection>scm:svn:https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/trunk</developerConnection>
+		<url>https://dereglobus.googlecode.com/svn/Arbeit/Software/DereGlobus-Updater/trunk</url>
 	</scm>
 
 	<dependencies>

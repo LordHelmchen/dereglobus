@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+ 
+  <!-- Styles -->
+	<Style id="AddOn_Staedte">
+		<ListStyle>
+			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.com/public/Add-Ons/media/DGAdd-Ons_Staedte.png</href>
+			</ItemIcon>     
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text><![CDATA[
+			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>
+			<font face="Calibri" color="#366698" size="+3">$[name]</font>
+			<br/>
+			<font face="Calibri" color="#366698" size="+1">$[Snippet]</font>
+			<br/><br/>
+			<font color="#bbbbbb">$[description]</font>
+			<br/><br/>
+			<hr style="border:0; background: gray; height: 1px; width: 400px;">
+			<span style="font-size: 8pt; color: gray">
+				Bist du der Autor des "$[name]"-Add-Ons und m&ouml;chtest&nbsp;den Nutzern von DereGlobus 
+				eine besser Beschreibung deines Add-Ons zur Verf&uuml;gung stellen, dann poste 
+				deine Bescheibung im DereGlobus-Forum unter
+				<a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=2&amp;t=306&amp;sid=57795e52b0b08ac3fbbf111669bc77b4"> 
+					Add-On-Absprache
+				</a>
+			</span>
+			]]></text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+	
+	<Style id="AddOn_Publikationen">
+		<ListStyle>
+			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.com/public/Add-Ons/media/DGAdd-Ons_Publikationen.png</href>
+			</ItemIcon>     
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text><![CDATA[
+			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>
+			<font face="Calibri" color="#366698" size="+3">$[name]</font>
+			<br/>
+			<font face="Calibri" color="#366698" size="+1">$[Snippet]</font>
+			<br/><br/>
+			<font color="#bbbbbb">$[description]</font>
+			<br/><br/>
+			<hr style="border:0; background: gray; height: 1px; width: 400px;">
+			<span style="font-size: 8pt; color: gray">
+				Bist du der Autor des "$[name]"-Add-Ons und m&ouml;chtest&nbsp;den Nutzern von DereGlobus 
+				eine besser Beschreibung deines Add-Ons zur Verf&uuml;gung stellen, dann poste 
+				deine Bescheibung im DereGlobus-Forum unter
+				<a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=2&amp;t=306&amp;sid=57795e52b0b08ac3fbbf111669bc77b4"> 
+					Add-On-Absprache
+				</a>
+			</span>
+			]]></text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+	<!-- /Styles -->
+	
+    <name>Add-Ons</name>
+    <open>1</open>
+	<visibility>1</visibility>
+	
+	<Folder>
+		<open>0</open>
+		<visibility>0</visibility>
+		<name>Städte</name>
+		<Snippet maxLines="2">
+			<![CDATA[
+				Add-Ons einsenden unter <a href="mailto:staedte@dereglobus.orkenspalter.com">staedte@dereglobus.orkenspalter.com</a>
+			]]>
+		</Snippet>
+
+			<Folder>
+				<open>0</open>
+				<visibility>0</visibility>
+				<name>Aventurien</name>
+			
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Golgarians Dere</name>
+					<Link>
+						 <href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/GolgariansDere.kmz</href>
+					</Link>
+					<Snippet maxLines="1" >Autoren: Golgarian, Branibor, Drogo, Shagrash</Snippet>
+					<description>
+						Einige Orte und (alle) Städte, Gebirge, Gewässer, Inseln, magische Orte.
+					</description>
+				</NetworkLink>
+					  
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Oasen der Khom V1.6</name>
+					<Link>
+						 <href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/Oasen_der_Khom_von_Shagrash_v1.6.kml</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Shagrash</Snippet>
+					<description>
+						Alle Orte und Städte der Khom aus "Raschtuls Atem" und Wiki 
+					</description>
+				</NetworkLink>
+					
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Shadif und die Echsensümpfe V1.1</name>
+					<Link>
+						<href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/Shadif_und_Echsensuempfe%20V1.1.kml</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Shagrash</Snippet>
+					<description>
+						Alle Orte und Städte des Shadif und der Echsensümpfe.
+					</description>
+				</NetworkLink>
+					  
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Die 94 wichtigsten aventurische Staedte</name>
+					<open>0</open>
+					<Link>
+						 <href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/Die_94_wichtigsten_aventurische_Staedte_von_Branibor.kmz</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Branibor</Snippet>
+					<description>
+						Die 94 wichtigsten aventurische Staedte.
+					</description>
+				</NetworkLink>
+					  
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Westaventurien V1.1</name>
+					<Link>
+						<href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/West Aventuerien  Drogo.kmz</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Drogo</Snippet>
+					<description>
+						Orte und Städte des aventurischen Westens.
+					</description>
+				</NetworkLink>
+			  
+			  <NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Nostria und Andergast</name>
+					<Link>
+						<href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/Nostragast_Picasso.kmz</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Picasso</Snippet>
+					<description>
+						Du findest hier alle Dörfer und Städte der streitenden Königreiche, basierens auf Informationen aus "Unter dem Westwind" und Wiki Aventurica. 
+					</description>
+				</NetworkLink>
+			</Folder>
+			
+			<Folder>
+				<name>Myranor</name>
+				<open>0</open>
+			
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Myranische Metropolen</name>
+					<Link>
+						<href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/Myranische Metropolen.kmz</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Rondariel</Snippet>
+					<description>
+						Einige Städte Myranors.
+					</description>
+				</NetworkLink>
+			  
+			</Folder>
+			
+			<Folder>
+				<name>Riesland</name>
+				<open>0</open>
+			
+				<NetworkLink>
+					<open>0</open>
+					<visibility>0</visibility>
+					<styleUrl>#AddOn_Staedte</styleUrl>
+					<name>Rhakshazarische Städte</name>
+					<Link>
+						<href>http://www.dereglobus.orkenspalter.com/public/download/Add-Ons/Rhakshazarische_Staedte_von_Rondariel.kmz</href>
+					</Link>
+					<Snippet maxLines="1" >Autor: Rondariel</Snippet>
+					<description>
+						Einige Städte des Rieslands.
+					</description>
+				</NetworkLink>
+			  
+			</Folder>
+		</Folder>
+		
+		<Folder>
+			<open>0</open>
+			<visibility>0</visibility>
+			<name>Publikationen</name>
+			<Snippet maxLines="2">
+					<![CDATA[
+						Add-Ons einsenden unter <a href="mailto:publikationen@dereglobus.orkenspalter.com">publikationen@dereglobus.orkenspalter.com</a>
+					]]>
+			</Snippet>
+		</Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="KMLe_2">
+	<name>Stadtbauwerke Andergast - Chris1303.kml</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="KMLe_3">
+		<name>Stadtbauwerke Andergast - Chris1303</name>
+		<open>1</open>
+		<Style>
+			<BalloonStyle>
+				<textColor>ff000000</textColor>
+				<bgColor>ffffffff</bgColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<Placemark id="KMLe_4">
+			<name>Marktplatz</name>
+			<Camera>
+				<longitude>-1.144162004207799</longitude>
+				<latitude>32.09172859099219</latitude>
+				<altitude>330.9839494832676</altitude>
+				<heading>85.51051527973777</heading>
+				<tilt>0.6553618144875882</tilt>
+				<roll>85.00987793203545</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_93">
+				<coordinates>-1.144577094212388,32.09181758622594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_5">
+			<name>Rathaus</name>
+			<Camera>
+				<longitude>-1.144162004207799</longitude>
+				<latitude>32.09172859099219</latitude>
+				<altitude>330.9839494832676</altitude>
+				<heading>85.51051527973777</heading>
+				<tilt>0.6553618144875882</tilt>
+				<roll>85.00987793203545</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_32">
+				<coordinates>-1.144362064521245,32.09170701171021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_6">
+			<name>Zeughaus</name>
+			<Camera>
+				<longitude>-1.144162004207799</longitude>
+				<latitude>32.09172859099219</latitude>
+				<altitude>330.9839494832676</altitude>
+				<heading>85.51051527973777</heading>
+				<tilt>0.6553618144875882</tilt>
+				<roll>85.00987793203545</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_34">
+				<coordinates>-1.144611887856993,32.09155289079066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_7">
+			<name>Praios-Tempel</name>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_36">
+				<coordinates>-1.14487031339734,32.09167640352987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_8">
+			<name>Rondra-Tempel</name>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_38">
+				<coordinates>-1.144284413370466,32.09187010383317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_9">
+			<name>Flusshafen</name>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_40">
+				<coordinates>-1.144974907487859,32.09083403328086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_10">
+			<name>Burg (mit Hesinde Kapelle)</name>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_85">
+				<coordinates>-1.144122720220007,32.09137290941337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_11">
+			<name>Tsa-Tempel</name>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_86">
+				<coordinates>-1.144315411167435,32.09255465536252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_12">
+			<name>Zunfthaus der Schniede</name>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_81">
+				<coordinates>-1.144151082728658,32.0925960114685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_13">
+			<name>Schänke Schwarz und Rot</name>
+			<Snippet maxLines="0"></Snippet>
+			<description>Kneipe mit Q4/P5</description>
+			<Camera>
+				<longitude>-1.14419912398679</longitude>
+				<latitude>32.09182064712233</latitude>
+				<altitude>330.9839494846822</altitude>
+				<heading>85.51049555880094</heading>
+				<tilt>0.6553618144887006</tilt>
+				<roll>85.0098779320281</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_88">
+				<coordinates>-1.144509459252895,32.0924465848842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_14">
+			<name>Peraine-Tempel</name>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_91">
+				<coordinates>-1.14483750255132,32.0924516405992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_15">
+			<name>Zunfthaus der Tucher</name>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_52">
+				<coordinates>-1.144883014994395,32.09230675799796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_16">
+			<name>Badehaus</name>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_54">
+				<coordinates>-1.145337842119507,32.09199000535978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_17">
+			<name>Wirtshaus zum Ochsen und Einhorn</name>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_56">
+				<coordinates>-1.145043798752552,32.09211528469777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_18">
+			<name>Garküche Bei Muttern</name>
+			<Snippet maxLines="0"></Snippet>
+			<description>Q4/P2</description>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_58">
+				<coordinates>-1.145259495839014,32.09174900031086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_19">
+			<name>Zunfthaus der Holzwerker</name>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_60">
+				<coordinates>-1.145009354483225,32.09115017502112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_20">
+			<name>Ingerimm-Tempel</name>
+			<Camera>
+				<longitude>-1.144200389188803</longitude>
+				<latitude>32.0918205629614</latitude>
+				<altitude>341.4362226452998</altitude>
+				<heading>85.51049488663176</heading>
+				<tilt>0.6553607393119999</tilt>
+				<roll>84.35700023715401</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_62">
+				<coordinates>-1.145225278352799,32.0911594212546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_21">
+			<name>Kaschemme Zur Sonne</name>
+			<Snippet maxLines="0"></Snippet>
+			<description>Q2/P1</description>
+			<Camera>
+				<longitude>-1.1443290192192</longitude>
+				<latitude>32.09175108106067</latitude>
+				<altitude>341.4362226438852</altitude>
+				<heading>85.51042654858669</heading>
+				<tilt>0.6553607393142245</tilt>
+				<roll>84.35700023715658</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_64">
+				<coordinates>-1.145443481322073,32.09110694876436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_22">
+			<name>Zunfthaus der Lederer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description>Q5/P5</description>
+			<Camera>
+				<longitude>-1.1443290192192</longitude>
+				<latitude>32.09175108106067</latitude>
+				<altitude>341.4362226438852</altitude>
+				<heading>85.51042654858669</heading>
+				<tilt>0.6553607393142245</tilt>
+				<roll>84.35700023715658</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_92">
+				<coordinates>-1.143945546022593,32.09202595318452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_23">
+			<name>Werkstätten des Roten Salamanders</name>
+			<Snippet maxLines="0"></Snippet>
+			<description>Q7/P8</description>
+			<Camera>
+				<longitude>-1.1443290192192</longitude>
+				<latitude>32.09175108106067</latitude>
+				<altitude>341.4362226438852</altitude>
+				<heading>85.51042654858669</heading>
+				<tilt>0.6553607393142245</tilt>
+				<roll>84.35700023715658</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_83">
+				<coordinates>-1.144258489584767,32.09209244640842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_24">
+			<name>Gasthaus Zum fetten Schinken</name>
+			<Snippet maxLines="0"></Snippet>
+			<description>Q7/P8 S13</description>
+			<Camera>
+				<longitude>-1.144316282594485</longitude>
+				<latitude>32.09175192831097</latitude>
+				<altitude>236.216019434693</altitude>
+				<heading>85.51043331525386</heading>
+				<tilt>0.6553715629741574</tilt>
+				<roll>83.70481558887117</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_79">
+				<coordinates>-1.144077283671193,32.09184127255947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_25">
+			<name>Magierakademie &quot;Kampfseminar Andergast&quot;</name>
+			<Camera>
+				<longitude>-1.144316282594485</longitude>
+				<latitude>32.09175192831097</latitude>
+				<altitude>236.216019434693</altitude>
+				<heading>85.51043331525386</heading>
+				<tilt>0.6553715629741574</tilt>
+				<roll>83.70481558887117</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_72">
+				<coordinates>-1.143722178003852,32.09185679673355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_26">
+			<name>Travia Tempel</name>
+			<Camera>
+				<longitude>-1.144319177268266</longitude>
+				<latitude>32.0917517357551</latitude>
+				<altitude>260.1292838731439</altitude>
+				<heading>85.51043177738158</heading>
+				<tilt>0.6553691030638046</tilt>
+				<roll>83.70481558887141</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_77">
+				<coordinates>-1.144673061921727,32.09115387983632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KMLe_27">
+			<name>Ingvalfeste</name>
+			<Camera>
+				<longitude>-1.143853646693337</longitude>
+				<latitude>32.0904298371651</latitude>
+				<altitude>376.5788463295725</altitude>
+				<heading>85.51067909212385</heading>
+				<tilt>0.6553571243858243</tilt>
+				<roll>83.70481558887786</roll>
+			</Camera>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_84">
+				<coordinates>-1.14389694317096,32.08974530327936,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

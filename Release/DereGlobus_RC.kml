@@ -26,6 +26,17 @@
 		</ListStyle>
 	</Style>
 
+
+	
+ 	<Style id="wip">
+    		<ListStyle>
+			<ItemIcon>     
+				<href>http://dereglobus.googlecode.com/svn/Add-Ons/media/addons.png</href>
+  			</ItemIcon>     
+		</ListStyle>
+	</Style>	
+
+
 	
 
 
@@ -69,6 +80,17 @@
 		<styleUrl>#wip</styleUrl>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Arbeit/Weltenbauer-Plugin.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+
+	<NetworkLink>
+		<name>Add-Ons</name>
+		<open>0</open>
+		<styleUrl>#addons</styleUrl>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Add-Ons/kml/DereGlobus_Add-Ons.kml</href>
 		</Link>
 	</NetworkLink>
 	

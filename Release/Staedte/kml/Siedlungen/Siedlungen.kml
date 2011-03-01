@@ -180,6 +180,22 @@ Kanalisation und beherbergen Tempel (fast) aller Zwölfgötter und einigen ander
 	
 	
 		<NetworkLink>
+      <Region>
+                    <LatLonAltBox>
+                        <north>30.679510</north>
+                        <south>28.399254</south>
+                        <east>-0.320873</east>
+                        <west>-3.586084</west>
+                        <minAltitude>0</minAltitude>
+                        <maxAltitude>0</maxAltitude>
+                    </LatLonAltBox>
+                    <Lod>
+                        <minLodPixels>800</minLodPixels>
+                        <maxLodPixels>-1</maxLodPixels>
+                        <minFadeExtent>0</minFadeExtent>
+                        <maxFadeExtent>0</maxFadeExtent>
+                    </Lod>
+                </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
@@ -660,6 +676,22 @@ Es gibt meist Tempel mehrerer für die Region bedeutende Zwölfgötter.
 
 	
 		 <NetworkLink>
+       <Region>
+                    <LatLonAltBox>
+                        <north>30.679510</north>
+                        <south>28.399254</south>
+                        <east>-0.320873</east>
+                        <west>-3.586084</west>
+                        <minAltitude>0</minAltitude>
+                        <maxAltitude>0</maxAltitude>
+                    </LatLonAltBox>
+            <Lod>
+                <minLodPixels>1800</minLodPixels>
+                <maxLodPixels>-1</maxLodPixels>
+                <minFadeExtent>0</minFadeExtent>
+                <maxFadeExtent>0</maxFadeExtent>
+            </Lod>
+        </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
@@ -1016,6 +1048,22 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 	
 	
 		 <NetworkLink>
+       <Region>
+                    <LatLonAltBox>
+                        <north>30.679510</north>
+                        <south>28.399254</south>
+                        <east>-0.320873</east>
+                        <west>-3.586084</west>
+                        <minAltitude>0</minAltitude>
+                        <maxAltitude>0</maxAltitude>
+                    </LatLonAltBox>
+         <Lod>
+           <minLodPixels>3000</minLodPixels>
+           <maxLodPixels>-1</maxLodPixels>
+           <minFadeExtent>0</minFadeExtent>
+           <maxFadeExtent>0</maxFadeExtent>
+         </Lod>
+      </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
@@ -1377,6 +1425,22 @@ in denen für die Region wichtige Gottheiten angebetet wird.
 	
 	
 <NetworkLink>
+<Region>
+                    <LatLonAltBox>
+                        <north>30.679510</north>
+                        <south>28.399254</south>
+                        <east>-0.320873</east>
+                        <west>-3.586084</west>
+                        <minAltitude>0</minAltitude>
+                        <maxAltitude>0</maxAltitude>
+                    </LatLonAltBox>
+                    <Lod>
+                        <minLodPixels>5000</minLodPixels>
+                        <maxLodPixels>-1</maxLodPixels>
+                        <minFadeExtent>0</minFadeExtent>
+                        <maxFadeExtent>0</maxFadeExtent>
+                    </Lod>
+                </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
@@ -1748,6 +1812,22 @@ und/oder Funktion nicht als Dorf bezeichnen kann.
 	
 	
 		 <NetworkLink>
+       <Region>
+                    <LatLonAltBox>
+                        <north>30.679510</north>
+                        <south>28.399254</south>
+                        <east>-0.320873</east>
+                        <west>-3.586084</west>
+                        <minAltitude>0</minAltitude>
+                        <maxAltitude>0</maxAltitude>
+                    </LatLonAltBox>
+                    <Lod>
+                        <minLodPixels>5000</minLodPixels>
+                        <maxLodPixels>-1</maxLodPixels>
+                        <minFadeExtent>0</minFadeExtent>
+                        <maxFadeExtent>0</maxFadeExtent>
+                    </Lod>
+                </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>

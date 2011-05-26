@@ -55,6 +55,24 @@
 			</coordinates>
 		</LineString>
 		</MultiGeometry>
+			<Placemark>
+		<name>Draq&apos;leva&apos;thar</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung des Flusses mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-47.62188673416416,10.76636554418636,0 -47.61118479863763,10.76302182699236,0 -47.59312226973174,10.76294375059125,0 -47.58220846755028,10.76208534754967,0 -47.56602410408711,10.77014093393553,0 -47.56193064653227,10.76896261020978,0 -47.54415589537783,10.7771392727168,0 -47.53878032710631,10.78356143432807,0 -47.53403348527205,10.79716006125455,0 -47.53263734960407,10.8097432860703,0 -47.51986414379218,10.82052677459194,0 -47.49454154754282,10.83641242224284,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
 	</Placemark>
 </Document>
 </kml>

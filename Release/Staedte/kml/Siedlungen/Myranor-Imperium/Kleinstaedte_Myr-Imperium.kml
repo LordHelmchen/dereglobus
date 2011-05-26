@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
   <Document>
   <name>Kleinstädte Myr-Imperium</name>
       <visibility>1</visibility>
@@ -37,10 +37,10 @@
 				<heading>0</heading>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-				<TimeSpan>
-  <begin></begin>     <!-- kml:dateTime -->
-  <end></end>         <!-- kml:dateTime -->
-</TimeSpan>
+			<!--	<TimeSpan>
+  <begin></begin>      kml:dateTime 
+  <end></end>          kml:dateTime 
+</TimeSpan> -->
 	<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Staedte.kml#</styleUrl>
 			<Point>
 				<coordinates>-47.518342,10.839944,0</coordinates>

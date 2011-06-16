@@ -1706,13 +1706,13 @@ verfügbar, dort kann man den
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
       </Folder>
       <Placemark>
-        <name>Eichenau</name>
+        <name>Eichenauer Werder</name>
 		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-        <description><![CDATA[<style type="text/css"><!--
+          <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1722,19 +1722,32 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 
-<p>
-(Quelle: Bote102,2)
-</p>
 
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
+Der <b>Eichenauer Werder</b> ist eine kleine <a href="http://www.wiki-aventurica.de/Insel" title="Insel">Insel</a> im Unterlauf des <a href="http://www.wiki-aventurica.de/Pandlaril" title="Pandlaril">Pandlaril</a> bei <a href="http://www.wiki-aventurica.de/Eichenau" title="Eichenau">Eichenau</a>. Hier befindet sich das <a href="http://www.wiki-aventurica.de/index.php?title=Herzogliches_Gest%C3%BCt&amp;action=edit&amp;redlink=1" class="new" title="Herzogliches Gestüt (Seite nicht vorhanden)">Herzogliche Gestüt</a> der <a href="http://www.wiki-aventurica.de/Tralloper_Riese" title="Tralloper Riese">Tralloper Riesen</a>.
 
 
 <!-- END EDIT -->
 </p>
 
-<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -2038,15 +2051,31 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 
+
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
-
+Die blühende <a href="http://www.wiki-aventurica.de/Insel" title="Insel">Insel</a> <b>Nauriti</b> liegt im <a href="http://www.wiki-aventurica.de/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a>.
 
 <!-- END EDIT -->
 </p>
 
-<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -2090,12 +2119,27 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
-
+Die <a href="http://www.wiki-aventurica.de/Insel" title="Insel">Insel</a> <b>Leskaritan</b> liegt im <a href="http://www.wiki-aventurica.de/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a>.
 
 <!-- END EDIT -->
 </p>
 
-<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -5445,7 +5489,7 @@ verfügbar, dort kann man den
           <name>Boronsrad</name>
 		  <ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Boronsrad (Inselgruppe)</value>
 </Data>
 </ExtendedData> 
           <description><![CDATA[<style type="text/css"><!--
@@ -5473,7 +5517,7 @@ Als <b>Boronsrad</b> wird eine schroffe Inselgruppe bezeichnet, die sich nördli
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/index.php?title=Boronsrad_(Inselgruppe)">Boronsrad</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[Link]</a>
 
 aus der freien Website
 <a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
@@ -5482,10 +5526,10 @@ und steht unter der
 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
 
 Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=Boronsrad_(Inselgruppe)&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
 
 verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=Boronsrad_(Inselgruppe)&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -7148,15 +7192,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 
-
-
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
 <b>Kaiserin-Amene-Land</b> ist eine von der <a href="http://www.wiki-aventurica.de/index.php?title=K%C3%B6nigin_Elissa" title="Königin Elissa">Königin Elissa</a> entdeckte Insel im <a href="http://www.wiki-aventurica.de/index.php?title=S%C3%BCdmeer" title="Südmeer">Südmeer</a>. Sie wurde von <a href="http://www.wiki-aventurica.de/index.php?title=Harika_von_Bethana" title="Harika von Bethana" class="mw-redirect">Harika von Bethana</a> <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1011" title="Chronik:1011">1011 BF</a> kartographiert. Die Insel wird zwar vom <a href="http://www.wiki-aventurica.de/index.php?title=Horasreich" title="Horasreich">Horasreich</a> beansprucht, wurde bisher aber noch nicht näher erforscht. Politisch gehört die Insel zur Kronmark <a href="http://www.wiki-aventurica.de/index.php?title=Nova_Meridiana" title="Nova Meridiana" class="mw-redirect">Nova Meridiana</a> und ist damit Teil des <a href="http://www.wiki-aventurica.de/index.php?title=K%C3%B6nigreich_S%C3%BCdmeer" title="Königreich Südmeer">Königreichs Südmeer</a>.
-
-
-
 
 <!-- END EDIT -->
 </p>
@@ -7164,7 +7203,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)]">$[name]</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
 aus der freien Website
 <a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
@@ -7173,10 +7212,10 @@ und steht unter der
 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
 
 Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
 
 verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -7228,7 +7267,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)]">$[name]</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
 aus der freien Website
 <a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
@@ -7237,10 +7276,10 @@ und steht unter der
 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
 
 Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
 
 verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -7603,7 +7642,7 @@ Die Insel <b>Khurad</b> gehört zum <a href="http://www.wiki-aventurica.de/index
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)]">$[name]</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
 
 aus der freien Website
 <a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
@@ -7612,10 +7651,10 @@ und steht unter der
 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
 
 Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
 
 verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -7640,7 +7679,7 @@ verfügbar, dort kann man den
         <name>Ghurenia</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Ghurenia (Insel)</value>
 </Data>
 </ExtendedData> 
         <Snippet maxLines="0">
@@ -7670,7 +7709,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)]">$[name]</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[Link]</a>
 
 aus der freien Website
 <a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
@@ -7679,10 +7718,10 @@ und steht unter der
 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
 
 Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
 
 verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=Ghurenia_(Insel)&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>

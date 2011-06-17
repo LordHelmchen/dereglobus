@@ -1832,6 +1832,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<west>11.16690565952185</west>
 	</LatLonBox>
 </GroundOverlay>
+
+<GroundOverlay id="Gashok-Plan">
+	<name>Gashok</name>
+    <Region>
+          <LatLonAltBox>
+		<north>34.4490783472958</north>
+		<south>34.44519405488925</south>
+		<east>2.949003641160815</east>
+		<west>2.944331206106416</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Reich_des_Roten_Mondes" title="Reich des Roten Mondes">RdRM</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Gashok_RdRM_ sw_126.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>34.4490783472958</north>
+		<south>34.44519405488925</south>
+		<east>2.949003641160815</east>
+		<west>2.944331206106416</west>
+	</LatLonBox>
+</GroundOverlay>
  
 <GroundOverlay id="Glyndhaven-Plan">
 	<name>Glyndhaven</name>
@@ -1997,6 +2038,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
         <west>2.265440826161168</west>
       </LatLonBox>
     </GroundOverlay>
+
+<GroundOverlay id="Grimmsvell-Plan">
+	<name>Grimmsvell</name>
+    <Region>
+          <LatLonAltBox>
+		<north>34.93336295024466</north>
+		<south>34.93222783764125</south>
+		<east>1.77326677689156</east>
+		<west>1.77139494227194</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Von_Orks_und_Menschen" title="Von Orks und Menschen">A171</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Grimmsvell_A171_sw_246.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>34.93336295024466</north>
+		<south>34.93222783764125</south>
+		<east>1.77326677689156</east>
+		<west>1.77139494227194</west>
+	</LatLonBox>
+</GroundOverlay>
 	
 <GroundOverlay id="Harben-Plan">
 	<name>Harben</name>
@@ -2406,6 +2488,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<south>16.43398036032729</south>
 		<east>-0.9319519043823749</east>
 		<west>-0.9449711211824557</west>
+	</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay id="Khezzara-Plan">
+	<name>Khezzara</name>
+	<Region>
+          <LatLonAltBox>
+		<north>33.79384081750062</north>
+		<south>33.79132804927691</south>
+		<east>-0.07822331810895376</east>
+		<west>-0.08284636149193105</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Reich_des_Roten_Mondes" title="Reich des Roten Mondes">RdRM</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Khezzara_RdRM_ sw_245.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>33.79384081750062</north>
+		<south>33.79132804927691</south>
+		<east>-0.07822331810895376</east>
+		<west>-0.08284636149193105</west>
 	</LatLonBox>
 </GroundOverlay>
 	
@@ -3056,6 +3179,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<south>37.01049203633726</south>
 		<east>12.32825299078292</east>
 		<west>12.32178730794069</west>
+	</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay id="Ohort-Plan">
+	<name>Ohort</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>35.27392710360002</north>
+		<south>35.27032044018053</south>
+		<east>-0.2418042033807836</east>
+		<west>-0.2479782392958725</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Reich_des_Roten_Mondes" title="Reich des Roten Mondes">RdRM</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Ohort_RdRM_ sw_144.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.27392710360002</north>
+		<south>35.27032044018053</south>
+		<east>-0.2418042033807836</east>
+		<west>-0.2479782392958725</west>
 	</LatLonBox>
 </GroundOverlay>
 
@@ -4064,7 +4228,46 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Rorkvell-Plan">
+	<name>Rorkvell</name>
+    <Region>
+          <LatLonAltBox>
+		<north>35.06058034031707</north>
+		<south>35.05934324797535</south>
+		<east>1.691851091631268</east>
+		<west>1.691197704531743</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
 
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Reich_des_Roten_Mondes" title="Reich des Roten Mondes">RdRM</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Rorkvell_Orkland_sw_98.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.06058034031707</north>
+		<south>35.05934324797535</south>
+		<east>1.691851091631268</east>
+		<west>1.691197704531743</west>
+	</LatLonBox>
+</GroundOverlay>
 
 <GroundOverlay id="Salza_und_Salzahafen-Plan">
 	<name>Salza und Salzahafen</name>

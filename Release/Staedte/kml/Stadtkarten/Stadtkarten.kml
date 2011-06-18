@@ -5548,7 +5548,48 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
         <east>7.836497298339849</east>
         <west>7.825767070649937</west>
       </LatLonBox>
-    </GroundOverlay>
+</GroundOverlay>
+
+<GroundOverlay id="Wolfsversteck-Plan">
+	<name>Wolfsversteck</name>
+    <Region>
+          <LatLonAltBox>
+		<north>32.05513635911174</north>
+		<south>32.05460068492818</south>
+		<east>2.254107948033557</east>
+		<west>2.253644950851829</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Von_Orks_und_Menschen" title="Von Orks und Menschen">A171</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Wolfsversteck_A171_sw_247.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.05513635911174</north>
+		<south>32.05460068492818</south>
+		<east>2.254107948033557</east>
+		<west>2.253644950851829</west>
+	</LatLonBox>
+</GroundOverlay>
 
 <GroundOverlay id="Xorlosch-Plan">
 	<name>Xorlosch</name>

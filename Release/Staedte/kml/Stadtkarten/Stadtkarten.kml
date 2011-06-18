@@ -132,8 +132,49 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<west>-0.8200000042336131</west>
 	</LatLonBox>
 </GroundOverlay>
+
+<GroundOverlay id="Albenhus-Plan">
+	<name>Albenhus</name>
+    <Region>
+          <LatLonAltBox>
+		<north>28.40711030317427</north>
+		<south>28.40135312720584</south>
+		<east>0.7539980440316477</east>
+		<west>0.7451300977271443</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Der_Händler" title="Der Händler">E3</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Albenhus_E3_sw_107.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>28.40711030317427</north>
+		<south>28.40135312720584</south>
+		<east>0.7539980440316477</east>
+		<west>0.7451300977271443</west>
+	</LatLonBox>
+</GroundOverlay>
 	
-	<GroundOverlay id="Altnorden-Plan">
+<GroundOverlay id="Altnorden-Plan">
 	<name>Altnorden</name>
 	<Region>
       <LatLonAltBox>

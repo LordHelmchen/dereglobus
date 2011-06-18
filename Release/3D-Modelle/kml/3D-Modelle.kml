@@ -72,6 +72,47 @@ Dieses Projekt ist in enger Kooperation mit Marc Jenneßen alias Zendijian, dem 
     <open>0</open>
     <visibility>0</visibility>
 
+	<NetworkLink id="Kuslik_Analyse_Akademie">
+	<name>Institut der Arkanen Analyse zu Kuslik</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Kilian / Quellen: <a title="Horte magischen Wissens" href="http://www.wiki-aventurica.de/Horte_magischen_Wissens">Horte magischen Wissens</a>  
+<br /><br /><a href="http://www.wiki-aventurica.de/Institut_der_Arkanen_Analysen">Die Akademie im Wiki Aventurica</a>]]></description>
+		<LookAt>
+			<longitude>-1.52634900220644</longitude>
+			<latitude>25.11867686316195</latitude>
+			<altitude>0</altitude>
+			<heading>52.94033073570974</heading>
+			<tilt>26.88737251342912</tilt>
+			<range>316.4259341056925</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>25.1274514011912</north>
+			<south>25.11048849621677</south>
+			<east>-1.507956140993817</east>
+			<west>-1.534980414624746</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>512</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Analyse_Kuslik.kml</href>
+	</Link>
+</NetworkLink>
+	
 <NetworkLink id="Brabak_Akademie">
 	<name>Dunkle Halle der Geister zu Brabak</name>
 	<description><![CDATA[<style type="text/css"><!--

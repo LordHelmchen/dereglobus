@@ -72,6 +72,48 @@ Dieses Projekt ist in enger Kooperation mit Marc Jenneßen alias Zendijian, dem 
     <open>0</open>
     <visibility>0</visibility>
 
+	<NetworkLink id="Mirham_Akademie">
+	<name>Schule der variablen Form</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Wulf / Quellen: <a title="Horte magischen Wissens" href="http://www.wiki-aventurica.de/Horte_magischen_Wissens">Horte magischen Wissens</a>  
+<br /><br /><a href="http://www.wiki-aventurica.de/Institut_der_Arkanen_Analysen">Die Akademie im Wiki Aventurica</a>]]></description>
+		<LookAt>
+			<longitude>-0.7178495402781659</longitude>
+			<latitude>19.15482590571057</latitude>
+			<altitude>0</altitude>
+			<heading>44.20073191577935</heading>
+			<tilt>63.90952713488269</tilt>
+			<range>160.2657620912537</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>16.909234345972</north>
+			<south>16.89613921484703</south>
+			<east>-3.047411290880059</east>
+			<west>-3.05652387146114</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>512</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Mirham.kml</href>
+	</Link>
+</NetworkLink>
+	
 	<NetworkLink id="Kuslik_Analyse_Akademie">
 	<name>Institut der Arkanen Analyse zu Kuslik</name>
 	<description><![CDATA[<style type="text/css"><!--

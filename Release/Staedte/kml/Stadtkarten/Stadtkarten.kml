@@ -1508,8 +1508,49 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
     </GroundOverlay>
 
-	<GroundOverlay id="Enqui-Plan">
-		<name>Enqui</name>
+<GroundOverlay id="Elenvina-Plan">
+	<name>Elenvina</name>
+    <Region>
+          <LatLonAltBox>
+		<north>27.52346388497735</north>
+		<south>27.51758692659748</south>
+		<east>-1.277952644043915</east>
+		<west>-1.287489571867531</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Aus_der_Asche" title="Aus der Asche">A129</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Elenvina_A129_sw_11.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>27.52346388497735</north>
+		<south>27.51758692659748</south>
+		<east>-1.277952644043915</east>
+		<west>-1.287489571867531</west>
+	</LatLonBox>
+</GroundOverlay>
+	
+<GroundOverlay id="Enqui-Plan">
+	<name>Enqui</name>
    <Region>
       <LatLonAltBox>
          <north>36.72086617205972</north>
@@ -1639,6 +1680,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
     </Snippet>
   </GroundOverlay>
 
+<GroundOverlay id="Ferdok-Plan">
+	<name>Ferdok</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.53210833258165</north>
+		<south>29.52796100668437</south>
+		<east>1.81306068690967</east>
+		<west>1.806511315493541</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Am_Großen_Fluss" title="Am Großen Fluss">AGF</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Ferdok_AGF_sw_14.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.53210833258165</north>
+		<south>29.52796100668437</south>
+		<east>1.81306068690967</east>
+		<west>1.806511315493541</west>
+	</LatLonBox>
+</GroundOverlay>  
+  
 <Folder id="Festum-Plan">
       <open>0</open>
       <name>Festum</name>
@@ -2185,6 +2267,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Honingen-Plan">
+	<name>Honingen</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.6557660477972</north>
+		<south>29.64770844522116</south>
+		<east>-0.6775320971745393</east>
+		<west>-0.6848673547596604</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Am_Großen_Fluss" title="Am Großen Fluss">AGF</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Honingen_AGF_sw_24.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.6557660477972</north>
+		<south>29.64770844522116</south>
+		<east>-0.6775320971745393</east>
+		<west>-0.6848673547596604</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Hot-Alem-Plan">
 	<name>H&#244;t-Alem</name>
 	<Region>
@@ -2703,6 +2826,58 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<west>-1.534980414624746</west>
 	</LatLonBox>
 </GroundOverlay>
+
+<GroundOverlay id="Kyndoch-Plan">
+	<name>Kyndoch</name>
+    <Region>
+          <LatLonAltBox>
+		<north>28.43283643204422</north>
+		<south>28.42606013210702</south>
+		<east>-1.686498243518965</east>
+		<west>-1.69288362993209</west>
+		<rotation>19.61500214523973</rotation>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Stromschnellen" title="Stromschnellen">A142</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+     <LookAt>
+        <longitude>-1.689317</longitude>
+        <latitude>28.429366</latitude>
+        <altitude>0</altitude>
+        <range>1250.0</range>
+        <tilt>0</tilt>
+        <heading>-19.61500214523973</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+	  <drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Kyndoch_A142_sw_136.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>28.43283643204422</north>
+		<south>28.42606013210702</south>
+		<east>-1.686498243518965</east>
+		<west>-1.69288362993209</west>
+		<rotation>19.61500214523973</rotation>
+	</LatLonBox>
+</GroundOverlay>
     
 <GroundOverlay id="Lowangen-Plan">
 	<name>Lowangen</name>
@@ -2986,7 +3161,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <GroundOverlay id="Neersand-Plan">
 	<name>Neersand</name>
-<Region>
+	<Region>
       <LatLonAltBox>
         <north>34.28267275103658</north>
 		<south>34.27474871145976</south>
@@ -3000,7 +3175,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
    </Region>
-
 	<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -3064,7 +3238,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <GroundOverlay id="Norburg-Plan">
 	<name>Norburg</name>
-<Region>
+	<Region>
       <LatLonAltBox>
         <north>36.45350633386988</north>
 		<south>36.44545530058695</south>
@@ -4228,6 +4402,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Rommilys-Plan">
+	<name>Rommilys</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.89402644517418</north>
+		<south>29.88050769196952</south>
+		<east>5.264984913384888</east>
+		<west>5.254897209516884</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Rückkehr_des_Kaisers" title="Rückkehr des Kaisers">A133</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Rommilys_A133_sw_42.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.89402644517418</north>
+		<south>29.88050769196952</south>
+		<east>5.264984913384888</east>
+		<west>5.254897209516884</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Rorkvell-Plan">
 	<name>Rorkvell</name>
     <Region>
@@ -5172,8 +5387,48 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
       </LatLonBox>
     </GroundOverlay>
 
+<GroundOverlay id="Xorlosch-Plan">
+	<name>Xorlosch</name>
+    <Region>
+          <LatLonAltBox>
+		<north>28.40749120268942</north>
+		<south>28.40394651587253</south>
+		<east>-0.4877726251357647</east>
+		<west>-0.4936569865892219</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Angroschs_Kinder" title="Angroschs Kinder">AK</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Xorlosch_AK_sw_52.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>28.40749120268942</north>
+		<south>28.40394651587253</south>
+		<east>-0.4877726251357647</east>
+		<west>-0.4936569865892219</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Ysilia-Plan">
-	
       <name>Ysilia</name>
       <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -5222,7 +5477,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
     </GroundOverlay>
 
 <GroundOverlay id="Zorgan-Plan">
-	
       <name>Zorgan</name>
             <Region>
         <LatLonAltBox>

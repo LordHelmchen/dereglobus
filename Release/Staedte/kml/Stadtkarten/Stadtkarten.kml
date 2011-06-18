@@ -1586,8 +1586,48 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<east>0.3172750832751428</east>
 		<west>0.31177534337096</west>
 		</LatLonBox>
-	</GroundOverlay>
+</GroundOverlay>
 	
+<GroundOverlay id="Eslamsgrund-Plan">
+	<name>Eslamsgrund</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.05691176875272</north>
+		<south>29.05137803777095</south>
+		<east>3.593984513723576</east>
+		<west>3.584489242417084</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Ehrenhändel" title="Ehrenhändel">A147</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Eslamsgrund_A147_sw_122.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.05691176875272</north>
+		<south>29.05137803777095</south>
+		<east>3.593984513723576</east>
+		<west>3.584489242417084</west>
+	</LatLonBox>
+</GroundOverlay>
 	
 <GroundOverlay id="Fasar-Plan">
       <name>Fasar</name>
@@ -3921,7 +3961,48 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
-	<GroundOverlay id="Prem-Plan">
+<GroundOverlay id="Port_Stoerrebrandt-Plan">
+	<name>Port Stoerrebrandt</name>
+    <Region>
+          <LatLonAltBox>
+		<north>14.95132764256421</north>
+		<south>14.94732232411015</south>
+		<east>7.024769775245802</east>
+		<west>7.021722500429873</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Klar_zum_Entern" title="Klar zum Entern">A148</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Port_Stoerrebrandt_A148_sw_37.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>14.95132764256421</north>
+		<south>14.94732232411015</south>
+		<east>7.024769775245802</east>
+		<west>7.021722500429873</west>
+	</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay id="Prem-Plan">
 	<name>Prem</name>
    <Region>
       <LatLonAltBox>

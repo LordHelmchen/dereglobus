@@ -2154,6 +2154,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		  <west>-1.253353667831368</west>
 	</LatLonBox>
 </GroundOverlay> 
+
+<GroundOverlay id="Gratenfels-Plan">
+	<name>Gratenfels</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.85280279446358</north>
+		<south>29.84960897323702</south>
+		<east>0.397606184379567</east>
+		<west>0.3932697878711882</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Über_den_Greifenpaß" title="Über den Greifenpaß">A80</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Gratenfels_A80_sw_129.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.85280279446358</north>
+		<south>29.84960897323702</south>
+		<east>0.397606184379567</east>
+		<west>0.3932697878711882</west>
+	</LatLonBox>
+</GroundOverlay>
   
 <GroundOverlay id="Greifenfurt-Plan">
       <name>Greifenfurt</name>

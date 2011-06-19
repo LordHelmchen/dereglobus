@@ -72,89 +72,6 @@ Dieses Projekt ist in enger Kooperation mit Marc Jenneßen alias Zendijian, dem 
     <open>0</open>
     <visibility>0</visibility>
 
-	<NetworkLink id="Mirham_Akademie">
-	<name>Schule der variablen Form</name>
-	<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<span style="font-size: 8pt">K&uuml;nstler: Wulf / Quellen: <a title="Horte magischen Wissens" href="http://www.wiki-aventurica.de/Horte_magischen_Wissens">Horte magischen Wissens</a>  
-<br /><br /><a href="http://www.wiki-aventurica.de/Schule_der_variablen_Form">Die Akademie im Wiki Aventurica</a>]]></description>
-		<LookAt>
-			<longitude>-0.7178495402781659</longitude>
-			<latitude>19.15482590571057</latitude>
-			<altitude>0</altitude>
-			<heading>44.20073191577935</heading>
-			<tilt>63.90952713488269</tilt>
-			<range>160.2657620912537</range>
-			<altitudeMode>relativeToGround</altitudeMode>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-		</LookAt>
-	<Region>
-		<LatLonAltBox>
-			<north>16.909234345972</north>
-			<south>16.89613921484703</south>
-			<east>-3.047411290880059</east>
-			<west>-3.05652387146114</west>
-			<minAltitude>0</minAltitude>
-			<maxAltitude>0</maxAltitude>
-		</LatLonAltBox>
-		<Lod>
-			<minLodPixels>256</minLodPixels>
-			<maxLodPixels>-1</maxLodPixels>
-			<minFadeExtent>512</minFadeExtent>
-			<maxFadeExtent>0</maxFadeExtent>
-		</Lod>
-	</Region>
-	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Mirham.kml</href>
-	</Link>
-</NetworkLink>
-	
-	<NetworkLink id="Kuslik_Analyse_Akademie">
-	<name>Institut der Arkanen Analyse zu Kuslik</name>
-	<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<span style="font-size: 8pt">K&uuml;nstler: Kilian / Quellen: <a title="Horte magischen Wissens" href="http://www.wiki-aventurica.de/Horte_magischen_Wissens">Horte magischen Wissens</a>  
-<br /><br /><a href="http://www.wiki-aventurica.de/Institut_der_Arkanen_Analysen">Die Akademie im Wiki Aventurica</a>]]></description>
-		<LookAt>
-			<longitude>-1.52634900220644</longitude>
-			<latitude>25.11867686316195</latitude>
-			<altitude>0</altitude>
-			<heading>52.94033073570974</heading>
-			<tilt>26.88737251342912</tilt>
-			<range>316.4259341056925</range>
-			<altitudeMode>relativeToGround</altitudeMode>
-		</LookAt>
-	<Region>
-		<LatLonAltBox>
-			<north>25.1274514011912</north>
-			<south>25.11048849621677</south>
-			<east>-1.507956140993817</east>
-			<west>-1.534980414624746</west>
-			<minAltitude>0</minAltitude>
-			<maxAltitude>0</maxAltitude>
-		</LatLonAltBox>
-		<Lod>
-			<minLodPixels>256</minLodPixels>
-			<maxLodPixels>-1</maxLodPixels>
-			<minFadeExtent>512</minFadeExtent>
-			<maxFadeExtent>0</maxFadeExtent>
-		</Lod>
-	</Region>
-	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Analyse_Kuslik.kml</href>
-	</Link>
-</NetworkLink>
-	
 <NetworkLink id="Brabak_Akademie">
 	<name>Dunkle Halle der Geister zu Brabak</name>
 	<description><![CDATA[<style type="text/css"><!--
@@ -195,188 +112,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
 	<Link>
 		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Brabak.kml</href>
-	</Link>
-</NetworkLink>
-
-
-<NetworkLink id="Punin_Akademie">
-	<name>Academia der Hohen Magie und Arkanes Institut zu Punin</name>
-	<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<span style="font-size: 8pt">K&uuml;nstler: Kilian / Quellen: TODO  
-]]>
-	</description>
-	<LookAt>
-		<longitude>2.65680</longitude>
-		<latitude>27.04668</latitude>
-		<altitude>10</altitude>
-		<range>203</range>
-		<tilt>45</tilt>
-		<heading>180</heading>
-		<altitudeMode>relativeToGround</altitudeMode>
-	</LookAt>
-	<!--
-	<Region>
-        <LatLonAltBox>
-		<north>27.03818</north>
-		<south>27.05625</south>
-		<east>2.66239</east>
-		<west>2.64749</west>
-            <minAltitude>0</minAltitude>
-            <maxAltitude>400</maxAltitude>
-         </LatLonAltBox>
-         <Lod>
-            <minLodPixels>512</minLodPixels>
-            <maxLodPixels>-1</maxLodPixels>
-            <minFadeExtent>0</minFadeExtent>
-            <maxFadeExtent>0</maxFadeExtent>
-          </Lod>
-    </Region>
-	-->
-	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Punin.kml</href>
-	</Link>
-</NetworkLink>
-
-
-<NetworkLink id="Lowangen_Akademie">
-	<name>Akademie der Verformungen zu Lowangen</name>
-	<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<span style="font-size: 8pt">K&uuml;nstler: Thethan <br> Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a>  und <a title="Vorlage: Historisches Rathaus in Münster" href="http://de.wikipedia.org/wiki/Historisches_Rathaus_M%C3%BCnster">Rathaus Münster</a>
-<br />
-<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php/Datei:Akademie_der_Verformungen.JPG"><img height="167" alt="Bild der Akademie" hspace="5" width="280" border="1" src="http://www.wiki-aventurica.de/images/thumb/1/12/Akademie_der_Verformungen.JPG/300px-Akademie_der_Verformungen.JPG" /></a>
-<br /><br /><a href="http://www.wiki-aventurica.de/index.php/Akademie_der_Verformungen">Die Akademie im Wiki Aventurica</a>]]></description>
-	<Camera>
-		<longitude>2.268925975625327</longitude>
-		<latitude>33.67940514105482</latitude>
-		<altitude>12.32420127448751</altitude>
-		<heading>29.15745699381915</heading>
-		<tilt>91.13654501617533</tilt>
-		<roll>-0.0008994907596167257</roll>
-		<altitudeMode>relativeToGround</altitudeMode>
-		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-	</Camera>
-	<Region>
-		<LatLonAltBox>
-        <north>33.68779154789822</north>
-		<south>33.66953580771619</south>
-		<east>2.278781060336955</east>
-		<west>2.262522439708353</west>
-			<minAltitude>0</minAltitude>
-			<maxAltitude>0</maxAltitude>
-		</LatLonAltBox>
-		<Lod>
-			<minLodPixels>256</minLodPixels>
-			<maxLodPixels>-1</maxLodPixels>
-			<minFadeExtent>512</minFadeExtent>
-			<maxFadeExtent>0</maxFadeExtent>
-		</Lod>
-	</Region>
-	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Lowangen.kml</href>
-	</Link>
-</NetworkLink>
-
-
-	
-<NetworkLink id="Methumis_Akademie"> 
-		<name>Halle des magischen Wissens zu Methumis</name>
-	<Region>
-      <LatLonAltBox>
-        <north>24.40999537364826</north>
-		<south>24.40376673182352</south>
-		<east>-0.6153675342119886</east>
-		<west>-0.6247157652578632</west>
-      </LatLonAltBox>
-      <Lod>
-         <minLodPixels>256</minLodPixels>
-         <maxLodPixels>-1</maxLodPixels>
-         <minFadeExtent>512</minFadeExtent>
-         <maxFadeExtent>0</maxFadeExtent>
-      </Lod>
-   </Region>
-		<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<span style="font-size: 8pt">K&uuml;nstler: Thethan / Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a>,  <a title="Universität Bologna auf Wikipedia" href="http://de.wikipedia.org/wiki/Universit%C3%A4t_Bologna">Universität Bologna</a></span><br />
-<br />
-<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php?title=Datei:Akademie_des_magischen_Wissens_zu_Methumis_von_Thethan_fuer_das_DereGlobus-Projekt.jpg"><img height="167" alt="Bild der Akademie" hspace="5" width="280" border="1" src="http://www.wiki-aventurica.de/images/8/80/Akademie_des_magischen_Wissens_zu_Methumis_von_Thethan_fuer_das_DereGlobus-Projekt.jpg" /></a>
-<br /><br /><a href="http://www.wiki-aventurica.de/index.php?title=Akademie_des_Magischen_Wissens">Die Akademie im Wiki Aventurica</a>
-<br /><a href="http://sketchup.google.com/3dwarehouse/details?mid=f2b2a1d7a2234cede6b99608cb313119&prevstart=0">Die Akademie in der 3D-Galerie herunterladen</a>]]></description>
-		<Camera>
-			<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-			<longitude>-0.6221419237722325</longitude>
-			<latitude>24.40593951996998</latitude>
-			<altitude>5.008287014577205</altitude>
-			<heading>-147.1968765882334</heading>
-			<tilt>99.26607854691437</tilt>
-			<roll>-1.229299185573952e-005</roll>
-			<altitudeMode>relativeToGround</altitudeMode>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-		</Camera>
-	      	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/Magierakademien/Akademie_Methumis.kml</href>
-	</Link>
-</NetworkLink>
-
-<NetworkLink id="Riva_Akademie"> 
-		<name>Stoerrebrandt-Kolleg zu Riva</name>
-	<Region>
-      <LatLonAltBox>
-		<north>37.48419776157605</north>
-		<south>37.48225194090481</south>
-		<east>2.823194113793308</east>
-		<west>2.819275864265434</west>
-      </LatLonAltBox>
-      <Lod>
-         <minLodPixels>128</minLodPixels>
-         <maxLodPixels>-1</maxLodPixels>
-         <minFadeExtent>256</minFadeExtent>
-         <maxFadeExtent>0</maxFadeExtent>
-      </Lod>
-   </Region>
-		<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<span style="font-size: 8pt">K&uuml;nstler: Thethan, Cattivo / Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a></span><br />
-<br />
-<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php?title=Datei:Akademie_Riva.JPG"><img height="167" alt="Bild der Akademie" hspace="5" width="280"   border="1" src="http://www.wiki-aventurica.de/images/1/10/Akademie_Riva.JPG" /></a>
-<br /><br /><a href="http://www.wiki-aventurica.de/index.php?title=Stoerrebrandt-Kolleg">Die Akademie im Wiki Aventurica</a>
-<br /><a href="http://sketchup.google.com/3dwarehouse/details?mid=5f674cc542d70ecae6b99608cb313119&prevstart=0">Die Akademie in der 3D-Galerie herunterladen</a>]]></description>
-	<Camera>
-		<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-		<longitude>2.821141499777651</longitude>
-		<latitude>37.48229801136266</latitude>
-		<altitude>32.9552706038515</altitude>
-		<heading>13.80355530856319</heading>
-		<tilt>78.5521987550372</tilt>
-		<roll>-0.9498624089452307</roll>
-		<altitudeMode>relativeToGround</altitudeMode>
-		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-	</Camera>
-	      	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/Magierakademien/Akademie_Riva.kml</href>
 	</Link>
 </NetworkLink>
 
@@ -425,7 +160,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</Link>
 </NetworkLink>
 
-
 <NetworkLink id="Khunchom_Akademie"> 
 		<name>Drachenei-Akademie zu Khunchom</name>
         <Region>
@@ -470,6 +204,267 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	      	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
 	<Link>
 		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/Magierakademien/Akademie_Khunchom.kml</href>
+	</Link>
+</NetworkLink>
+	
+<NetworkLink id="Kuslik_Analyse_Akademie">
+	<name>Institut der Arkanen Analyse zu Kuslik</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Kilian / Quellen: <a title="Horte magischen Wissens" href="http://www.wiki-aventurica.de/Horte_magischen_Wissens">Horte magischen Wissens</a>  
+<br /><br /><a href="http://www.wiki-aventurica.de/Institut_der_Arkanen_Analysen">Die Akademie im Wiki Aventurica</a>]]></description>
+		<LookAt>
+			<longitude>-1.52634900220644</longitude>
+			<latitude>25.11867686316195</latitude>
+			<altitude>0</altitude>
+			<heading>52.94033073570974</heading>
+			<tilt>26.88737251342912</tilt>
+			<range>316.4259341056925</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>25.1274514011912</north>
+			<south>25.11048849621677</south>
+			<east>-1.507956140993817</east>
+			<west>-1.534980414624746</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>512</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Analyse_Kuslik.kml</href>
+	</Link>
+</NetworkLink>
+	
+<NetworkLink id="Lowangen_Akademie">
+	<name>Akademie der Verformungen zu Lowangen</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Thethan <br> Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a>  und <a title="Vorlage: Historisches Rathaus in Münster" href="http://de.wikipedia.org/wiki/Historisches_Rathaus_M%C3%BCnster">Rathaus Münster</a>
+<br />
+<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php/Datei:Akademie_der_Verformungen.JPG"><img height="167" alt="Bild der Akademie" hspace="5" width="280" border="1" src="http://www.wiki-aventurica.de/images/thumb/1/12/Akademie_der_Verformungen.JPG/300px-Akademie_der_Verformungen.JPG" /></a>
+<br /><br /><a href="http://www.wiki-aventurica.de/index.php/Akademie_der_Verformungen">Die Akademie im Wiki Aventurica</a>]]></description>
+	<Camera>
+		<longitude>2.268925975625327</longitude>
+		<latitude>33.67940514105482</latitude>
+		<altitude>12.32420127448751</altitude>
+		<heading>29.15745699381915</heading>
+		<tilt>91.13654501617533</tilt>
+		<roll>-0.0008994907596167257</roll>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</Camera>
+	<Region>
+		<LatLonAltBox>
+        <north>33.68779154789822</north>
+		<south>33.66953580771619</south>
+		<east>2.278781060336955</east>
+		<west>2.262522439708353</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>512</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Lowangen.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink id="Methumis_Akademie"> 
+		<name>Halle des magischen Wissens zu Methumis</name>
+	<Region>
+      <LatLonAltBox>
+        <north>24.40999537364826</north>
+		<south>24.40376673182352</south>
+		<east>-0.6153675342119886</east>
+		<west>-0.6247157652578632</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>512</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Thethan / Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a>,  <a title="Universität Bologna auf Wikipedia" href="http://de.wikipedia.org/wiki/Universit%C3%A4t_Bologna">Universität Bologna</a></span><br />
+<br />
+<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php?title=Datei:Akademie_des_magischen_Wissens_zu_Methumis_von_Thethan_fuer_das_DereGlobus-Projekt.jpg"><img height="167" alt="Bild der Akademie" hspace="5" width="280" border="1" src="http://www.wiki-aventurica.de/images/8/80/Akademie_des_magischen_Wissens_zu_Methumis_von_Thethan_fuer_das_DereGlobus-Projekt.jpg" /></a>
+<br /><br /><a href="http://www.wiki-aventurica.de/index.php?title=Akademie_des_Magischen_Wissens">Die Akademie im Wiki Aventurica</a>
+<br /><a href="http://sketchup.google.com/3dwarehouse/details?mid=f2b2a1d7a2234cede6b99608cb313119&prevstart=0">Die Akademie in der 3D-Galerie herunterladen</a>]]></description>
+		<Camera>
+			<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+			<longitude>-0.6221419237722325</longitude>
+			<latitude>24.40593951996998</latitude>
+			<altitude>5.008287014577205</altitude>
+			<heading>-147.1968765882334</heading>
+			<tilt>99.26607854691437</tilt>
+			<roll>-1.229299185573952e-005</roll>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+	      	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/Magierakademien/Akademie_Methumis.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink id="Mirham_Akademie">
+	<name>Schule der variablen Form zu Mirham</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Wulf / Quellen: <a title="Horte magischen Wissens" href="http://www.wiki-aventurica.de/Horte_magischen_Wissens">Horte magischen Wissens</a>  
+<br /><br /><a href="http://www.wiki-aventurica.de/Schule_der_variablen_Form">Die Akademie im Wiki Aventurica</a>]]></description>
+		<LookAt>
+			<longitude>-0.7178495402781659</longitude>
+			<latitude>19.15482590571057</latitude>
+			<altitude>0</altitude>
+			<heading>44.20073191577935</heading>
+			<tilt>63.90952713488269</tilt>
+			<range>160.2657620912537</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>16.909234345972</north>
+			<south>16.89613921484703</south>
+			<east>-3.047411290880059</east>
+			<west>-3.05652387146114</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>512</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Mirham.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink id="Punin_Akademie">
+	<name>Academia der Hohen Magie und Arkanes Institut zu Punin</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Kilian / Quellen: TODO  
+]]>
+	</description>
+	<LookAt>
+		<longitude>2.65680</longitude>
+		<latitude>27.04668</latitude>
+		<altitude>10</altitude>
+		<range>203</range>
+		<tilt>45</tilt>
+		<heading>180</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<!--
+	<Region>
+        <LatLonAltBox>
+		<north>27.03818</north>
+		<south>27.05625</south>
+		<east>2.66239</east>
+		<west>2.64749</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>400</maxAltitude>
+         </LatLonAltBox>
+         <Lod>
+            <minLodPixels>512</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>0</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+    </Region>
+	-->
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Punin.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink id="Riva_Akademie"> 
+		<name>Stoerrebrandt-Kolleg zu Riva</name>
+	<Region>
+      <LatLonAltBox>
+		<north>37.48419776157605</north>
+		<south>37.48225194090481</south>
+		<east>2.823194113793308</east>
+		<west>2.819275864265434</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>256</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Thethan, Cattivo / Quellen: <a title="Hallen Arkaner Macht" href="http://www.wiki-aventurica.de/index.php?title=Hallen_arkaner_Macht">Hallen arkaner Macht</a></span><br />
+<br />
+<a title="Gr&ouml;&szlig;eres Bild im Wiki Aventurica" href="http://www.wiki-aventurica.de/index.php?title=Datei:Akademie_Riva.JPG"><img height="167" alt="Bild der Akademie" hspace="5" width="280"   border="1" src="http://www.wiki-aventurica.de/images/1/10/Akademie_Riva.JPG" /></a>
+<br /><br /><a href="http://www.wiki-aventurica.de/index.php?title=Stoerrebrandt-Kolleg">Die Akademie im Wiki Aventurica</a>
+<br /><a href="http://sketchup.google.com/3dwarehouse/details?mid=5f674cc542d70ecae6b99608cb313119&prevstart=0">Die Akademie in der 3D-Galerie herunterladen</a>]]></description>
+	<Camera>
+		<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+		<longitude>2.821141499777651</longitude>
+		<latitude>37.48229801136266</latitude>
+		<altitude>32.9552706038515</altitude>
+		<heading>13.80355530856319</heading>
+		<tilt>78.5521987550372</tilt>
+		<roll>-0.9498624089452307</roll>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</Camera>
+	      	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/Magierakademien/Akademie_Riva.kml</href>
 	</Link>
 </NetworkLink>
 

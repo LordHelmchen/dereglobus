@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Amhallah</name>
+	<drawOrder>21</drawOrder>
+				<Region>
+      <LatLonAltBox>
+		<north>26.38088943619859</north>
+		<south>26.37212976563695</south>
+		<east>0.4528332612749736</east>
+		<west>0.438634977829398</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Amhallah_koenigreichalmada.de_Farbe.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>26.38088943619859</north>
+		<south>26.37212976563695</south>
+		<east>0.4528332612749736</east>
+		<west>0.438634977829398</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

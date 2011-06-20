@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Mengbilla-Plan">
+	<name>Mengbilla</name>
+    <Region>
+          <LatLonAltBox>
+		<north>21.7646977913465</north>
+		<south>21.75755219496726</south>
+		<east>-0.9658157634129356</east>
+		<west>-0.9770224854070335</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Patrizier_und_Diebesbanden" title="Patrizier und Diebesbanden">PuD</a>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>Mengbilla.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>21.7646977913465</north>
+		<south>21.75755219496726</south>
+		<east>-0.9658157634129356</east>
+		<west>-0.9770224854070335</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

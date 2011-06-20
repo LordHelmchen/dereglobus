@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Tal_der_Tuerme-Plan">
+	<name>Tal der Türme (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+           <north>33.88054069211357</north>
+		<south>33.8589815061443</south>
+		<east>8.781511732129463</east>
+		<west>8.750994402761522</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Vielen Dank an Robak von <a href="http://www.wolkenturm.de">wolkenturm.de</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+
+</div>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Tal_der_Tuerme_Robak_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>33.88054069211357</north>
+		<south>33.8589815061443</south>
+		<east>8.781511732129463</east>
+		<west>8.750994402761522</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

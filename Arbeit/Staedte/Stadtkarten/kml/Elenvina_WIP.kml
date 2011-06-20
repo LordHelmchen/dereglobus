@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Elenvina</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Elenvina</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Elenvina_AGF_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>27.54143843413744</north>
+			<south>27.53553202989412</south>
+			<east>-1.278246394311872</east>
+			<west>-1.287693897977477</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

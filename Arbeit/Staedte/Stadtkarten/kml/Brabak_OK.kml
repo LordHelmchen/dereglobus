@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Brabak-Plan">
+        <name>Brabak</name>
+        <Region>
+      <LatLonAltBox>
+                <north>16.909234345972</north>
+                <south>16.89613921484703</south>
+                <east>-3.047411290880059</east>
+                <west>-3.05652387146114</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <description><![CDATA[<style type="text/css"><!--
+
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+a:hover { text-decoration: underline; color: #B21C19; }
+
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+#wiki { font-size:10px; }
+
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=IdDM)" title="In den Dschungeln Meridianas">IdDM</a>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+        <gx:balloonVisibility>1</gx:balloonVisibility>
+        <drawOrder>21</drawOrder>
+        <Icon>
+                <href>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Staedte/media/karten/Brabak_IdDM_sw.jpg</href>
+                <viewBoundScale>0.75</viewBoundScale>
+        </Icon>
+        <LatLonBox>
+                <north>16.909234345972</north>
+                <south>16.89613921484703</south>
+                <east>-3.047411290880059</east>
+                <west>-3.05652387146114</west>
+        </LatLonBox>
+</GroundOverlay>
+</kml>

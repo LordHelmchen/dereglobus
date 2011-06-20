@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Unau</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>22.54930733346729</north>
+			<south>22.54389861405931</south>
+			<east>3.500683301590294</east>
+			<west>3.492824491738181</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<GroundOverlay>
+		<name>Unau</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Raschtuls_Atem" title="Raschtuls Atem">RA G3</a>]]></description>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Unau_RaschtulsAtem_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>22.54930733346729</north>
+			<south>22.54389861405931</south>
+			<east>3.500683301590294</east>
+			<west>3.492824491738181</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

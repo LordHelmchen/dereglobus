@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Ilsur</name>
+	<visibility>0</visibility>
+	<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ilsur_Borbarads_Erben_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>31.51683845322665</north>
+		<south>31.50213326039206</south>
+		<east>9.684907672105389</east>
+		<west>9.672452312425895</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

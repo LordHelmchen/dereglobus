@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Angralosch-Plan">
+	<name>Angralosch</name>
+        <Region>
+          <LatLonAltBox>
+             <north>27.06317246516669</north>
+		<south>27.05501857002545</south>
+		<east>4.402878931216597</east>
+		<west>4.396835894882886</west>
+		<rotation>-11.13863066354813</rotation>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href=http://www.wiki-aventurica.de/index.php?title=Das_Vermächtnis_des_Drachen title="	Das Vermächtnis des Drachen (Kar Domadrosch)">139.4</a>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<Camera>
+		<longitude>4.400036741082604</longitude>
+		<latitude>27.05889072873557</latitude>
+		<altitude>891.0557382797775</altitude>
+		<heading>12.73152193228052</heading>
+		<tilt>0</tilt>
+		<roll>1.466195524620992</roll>
+	</Camera>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Angralosch_Kar_Domadrosch_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>27.06317246516669</north>
+		<south>27.05501857002545</south>
+		<east>4.402878931216597</east>
+		<west>4.396835894882886</west>
+		<rotation>-11.13863066354813</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

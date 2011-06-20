@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Schargrimm Zähne</name>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=http://www.wiki-aventurica.de/index.php?title=%C3%84onenstaub" title="Äonenstaub">M2</a>]]></description>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/myranor/SchargrimmsZaehne_M2_S41_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>9.15016546563831</north>
+		<south>9.040997750976421</south>
+		<east>-53.762518381337</east>
+		<west>-53.91079273463043</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

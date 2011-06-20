@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Brig-Lo</name>
+	<drawOrder>21</drawOrder>
+			<Region>
+      <LatLonAltBox>
+		<north>26.40646433074556</north>
+		<south>26.40348287582102</south>
+		<east>0.6733757048787331</east>
+		<west>0.6691195933676425</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Brig-Lo_Erben_des_Zorns_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>26.40646433074556</north>
+		<south>26.40348287582102</south>
+		<east>0.6733757048787331</east>
+		<west>0.6691195933676425</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

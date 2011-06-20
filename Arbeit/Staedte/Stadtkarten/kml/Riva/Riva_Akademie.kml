@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Riva_Akademie</name>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>Riva_Akademie.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>37.47577581906997</north>
+		<south>37.4738034408178</south>
+		<east>2.807149299879824</east>
+		<west>2.803890746875557</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

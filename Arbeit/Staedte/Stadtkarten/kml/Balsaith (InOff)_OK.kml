@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Balsaith_(InOff)-Plan">
+	<name>Balsaith (InOff)</name>
+	<Region>
+      <LatLonAltBox>
+        <north>33.52280284745262</north>
+		<south>33.51794419350827</south>
+		<east>4.377620972360604</east>
+		<west>4.369381670699196</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+
+<div id="wiki">
+<a href="http://www.herzogtum-weiden.net"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Herzogtum-Weiden.gif" alt="www.Herzogtum-Weiden.net" align="left"></a></p>
+
+<p>Vielen Dank an den Kartenersteller Patrick Reed, der den Stadtplan - basierend auf Auen von Martin Lorber - für die Spielhilfe zur Stadt von Axel Riegert im Rahmen des weidener Briefspiels geschaffen hat.
+</div>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Balsaith_Weiden_Briefspiel_InOff.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>33.52280284745262</north>
+		<south>33.51794419350827</south>
+		<east>4.377620972360604</east>
+		<west>4.369381670699196</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <GroundOverlay>
+    <visibility>1</visibility>
+    <name>Ferchaba</name>
+    <Region>
+      <LatLonAltBox>
+        <north>26.29888209458768</north>
+        <south>26.29461428172656</south>
+        <east>1.386577651461947</east>
+        <west>1.379777051162261</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>16</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+        <minFadeExtent>128</minFadeExtent>
+        <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+    </Region>
+    <description><![CDATA[<p>Quelle: <a title="Erben des Zorns" href="http://www.wiki-aventurica.de/index.php?title=Erben_des_Zorns">A115</a></p>]]></description>
+    <drawOrder>21</drawOrder>
+    <Icon>
+      <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Ferchaba_Erben_des_Zorns_sw.png</href>
+      <viewBoundScale>0.75</viewBoundScale>
+    </Icon>
+    <LatLonBox>
+      <north>26.29888209458768</north>
+      <south>26.29461428172656</south>
+      <east>1.386577651461947</east>
+      <west>1.379777051162261</west>
+    </LatLonBox>
+    <color>ffffffff</color>
+    <altitudeMode>clampToGround</altitudeMode>
+    <altitude>0</altitude>
+    <Style>
+    </Style>
+    <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    <Snippet maxLines="0">
+    </Snippet>
+  </GroundOverlay>
+</kml>

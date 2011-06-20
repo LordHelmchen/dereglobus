@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Burg_Tobelstein-Plan">
+	<name>Burg Tobelstein</name>
+	    <Region>
+          <LatLonAltBox>
+             <north>32.44040229492204</north>
+		<south>32.43991228977937</south>
+		<east>6.649841265177858</east>
+		<west>6.648912466172903</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[    <style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href=http://www.wiki-aventurica.de/index.php?title=Drachenschatten title="Drachenschatten">A170</a>]]></description>
+    <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Tobelstein_Drachenschatten_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.44040229492204</north>
+		<south>32.43991228977937</south>
+		<east>6.649841265177858</east>
+		<west>6.648912466172903</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

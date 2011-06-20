@@ -1,0 +1,1584 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Stadtkarten</name>
+    <open>0</open>
+    
+
+    
+    
+    <GroundOverlay>
+      <name>Al'Ahabad</name>
+      <Region>
+        <LatLonAltBox>
+        <north>24.94240491187294</north>
+        <south>24.93742580187806</south>
+        <east>6.541741335862592</east>
+        <west>6.538226668038076</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Der_siebente_Schleier" title="Der siebente Schleier (Basargeschichten)">A141.2</a>]]></description>
+	<LookAt>
+		<longitude>6.540170327882457</longitude>
+		<latitude>24.94006875843499</latitude>
+		<altitude>0</altitude>
+		<range>591.0876726676243</range>
+		<tilt>3.495225599043488</tilt>
+		<heading>47.87192260408967</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Al%27Ahabad_Basargeschichten_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>24.94240491187294</north>
+        <south>24.93742580187806</south>
+        <east>6.541741335862592</east>
+        <west>6.538226668038076</west>
+        <rotation>-47.70130691803328</rotation>
+      </LatLonBox>
+      <color>ffffffff</color>
+      <altitudeMode>clampToGround</altitudeMode>
+      <altitude>0</altitude>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Amhallah</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<div id="wiki">
+<a href="http://www.koenigreichalmada.de"><img src="http://www.dereglobus.orkenspalter.com/public/icons/KoenigreichAlmada.png" alt="www.koenigreichalmada.org" align="left"></a></p>
+
+<p>Vielen Dank an Malte Bornkamm von <a href="http://www.koenigreichalmada.de/downloads.htm">KönigreichAlmada.de</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur in Farbe.
+
+</div>]]></description>
+      <Region>
+        <LatLonAltBox>
+        <north>26.38088943619859</north>
+        <south>26.37212976563695</south>
+        <east>0.4528332612749736</east>
+        <west>0.438634977829398</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Amhallah_koenigreichalmada.de_Farbe.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>26.38088943619859</north>
+        <south>26.37212976563695</south>
+        <east>0.4528332612749736</east>
+        <west>0.438634977829398</west>
+      </LatLonBox>
+      <color>ffffffff</color>
+      <altitudeMode>clampToGround</altitudeMode>
+      <altitude>0</altitude>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Anchopal</name>
+            <Region>
+        <LatLonAltBox>
+        <north>25.52146813100769</north>
+        <south>25.49415259521553</south>
+        <east>6.12567503533441</east>
+        <west>6.104396479180085</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne" title="Land der Ersten Sonne">LdeS G5</a>]]></description>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Anchopal_LanddererstenSonne_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>25.52146813100769</north>
+        <south>25.49415259521553</south>
+        <east>6.12567503533441</east>
+        <west>6.104396479180085</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Andergast</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Unter_dem_Westwind" title="Unter dem Westwind">UdW G2</a>]]></description>
+      <LookAt>
+        <longitude>-1.144444597814135</longitude>
+        <latitude>32.09094965339891</latitude>
+        <altitude>0</altitude>
+        <range>846.6816628900175</range>
+        <tilt>0</tilt>
+        <heading>1.365650666353398e-013</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+        <north>32.09349042191085</north>
+        <south>32.08926338322076</south>
+        <east>-1.142785239921934</east>
+        <west>-1.146054851986406</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Andergast_UnterdemWestwind_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>32.09349042191085</north>
+        <south>32.08926338322076</south>
+        <east>-1.142785239921934</east>
+        <west>-1.146054851986406</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Baburin</name>
+            <Region>
+        <LatLonAltBox>
+        <north>28.08628835435938</north>
+        <south>28.06886955724168</south>
+        <east>5.768952158643961</east>
+        <west>5.754915328975288</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne" title="Land der Ersten Sonne">LdeS G5</a>]]></description>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Baburin_LanddererstenSonne_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>28.08628835435938</north>
+        <south>28.06886955724168</south>
+        <east>5.768952158643961</east>
+        <west>5.754915328975288</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <color>ffffffff</color>
+      <altitudeMode>clampToGround</altitudeMode>
+      <altitude>0</altitude>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Birscha</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Drachenschatten" title="Drachenschatten">A170</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>23.81298014153157</north>
+          <south>23.80869217165211</south>
+          <east>2.327067021500694</east>
+          <west>2.320435406253254</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Oase_Bischa_Drachenschatten_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>23.81298014153157</north>
+        <south>23.80869217165211</south>
+        <east>2.327067021500694</east>
+        <west>2.320435406253254</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <color>ffffffff</color>
+      <altitudeMode>clampToGround</altitudeMode>
+      <altitude>0</altitude>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Brig-Lo</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Erben_des_Zorns" title="Erben des Zorns">A115</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>26.40646433074556</north>
+          <south>26.40348287582102</south>
+          <east>0.6733757048787331</east>
+          <west>0.6691195933676425</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Brig-Lo_Erben_des_Zorns_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>26.40646433074556</north>
+        <south>26.40348287582102</south>
+        <east>0.6733757048787331</east>
+        <west>0.6691195933676425</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <Folder>
+      <open>0</open>
+      <name>Cumrat</name>
+      	<Style>
+		<ListStyle>
+		<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>	
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Das_Königreich_Almada" title="Das Königreich Almada">Almada</a>]]></description>
+      <LookAt>
+        <longitude>2.221687657861795</longitude>
+        <latitude>26.68469700007355</latitude>
+        <altitude>0</altitude>
+        <range>588.784210023434</range>
+        <tilt>0</tilt>
+        <heading>-2.32949704360289e-005</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <GroundOverlay>
+        <name>Cumrat</name>
+        <Region>
+          <LatLonAltBox>
+            <north>26.68590684474269</north>
+            <south>26.68436810902017</south>
+            <east>2.22186872959661</east>
+            <west>2.219283308684352</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>200</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>128</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+        <drawOrder>22</drawOrder>
+        <Icon>
+          <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Cumrat_Das_Koenigreich_Almada_sw.png</href>
+          <viewBoundScale>0.75</viewBoundScale>
+        </Icon>
+        <LatLonBox>
+          <north>26.68590684474269</north>
+          <south>26.68436810902017</south>
+          <east>2.22186872959661</east>
+          <west>2.219283308684352</west>
+        </LatLonBox>
+      </GroundOverlay>
+      <GroundOverlay>
+        <name>Cumrat Umgebung</name>
+        <Region>
+          <LatLonAltBox>
+            <north>26.68773191114368</north>
+            <south>26.68137819260754</south>
+            <east>2.224195808595577</east>
+            <west>2.219306764770597</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>16</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>128</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+        <drawOrder>21</drawOrder>
+        <Icon>
+          <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Cumrat_Umgebung_Das_Koenigreich_Almada_sw.png</href>
+          <viewBoundScale>0.75</viewBoundScale>
+        </Icon>
+        <LatLonBox>
+          <north>26.68773191114368</north>
+          <south>26.68137819260754</south>
+          <east>2.224195808595577</east>
+          <west>2.219306764770597</west>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+    <GroundOverlay>
+      <name>Ebelried</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Aventurischer_Bote_Nr._109" title="Aventurischer Bote Nr. 109">AB109</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>32.67708130673346</north>
+          <south>32.67366446995054</south>
+          <east>7.976934466310293</east>
+          <west>7.972868210123116</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ebelried_AvBo109_sw.jpg</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>32.67708130673346</north>
+        <south>32.67366446995054</south>
+        <east>7.976934466310293</east>
+        <west>7.972868210123116</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Elburum</name>
+            <Region>
+        <LatLonAltBox>
+        <north>27.17400259285891</north>
+        <south>27.15639751251483</south>
+        <east>8.729148607844442</east>
+        <west>8.701006082339301</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne" title="Land der Ersten Sonne">LdeS G5</a>]]></description>
+      <LookAt>
+        <longitude>8.715056857993714</longitude>
+        <latitude>27.16482701551642</latitude>
+        <altitude>0</altitude>
+        <range>3839.624733290221</range>
+        <tilt>0</tilt>
+        <heading>115.9235363068188</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Elburum_LanddererstenSonne_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>27.17400259285891</north>
+        <south>27.15639751251483</south>
+        <east>8.729148607844442</east>
+        <west>8.701006082339301</west>
+        <rotation>-115.8833663642675</rotation>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Fasar</name>
+       <Region>
+        <LatLonAltBox>
+        <north>26.5250567633423</north>
+        <south>26.5188808790913</south>
+        <east>4.557334556287773</east>
+        <west>4.548363349806359</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne" title="Land der Ersten Sonne">LdeS G5</a>]]></description>
+      <LookAt>
+        <longitude>4.552848953047087</longitude>
+        <latitude>26.5219688212168</latitude>
+        <altitude>0</altitude>
+        <range>1358.045325445697</range>
+        <tilt>0</tilt>
+        <heading>-7.792358969585615e-014</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Fasar_LanddererstenSonne_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>26.5250567633423</north>
+        <south>26.5188808790913</south>
+        <east>4.557334556287773</east>
+        <west>4.548363349806359</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Feuerhaven</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Der_Unersättliche" title="Der Unersättliche">A146</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>31.70448553800314</north>
+          <south>31.70348148484428</south>
+          <east>10.3354520503899</east>
+          <west>10.33388802511241</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Feuerhafen_DerUnersaettliche_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>31.70448553800314</north>
+        <south>31.70348148484428</south>
+        <east>10.3354520503899</east>
+        <west>10.33388802511241</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Greifenfurt</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Schild_des_Reiches" title="Schild des Reiches">SdR G9</a>]]></description>
+      <LookAt>
+        <longitude>2.26917068038756</longitude>
+        <latitude>31.32560073564712</latitude>
+        <altitude>0</altitude>
+        <range>716.2538035245117</range>
+        <tilt>0</tilt>
+        <heading>-1.111206291836316e-013</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+        <north>31.32786345312803</north>
+        <south>31.32352124878749</south>
+        <east>2.27255908729997</east>
+        <west>2.265440826161168</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Greifenfurt_SdR_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>31.32786345312803</north>
+        <south>31.32352124878749</south>
+        <east>2.27255908729997</east>
+        <west>2.265440826161168</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Ilsur</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Der_Unersättliche" title="Der Unersättliche">A146</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>31.51630821257146</north>
+          <south>31.49958921400086</south>
+          <east>9.683694417326247</east>
+          <west>9.669644105513561</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ilsur_AvBo53_farbe.jpg</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>31.51630821257146</north>
+        <south>31.49958921400086</south>
+        <east>9.683694417326247</east>
+        <west>9.669644105513561</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Kannemünde (InOff)</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+
+<div id="wiki">
+<a href="http://www.alveran.org/"><img src="http://www.dereglobus.orkenspalter.com/public/icons/alveran.png" alt="www.alveran.org" align="left"></a></p>
+
+<p>Vielen Dank an Johannes Heck von <a href="http://www.alveran.org/index.php?id=1715">Alveran.org</a>, der uns diese Karte und Texte zur Verf&uuml;gung gestellt hat.
+
+</div>]]></description>
+	<LookAt>
+		<longitude>3.885239198139248</longitude>
+		<latitude>22.19219001931517</latitude>
+		<altitude>0</altitude>
+		<range>308.616952066155</range>
+		<tilt>0</tilt>
+		<heading>-5.859875867607569</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>22.19324091518305</north>
+          <south>22.19118261588732</south>
+          <east>3.886815491363515</east>
+          <west>3.883689172179304</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Kannemuende_JohannesHeck_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>22.19324091518305</north>
+        <south>22.19118261588732</south>
+        <east>3.886815491363515</east>
+        <west>3.883689172179304</west>
+        <rotation>5.829858020306078</rotation>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+      <color>ffffffff</color>
+      <altitudeMode>clampToGround</altitudeMode>
+      <altitude>0</altitude>
+    </GroundOverlay>
+    <GroundOverlay id="Keft-Plan">
+      <name>Keft</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Raschtuls_Atem" title="Raschtuls Atem">RA G3</a>]]></description>
+      <LookAt>
+        <longitude>3.187077560390466</longitude>
+        <latitude>23.55541489950058</latitude>
+        <altitude>0</altitude>
+        <range>1581.405543156063</range>
+        <tilt>0</tilt>
+        <heading>-1.367638513029312e-013</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>23.55872551719856</north>
+          <south>23.55210428180258</south>
+          <east>3.192472919155192</east>
+          <west>3.1816822016257</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Keft_RaschulsAtem_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>23.55872551719856</north>
+        <south>23.55210428180258</south>
+        <east>3.192472919155192</east>
+        <west>3.1816822016257</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <Folder>
+      <open>0</open>
+      <name>Khunchom</name>
+      	<Style>
+		<ListStyle>
+		<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Die_Wüste_Khom_und_die_Echsensümpfe" title="Die Wüste Khom und die Echsensümpfe">Wüste Kohm</a>]]></description>
+      <LookAt>
+        <longitude>7.475945537908039</longitude>
+        <latitude>25.01741902446755</latitude>
+        <altitude>0</altitude>
+        <range>3887.641775857907</range>
+        <tilt>0</tilt>
+        <heading>0.001199892497039917</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <GroundOverlay>
+        <name>Khunchom</name>
+        <Region>
+          <LatLonAltBox>
+            <north>25.02310078684617</north>
+            <south>25.01025316995058</south>
+            <east>7.481166099768188</east>
+            <west>7.470634539495804</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>256</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>128</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <drawOrder>21</drawOrder>
+        <Icon>
+          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Khunchom_WuesteKohm_Farbe.png</href>
+          <viewBoundScale>0.75</viewBoundScale>
+        </Icon>
+        <LatLonBox>
+          <north>25.02310078684617</north>
+          <south>25.01025316995058</south>
+          <east>7.481166099768188</east>
+          <west>7.470634539495804</west>
+        </LatLonBox>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      </GroundOverlay>
+      <GroundOverlay>
+        <name>Groß-Khunchom</name>
+        <Region>
+          <LatLonAltBox>
+            <north>25.03200472494067</north>
+            <south>25.00106194412263</south>
+            <east>7.487776632583011</east>
+            <west>7.458439153676841</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>16</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>128</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <drawOrder>20</drawOrder>
+        <Icon>
+          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Gross-Khunchom_Wueste_Khom_Farbe.png</href>
+          <viewBoundScale>0.75</viewBoundScale>
+        </Icon>
+        <LatLonBox>
+          <north>25.03200472494067</north>
+          <south>25.00106194412263</south>
+          <east>7.487776632583011</east>
+          <west>7.458439153676841</west>
+        </LatLonBox>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      </GroundOverlay>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </Folder>
+    <GroundOverlay>
+      <name>Mendena</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Der_Unersättliche" title="Der Unersättliche">A146</a>]]></description>
+      <LookAt>
+        <longitude>10.1192588359504</longitude>
+        <latitude>31.06940846456502</latitude>
+        <altitude>0</altitude>
+        <range>1545.560016533676</range>
+        <tilt>0</tilt>
+        <heading>-3.180554681463516e-015</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>31.07459915238921</north>
+          <south>31.06436447333516</south>
+          <east>10.1280211053892</east>
+          <west>10.1104617948032</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Mendena_Der_Unersaettliche_sw.jpg</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>31.07459915238921</north>
+        <south>31.06436447333516</south>
+        <east>10.1280211053892</east>
+        <west>10.1104617948032</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Mherwed</name>
+            <Region>
+        <LatLonAltBox>
+        <north>24.31650780790117</north>
+        <south>24.29898613451321</south>
+        <east>5.893391156357323</east>
+        <west>5.877899622603043</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Raschtuls_Atem" title="Raschtuls Atem">RA G3</a>]]></description>
+      <LookAt>
+        <longitude>5.885849868951678</longitude>
+        <latitude>24.30737277688753</latitude>
+        <altitude>0</altitude>
+        <range>2539.788139879437</range>
+        <tilt>1.896080516189977</tilt>
+        <heading>52.47292171163787</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Mherwed_RaschtulsAtem_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>24.31650780790117</north>
+        <south>24.29898613451321</south>
+        <east>5.893391156357323</east>
+        <west>5.877899622603043</west>
+        <rotation>-52.57085272075343</rotation>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Nostria</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Unter_dem_Westwind" title="Unter dem Westwind">UdW G2</a>]]></description>
+      <LookAt>
+        <longitude>-3.011376782513291</longitude>
+        <latitude>30.03992110195709</latitude>
+        <altitude>0</altitude>
+        <range>1405.697386367886</range>
+        <tilt>1.791991277075015</tilt>
+        <heading>-0.0299884020003159</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+        <north>30.0447936383945</north>
+        <south>30.03516601067542</south>
+        <east>-3.006820854839268</east>
+        <west>-3.016526569985291</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Nostria_UnterdemWestwind_%20sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>30.0447936383945</north>
+        <south>30.03516601067542</south>
+        <east>-3.006820854839268</east>
+        <west>-3.016526569985291</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Omlad (InOff)</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+
+<div id="wiki">
+<a href="http://www.koenigreichalmada.de"><img src="http://www.dereglobus.orkenspalter.com/public/icons/KoenigreichAlmada.png" alt="www.koenigreichalmada.org" align="left"></a></p>
+
+<p>Vielen Dank an Malte Bornkamm von <a href="http://www.koenigreichalmada.de/downloads.htm">KönigreichAlmada.de</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+
+</div>]]></description>
+      <LookAt>
+        <longitude>1.852710704708147</longitude>
+        <latitude>26.50524336767759</latitude>
+        <altitude>0</altitude>
+        <range>1193.685038217919</range>
+        <tilt>1.370561550307281</tilt>
+        <heading>-7.427797828456237e-011</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>26.50911763764224</north>
+          <south>26.50147575775125</south>
+          <east>1.858684871540643</east>
+          <west>1.846797621821792</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Omlad_koenigreichalmada.de_Farbe.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>26.50911763764224</north>
+        <south>26.50147575775125</south>
+        <east>1.858684871540643</east>
+        <west>1.846797621821792</west>
+      </LatLonBox>
+      <color>ffffffff</color>
+      <altitudeMode>clampToGround</altitudeMode>
+      <altitude>0</altitude>
+    </GroundOverlay>
+    <GroundOverlay id="Perainefurten-Plan">
+      <name>Perainefurten</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Schild_des_Reiches" title="Schild des Reiches">SdR G9</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>33.03381746558505</north>
+          <south>33.02788944450911</south>
+          <east>8.09265441476885</east>
+          <west>8.082897651098781</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Perainefurten_SdR_sw.jpg</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>33.03381746558505</north>
+        <south>33.02788944450911</south>
+        <east>8.09265441476885</east>
+        <west>8.082897651098781</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Punin</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Herz_des_Reiches" title="Herz des Reiches">HdR G9</a>]]></description>
+      <LookAt>
+        <longitude>2.654763352272093</longitude>
+        <latitude>27.04710175671971</latitude>
+        <altitude>0</altitude>
+        <range>1206.023407173545</range>
+        <tilt>0</tilt>
+        <heading>-7.692662180296348e-005</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>27.05629773260329</north>
+          <south>27.03790578131286</south>
+          <east>2.662378418352493</east>
+          <west>2.647486645546109</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Punin_HdR_farbe.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>27.05629773260329</north>
+        <south>27.03790578131286</south>
+        <east>2.662378418352493</east>
+        <west>2.647486645546109</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Ragath</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<div id="wiki">
+<a href="http://www.koenigreichalmada.de"><img src="http://www.dereglobus.orkenspalter.com/public/icons/KoenigreichAlmada.png" alt="www.koenigreichalmada.org" align="left"></a></p>
+
+<p>Vielen Dank an Malte Bornkamm von <a href="http://www.koenigreichalmada.de/downloads.htm">KönigreichAlmada.de</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur in Farbe.
+
+</div>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>27.73586096060584</north>
+          <south>27.72649401714289</south>
+          <east>2.587827362215895</east>
+          <west>2.580420330419472</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ragath_yaquirblick.de_Frabe.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>27.73586096060584</north>
+        <south>27.72649401714289</south>
+        <east>2.587827362215895</east>
+        <west>2.580420330419472</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Rashdul</name>
+            <Region>
+        <LatLonAltBox>
+        <north>24.24816262826509</north>
+        <south>24.23520578742035</south>
+        <east>6.276232769565437</east>
+        <west>6.266455384534377</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Lexikon" title="Aventurien - Das Lexikon des Schwarzen Auges">Lexikon</a>]]></description>
+      <LookAt>
+        <longitude>6.271317250411256</longitude>
+        <latitude>24.24166280132017</latitude>
+        <altitude>0</altitude>
+        <range>1912.549773179709</range>
+        <tilt>1.353389999111814</tilt>
+        <heading>-5.933722327605373e-012</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Rashdul_Lexikon_farbe.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>24.24816262826509</north>
+        <south>24.23520578742035</south>
+        <east>6.276232769565437</east>
+        <west>6.266455384534377</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Selem</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Gefängnis_der_Jahre" title="Gefängnis der Jahre (Karawanenspuren)">A132.3</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>21.00725322549972</north>
+          <south>20.9902043554457</south>
+          <east>1.714732499701506</east>
+          <west>1.702424556073882</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Selem_GefaengnisderJahre_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>21.00725322549972</north>
+        <south>20.9902043554457</south>
+        <east>1.714732499701506</east>
+        <west>1.702424556073882</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Thalusa</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Die_letzte_Strophe" title="Basargeschichten-Die letzte Strophe">A141.1</a>]]></description>
+      <LookAt>
+        <longitude>6.276722068661091</longitude>
+        <latitude>22.788662904448</latitude>
+        <altitude>0</altitude>
+        <range>2107.777326169642</range>
+        <tilt>0</tilt>
+        <heading>-4.651561221640394e-014</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>22.79212989721367</north>
+          <south>22.78519591168234</south>
+          <east>6.282170562703715</east>
+          <west>6.271273574618467</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Thalusa_Basargeschichten_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>22.79212989721367</north>
+        <south>22.78519591168234</south>
+        <east>6.282170562703715</east>
+        <west>6.271273574618467</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Trallop</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Herzogtum_Weiden" title="Herzogtum Weiden ">Weiden</a>]]></description>
+      <LookAt>
+        <longitude>5.056730793763573</longitude>
+        <latitude>33.64859998736917</latitude>
+        <altitude>0</altitude>
+        <range>1290.649094855534</range>
+        <tilt>0</tilt>
+        <heading>-5.009373623305036e-014</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+        <north>33.65273612972145</north>
+        <south>33.64472693665064</south>
+        <east>5.064291725862548</east>
+        <west>5.049143744397889</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Trallop_Herzogtum_Weiden_farge.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>33.65273612972145</north>
+        <south>33.64472693665064</south>
+        <east>5.064291725862548</east>
+        <west>5.049143744397889</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Unau</name>
+            <Region>
+        <LatLonAltBox>
+        <north>22.54930733346729</north>
+        <south>22.54389861405931</south>
+        <east>3.500683301590294</east>
+        <west>3.492824491738181</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Raschtuls_Atem" title="Raschtuls Atem">RA G3</a>]]></description>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Unau_RaschtulsAtem_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>22.54930733346729</north>
+        <south>22.54389861405931</south>
+        <east>3.500683301590294</east>
+        <west>3.492824491738181</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Vallusa</name>
+       <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_des_schwarzen_Bären" title="Land des schwarzen Bären">LdsB G10</a>]]></description>
+      <Region>
+        <LatLonAltBox>
+          <north>32.98139828740061</north>
+          <south>32.97528966661235</south>
+          <east>9.702834751420685</east>
+          <west>9.693168469071797</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Vallusa_RauesLand_Farbe.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>32.98139828740061</north>
+        <south>32.97528966661235</south>
+        <east>9.702834751420685</east>
+        <west>9.693168469071797</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Warunk</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_des_schwarzen_Bären" title="Land des schwarzen Bären ">LdsB G10</a>]]></description>
+      <LookAt>
+        <longitude>7.831132184494894</longitude>
+        <latitude>30.6025888959797</latitude>
+        <altitude>0</altitude>
+        <range>1522.018222074351</range>
+        <tilt>0</tilt>
+        <heading>-5.009373623305038e-014</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>30.60591082531525</north>
+          <south>30.59926696664408</south>
+          <east>7.836497298339849</east>
+          <west>7.825767070649937</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Warunk_KdV_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>30.60591082531525</north>
+        <south>30.59926696664408</south>
+        <east>7.836497298339849</east>
+        <west>7.825767070649937</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Ysilia</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Invasion_der_Verdammten" title="Invasion der Verdammten">SG3</a>]]></description>
+      <LookAt>
+        <longitude>7.669963195394725</longitude>
+        <latitude>32.25923012367616</latitude>
+        <altitude>0</altitude>
+        <range>604.7749095628243</range>
+        <tilt>0</tilt>
+        <heading>16.05100439362058</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>32.2612452558373</north>
+          <south>32.25739459232509</south>
+          <east>7.671340686063831</east>
+          <west>7.668385039260214</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ysilia_IdV_sw.jpg</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>32.2612452558373</north>
+        <south>32.25739459232509</south>
+        <east>7.671340686063831</east>
+        <west>7.668385039260214</west>
+        <rotation>-15.95096424045932</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Zorgan</name>
+            <Region>
+        <LatLonAltBox>
+        <north>27.18345584486184</north>
+        <south>27.14599929213049</south>
+        <east>6.982196534288823</east>
+        <west>6.952597196188759</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne" title="Land der Ersten Sonne">LdeS G5</a>]]></description>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Zorgan_LanddererstenSonne_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>27.18345584486184</north>
+        <south>27.14599929213049</south>
+        <east>6.982196534288823</east>
+        <west>6.952597196188759</west>
+      </LatLonBox>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Zweimühlen</name>
+      <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Von_eigenen_Gnaden" title="Von eigenen Gnaden">A159</a>]]></description>
+      <LookAt>
+        <longitude>4.602774679785552</longitude>
+        <latitude>30.82456861112951</latitude>
+        <altitude>0</altitude>
+        <range>1601.288700198448</range>
+        <tilt>0</tilt>
+        <heading>-5.764755360152624e-014</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Region>
+        <LatLonAltBox>
+          <north>30.82742565035675</north>
+          <south>30.82171157190228</south>
+          <east>4.607421700540809</east>
+          <west>4.598127659030217</west>
+          <minAltitude>0</minAltitude>
+          <maxAltitude>0</maxAltitude>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>16</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+          <minFadeExtent>128</minFadeExtent>
+          <maxFadeExtent>0</maxFadeExtent>
+        </Lod>
+      </Region>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <drawOrder>21</drawOrder>
+      <Icon>
+        <href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Zweimuelen_Eigene_Gnaden_sw.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>30.82742565035675</north>
+        <south>30.82171157190228</south>
+        <east>4.607421700540809</east>
+        <west>4.598127659030217</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Document>
+</kml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Vallusa</name>
+	<Region>
+      <LatLonAltBox>
+         <north>32.98139828740061</north>
+			<south>32.97528966661235</south>
+			<east>9.702834751420685</east>
+			<west>9.693168469071797</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<LookAt>
+		<longitude>9.69800161024626</longitude>
+		<latitude>32.97834397700648</latitude>
+		<altitude>0</altitude>
+		<range>1023.925666022817</range>
+		<tilt>0</tilt>
+		<heading>-7.951386703658791e-014</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<GroundOverlay>
+		<name>Vallusa</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Vallusa_RauesLand_Farbe.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.98139828740061</north>
+			<south>32.97528966661235</south>
+			<east>9.702834751420685</east>
+			<west>9.693168469071797</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Privathaeuser_SELEM.kml</name>
+	<Region>
+		<LatLonAltBox>
+			<north>21.00725322549972</north>
+			<south>20.9902043554457</south>
+			<east>1.714732499701506</east>
+			<west>1.702424556073882</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+    <Style id="sn_Staatliches_Bauwerk">
+      <IconStyle>
+        <color>b2ffffff</color>
+        <scale>0.9</scale>
+        <Icon>
+          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
+          <refreshMode>
+          </refreshMode>
+          <refreshInterval>
+          </refreshInterval>
+          <viewRefreshMode>
+          </viewRefreshMode>
+          <viewRefreshTime>
+          </viewRefreshTime>
+        </Icon>
+        <hotSpot />
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+        <bgColor>ffd5fcfd</bgColor>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <ListStyle>
+        <maxSnippetLines>0</maxSnippetLines>
+        <bgColor />
+        <listItemType>check</listItemType>
+      </ListStyle>
+    </Style>
+    <Style id="sh_Staatliches_Bauwerk">
+      <IconStyle>
+        <color>b2ffffff</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+        <bgColor>ffd5fcfd</bgColor>
+      </BalloonStyle>
+      <ListStyle>
+        <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+    </Style>
+    <StyleMap id="msn_Staatliches_Bauwerk">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_Staatliches_Bauwerk</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_Staatliches_Bauwerk</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="msn_Staatliches_Bauwerk0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_Staatliches_Bauwerk0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_Staatliches_Bauwerk0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="sn_Staatliches_Bauwerk0">
+      <IconStyle>
+        <color>b2ffffff</color>
+        <scale>0.9</scale>
+        <Icon>
+          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+        <bgColor>ffd5fcfd</bgColor>
+      </BalloonStyle>
+      <ListStyle>
+        <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+    </Style>
+    <Style id="sh_Staatliches_Bauwerk0">
+      <IconStyle>
+        <color>b2ffffff</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+        <bgColor>ffd5fcfd</bgColor>
+      </BalloonStyle>
+      <ListStyle>
+        <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <name>Privathaeuser_SELEM</name>
+      <Placemark>
+        <name>Zylyas Laboratorium</name>
+        <LookAt>
+          <longitude>1.706485142863408</longitude>
+          <latitude>21.00120356036395</latitude>
+          <altitude>0</altitude>
+          <range>622.1617817666307</range>
+          <tilt>0</tilt>
+          <heading>-0.0007487050712978099</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+        <Point>
+          <coordinates>1.704146440812089,21.00148929347333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Herroch</name>
+        <LookAt>
+          <longitude>1.705838428533739</longitude>
+          <latitude>20.99954439437194</latitude>
+          <altitude>1000</altitude>
+          <range>567.1796502500268</range>
+          <tilt>0</tilt>
+          <heading>-0.000980445129432865</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+        <Point id="KMLe_37">
+          <coordinates>1.703764490342576,20.99926298449004,0</coordinates>
+        </Point>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+      </Placemark>
+      <Style>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+    </Folder>
+  </Document>
+</kml>

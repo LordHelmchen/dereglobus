@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Zweimühlen</name>
+<Region>
+      <LatLonAltBox>
+         <north>30.82742565035675</north>
+		<south>30.82171157190228</south>
+		<east>4.607421700540809</east>
+		<west>4.598127659030217</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Zweimuehlen_VonEigenenGnaden_175.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>30.82742565035675</north>
+		<south>30.82171157190228</south>
+		<east>4.607421700540809</east>
+		<west>4.598127659030217</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

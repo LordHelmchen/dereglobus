@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Burg_Drachenhaupt-Plan">
+	<name>Burg Drachenhaupt (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+             <north>33.79792526563556</north>
+		<south>33.79717287030438</south>
+		<east>7.955551081070404</east>
+		<west>7.95432087209925</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Vielen Dank an Patrick Fritz von <a href="http://www.herzogtum-tobrien.de">	herzogtum-tobrien.de</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+
+</div>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Burg_Drachenhaupt_Paddy_Fritz_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>33.79792526563556</north>
+		<south>33.79717287030438</south>
+		<east>7.955551081070404</east>
+		<west>7.95432087209925</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

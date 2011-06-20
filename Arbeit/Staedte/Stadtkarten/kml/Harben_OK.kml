@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<GroundOverlay id="Harben-Plan">
+	<name>Harben</name>
+	    <Region>
+          <LatLonAltBox>
+             <north>26.91004053056548</north>
+		<south>26.89436255246099</south>
+		<east>-1.723451988530515</east>
+		<west>-1.735883933842102</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style>Diese Karte wurde von <a href="http://dereglobus.orkenspalter.de/memberlist.php?mode=viewprofile&u=657" title="Kontakt zu Anshelm">Anshelm</a> im Rahmen des DereGlobus-Projekts gezeichnet.]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Harben_Anshelm_farbe.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>26.91004053056548</north>
+		<south>26.89436255246099</south>
+		<east>-1.723451988530515</east>
+		<west>-1.735883933842102</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

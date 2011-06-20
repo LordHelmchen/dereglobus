@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Elburum</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>27.17400259285891</north>
+			<south>27.15639751251483</south>
+			<east>8.729148607844442</east>
+			<west>8.701006082339301</west>
+			<rotation>-115.8833663642675</rotation>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<GroundOverlay>
+		<name>Elburum</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Land_der_Ersten_Sonne" title="Land der Ersten Sonne">LdeS G5</a>]]></description>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Elburum_LanddererstenSonne_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>27.17400259285891</north>
+			<south>27.15639751251483</south>
+			<east>8.729148607844442</east>
+			<west>8.701006082339301</west>
+			<rotation>-115.8833663642675</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

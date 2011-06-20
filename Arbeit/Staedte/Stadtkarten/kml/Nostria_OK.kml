@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Nostria</name>
+	
+	<Region>
+      <LatLonAltBox>
+	  	 <north>30.03668444370257</north>
+		 <south>30.02705681598348</south>
+		 <east>-2.997991091646429</east>
+		 <west>-3.007696806792453</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	
+	<GroundOverlay>
+		<name>Nostria</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Nostria_UnterdemWestwind_%20sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.03668444370257</north>
+			<south>30.02705681598348</south>
+			<east>-2.997991091646429</east>
+			<west>-3.007696806792453</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>
+

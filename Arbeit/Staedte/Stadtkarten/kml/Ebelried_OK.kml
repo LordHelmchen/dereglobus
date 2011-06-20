@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Ebelried</name>
+   <Region>
+      <LatLonAltBox>
+			<north>32.67708130673346</north>
+			<south>32.67366446995054</south>
+			<east>7.976934466310293</east>
+			<west>7.972868210123116</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<GroundOverlay>
+		<name>Ebelried</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ebelried_AvBo109_sw.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.67708130673346</north>
+			<south>32.67366446995054</south>
+			<east>7.976934466310293</east>
+			<west>7.972868210123116</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Alt-Gareth</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Alt-Gareth</name>
+		<drawOrder>22</drawOrder>
+		<Icon>
+			<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Alt-Gareth_LdSA_farbe.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>29.78547546435486</north>
+			<south>29.77290753311474</south>
+			<east>3.760316254478857</east>
+			<west>3.738803439796541</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

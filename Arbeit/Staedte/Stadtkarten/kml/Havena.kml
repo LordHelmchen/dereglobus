@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Havena</name>
+	<description><![CDATA[<style type="text/css"><!--
+
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+a:hover { text-decoration: underline; color: #B21C19; }
+
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+#wiki { font-size:10px; }
+
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Havena" title="Havena">Havena</a>
+]]></description>
+	<drawOrder>23</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/karten/Havena_AGF_Farbe_22.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.07810112199225</north>
+		<south>29.06832457543083</south>
+		<east>-3.147195955472725</east>
+		<west>-3.162259826215331</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Khunchom</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Khunchom</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Die_Wüste_Khom_und_die_Echsensümpfe" title="Die Wüste Khom und die Echsensümpfe">Wüste Kohm</a>]]></description>
+		<Region>
+			<LatLonAltBox>
+				<north>25.02310078684617</north>
+				<south>25.01025316995058</south>
+				<east>7.481166099768188</east>
+				<west>7.470634539495804</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>128</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Khunchom_WuesteKohm_Farbe.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>25.02310078684617</north>
+			<south>25.01025316995058</south>
+			<east>7.481166099768188</east>
+			<west>7.470634539495804</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Groß-Khunchom</name>
+		<Region>
+			<LatLonAltBox>
+				<north>25.03200472494067</north>
+				<south>25.00106194412263</south>
+				<east>7.487776632583011</east>
+				<west>7.458439153676841</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>16</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>128</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<drawOrder>20</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Gross-Khunchom_Wueste_Khom_Farbe.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>25.03200472494067</north>
+			<south>25.00106194412263</south>
+			<east>7.487776632583011</east>
+			<west>7.458439153676841</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

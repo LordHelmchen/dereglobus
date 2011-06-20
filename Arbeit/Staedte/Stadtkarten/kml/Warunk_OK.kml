@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Warunk</name>
+   <Region>
+      <LatLonAltBox>
+			<north>30.60591082531525</north>
+			<south>30.59926696664408</south>
+			<east>7.836497298339849</east>
+			<west>7.825767070649937</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<GroundOverlay>
+		<name>Warunk</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Warunk_KdV_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.60591082531525</north>
+			<south>30.59926696664408</south>
+			<east>7.836497298339849</east>
+			<west>7.825767070649937</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

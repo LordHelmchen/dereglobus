@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Cumrat</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Cumrat</name>
+		<drawOrder>22</drawOrder>
+		   <Region>
+      <LatLonAltBox>
+			<north>26.68590684474269</north>
+			<south>26.68436810902017</south>
+			<east>2.22186872959661</east>
+			<west>2.219283308684352</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>200</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+		<Icon>
+			<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Cumrat_Das_Koenigreich_Almada_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>26.68590684474269</north>
+			<south>26.68436810902017</south>
+			<east>2.22186872959661</east>
+			<west>2.219283308684352</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Cumrat Umgebung</name>
+		<drawOrder>21</drawOrder>
+		   <Region>
+      <LatLonAltBox>
+			<north>26.68773191114368</north>
+			<south>26.68137819260754</south>
+			<east>2.224195808595577</east>
+			<west>2.219306764770597</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+		<Icon>
+			<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Cumrat_Umgebung_Das_Koenigreich_Almada_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>26.68773191114368</north>
+			<south>26.68137819260754</south>
+			<east>2.224195808595577</east>
+			<west>2.219306764770597</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

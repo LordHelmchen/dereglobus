@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Stadtbauwerke Andergast - Chris1303.kml</name>
+    <Folder>
+      <visibility>1</visibility>
+      <name>Stadtbauwerke Andergast - Chris1303</name>
+	<Region>
+		<LatLonAltBox>
+			<north>32.09349042191085</north>
+			<south>32.08926338322076</south>
+			<east>-1.142785239921934</east>
+			<west>-1.146054851986406</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+      <open>1</open>
+      <Placemark>
+        <name>Marktplatz</name>
+        <Camera>
+          <longitude>-1.144162004207799</longitude>
+          <latitude>32.09172859099219</latitude>
+          <altitude>330.9839494832676</altitude>
+          <heading>85.51051527973777</heading>
+          <tilt>0.6553618144875882</tilt>
+          <roll>85.00987793203545</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+        <Point id="KMLe_93">
+          <coordinates>-1.144577094212388,32.09181758622594,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rathaus</name>
+        <Camera>
+          <longitude>-1.144162004207799</longitude>
+          <latitude>32.09172859099219</latitude>
+          <altitude>330.9839494832676</altitude>
+          <heading>85.51051527973777</heading>
+          <tilt>0.6553618144875882</tilt>
+          <roll>85.00987793203545</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Point id="KMLe_32">
+          <coordinates>-1.144362064521245,32.09170701171021,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zeughaus</name>
+        <Camera>
+          <longitude>-1.144162004207799</longitude>
+          <latitude>32.09172859099219</latitude>
+          <altitude>330.9839494832676</altitude>
+          <heading>85.51051527973777</heading>
+          <tilt>0.6553618144875882</tilt>
+          <roll>85.00987793203545</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Point id="KMLe_34">
+          <coordinates>-1.144611887856993,32.09155289079066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praios-Tempel</name>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Point id="KMLe_36">
+          <coordinates>-1.14487031339734,32.09167640352987,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rondra-Tempel</name>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Point id="KMLe_38">
+          <coordinates>-1.144284413370466,32.09187010383317,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flusshafen</name>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+        <Point id="KMLe_40">
+          <coordinates>-1.144974907487859,32.09083403328086,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burg (mit Hesinde Kapelle)</name>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Point id="KMLe_85">
+          <coordinates>-1.144122720220007,32.09137290941337,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsa-Tempel</name>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Point id="KMLe_86">
+          <coordinates>-1.144315411167435,32.09255465536252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zunfthaus der Schmiede</name>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+        <Point id="KMLe_81">
+          <coordinates>-1.144151082728658,32.0925960114685,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schänke Schwarz und Rot</name>
+        <description></description>
+        <Camera>
+          <longitude>-1.14419912398679</longitude>
+          <latitude>32.09182064712233</latitude>
+          <altitude>330.9839494846822</altitude>
+          <heading>85.51049555880094</heading>
+          <tilt>0.6553618144887006</tilt>
+          <roll>85.0098779320281</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Point id="KMLe_88">
+          <coordinates>-1.144509459252895,32.0924465848842,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Peraine-Tempel</name>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Point id="KMLe_91">
+          <coordinates>-1.14483750255132,32.0924516405992,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zunfthaus der Tucher</name>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+        <Point id="KMLe_52">
+          <coordinates>-1.144883014994395,32.09230675799796,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Badehaus</name>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+        <Point id="KMLe_54">
+          <coordinates>-1.145337842119507,32.09199000535978,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wirtshaus zum Ochsen und Einhorn</name>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Point id="KMLe_56">
+          <coordinates>-1.145043798752552,32.09211528469777,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garküche Bei Muttern</name>
+        <description></description>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Point id="KMLe_58">
+          <coordinates>-1.145259495839014,32.09174900031086,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Zunfthaus der Holzwerker</name>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+        <Point id="KMLe_60">
+          <coordinates>-1.145009354483225,32.09115017502112,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ingerimm-Tempel</name>
+        <Camera>
+          <longitude>-1.144200389188803</longitude>
+          <latitude>32.0918205629614</latitude>
+          <altitude>341.4362226452998</altitude>
+          <heading>85.51049488663176</heading>
+          <tilt>0.6553607393119999</tilt>
+          <roll>84.35700023715401</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Point id="KMLe_62">
+          <coordinates>-1.145225278352799,32.0911594212546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaschemme Zur Sonne</name>
+        <description></description>
+        <Camera>
+          <longitude>-1.1443290192192</longitude>
+          <latitude>32.09175108106067</latitude>
+          <altitude>341.4362226438852</altitude>
+          <heading>85.51042654858669</heading>
+          <tilt>0.6553607393142245</tilt>
+          <roll>84.35700023715658</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Point id="KMLe_64">
+          <coordinates>-1.145443481322073,32.09110694876436,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Zunfthaus der Lederer</name>
+        <description></description>
+        <Camera>
+          <longitude>-1.1443290192192</longitude>
+          <latitude>32.09175108106067</latitude>
+          <altitude>341.4362226438852</altitude>
+          <heading>85.51042654858669</heading>
+          <tilt>0.6553607393142245</tilt>
+          <roll>84.35700023715658</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+        <Point id="KMLe_92">
+          <coordinates>-1.143945546022593,32.09202595318452,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Werkstätten des Roten Salamanders</name>
+        <description></description>
+        <Camera>
+          <longitude>-1.1443290192192</longitude>
+          <latitude>32.09175108106067</latitude>
+          <altitude>341.4362226438852</altitude>
+          <heading>85.51042654858669</heading>
+          <tilt>0.6553607393142245</tilt>
+          <roll>84.35700023715658</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+        <Point id="KMLe_83">
+          <coordinates>-1.144258489584767,32.09209244640842,0</coordinates>           
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Gasthaus Zum fetten Schinken</name>
+        <description></description>
+        <Camera>
+          <longitude>-1.144316282594485</longitude>
+          <latitude>32.09175192831097</latitude>
+          <altitude>236.216019434693</altitude>
+          <heading>85.51043331525386</heading>
+          <tilt>0.6553715629741574</tilt>
+          <roll>83.70481558887117</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Point id="KMLe_79">
+          <coordinates>-1.144077283671193,32.09184127255947,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Magierakademie "Kampfseminar Andergast"</name>
+        <Camera>
+          <longitude>-1.144316282594485</longitude>
+          <latitude>32.09175192831097</latitude>
+          <altitude>236.216019434693</altitude>
+          <heading>85.51043331525386</heading>
+          <tilt>0.6553715629741574</tilt>
+          <roll>83.70481558887117</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+        <Point id="KMLe_72">
+          <coordinates>-1.143722178003852,32.09185679673355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travia Tempel</name>
+        <Camera>
+          <longitude>-1.144319177268266</longitude>
+          <latitude>32.0917517357551</latitude>
+          <altitude>260.1292838731439</altitude>
+          <heading>85.51043177738158</heading>
+          <tilt>0.6553691030638046</tilt>
+          <roll>83.70481558887141</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Point id="KMLe_77">
+          <coordinates>-1.144673061921727,32.09115387983632,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ingvalfeste</name>
+        <Camera>
+          <longitude>-1.143853646693337</longitude>
+          <latitude>32.0904298371651</latitude>
+          <altitude>376.5788463295725</altitude>
+          <heading>85.51067909212385</heading>
+          <tilt>0.6553571243858243</tilt>
+          <roll>83.70481558887786</roll>
+        </Camera>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Point id="KMLe_84">
+          <coordinates>-1.14389694317096,32.08974530327936,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

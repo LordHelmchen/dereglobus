@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Avestreu</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>29.51608984566956</north>
+			<south>29.51213791634549</south>
+			<east>1.918197948790521</east>
+			<west>1.913689508528269</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<GroundOverlay>
+		<name>Avestreu</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Avestreu_DerKultderGoldenenMasken_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>29.52114516219484</north>
+			<south>29.51719323287077</south>
+			<east>1.923445168539106</east>
+			<west>1.918936728276854</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

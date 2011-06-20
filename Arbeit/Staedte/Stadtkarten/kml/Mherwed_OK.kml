@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mherwed</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>24.31650780790117</north>
+			<south>24.29898613451321</south>
+			<east>5.893391156357323</east>
+			<west>5.877899622603043</west>
+			<rotation>-52.57085272075343</rotation>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<GroundOverlay>
+		<name>Mherwed</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Raschtuls_Atem" title="Raschtuls Atem">RA G3</a>]]></description>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Mherwed_RaschtulsAtem_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>24.31650780790117</north>
+			<south>24.29898613451321</south>
+			<east>5.893391156357323</east>
+			<west>5.877899622603043</west>
+			<rotation>-52.57085272075343</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

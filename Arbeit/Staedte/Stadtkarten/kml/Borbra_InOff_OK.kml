@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="Borbra-Plan">
+	<name>Borbra InOff</name>
+	    <Region>
+          <LatLonAltBox>
+           <north>24.96771302841292</north>
+		<south>24.96437063536891</south>
+		<east>5.634363708286698</east>
+		<west>5.629158491439848</west>
+		<rotation>-65.68337475726304</rotation>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Vielen Dank an Marc von <a href="http://www.retogau.de/">Retogau.de</a>, der uns diese Karte zur Verfügung gestellt hat.
+
+</div>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<LookAt>
+		<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+		<longitude>5.631516294332426</longitude>
+		<latitude>24.96600163645732</latitude>
+		<altitude>0</altitude>
+		<range>487.6269653647415</range>
+		<tilt>0</tilt>
+		<heading>65.65176722725869</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Borbra_Zendijian_sw_214.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>24.96771302841292</north>
+		<south>24.96437063536891</south>
+		<east>5.634363708286698</east>
+		<west>5.629158491439848</west>
+		<rotation>-65.68337475726304</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

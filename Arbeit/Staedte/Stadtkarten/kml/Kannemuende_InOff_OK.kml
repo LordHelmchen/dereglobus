@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Kannemünde InOff</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<div style="text-align: center">Vielen Dank an Johannes Heck, der uns diese Karte zur Verf&uuml;gung gestellt hat.<br />
+<br />
+<a href="http://www.alveran.org/index.php?id=1715"><img alt="Alveran.org" src="http://www.alveran.org/banner.gif" /></a><br />
+<br />
+<a href="http://www.alveran.org">www.alveran.org</a></div>]]></description>
+	<LookAt>
+		<longitude>3.885239198139248</longitude>
+		<latitude>22.19219001931516</latitude>
+		<altitude>0</altitude>
+		<range>331.1633541518226</range>
+		<tilt>0</tilt>
+		<heading>-5.859875867607398</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>22.19324091518305</north>
+			<south>22.19118261588732</south>
+			<east>3.886815491363515</east>
+			<west>3.883689172179304</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Style>
+		<BalloonStyle>
+			<textColor>ff000000</textColor>
+			<bgColor>fffdb4a2</bgColor>
+			<displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Kannemuende_JohannesHeck_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>22.19324091518305</north>
+		<south>22.19118261588732</south>
+		<east>3.886815491363515</east>
+		<west>3.883689172179304</west>
+		<rotation>5.829858020306078</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

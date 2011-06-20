@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Krysirenis</name>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Myranor_%28HC%29" title="Myranor_Das_Güldenland">HC</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+		<longitude>-53.42547007214612</longitude>
+		<latitude>3.881988888888889</latitude>
+		<altitude>0</altitude>
+		<range>3665.821738723647</range>
+		<tilt>0</tilt>
+		<heading>-0.1613671850031066</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/myranor/WestBalanCantara_M2_S69_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>3.888089670281323</north>
+		<south>3.858669738952643</south>
+		<east>-53.40447267671981</east>
+		<west>-53.44440237942639</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

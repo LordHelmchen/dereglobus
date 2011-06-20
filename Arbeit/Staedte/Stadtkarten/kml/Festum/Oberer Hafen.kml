@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Oberer Hafen</name>
+	<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/media/karten/Festum_Oberer_Hafen.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>33.91801603125766</north>
+		<south>33.91370651424849</south>
+		<east>10.07239863984411</east>
+		<west>10.06900391784805</west>
+		<rotation>91.56703914537586</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

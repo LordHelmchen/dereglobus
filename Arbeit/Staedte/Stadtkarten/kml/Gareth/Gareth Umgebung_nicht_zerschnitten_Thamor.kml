@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Gareth_Umgebung</name>
+	<Region>
+		<LatLonAltBox>
+			<north>29.801275</north>
+			<south>29.71073888888889</south>
+			<east>3.809305555555556</east>
+			<west>3.602144444444444</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>19</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Staedte/media/karten/Gareth_Umgebung_BASIS3_farbe.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			3.591842008509421,29.51260032604124,0 3.797063881111136,29.54196721004662,0 3.797464205801593,29.80266229413348,0 3.614818711682524,29.79818588172985,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>

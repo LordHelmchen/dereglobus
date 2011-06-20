@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Greifenfurt</name>
+	<Region>
+      <LatLonAltBox>
+        <north>31.32320986368109</north>
+			<south>31.31886765934055</south>
+			<east>2.292205154527531</east>
+			<west>2.285086893388729</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<GroundOverlay>
+		<name>Greifenfurt</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Greifenfurt_SdR_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>31.32320986368109</north>
+			<south>31.31886765934055</south>
+			<east>2.292205154527531</east>
+			<west>2.285086893388729</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

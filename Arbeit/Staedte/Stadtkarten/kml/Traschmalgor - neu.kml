@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Traschmalgor - neu.kml</name>
+	<LookAt>
+		<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+		<longitude>6.481733099911169</longitude>
+		<latitude>29.58548060033189</latitude>
+		<altitude>0</altitude>
+		<heading>1.868575875359815e-014</heading>
+		<tilt>0</tilt>
+		<range>114257.7501351946</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk_Karte">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk_Karte.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk_Karte">
+		<IconStyle>
+			<color>7fffffff</color>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk_Karte.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk_Karte">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk_Karte</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk_Karte</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Traschmalgor - neu</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  50<TR><TD>Trollburg<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Drachenerbe - Auf dem Weltenwall, S. 93<TR><TD>Drachenerbe - Auf dem Weltenwall, S. 111<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+			<longitude>6.482614805995353</longitude>
+			<latitude>29.5851130526367</latitude>
+			<altitude>0</altitude>
+			<heading>-5.902343472459076</heading>
+			<tilt>0</tilt>
+			<range>114850.3837276167</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_Sonstige_Staatliches_Bauwerk_Karte</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>6.490571558145144,29.57322715657829,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

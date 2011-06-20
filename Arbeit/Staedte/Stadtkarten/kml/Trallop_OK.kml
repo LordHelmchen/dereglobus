@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Trallop</name>
+	<Region>
+      <LatLonAltBox>
+         <north>33.64628282026551</north>
+			<south>33.63827362719469</south>
+			<east>5.048289431818888</east>
+			<west>5.033141450354229</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<GroundOverlay>
+		<name>Trallop</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Trallop_Herzogtum_Weiden_farge.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>33.64628282026551</north>
+			<south>33.63827362719469</south>
+			<east>5.048289431818888</east>
+			<west>5.033141450354229</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

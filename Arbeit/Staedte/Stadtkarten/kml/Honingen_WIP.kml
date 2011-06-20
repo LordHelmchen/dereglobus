@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Honingen</name>
+	<Region>
+      <LatLonAltBox>
+         <north>29.65714988130485</north>
+			<south>29.64898318472264</south>
+			<east>-0.6768902978899325</east>
+			<west>-0.6843249268027187</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<GroundOverlay>
+		<name>Honingen</name>
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Honingen_AmgrossenFluss_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>29.65714988130485</north>
+			<south>29.64898318472264</south>
+			<east>-0.6768902978899325</east>
+			<west>-0.6843249268027187</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

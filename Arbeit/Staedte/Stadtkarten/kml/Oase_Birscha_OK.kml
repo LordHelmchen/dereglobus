@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Oase Birscha</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Drachenschatten" title="Drachenschatten">A170</a>]]></description>
+	<Region>
+		<LatLonAltBox>
+			<north>23.81298014153157</north>
+			<south>23.80869217165211</south>
+			<east>2.327067021500694</east>
+			<west>2.320435406253254</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/tnbt/Staedte/Stadtkarten/Oase_Bischa_Drachenschatten_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>23.81298014153157</north>
+		<south>23.80869217165211</south>
+		<east>2.327067021500694</east>
+		<west>2.320435406253254</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

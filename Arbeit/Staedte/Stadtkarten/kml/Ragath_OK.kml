@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Ragath</name>
+<Region>
+      <LatLonAltBox>
+         <north>27.73586096060584</north>
+		<south>27.72649401714289</south>
+		<east>2.587827362215895</east>
+		<west>2.580420330419472</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/karten/Ragath_yaquirblick.de_Frabe.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>27.73586096060584</north>
+		<south>27.72649401714289</south>
+		<east>2.587827362215895</east>
+		<west>2.580420330419472</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

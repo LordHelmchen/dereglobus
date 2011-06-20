@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Seen_Deres.kml</name>
+	<StyleMap id="msn_S00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_S00">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_S4">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Seen_Deres</name>
+		<Folder>
+			<name>Seen_Ost-Myranors</name>
+			<Placemark>
+				<name>Viralath See</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-78.40751745776601</longitude>
+					<latitude>1.341196749811039</latitude>
+					<altitude>0</altitude>
+					<range>248006.2091591694</range>
+					<tilt>3.66058746610604</tilt>
+					<heading>5.596651810363924</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_S00</styleUrl>
+				<Point>
+					<coordinates>-78.24513061422347,1.373325205157011,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

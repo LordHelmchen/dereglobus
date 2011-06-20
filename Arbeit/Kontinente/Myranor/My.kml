@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Myranor</name>
+	<LookAt>
+		<longitude>-83.00111241659297</longitude>
+		<latitude>0.9164973425120663</latitude>
+		<altitude>0</altitude>
+		<range>15328980.70431497</range>
+		<tilt>0</tilt>
+		<heading>6.3362612794781e-015</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<drawOrder>5</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/public/karten/myranor/Myranor.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>44.54462142362367</north>
+		<south>-44.56820602423594</south>
+		<east>-29.5778076138339</east>
+		<west>-149.3835230639303</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Reisewege_Deres.kml</name>
+	<Style id="sn_P1">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin240">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_S00">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_P00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_P10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_P10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_P10">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_S4">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_P2">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_P1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_P2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_P3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_S30">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin190">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin600">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin81">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin400">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2001">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_S4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin201">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaaa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_S30">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_S20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1011">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_S20">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_P3">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_P2">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_P3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_P1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_P1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_S30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin410">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaaa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_P2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_P3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_P2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin211">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_P10">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_S20">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin141">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_S10">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin230">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin141</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin190">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin91">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_S10">
+		<IconStyle>
+			<color>ff2b3a3a</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_S10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_P3">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_P1">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/P-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Reisewege_Deres</name>
+		<Folder>
+			<name>Pässe</name>
+			<Folder>
+				<name>Pässe_Myranors</name>
+				<Placemark>
+					<name>Pass Kamaluks Nacken</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-53.52833175557661</longitude>
+						<latitude>-5.643317653641438</latitude>
+						<altitude>0</altitude>
+						<range>236439.2259235846</range>
+						<tilt>0</tilt>
+						<heading>-20.36568420016658</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_P00</styleUrl>
+					<Point>
+						<coordinates>-53.81464397317222,-5.672870712475238,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dvara Pass</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.21393575954324</longitude>
+						<latitude>0.2617402958109111</latitude>
+						<altitude>0</altitude>
+						<range>87733.78300435683</range>
+						<tilt>0</tilt>
+						<heading>-20.64591759698768</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_P1</styleUrl>
+					<Point>
+						<coordinates>-47.25525622253992,0.2911868412702984,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Passstraße Dvara Pass</name>
+					<styleUrl>#msn_ylw-pushpin610</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-46.50881961292942,-0.5688615013729905,0 -46.55648644614706,-0.5514257257583752,0 -46.61290045873054,-0.5476930409375905,0 -46.67537767623547,-0.5697174466706854,0 -46.74028525740644,-0.5893079863577161,0 -46.76967706464408,-0.590528103926671,0 -46.83335513559457,-0.5856259148360381,0 -46.87499258923673,-0.5856397721269455,0 -46.90560722046637,-0.5733937675910854,0 -46.92642222944825,-0.5574690162399879,0 -46.94600012525596,-0.5182638460872117,0 -46.95169566968763,-0.4552139092273533,0 -46.95367320189063,-0.4223979776088757,0 -46.95366776124382,-0.4015187325816833,0 -46.94968580689611,-0.3816350353931196,0 -46.96460283958736,-0.3448581889392012,0 -46.9576403067139,-0.3369053288407624,0 -46.95266798213491,-0.3259711107399176,0 -46.9387464960092,-0.313049341706407,0 -46.93043751608132,-0.2784013740053112,0 -46.94118321973833,-0.2172573617620492,0 -46.97562262094687,-0.1374225697272686,0 -47.01401974846895,-0.07946981710616421,0 -47.04434437647313,0.004808567376726855,0 -47.08226022929057,0.1111184680601739,0 -47.12600645730083,0.1872203830143868,0 -47.16453256521352,0.2437656890493382,0 -47.25258889195829,0.2945942062612086,0 -47.30926474488161,0.3249659606016439,0 -47.35799604909114,0.379930468661552,0 -47.45713355054087,0.4484010855252057,0 -47.51857390473026,0.53354854684358,0 -47.55856133798613,0.6338676452343743,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Knochenpaß</name>
+					<description>Der Knochenpaß durchschneidet den nördlichen Teil des Ghulenwall´s
+
+(Myranor)Quelle: Myranor HC Karte</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-82.45145454412797</longitude>
+						<latitude>6.651338763762372</latitude>
+						<altitude>0</altitude>
+						<range>666657.8227580295</range>
+						<tilt>0</tilt>
+						<heading>-2.244535013698217</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_P2</styleUrl>
+					<Point>
+						<coordinates>-83.28919336567134,6.50277059103021,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ghulenjoch</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-83.04839228989434</longitude>
+						<latitude>6.731099701381247</latitude>
+						<altitude>0</altitude>
+						<range>891017.5422082664</range>
+						<tilt>0</tilt>
+						<heading>-2.302343413313614</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_P3</styleUrl>
+					<Point>
+						<coordinates>-83.84282059260865,5.112173431406175,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Straßen</name>
+			<Folder>
+				<name>Straßen_Myranors</name>
+				<Placemark>
+					<name>Choderémia</name>
+					<styleUrl>#msn_ylw-pushpin131</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-48.18503160467944,-3.32345275930192,0 -48.47058254487983,-3.451932311869616,0 -48.79569231076012,-3.565856559043352,0 -48.98383629540634,-3.630771193180707,0 -49.22805103315213,-3.707298014791136,0 -49.37652177174596,-3.772689994766131,0 -49.58850548234342,-3.836528581805642,0 -49.8398911970342,-3.882200876559232,0 -50.21609257145264,-3.978920005454417,0 -50.55072829526055,-4.088359915868171,0 -50.69894761563955,-4.15636559651228,0 -50.851650197444,-4.213602935161683,0 -51.09076024982109,-4.286524270465976,0 -51.1878838572266,-4.339320262135886,0 -51.24662841101056,-4.42423021851442,0 -51.35833331892742,-4.487148440434197,0 -51.43879477265872,-4.553200241209773,0 -51.481999086071,-4.634181472184642,0 -51.6168837374649,-4.781037684899714,0 -51.78444493599412,-4.899509817270063,0 -51.94891446504996,-4.838735548634132,0 -52.3729021854511,-5.071124140249936,0 -52.50371711471802,-5.139461027627872,0 -52.58019921262202,-5.141719102735253,0 -52.6552137369989,-5.169638873409911,0 -52.71120620775064,-5.292022766500953,0 -52.7965948903497,-5.371358148053573,0 -52.88438908922658,-5.427053405463433,0 -52.90566194198288,-5.489176428981745,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Gebirgsstraßen</name>
+			<Folder>
+				<name>Gebirgsstraßen_Myranors</name>
+				<open>1</open>
+				<Placemark>
+					<name>Gebirgsweg Dvara-Prathna</name>
+					<styleUrl>#msn_ylw-pushpin710</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.55954236309967,0.6334973533619543,0 -47.61409865999613,0.6117922856409259,0 -47.64989790084688,0.6027772825637923,0 -47.69135659510104,0.6028452186369585,0 -47.72194322242574,0.62159557996694,0 -47.73704668807663,0.6260016579031331,0 -47.75751830936822,0.6149303875422841,0 -47.78826445067056,0.5865413168598287,0 -47.81877812651931,0.560491656334944,0 -47.8671128202043,0.531115293607107,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Gebirgsweg Prathna-Tokum Isoru</name>
+					<styleUrl>#msn_ylw-pushpin121</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.86663634597636,0.5317638985917167,0 -47.81704784488777,0.4741977627453957,0 -47.74975366092868,0.3889611369196422,0 -47.68832863448088,0.2919817822884038,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Gebirgspfade</name>
+			<Folder>
+				<name>Gebirgspfade_Myranors</name>
+				<open>1</open>
+				<Placemark>
+					<name>Gebirgspfad Prathna-Amthachak</name>
+					<styleUrl>#msn_ylw-pushpin190</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.86585191241081,0.5317710057234658,0 -47.89449418813913,0.5013209964042585,0 -47.91782010155777,0.4755233987078479,0 -47.93361382355759,0.4446117961497041,0 -47.95001318995886,0.4157863873982955,0 -47.95660002779454,0.3840515213241971,0 -47.96395977808082,0.3573134060766643,0 -47.96631458204351,0.3336132833282582,0 -47.96054892092671,0.3124165544872195,0 -47.9539515471414,0.2981519228174917,0 -47.94699811284774,0.2803092651284903,0 -47.94170772826196,0.2678831349433913,0 -47.94576206672931,0.2594299423885176,0 -47.95225620227436,0.2552901815595605,0 -47.96287656148328,0.2533365323876269,0 -47.99624582397831,0.2598496298883677,0 -48.01127039549815,0.2638926979407469,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Treppe der 1111 Stufen</name>
+					<styleUrl>#msn_ylw-pushpin400</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-48.01173865289537,0.263468729346619,0 -48.0383745576682,0.2644722498749424,0 -48.07768340228128,0.2665820784758623,0 -48.13275947131406,0.2663970106857153,0 -48.17978116324768,0.2694726197288624,0 -48.23522370910386,0.2757797511701247,0 -48.27128663139368,0.2805434974510634,0 -48.30133606066218,0.2871358870369238,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Reichs-_und_Hochstraßen</name>
+			<Folder>
+				<name>Reichs-_und_Hochstraßen_Myranors</name>
+				<open>1</open>
+				<Placemark>
+					<name>Jharranothen-Schienenbahn-Malhira-Dhima</name>
+					<styleUrl>#msn_ylw-pushpin201</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-46.93309520583901,1.335668848071375,0 -46.94441142458179,1.285754716510856,0 -46.96615424716249,1.244459221973722,0 -47.00430591589697,1.196822970411662,0 -47.08188692096724,1.124780203332434,0 -47.15692895812953,1.073350167806233,0 -47.2376473349055,1.026779391349129,0 -47.27013433929545,0.9910621786476255,0 -47.30712933272672,0.9527391069845855,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Jharranothen-Schienenbahn-Dhima-Dvara</name>
+					<styleUrl>#msn_ylw-pushpin230</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.30943217580808,0.9477511564861095,0 -47.34628034071265,0.8967292237455002,0 -47.39888488442772,0.8298287007031604,0 -47.44746801339176,0.7634504074635495,0 -47.50787646389135,0.689560852900267,0 -47.55927360800119,0.6333302329335721,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Namen_von_Straßen_und_Wegen</name>
+			<Folder>
+				<name>Namen_von_Straßen_und_Wegen_Myranors</name>
+				<open>1</open>
+				<Placemark>
+					<name>Jharranothenbahn von Malhira nach Dvara</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.09894299494674</longitude>
+						<latitude>1.124459079530838</latitude>
+						<altitude>0</altitude>
+						<range>10404.7445640606</range>
+						<tilt>0</tilt>
+						<heading>7.057907019741434</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_S20</styleUrl>
+					<Point>
+						<coordinates>-47.0805075329877,1.122896082802966,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Jharranothenbahn von Malhira nach Dvara</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.4476117640058</longitude>
+						<latitude>0.7638039840390464</latitude>
+						<altitude>0</altitude>
+						<range>3744.343969893764</range>
+						<tilt>0</tilt>
+						<heading>7.052027176072825</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_S10</styleUrl>
+					<Point>
+						<coordinates>-47.44339954210473,0.7683550977499407,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Choderémia</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.72149809894945</longitude>
+						<latitude>-3.767282910122479</latitude>
+						<altitude>0</altitude>
+						<range>63491.4850774935</range>
+						<tilt>0</tilt>
+						<heading>6.925825118679229</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_S30</styleUrl>
+					<Point>
+						<coordinates>-49.75946687412864,-3.873250907292439,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Choderémia</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-51.98421128355668</longitude>
+						<latitude>-4.855178776215157</latitude>
+						<altitude>0</altitude>
+						<range>43797.21607954551</range>
+						<tilt>0</tilt>
+						<heading>7.299412245661951</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_S4</styleUrl>
+					<Point>
+						<coordinates>-51.94744610540928,-4.841092519489506,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

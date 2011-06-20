@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Halbinseln_Deres.kml</name>
+	<Style id="sh_grn-stars">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-stars">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-stars</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Halbinseln_Deres</name>
+		<Folder>
+			<name>Halbinseln_Ost-Myranors</name>
+			<open>1</open>
+			<Placemark>
+				<name>Halbinsel Hjaldingard</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-43.581619168893</longitude>
+					<latitude>31.00062370720993</latitude>
+					<altitude>0</altitude>
+					<range>1560809.980337063</range>
+					<tilt>0.6970996562324129</tilt>
+					<heading>-2.142369108009766</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<coordinates>-41.28469784023736,30.0345827353607,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

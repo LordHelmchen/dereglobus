@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>mystische Kreaturen Deres.kml</name>
+	<Style id="sn_R13">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_S4">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_S4">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_X</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_X</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R26">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R19">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R32">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_S">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_S">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_X">
+		<IconStyle>
+			<color>ff7f00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_S">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_S4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_X">
+		<IconStyle>
+			<color>ff7f00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>mystische Kreaturen Deres</name>
+		<Folder>
+			<name>Drachen Deres</name>
+		</Folder>
+		<Folder>
+			<name>Riesen Deres</name>
+			<Placemark>
+				<name>Lumbudur der Gewaltige</name>
+				<description>Nach einer Sage der Kerrishiter soll der Riese Lumbudur der Gewaltige im Inneren des Myronosch-Gebirges leben. Er soll fast neun Schritt hoch und sehr gefräßig sein, schläft jedoch meistens.
+Er soll vor langer Zeit aus dem fernen Westen gekommen sein und die ersten Mammutbäume von dort mitgebracht haben.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 74 u. 101</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-54.75749543870839</longitude>
+					<latitude>-21.55736179541045</latitude>
+					<altitude>0</altitude>
+					<range>668498.9706742506</range>
+					<tilt>0</tilt>
+					<heading>0.5041546024800203</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R11</styleUrl>
+				<Point>
+					<coordinates>-54.39193122387358,-20.48197418610171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Myrlumbur der Riese des Thearchen</name>
+				<description>In seinen Gärten soll der Thearch einen Riesen namens Myrlumbur besitzen, den er durch Magie und/oder rohe Gewalt beherrscht, und der für den Thearchen Kriegs- und Baudienste leistet. 
+Er soll ursprünglichin den Apelioten gelebt haben, bevor ihn einer der Thearchen des Ersten Imperiums überwältigte.
+Quelle: Myranische Mysterien S.104</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-57.66174932141535</longitude>
+					<latitude>19.35374461797979</latitude>
+					<altitude>0</altitude>
+					<range>186235.5423110013</range>
+					<tilt>0</tilt>
+					<heading>-2.654550732092552</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R3</styleUrl>
+				<Point>
+					<coordinates>-57.28585606006884,19.01227144819928,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Spinnengöttinen Deres</name>
+			<Placemark>
+				<name>Spinnengöttin Srisrikritake</name>
+				<description>Im Nordosten der Insel, dem Silberwald, soll die Spinnengöttin Srisrikritake zusammen mit ihrem Volk intelligenter Spinnen leben.
+Sie soll die Schwester der in Tharpura verehrten Kutilakitaka sein und ihre Intrigen sollen über eine sie verehrende Sekte bis in die Städte der Kerrishiter reichen.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S.75</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-51.91642989525933</longitude>
+					<latitude>-18.70061341835141</latitude>
+					<altitude>0</altitude>
+					<range>191070.6672365475</range>
+					<tilt>0</tilt>
+					<heading>-3.761945019172709</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_S</styleUrl>
+				<Point>
+					<coordinates>-52.40649621883096,-18.62658976892952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spinnengöttin Kutilakitaka</name>
+				<description>Die Spinnengöttin Kutilakitaka lebt in einem tiefen Erdloch, sie soll so alt sein, wie das Gebirge selbst und soll über den Körper des gefallenen Giganten Tharaman und die Dämonenschlange Hrangschuva wachen.
+
+Quelle: Myranor Abenteuer M1 &quot;Palast der Goldenen Tieger&quot; S.52-53</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.30384868078194</longitude>
+					<latitude>0.2291948514627812</latitude>
+					<altitude>0</altitude>
+					<range>15757.4535584574</range>
+					<tilt>0</tilt>
+					<heading>-4.726773307025728</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_S4</styleUrl>
+				<Point>
+					<coordinates>-48.28997183518627,0.1834783704071249,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sphingen Deres</name>
+			<Placemark>
+				<name>Die Katzen-Sphinx</name>
+				<description>Die Katzen-Sphinx im „Tal der Sphinx“ in Tharpura ist eines der berühmtesten Brajan-Orakel Myranors. Die fast 20 Schritt lange, inmitten einer Ruinenstadt ausgestreckt daliegende Gestalt eines riesigen weiblichen Katzenwesens lässt nicht erkennen, wie lange sie schon dort liegt.  Der Körper der Sphinx zeigt keinerlei Verwitterung, ja es ist nicht einmal klar ob er überhaupt aus Stein besteht. Die Sphinx ist dafür bekannt, für jeden ihrer rätselhaften Ratschläge eine oft ebenso rätselvolle Aufgabe an die Bittsteller zu stellen.
+
+Umgeben ist die Statue von einer unvergleichlichen Ruinenstadt, in der, in konzentrischen Ringen um die Sphinx herum, die verfallenen Ruinen von Völkern aus mehreren Zeitaltern stehen, welche wohl alle einmal die Sphinx verehrt haben.
+So finden sich hier vom Rand zum Zentrum hin Ruinen aus der makshamaunischen Zeit, Ruinen der Shindra, Ruinen von Wasserbewohnern, insektoide Ruinen und schlussendlich im Zentrum Ruinen der Aurishianer.
+Die Sphinx selbst ist von einer hohen U-förmigen Mauer umgeben, die nur einen Zugang in Form eines steinernen Tors besitzt, welches von zwei Wächter-Statuen in Form von fünf schritt großen, aufrecht gehenden Katzenwesen bewacht wird.
+
+Quelle: Myranor-Abenteuer M1 „Palast der Goldenen Tiger“ S. 42-43</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.3151600429922</longitude>
+					<latitude>0.2990549404984308</latitude>
+					<altitude>0</altitude>
+					<range>8473.328232502612</range>
+					<tilt>0</tilt>
+					<heading>-4.939382445448574</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_X</styleUrl>
+				<Point>
+					<coordinates>-48.30280088187811,0.2866959988644289,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

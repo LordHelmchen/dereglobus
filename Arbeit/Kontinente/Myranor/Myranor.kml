@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>Myranor</name>
+	<Region>
+		<LatLonAltBox>
+			<north>90</north>
+			<south>-90</south>
+			<east>180</east>
+			<west>-180</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>-1</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+		<LatLonBox>
+		<north>44.54462142362367</north>
+		<south>-44.56820602423594</south>
+		<east>-29.5778076138339</east>
+		<west>-149.3835230639303</west>
+	</LatLonBox>
+	</Region>
+	<Link>
+		<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Kontinente/kml/Myranor/My.kml</href>
+		<viewRefreshMode>onRegion</viewRefreshMode>
+	</Link>
+</NetworkLink>
+</kml>

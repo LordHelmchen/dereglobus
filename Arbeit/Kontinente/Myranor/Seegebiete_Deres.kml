@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Seegebiete_Deres.kml</name>
+	<Style id="sh_ylw-pushpin250">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1500">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin320">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin391">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin62">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin150">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin161">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin120">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin106">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin95</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin412">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin62">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin150">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin130">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin250">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin42111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin412</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin39">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin500">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin36">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin330</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin320</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin52">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin27">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin95">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin611">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin191</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin161</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin330">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1610</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin130">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin161">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin270">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin331">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin57">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1610">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin601</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2900">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin32">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin630">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin391</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin250</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin180">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin211">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin191">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin800">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin41">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin35">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin97">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin97</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2800">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin55">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin331</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin250">
+	</Style>
+	<Style id="sh_ylw-pushpin112">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin120">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1600">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin150</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin211111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin601">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin800">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin510">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin700">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaaa</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin140">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin700">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin212">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin180</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin31220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Seegebiete_Deres</name>
+		<Placemark>
+			<name>Archipel von Shindrabar</name>
+			<description><![CDATA[Das Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar</a> ist eine Inselgruppe vor der Ostküste Makshapurams, die auch Archipel der Schlangen genannt wird. 
+Die Inseln sind meist gebirgig und nur an den Küsten spärlich besiedelt. Im Landesinnern befinden sich Vulkane und Dschungel. Fast jede Insel wird autonom von Schlangenpriestern regiert, auf einigen befinden sich Handelskolonien anderer Völker, was erklärt, dass es fünf verschiedene shindrabarische Dialekte gibt. 
+
+
+
+Haupthandelswaren sind Reis, Kokosnüsse, Palmen, Pelze, Edelhölzer, Gewürze, Farbstoffe, Heil- und Giftpflanzen sowie Schlangengifte.
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-37.07985885563564</longitude>
+				<latitude>2.519411702590534</latitude>
+				<altitude>0</altitude>
+				<range>672760.4915410011</range>
+				<tilt>0</tilt>
+				<heading>5.789843636519268</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin11121</styleUrl>
+			<Point>
+				<coordinates>-37.59577035622866,3.323209244574286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel von Talaminas</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-46.2983627617346</longitude>
+				<latitude>-20.5899344159704</latitude>
+				<altitude>0</altitude>
+				<range>569056.7484252609</range>
+				<tilt>0.05628536954619139</tilt>
+				<heading>113.7850613319536</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin211111</styleUrl>
+			<Point>
+				<coordinates>-46.2983627617346,-20.5899344159704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meeresstraße Sil´Atash</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-37.93062782493494</longitude>
+				<latitude>-24.6287047917933</latitude>
+				<altitude>0</altitude>
+				<range>49220.83973438786</range>
+				<tilt>3.648110179470856</tilt>
+				<heading>-4.995659349747459</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin31220</styleUrl>
+			<Point>
+				<coordinates>-37.93062782493494,-24.6287047917933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meeresstraße Sil´Eripum</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-67.75569206240526</longitude>
+				<latitude>-24.29047274437375</latitude>
+				<altitude>0</altitude>
+				<range>343193.1409277668</range>
+				<tilt>3.650119945224097</tilt>
+				<heading>6.377352135695627</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin42111</styleUrl>
+			<Point>
+				<coordinates>-67.10739839441011,-24.22229348813378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel der Dracheninseln</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-33.06342317117505</longitude>
+				<latitude>-20.20033424871037</latitude>
+				<altitude>0</altitude>
+				<range>378796.9371847624</range>
+				<tilt>5.566445267524903</tilt>
+				<heading>-2.33246712030007</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin80</styleUrl>
+			<Point>
+				<coordinates>-33.24265844585282,-20.40879728634823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schädelgrund</name>
+			<description>Quelle: Myranor HC S. 7 (Karte:Myranor und angrenzende Lande)</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-91.13800009150387</longitude>
+				<latitude>-1.948728857256151</latitude>
+				<altitude>0</altitude>
+				<range>3509393.353971406</range>
+				<tilt>2.821513554865534</tilt>
+				<heading>-2.219069496226557</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin84</styleUrl>
+			<Point>
+				<coordinates>-88.46988234728319,-6.361162512146472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valantisches Meer</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-59.27918371211689</longitude>
+				<latitude>11.28621558230064</latitude>
+				<altitude>0</altitude>
+				<range>329982.4727987024</range>
+				<tilt>3.463576766974404</tilt>
+				<heading>0.1050021787517691</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin600</styleUrl>
+			<Point>
+				<coordinates>-59.53408086511632,11.98713737851611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Westliches Gletschermeer</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-64.24124065565553</longitude>
+				<latitude>38.46021616862778</latitude>
+				<altitude>0</altitude>
+				<range>859188.3071608642</range>
+				<tilt>3.468555244838663</tilt>
+				<heading>11.78075655396581</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin102</styleUrl>
+			<Point>
+				<coordinates>-63.0268635287147,37.52079240527421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Östliches Gletschermeer</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-48.35732020420488</longitude>
+				<latitude>37.45783312698557</latitude>
+				<altitude>0</altitude>
+				<range>760050.0039687873</range>
+				<tilt>3.468938484218067</tilt>
+				<heading>21.15778224823629</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1120</styleUrl>
+			<Point>
+				<coordinates>-48.35732020420488,37.45783312698557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>See des Schweigens</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-61.38943649648855</longitude>
+				<latitude>-21.94658957432018</latitude>
+				<altitude>0</altitude>
+				<range>931913.4166017544</range>
+				<tilt>12.57391912858791</tilt>
+				<heading>-10.41721648752763</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin140</styleUrl>
+			<Point>
+				<coordinates>-62.57648204826759,-22.15528778037481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nacennia-Straße</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-70.055791164171</longitude>
+				<latitude>-15.73540244897737</latitude>
+				<altitude>0</altitude>
+				<range>317180.3496274101</range>
+				<tilt>9.977586391021228</tilt>
+				<heading>-2.993177530796818</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin800</styleUrl>
+			<Point>
+				<coordinates>-70.22508826954542,-15.60098412618718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bucht von Draydalân</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-88.64487815780856</longitude>
+				<latitude>2.427975128505127</latitude>
+				<altitude>0</altitude>
+				<range>355244.9447505832</range>
+				<tilt>9.98024917927323</tilt>
+				<heading>-4.394169245738673</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin106</styleUrl>
+			<Point>
+				<coordinates>-88.0307027175365,2.630937332805356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Purpursee (InOff)</name>
+			<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-107.2446301090524</longitude>
+				<latitude>4.111725270734981</latitude>
+				<altitude>0</altitude>
+				<range>641145.3311259662</range>
+				<tilt>4.337218622539576</tilt>
+				<heading>-17.19258447642189</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin75</styleUrl>
+			<Point>
+				<coordinates>-106.528038899015,4.102567664090143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nebelmeer</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>37.54619469147608</longitude>
+				<latitude>3.556154723207595</latitude>
+				<altitude>0</altitude>
+				<range>5085372.766814592</range>
+				<tilt>0</tilt>
+				<heading>-7.282088089978504</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3700</styleUrl>
+			<Point>
+				<coordinates>27.2383212360349,5.065099972846429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel Drachennarben (InOff)</name>
+			<description>Harika die Rote entdeckte die Küste auf ihrer ersten Güldenlandexpedition und beschreibt sie als Fjordküste.
+
+Quelle: Geographia Aventuria S. 106
+
+Der Name ist aus einer inoffizielle Quelle, 
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-99.19076214879138</longitude>
+				<latitude>5.201796152284565</latitude>
+				<altitude>0</altitude>
+				<range>192137.4282589823</range>
+				<tilt>1.965467182590892</tilt>
+				<heading>-3.904719093118405</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin65</styleUrl>
+			<Point>
+				<coordinates>-99.19076214879138,5.201796152284565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel der Inseln von Um (InOff)</name>
+			<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-107.799533553403</longitude>
+				<latitude>6.480070009702016</latitude>
+				<altitude>0</altitude>
+				<range>80458.62527870208</range>
+				<tilt>3.65897524936072</tilt>
+				<heading>2.129009859510459</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin61</styleUrl>
+			<Point>
+				<coordinates>-107.9381262424745,6.470808519350355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meer der Schwimmenden Inseln</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-59.28742570880215</longitude>
+				<latitude>2.332211236862238</latitude>
+				<altitude>0</altitude>
+				<range>2073609.496165237</range>
+				<tilt>3.661797065453619</tilt>
+				<heading>-6.990945144617142</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin150</styleUrl>
+			<Point>
+				<coordinates>-60.01750713846823,3.688655080307576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bleichwasser</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-52.82525597435578</longitude>
+				<latitude>-0.41338550103038</latitude>
+				<altitude>0</altitude>
+				<range>230596.3374503143</range>
+				<tilt>3.663007039293604</tilt>
+				<heading>-6.893912059645334</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin700</styleUrl>
+			<Point>
+				<coordinates>-52.82525597435578,-0.4133855010303801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel der Inseln von Serovia (hjaldingisch Eyjattur)</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-43.39605518477809</longitude>
+				<latitude>22.7166818977178</latitude>
+				<altitude>0</altitude>
+				<range>1207697.972068157</range>
+				<tilt>0.1398226486603913</tilt>
+				<heading>-11.40254149538037</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin212</styleUrl>
+			<Point>
+				<coordinates>-43.32947240380288,22.54907304328191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Galeerenbuch</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-49.16298442607009</longitude>
+				<latitude>11.82821804740205</latitude>
+				<altitude>0</altitude>
+				<range>644334.3957619943</range>
+				<tilt>1.971452176723479</tilt>
+				<heading>7.663649893138668</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin300</styleUrl>
+			<Point>
+				<coordinates>-49.45088450580499,11.82140192168873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meer der Sieben Winde(aventurisch),Thalassion(imperial),Eiwara(Immermeer)(hjaldingisch)</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-25.95180984884496</longitude>
+				<latitude>25.01421419057686</latitude>
+				<altitude>0</altitude>
+				<range>2703698.594818865</range>
+				<tilt>1.970979079882606</tilt>
+				<heading>6.663773266016085</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin611</styleUrl>
+			<Point>
+				<coordinates>-29.35976180710334,25.46063290759196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Die Goldküste</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-59.32165705730983</longitude>
+				<latitude>11.0572431621582</latitude>
+				<altitude>0</altitude>
+				<range>303115.5972108869</range>
+				<tilt>1.687053870383517</tilt>
+				<heading>-0.931386658534752</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin113</styleUrl>
+			<Point>
+				<coordinates>-58.99782304836404,11.09140539678234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schwadenbucht</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-45.69245631009904</longitude>
+				<latitude>-2.566559244245886</latitude>
+				<altitude>0</altitude>
+				<range>480528.7804407485</range>
+				<tilt>1.835517957244936</tilt>
+				<heading>-1.084659760423237</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0000</styleUrl>
+			<Point>
+				<coordinates>-45.7996562251853,-2.989548127250129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kap von Kuapurash (Felsen der Morgenröte)</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-39.70470931847584</longitude>
+				<latitude>1.177194965859899</latitude>
+				<altitude>0</altitude>
+				<range>105610.08731504</range>
+				<tilt>14.13180619313996</tilt>
+				<heading>-7.482962335318457</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2000</styleUrl>
+			<Point>
+				<coordinates>-39.86646729504213,1.311941339193362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nordweg</name>
+			<description>Nordweg nennen die Hjaldinger die Ostküste der Halbinsel Hjaldingard 
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 290 Erklärung</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-41.87056268533161</longitude>
+				<latitude>30.87302807390991</latitude>
+				<altitude>0</altitude>
+				<range>2206623.097631717</range>
+				<tilt>0</tilt>
+				<heading>-0.3765383355859364</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin160</styleUrl>
+			<Point>
+				<coordinates>-38.02476770280463,29.64319117261779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Odalwik</name>
+			<description>Odalwik nennen die Hjaldinger die Meeresstraße zwischen der Westküste der Halbinsel Hjaldingard im Osten, den Serovischen Inseln im Süden, der Hjaldingischen Westküste im Westen und dem Gletschermeer im Norden. Hier siedelten die Ahnen der Hjaldinger als erstes.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 290 Erklärung</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-48.98170797058373</longitude>
+				<latitude>27.85389769027209</latitude>
+				<altitude>0</altitude>
+				<range>1595605.154533804</range>
+				<tilt>0</tilt>
+				<heading>-6.091890219213081</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin53</styleUrl>
+			<Point>
+				<coordinates>-44.80094353952239,27.28261288493792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abareyjar</name>
+			<description>Abareyjar (&quot;hinter den vielen Inseln&quot;) nennen die Hjaldinger die Bucht zwischen den Serovischen Inseln und der Stadt Trivina.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 275 Erklärung</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-50.18993148686172</longitude>
+				<latitude>23.14325920594241</latitude>
+				<altitude>0</altitude>
+				<range>2133164.045805081</range>
+				<tilt>0</tilt>
+				<heading>-6.051916267065292</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin35</styleUrl>
+			<Point>
+				<coordinates>-48.35902994787788,21.97954617603739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel der &quot;Insel der Gleißenden Stadt&quot;</name>
+			<description>Der wahre Name dieser Insegruppel ist unbekannt, Harika die Rote entdeckte die Insel auf ihrer ersten Güldenlandexpedition.
+
+Quelle: Geographia Aventuria S. 105</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-135.1984451164727</longitude>
+				<latitude>7.39349645674841</latitude>
+				<altitude>0</altitude>
+				<range>2446701.890400865</range>
+				<tilt>0</tilt>
+				<heading>-4.057550483169981</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin250</styleUrl>
+			<Point>
+				<coordinates>-135.4089898145605,12.47030037213881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kap Trivina</name>
+			<description>Quelle: Geographia Aventuria S. 110</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-46.58328157399888</longitude>
+				<latitude>20.15737080145641</latitude>
+				<altitude>0</altitude>
+				<range>177823.1657798913</range>
+				<tilt>0</tilt>
+				<heading>-5.037242818277647</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2700</styleUrl>
+			<Point>
+				<coordinates>-46.88657664546759,20.03857288040182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Der Weite Sund</name>
+			<description>Quelle: Reise zum Horizont S. 63</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-44.60388435515865</longitude>
+				<latitude>6.357448403590881</latitude>
+				<altitude>0</altitude>
+				<range>692826.5967388548</range>
+				<tilt>0</tilt>
+				<heading>-2.548752148939727</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin630</styleUrl>
+			<Point>
+				<coordinates>-44.66293219970149,6.925918763162352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kobaltgrund</name>
+			<description>Wird wegen des kobaltblauen Wassers so genannt.</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-33.98618700140405</longitude>
+				<latitude>9.337940994438595</latitude>
+				<altitude>0</altitude>
+				<range>378187.4106409035</range>
+				<tilt>0</tilt>
+				<heading>-0.9772504738238851</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin49</styleUrl>
+			<Point>
+				<coordinates>-32.91864195947478,9.770775142540416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Archipel Knochenklippen (InOff)</name>
+			<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-91.87591425478212</longitude>
+				<latitude>3.559723253137277</latitude>
+				<altitude>0</altitude>
+				<range>380217.5757515509</range>
+				<tilt>0</tilt>
+				<heading>9.26836502402886</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin74</styleUrl>
+			<Point>
+				<coordinates>-92.43162851363071,2.706932170220035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bucht von Cranareniu</name>
+			<description>Quelle: Myranor HC S. 12</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-49.25769438748417</longitude>
+				<latitude>24.14981168747339</latitude>
+				<altitude>0</altitude>
+				<range>1146764.684119647</range>
+				<tilt>0</tilt>
+				<heading>6.52663560584546</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin28</styleUrl>
+			<Point>
+				<coordinates>-48.82706189486249,24.81468129849924,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

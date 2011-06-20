@@ -1,0 +1,4913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Zusätzliche_Siedlungen_TODO.kml</name>
+	<Style id="sn_Dorf8">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Sonstige_Ruine60">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Ruine60">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Dorf12">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Grossstadt70">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Stadt10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Grossstadt400">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk7">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf432">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Sonstige_Ruine6">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Metropole3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Stadt19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Sonstige_Ruine30">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Ruine7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Ruine9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Grossstadt000">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk4">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Dorf11">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Metropole4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Metropole3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Metropole2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt80">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Stadt16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Grossstadt120">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Grossstadt9">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Stadt4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt211111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt21110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt02211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt18">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Grossstadt50">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf9">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Stadt8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt6">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Sakralbauwerk110">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Sakralbauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Stadt4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Sonstige_Ruine5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Dorf11">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Grossstadt50">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt40">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Grossstadt10">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Grossstadt101">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt423">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Grossstadt60">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Stadt21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Ruine200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Dorf4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf0011">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Metropole5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Dorf13">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Stadt15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Grossstadt6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Grossstadt010">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt60">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Metropole2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Sonstige_Ruine4">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Grossstadt020">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Stadt17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Sonstige_Ruine101311">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine0000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Metropole1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Dorf80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Stadt14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt8">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Sakralbauwerk10">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Sakralbauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Grossstadt5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Ruine6">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Ruine7">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt30">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Ruine500">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Dorf50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Metropole00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Metropole1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Metropole000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Grossstadt1000">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Grossstadt31">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt024">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk3">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Stadt3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Sonstige_Ruine21">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Sonstige_Sakralbauwerk2211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Sakralbauwerk110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Sakralbauwerk10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Grossstadt30">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt16">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf2212">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Stadt2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt70">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Dorf120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Metropole0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Grossstadt110">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Dorf010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Stadt8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Dorf51">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Dorf45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Dorf60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Stadt12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Metropole12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Metropole30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Metropole3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf60">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Stadt40">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf9">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Stadt30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Sonstige_Ruine5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt13">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk6">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Stadt18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Stadt19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Stadt23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Dorf13">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf0021">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Grossstadt15">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Ruine50">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Stadt24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Metropole5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Metropole5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Metropole0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Stadt80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Dorf5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Sonstige_Ruine61">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk4">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Sonstige_Staatliches_Bauwerk4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Staatliches_Bauwerk6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Staatliches_Bauwerk7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Grossstadt50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Stadt16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Stadt120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Stadt70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Stadt70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk6">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Grossstadt110">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Grossstadt40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Grossstadt900">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Dorf7">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Stadt1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Grossstadt800">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Metropole30">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Dorf100">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Grossstadt21110">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Grossstadt201">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt11121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Grossstadt12">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Sonstige_Staatliches_Bauwerk0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Sonstige_Ruine40">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Stadt13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Stadt5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Dorf6">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Dorf6">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Dorf8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Stadt12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Sonstige_Ruine0000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Sonstige_Ruine5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Ruine.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Grossstadt41">
+		<IconStyle>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Sonstige_Staatliches_Bauwerk5">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Sonstige_Staatliches_Bauwerk.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Grossstadt90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Grossstadt9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Grossstadt40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Grossstadt11">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Metropole3">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Dorf6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_Dorf014">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Dorf0011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Dorf0021</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Stadt7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_Metropole000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_Sonstige_Ruine4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Sonstige_Ruine61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Sonstige_Ruine6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Zusätzliche_Siedlungen</name>
+		<Folder>
+			<name>Burgen_und_Festungen</name>
+			<Folder>
+				<name>Ras_Tabor_West_Myranor_inoffizielle_Quelle</name>
+				<Placemark>
+					<name>Festung Name unbekannt 1 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-86.18732846200393</longitude>
+						<latitude>3.405999114786877</latitude>
+						<altitude>0</altitude>
+						<range>174286.8556382089</range>
+						<tilt>0</tilt>
+						<heading>-0.07871678246212581</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk4</styleUrl>
+					<Point>
+						<coordinates>-86.24914858417613,3.870309518187234,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 2 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-86.18732846200393</longitude>
+						<latitude>3.405999114786877</latitude>
+						<altitude>0</altitude>
+						<range>174286.8556382089</range>
+						<tilt>0</tilt>
+						<heading>-0.07871678246212581</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk0</styleUrl>
+					<Point>
+						<coordinates>-86.24350593515325,3.329409269445586,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 3 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-86.12832703808759</longitude>
+						<latitude>2.787484599108582</latitude>
+						<altitude>0</altitude>
+						<range>185005.695313333</range>
+						<tilt>0</tilt>
+						<heading>-0.5513784586829799</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk2</styleUrl>
+					<Point>
+						<coordinates>-86.02209945188784,2.7072771397637,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 4 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-86.85337859426089</longitude>
+						<latitude>2.087992416557404</latitude>
+						<altitude>0</altitude>
+						<range>154174.0844801842</range>
+						<tilt>0</tilt>
+						<heading>-0.5768072828754877</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk</styleUrl>
+					<Point>
+						<coordinates>-86.98989231247539,2.086613052333127,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 5 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-86.30376016655411</longitude>
+						<latitude>2.02092720082216</latitude>
+						<altitude>0</altitude>
+						<range>159805.446367371</range>
+						<tilt>0</tilt>
+						<heading>-0.5578159765284071</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk6</styleUrl>
+					<Point>
+						<coordinates>-86.10160605504272,1.665171570870316,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 6 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-87.20946342433646</longitude>
+						<latitude>1.524965821281301</latitude>
+						<altitude>0</altitude>
+						<range>111475.0565099689</range>
+						<tilt>0</tilt>
+						<heading>-0.2578146750179696</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk3</styleUrl>
+					<Point>
+						<coordinates>-87.00253165055904,1.101887861363669,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 7 (Draydalân) (Blutgischtmauer) (InOff)</name>
+					<description>Diese Festung gehört zu einem Festungsgürtel, mit dem die Draydal das Gebirge der Blutgischtmauer bewachen, welches den Schädelgrund von der Bucht von Draydalân trennt, und Myranor mit Ras Tabor verbindet.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/
+
+Harika beschreibt die Festungen in Berichten ihrer 1. Expedition
+
+... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-87.84328571575495</longitude>
+						<latitude>1.091209829151575</latitude>
+						<altitude>0</altitude>
+						<range>219903.2561421255</range>
+						<tilt>0</tilt>
+						<heading>-0.2643045158675175</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk7</styleUrl>
+					<Point>
+						<coordinates>-87.50127835082429,1.034094406777976,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Draydalân_Position_sicher</name>
+				<Placemark>
+					<name>Festung Name unbekannt 8 (Draydalân)</name>
+					<description>Quelle: Myranor HC Karte</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-85.0804448450546</longitude>
+						<latitude>3.868708452371952</latitude>
+						<altitude>0</altitude>
+						<range>105251.9504988913</range>
+						<tilt>2.837608137482038</tilt>
+						<heading>-0.6742047717198246</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk1</styleUrl>
+					<Point>
+						<coordinates>-85.04246353468749,3.547065672051184,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Festung Name unbekannt 9 (Draydalân)</name>
+					<description>Quelle: Myranor HC Karte</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-84.79118956996489</longitude>
+						<latitude>3.392181118731628</latitude>
+						<altitude>0</altitude>
+						<range>219743.7155247206</range>
+						<tilt>0</tilt>
+						<heading>-0.2212436173368777</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Staatliches_Bauwerk5</styleUrl>
+					<Point>
+						<coordinates>-85.54267930746924,3.451195288665245,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Sonstige Siedlungen</name>
+			<Folder>
+				<name>Myr-Imperium_Position_sicher</name>
+			</Folder>
+			<Folder>
+				<name>Myr-Ruinen_ Halimatongan_Position_unsicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Die Affenstadt</name>
+					<description><![CDATA[Die <a href="http://www.wiki-aventurica.de/index.php?title= Affenstadt ">Affenstadt </a> ist eine Ruinenstadt des fast  ausgestorbenen vernunftbegabten Affenvolkes der <a href="http://www.wiki-aventurica.de/index.php?title=Halimatongan">Halimatongan </a> auf der Insel <a href="http://www.wiki-aventurica.de/index.php?title=Alampang">Alampang </a> im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Affenstadt">Affenstadt</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.45504529530739</longitude>
+						<latitude>6.593913600311926</latitude>
+						<altitude>46047.17338364438</altitude>
+						<heading>-10.51525674747716</heading>
+						<tilt>0.4895531604547225</tilt>
+						<roll>6.193457956515971</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_Sonstige_Ruine7</styleUrl>
+					<Point>
+						<coordinates>-34.43616559760338,6.614061845540736,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Ruinen_Herkunft_unbekannt_Position_sicher</name>
+				<Placemark>
+					<name>Ruine des Spitzmuschel-Leuchtturms</name>
+					<description>Hier befindet sich die Ruine eines alten Leuchtturms, der einmal die Form einer riesigen Spitzmuschel hatte. Ein altes Bauwerk der Loualil ?
+
+Quelle: Reise zum Horizont S. 63</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-51.31907984926328</longitude>
+						<latitude>3.556335109036224</latitude>
+						<altitude>0</altitude>
+						<range>112264.9025259248</range>
+						<tilt>0</tilt>
+						<heading>-1.487653118491074</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine5</styleUrl>
+					<Point>
+						<coordinates>-51.46702952493808,3.702510718956141,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ruine nordöstlich von Kerrish-Yih</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<longitude>-59.051507</longitude>
+						<latitude>-15.144057</latitude>
+						<altitude>0</altitude>
+						<range>200000</range>
+						<tilt>0</tilt>
+						<heading>0</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine22</styleUrl>
+					<Point>
+						<coordinates>-59.051507,-15.144057,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ruinen Pyramiden (auf Insel Ilambajan)</name>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.34672773020693</longitude>
+						<latitude>7.625759770083565</latitude>
+						<altitude>131137.0506113018</altitude>
+						<heading>115.4612874408739</heading>
+						<tilt>0.05508130285464836</tilt>
+						<roll>120.2706010536286</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_Sonstige_Ruine101311</styleUrl>
+					<Point>
+						<coordinates>-34.5713967874086,7.661716767103804,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ruine am Ostrand der Wolkenkämme</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-64.2200815750395</longitude>
+						<latitude>-15.63922410796917</latitude>
+						<altitude>0</altitude>
+						<range>531094.0722506839</range>
+						<tilt>0</tilt>
+						<heading>4.531584158396761</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine50</styleUrl>
+					<Point>
+						<coordinates>-64.7048399573723,-15.11617208928097,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ruine südöstlich von Kerrish Gashtu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-55.19063533870013</longitude>
+						<latitude>-35.58080922244424</latitude>
+						<altitude>0</altitude>
+						<range>945862.3447811964</range>
+						<tilt>0</tilt>
+						<heading>-0.2129601389372528</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine40</styleUrl>
+					<Point>
+						<coordinates>-55.43828220070251,-36.11299687772426,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ruine in den Stahlzinnen</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.91434280262958</longitude>
+						<latitude>-30.58865800401678</latitude>
+						<altitude>0</altitude>
+						<range>1020101.851233477</range>
+						<tilt>0</tilt>
+						<heading>-5.392511756119805</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine300</styleUrl>
+					<Point>
+						<coordinates>-46.03676857499971,-31.43551972478322,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Ruinen_Imperiale_Stadt_Position_sicher</name>
+				<Placemark>
+					<name>Sidor Sindara</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Sidor Sindara
+ "> Sidor Sindara </a> ist eine mittelgroße Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie war die Hauptstadt des alten imperialen Horasiats Shindrabar, vor dem <a href="http://www.wiki-aventurica.de/index.php?title= Unabhängigkeitskampf von Shindrabar "> Unabhängigkeitskampf von Shindrabar </a>. 
+Heute künden vom alten Glanz der Stadt nur noch ihre vom Urwald überwucherten Ruinen, die schon längst aller Kostbarkeiten beraubt wurden.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title= Sidor Sindara "> Sidor Sindara </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<longitude>-36.212182</longitude>
+						<latitude>3.716307</latitude>
+						<altitude>0</altitude>
+						<range>200000</range>
+						<tilt>0</tilt>
+						<heading>0</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine4</styleUrl>
+					<Point>
+						<coordinates>-36.212182,3.716307,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Shindrabarim_Position_sicher</name>
+				<Placemark>
+					<name>Observatorium von Semparang</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Observatorium von Semparang "> Observatorium von Semparang </a> war und ist eine der heiligsten Städten der Schlangenpriesterschaft der <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabarim">Shindrabarim</a>. 
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Observatorium von Semparang">Observatorium von Semparang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<longitude>-35.782585</longitude>
+						<latitude>1.403527</latitude>
+						<altitude>0</altitude>
+						<range>200000</range>
+						<tilt>0</tilt>
+						<heading>0</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Sakralbauwerk2211</styleUrl>
+					<Point>
+						<coordinates>-35.782585,1.403527,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Hjaldinger_Position_sicher</name>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>Insel_der_Gleißenden_Stadt_Ruinen_Position_unsicher</name>
+				<Placemark>
+					<name>Die Gleißende Stadt ?</name>
+					<description>Harika die Rote entdeckte die Ruinen dieser Stadt auf ihrer ersten Güldenlandexpedition.
+Dabei beschreibt sie eine etwa zweihundert
+Meilen von der Steilküste entfernt liegende Stadt, gleißend wie die Zitadelle von Alveran, deren Mauern geborsten sind, und welche sich über den Wolken befinden soll, da das wüstenhafte Land von der Küste zum Landesinneren hin immer weiter ansteigt.
+
+Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-138.2246365721143</longitude>
+						<latitude>6.22807832011041</latitude>
+						<altitude>0</altitude>
+						<range>1101467.438086567</range>
+						<tilt>0</tilt>
+						<heading>6.371618233475576</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Sonstige_Ruine3</styleUrl>
+					<Point>
+						<coordinates>-137.9478005896359,4.989345367769328,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Dörfer</name>
+			<Folder>
+				<name>Myr-Imperium_Position_sicher</name>
+				<Placemark>
+					<name>Amthachak</name>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.97165313432561</longitude>
+						<latitude>0.2010953733980898</latitude>
+						<altitude>44219.41333535671</altitude>
+						<heading>-11.48135356006366</heading>
+						<tilt>0.4903604237448546</tilt>
+						<roll>5.608681650834773</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_Dorf400</styleUrl>
+					<Point>
+						<coordinates>-48.01411201556446,0.2710558620231436,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Shindrabarim_Position_sicher</name>
+				<Placemark>
+					<name>Dorf auf Doluwan</name>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-33.25648242486361</longitude>
+						<latitude>5.997279496116721</latitude>
+						<altitude>69179.00394011178</altitude>
+						<heading>-10.39806094696122</heading>
+						<tilt>0.4882935536384389</tilt>
+						<roll>5.747629035764808</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_Dorf13</styleUrl>
+					<Point>
+						<coordinates>-33.20769178954167,5.985816479064315,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dorf auf Insel Sarilau</name>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-35.26740237160487</longitude>
+						<latitude>5.100830272698478</latitude>
+						<altitude>160851.9367906819</altitude>
+						<heading>53.06673069413306</heading>
+						<tilt>0.04968663504971745</tilt>
+						<roll>71.01667620561877</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_Dorf432</styleUrl>
+					<Point>
+						<coordinates>-35.12187725037743,5.13086081688525,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dorf auf Insel Manwantang</name>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.78234527439751</longitude>
+						<latitude>5.817946580236765</latitude>
+						<altitude>56665.25909689326</altitude>
+						<heading>53.10482306194194</heading>
+						<tilt>0.05046333205617613</tilt>
+						<roll>71.19957794787969</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_Dorf2212</styleUrl>
+					<Point>
+						<coordinates>-34.79505308632882,5.778524128966732,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Shindrabarim_Position_unsicher</name>
+				<Placemark>
+					<name>Dalampang</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Dalampang ">Dalampang </a> ist ein Dorf der <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabarim">Shindrabarim </a> auf der Insel <a href="http://www.wiki-aventurica.de/index.php?title=Alampang">Alampang </a> im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Dalampang">Dalampang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.47512249421174</longitude>
+						<latitude>6.580991378422832</latitude>
+						<altitude>0</altitude>
+						<range>34153.20428251845</range>
+						<tilt>0</tilt>
+						<heading>-20.04420339149515</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf014</styleUrl>
+					<Point>
+						<coordinates>-34.54271982839443,6.560213205713197,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Hjaldinger_Position_sicher</name>
+				<Placemark>
+					<name>Hagnisdala</name>
+					<description>Hagnisdala ist die Ursprungssiedlung der Jurga Sippe. Sie war erst wegen des unwirklichen Klimas verlassen worden (Jurgas Sippe besiedelte die serovischen Inseln) doch nach der Vertreibung der Sippe von den serovischen Inseln wurde die Siedlung zur Zeit Jurgas wieder besiedelt. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 282 Erklärung</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-42.15059915668481</longitude>
+						<latitude>36.66812996006613</latitude>
+						<altitude>0</altitude>
+						<range>491592.7640417662</range>
+						<tilt>0.6967041699994063</tilt>
+						<heading>-2.83381022804475</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf45</styleUrl>
+					<Point>
+						<coordinates>-42.09755921071288,36.47670188667646,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ingwarsskarja</name>
+					<description>Ingwarsskarja war der Stammsitz der Ingwar-Sippe zur Zeit von Jurga. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 286 Erklärung</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-45.21546221676407</longitude>
+						<latitude>33.53600084400195</latitude>
+						<altitude>0</altitude>
+						<range>168249.8435258155</range>
+						<tilt>0.139489423950507</tilt>
+						<heading>-9.867760075337493</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf120</styleUrl>
+					<Point>
+						<coordinates>-44.94884549979197,33.48225715847779,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bjerastadar</name>
+					<description>Bjerastadar war eine hjaldingische Siedlung zur Zeit von Jurga. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.15984012869613</longitude>
+						<latitude>32.7063318866051</latitude>
+						<altitude>0</altitude>
+						<range>299262.9229827183</range>
+						<tilt>0.1395052737755544</tilt>
+						<heading>-10.37202149285495</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf7</styleUrl>
+					<Point>
+						<coordinates>-45.77413725968772,32.40279757364375,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Havarskog</name>
+					<description>Havarskog war eine hjaldingische Siedlung auf der Insel Eikey zur Zeit von Jurga. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-45.975826019562</longitude>
+						<latitude>29.68281351770254</latitude>
+						<altitude>0</altitude>
+						<range>332272.6093360194</range>
+						<tilt>0.1396162729646595</tilt>
+						<heading>-13.45768190569531</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf9</styleUrl>
+					<Point>
+						<coordinates>-45.69206660942278,29.54958228193998,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gunnavang</name>
+					<description>Gunnavang war eine hjaldingische Siedlung auf der Halbinsel Hjaldingard zur Zeit von Jurga. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-42.88968712950881</longitude>
+						<latitude>30.13977499182505</latitude>
+						<altitude>0</altitude>
+						<range>256515.4320360713</range>
+						<tilt>0.139695612160222</tilt>
+						<heading>-11.95885224984683</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf60</styleUrl>
+					<Point>
+						<coordinates>-42.71203082260499,30.0396239444325,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Thurahlid/Angarfjord</name>
+					<description>Thurahlid war eine hjaldingische Siedlung am Angarfjord auf der Halbinsel Hjaldingard zur Zeit von Jurga. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-41.43935623437355</longitude>
+						<latitude>27.69774579219805</latitude>
+						<altitude>0</altitude>
+						<range>323604.6539172474</range>
+						<tilt>0.1397749964574204</tilt>
+						<heading>-11.2092825579639</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf50</styleUrl>
+					<Point>
+						<coordinates>-40.71050755951193,27.5826072412622,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Haugahaim</name>
+					<description>Haugahaim war eine hjaldingische Siedlung auf der Hauptinsel der serovischen Inseln zur Zeit von Jurga. Inwieweit sich in der Jetztzeit hier noch eine Siedlung befindet ist unklar.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-43.877057136886</longitude>
+						<latitude>23.859455568149</latitude>
+						<altitude>0</altitude>
+						<range>339558.9009593161</range>
+						<tilt>0.1398544258315854</tilt>
+						<heading>-11.58825674819718</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf80</styleUrl>
+					<Point>
+						<coordinates>-44.07197464288636,23.51487475694821,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Draydalân_Position_unsicher</name>
+				<Placemark>
+					<name>möglicher Draydalstützpunkt?</name>
+					<description>Harika stößt während ihrer ersten Reise möglicherweise hier auf den ersten Stützpunkt der Draydal...
+
+... Sind auf eine Ansiedlung gestoßen, die
+wie die Dschungelsforts auf den Waldinseln zwar grob,
+aber sehr organisiert wirkt. Die Bewohner scheinen
+Menschen zu sein, zumindest was Größe und Zahl der
+Gliedmaßen angeht, doch laufen sie alle in weite
+Pumphosen, Kaftane und Turbane gekleidet einher.
+Etliche sichtbare Waffen, meist säbelartig. «
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-95.99326970710314</longitude>
+						<latitude>-0.634333364878229</latitude>
+						<altitude>0</altitude>
+						<range>55788.48591012831</range>
+						<tilt>0</tilt>
+						<heading>-2.322053398302856e-014</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Dorf6</styleUrl>
+					<Point>
+						<coordinates>-96.0104904667372,-0.6626500244068954,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Städte</name>
+			<Folder>
+				<name>Myr-Imperium_Position_sicher</name>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>Myr-Shindrabarim_Position_sicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Alonka</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Alonka "> Alonka </a> ist eine wichtige Stadt der <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabarim">Shindrabarim </a> auf der Insel <a href="http://www.wiki-aventurica.de/index.php?title=Bahari">Bahari </a> im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. 
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Alonka">Alonka</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-35.60311353552721</longitude>
+						<latitude>5.960888231955815</latitude>
+						<altitude>0</altitude>
+						<range>87188.34211311326</range>
+						<tilt>0.8513236205619492</tilt>
+						<heading>-7.337703656793435</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt80</styleUrl>
+					<Point>
+						<coordinates>-35.6275408198876,5.94026199904993,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Makshapuram_Position_sicher</name>
+			</Folder>
+			<Folder>
+				<name>Myr-Hjaldinger_Position_sicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Haldingaford (hjaldingisch Hjaldingafjord)</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i>  DSA Roman "Sturm" von Daniela Knor S. 7 Karte von Hjaldingard <TR><TD>
+<HR><BR><BR> 
+Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<longitude>-54.80167274794952</longitude>
+						<latitude>25.68994349887292</latitude>
+						<altitude>0</altitude>
+						<range>3950872.452730577</range>
+						<tilt>4.104069343163006</tilt>
+						<heading>-2.441118202119317</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt30</styleUrl>
+					<Point>
+						<coordinates>-47.37680512483463,28.63276919332234,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Ban_Bargui_Position_unsicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Bjöngku?</name>
+					<description>Harika die Rote entdeckte auf ihrer ersten Güldenlandexpedition die Stadt Bjöngku in der Ban Bargui leben. Sie wird beschrieben als ein mobiles Lager der Ban Bargui, welches um einen riesigen &quot;Termitenbau&quot; errichtet wurde. In diesem &quot;Termitenbau&quot;, (einem alten Chratack Nest ?) haben es sich die Ban Bargui häuslich eingerichtet. Es wird beschrieben, dass sich die Steppen der Ban Bargui von hier nach Norden und Nordosten erstrecken (weshalb die Stadt hier an diesem Kap liegen könnte)
+
+Quelle: Geographia Aventuria S. 105-106</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-114.6842408547372</longitude>
+						<latitude>9.766354229517903</latitude>
+						<altitude>0</altitude>
+						<range>106802.8924046771</range>
+						<tilt>4.109901397001565</tilt>
+						<heading>-3.168511809100524</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt120</styleUrl>
+					<Point>
+						<coordinates>-114.7677763881034,9.860899617134017,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Ras_Tabor_West_Myranor_inoffizielle_Quelle</name>
+				<open>1</open>
+				<Placemark>
+					<name>Nagal (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-107.456024673399</longitude>
+						<latitude>2.542108713814588</latitude>
+						<altitude>0</altitude>
+						<range>186386.0132029016</range>
+						<tilt>4.111697408973353</tilt>
+						<heading>-3.567886382501845</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt2</styleUrl>
+					<Point>
+						<coordinates>-107.6905001758625,2.454610296570819,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Aeonarsal (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-111.9245008152096</longitude>
+						<latitude>3.976402858443235</latitude>
+						<altitude>0</altitude>
+						<range>321565.1185642444</range>
+						<tilt>4.113494143131103</tilt>
+						<heading>-0.2254144719900758</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt5</styleUrl>
+					<Point>
+						<coordinates>-112.2397909523978,3.422790090520026,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sidor Aboris (InOff)</name>
+					<description>Hier soll der Weltenbaum stehen der im Abenteuer &quot;Durch das Tor der Welten&quot; und im Roman &quot;Erde und Eis&quot; vorkommt.
+
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-107.5245444324224</longitude>
+						<latitude>-2.331927965903561</latitude>
+						<altitude>0</altitude>
+						<range>1089013.30160815</range>
+						<tilt>4.11484216781025</tilt>
+						<heading>-0.5070186591453334</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt15</styleUrl>
+					<Point>
+						<coordinates>-105.8310288081592,-1.645343718271582,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 1 bei Großstadt Meridia (Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-100.9513923257088</longitude>
+						<latitude>1.02914796636095</latitude>
+						<altitude>0</altitude>
+						<range>292066.904425556</range>
+						<tilt>8.379359037851931</tilt>
+						<heading>-0.9121193174858877</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt18</styleUrl>
+					<Point>
+						<coordinates>-100.9260463684478,1.029552154957125,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 2 bei Großstadt Meridia (Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-100.8574626612306</longitude>
+						<latitude>0.04170356847927945</latitude>
+						<altitude>0</altitude>
+						<range>292066.9044255568</range>
+						<tilt>8.380162759734018</tilt>
+						<heading>-0.9084164278734905</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt21</styleUrl>
+					<Point>
+						<coordinates>-100.5828801587169,0.6522070425093018,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 3 bei Großstadt Meridia (Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-100.8574626612306</longitude>
+						<latitude>0.04170356847927945</latitude>
+						<altitude>0</altitude>
+						<range>292066.9044255568</range>
+						<tilt>8.380162759734018</tilt>
+						<heading>-0.9084164278734905</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt8</styleUrl>
+					<Point>
+						<coordinates>-100.4979931654439,0.1204982373132114,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 4 bei Großstadt Meridia (Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-100.8574626612306</longitude>
+						<latitude>0.04170356847927786</latitude>
+						<altitude>0</altitude>
+						<range>170689.7441850699</range>
+						<tilt>8.380162759734105</tilt>
+						<heading>-0.9084164278733743</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt14</styleUrl>
+					<Point>
+						<coordinates>-100.7621055870586,-0.1767029242061052,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 5 bei Großstadt Meridia (Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-100.8738668069255</longitude>
+						<latitude>-0.1366206546706054</latitude>
+						<altitude>0</altitude>
+						<range>201812.7250277654</range>
+						<tilt>8.38177035293136</tilt>
+						<heading>-0.9084748074952672</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt3</styleUrl>
+					<Point>
+						<coordinates>-101.0439730335505,-0.4049922994882513,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 1 (Draydalân)(Myranor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-95.09531452568209</longitude>
+						<latitude>3.341441872612083</latitude>
+						<altitude>0</altitude>
+						<range>266614.8256228709</range>
+						<tilt>4.114842167809807</tilt>
+						<heading>-2.761032428672482</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt17</styleUrl>
+					<Point>
+						<coordinates>-94.64763919802176,3.147505671582466,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 2 (Draydalân)(Myranor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-91.65054208502738</longitude>
+						<latitude>2.772316671366425</latitude>
+						<altitude>0</altitude>
+						<range>445707.0258088311</range>
+						<tilt>0</tilt>
+						<heading>8.072917176542335</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt16</styleUrl>
+					<Point>
+						<coordinates>-91.8970101490967,2.887498046274752,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 3 (Draydalân)(Myranor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-92.42150845303063</longitude>
+						<latitude>3.951244626983025</latitude>
+						<altitude>0</altitude>
+						<range>288907.1983652163</range>
+						<tilt>0</tilt>
+						<heading>8.026457781640973</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt9</styleUrl>
+					<Point>
+						<coordinates>-92.19238271448084,4.279406135327842,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 4 (Draydalân)(Myranor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-91.65054208502738</longitude>
+						<latitude>2.772316671366425</latitude>
+						<altitude>0</altitude>
+						<range>349781.9237150524</range>
+						<tilt>0</tilt>
+						<heading>8.072917176542335</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt12</styleUrl>
+					<Point>
+						<coordinates>-90.69003354508806,3.609615412070887,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 5 (Draydalân)(Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-94.80263276782503</longitude>
+						<latitude>0.3959190388311917</latitude>
+						<altitude>0</altitude>
+						<range>160669.7757711909</range>
+						<tilt>0</tilt>
+						<heading>8.865380855979696</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt4</styleUrl>
+					<Point>
+						<coordinates>-94.66060725307703,0.5411106905457158,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 6 (Draydalân)(Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-95.10192230349026</longitude>
+						<latitude>-0.8160339740241942</latitude>
+						<altitude>0</altitude>
+						<range>415701.9179608711</range>
+						<tilt>0</tilt>
+						<heading>8.865530848321354</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt19</styleUrl>
+					<Point>
+						<coordinates>-94.82449860347512,-0.241147297526716,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt Name unbekannt 7 (Draydalân)(Ras Tabor) (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-95.10192230349024</longitude>
+						<latitude>-0.8160339740241945</latitude>
+						<altitude>0</altitude>
+						<range>350397.7442230178</range>
+						<tilt>0</tilt>
+						<heading>8.865530848321352</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt6</styleUrl>
+					<Point>
+						<coordinates>-95.47586188216178,-0.4509724062900086,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gul-Mondis (InOff)</name>
+					<description>Dem Namen nach gehört diese Stadt wohl zu Draydalân.
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-87.44380227052368</longitude>
+						<latitude>3.918384514444965</latitude>
+						<altitude>0</altitude>
+						<range>189721.4009319782</range>
+						<tilt>3.663813896616858</tilt>
+						<heading>3.016042308088712</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Stadt13</styleUrl>
+					<Point>
+						<coordinates>-87.34006496080501,4.537071812104263,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Großstädte</name>
+			<Folder>
+				<name>Myr-Serover_Position_unsicher</name>
+				<Placemark>
+					<name>Serovogor</name>
+					<description>Serovogor ist die ehemalige Horasiats-Metropole des ehemaligen Horasiats Serovia. Heute gehört sie, wie die Serovischen Inseln insgesamt, zu der Serovischen See-Republik der &quot;Sieben Serovischen Provinzen&quot;.
+
+Quellen: Myranor HC S. 96, Myranisches Arsenal S. 17
+Karte: Myranor HC: Skitzenkarte  &quot;Das östliche Myranor&quot;</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.36489130473515</longitude>
+						<latitude>24.14902995236741</latitude>
+						<altitude>0</altitude>
+						<range>753355.2372759657</range>
+						<tilt>0.1399339003518456</tilt>
+						<heading>-11.78417837370249</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Metropole00</styleUrl>
+					<Point>
+						<coordinates>-42.86519799785391,24.23628582472108,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Imperium_Position_sicher</name>
+				<Placemark>
+					<name>Vinerata</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style>Die fast nur aus <a href="http://www.wiki-aventurica.de/index.php?title=Bambus&amp;action=edit&amp;redlink=1" class="new" title="Bambus (Seite nicht vorhanden)">Bambus</a> erbaute Hafen- und Handelsstadt <b>Vinerata</b> liegt in <a href="http://www.wiki-aventurica.de/index.php?title=Cantera" title="Cantera" class="mw-redirect">Cantera</a> am <a href="http://www.wiki-aventurica.de/index.php?title=Meer_der_Schwimmenden_Inseln" title="Meer der Schwimmenden Inseln">Meer der Schwimmenden Inseln</a> am nördlichen Ende des <a href="http://www.wiki-aventurica.de/index.php?title=K%C3%BCstenkanal" title="Küstenkanal">Küstenkanals</a>. 
+
+
+
+
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Balan_Cantara">Balan Cantara</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<longitude>-57.982003</longitude>
+						<latitude>8.011106</latitude>
+						<altitude>0</altitude>
+						<range>200000</range>
+						<tilt>0</tilt>
+						<heading>0</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt91</styleUrl>
+					<Point>
+						<coordinates>-57.98200299999999,8.011106,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Phasmajirita</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.08270232436241</longitude>
+						<latitude>-0.2349763318321428</latitude>
+						<altitude>0</altitude>
+						<range>194632.9638419223</range>
+						<tilt>0</tilt>
+						<heading>0.004064094427861815</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt100</styleUrl>
+					<Point>
+						<coordinates>-49.66982352785168,-0.3231864287693876,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Kerrish-Yih_Position_sicher</name>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>Myr-Kerrish-Thalam_Position_sicher</name>
+				<Placemark>
+					<name>Stadt auf Yil&apos;Araphaar 6</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.45244001470771</longitude>
+						<latitude>-21.27828759340437</latitude>
+						<altitude>0</altitude>
+						<range>115101.439623663</range>
+						<tilt>3.645298250125503</tilt>
+						<heading>1.907486372138538</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt423</styleUrl>
+					<Point>
+						<coordinates>-59.48595329160812,-21.34464377758401,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt auf Yil&apos;Araphaar 5</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.09618188354109</longitude>
+						<latitude>-22.95980314958531</latitude>
+						<altitude>0</altitude>
+						<range>263723.3836060727</range>
+						<tilt>3.644495215036866</tilt>
+						<heading>1.777144317267445</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt211111</styleUrl>
+					<Point>
+						<coordinates>-59.28193869306926,-23.33611824334317,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt auf Yil&apos;Shikaar 4</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.39851424671777</longitude>
+						<latitude>-26.05311507872646</latitude>
+						<altitude>0</altitude>
+						<range>114303.4814623829</range>
+						<tilt>3.692452739084791</tilt>
+						<heading>-0.483063281978283</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt02211</styleUrl>
+					<Point>
+						<coordinates>-59.70388244476562,-26.14032963602067,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Makshapuram_Position_unsicher</name>
+				<Placemark>
+					<name>Sharapur</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style>Die Stadt <b>Sharapur</b> in <a href="http://www.wiki-aventurica.de/index.php?title=Makshapuram" title="Makshapuram">Makshapuram</a> liegt am <a href="http://www.wiki-aventurica.de/index.php?title=Dvara-Pass" title="Dvara-Pass">Dvara-Pass</a> in der Nähe der <a href="http://www.wiki-aventurica.de/index.php?title=Mahali" title="Mahali">Mahaliquelle</a>. Der hiesige <a href="http://www.wiki-aventurica.de/index.php?title=Radjar&amp;action=edit&amp;redlink=1" class="new" title="Radjar (Seite nicht vorhanden)">Radjar</a> ist <a href="http://www.wiki-aventurica.de/index.php?title=Ridor_Murta&amp;action=edit&amp;redlink=1" class="new" title="Ridor Murta (Seite nicht vorhanden)">Ridor Murta</a>.
+
+
+
+
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Balan_Cantara">Balan Cantara</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.54598370765832</longitude>
+						<latitude>-0.5251489649479907</latitude>
+						<altitude>0</altitude>
+						<range>26232.67153287313</range>
+						<tilt>0</tilt>
+						<heading>-0.007100915966439574</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt200</styleUrl>
+					<Point>
+						<coordinates>-46.50656562170227,-0.5737317365207956,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Makshapuram_Position_sicher</name>
+				<Placemark>
+					<name>Dorgal</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Übersichts-Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.05371690146299</longitude>
+						<latitude>0.6320546203599561</latitude>
+						<altitude>0</altitude>
+						<range>179857.5850898482</range>
+						<tilt>0</tilt>
+						<heading>-16.48494506580699</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt30</styleUrl>
+					<Point>
+						<coordinates>-44.00914962637347,0.7045132527048916,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Reichszugehörigkeit_unsicher_Position_sicher</name>
+				<Placemark>
+					<name>Barja Box</name>
+					<description><![CDATA[Es ist unsicher, ob Barja Box zum Horasiat Tharpura, oder zu Makshapuram gehört.
+<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-45.73015600000969</longitude>
+						<latitude>2.065251827953434</latitude>
+						<altitude>0</altitude>
+						<range>223054.5699078718</range>
+						<tilt>0</tilt>
+						<heading>6.877577037822924</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt44</styleUrl>
+					<Point>
+						<coordinates>-45.62638096821912,2.563182969943081,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Imperium_Position_unsicher</name>
+				<Placemark>
+					<name>Ingaldabath</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.02003347099652</longitude>
+						<latitude>-3.939652543564941</latitude>
+						<altitude>0</altitude>
+						<range>63426.8617780107</range>
+						<tilt>0</tilt>
+						<heading>-0.1064717690260091</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt024</styleUrl>
+					<Point>
+						<coordinates>-47.92960386677231,-4.012582253242446,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Kerrish-Yih_Position_unsicher</name>
+				<Placemark>
+					<name>Kherrish Branwesh</name>
+					<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> sowie Myranor-Karte der Memoria Myrana<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+					<LookAt>
+						<longitude>-53.075847</longitude>
+						<latitude>-15.87209</latitude>
+						<altitude>0</altitude>
+						<range>200000</range>
+						<tilt>0</tilt>
+						<heading>0</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt60</styleUrl>
+					<Point>
+						<coordinates>-53.075847,-15.87209,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Kerrishiter_Reichszuordnung_unklar_Position_sicher</name>
+				<Placemark>
+					<name>Kerrish-Techum</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-65.16184587182841</longitude>
+						<latitude>-21.97789716264524</latitude>
+						<altitude>0</altitude>
+						<range>532939.5624757666</range>
+						<tilt>2.360056127685541</tilt>
+						<heading>2.356421793710742</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt50</styleUrl>
+					<Point>
+						<coordinates>-66.50510427967009,-22.45995782298119,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Iliparu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-45.06274954562493</longitude>
+						<latitude>-11.37166377516946</latitude>
+						<altitude>0</altitude>
+						<range>184327.9733803033</range>
+						<tilt>2.357145983799371</tilt>
+						<heading>-3.407366309529802</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt11121</styleUrl>
+					<Point>
+						<coordinates>-45.24817528021737,-11.20730583381393,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ilishada</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.66323776188919</longitude>
+						<latitude>-13.20859144002609</latitude>
+						<altitude>0</altitude>
+						<range>56624.98121400992</range>
+						<tilt>2.359262105183507</tilt>
+						<heading>-3.441625214333639</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt700</styleUrl>
+					<Point>
+						<coordinates>-44.66323776188919,-13.20859144002609,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kerrish Gashtu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.01394657928454</longitude>
+						<latitude>-33.08687273722645</latitude>
+						<altitude>0</altitude>
+						<range>798113.9224413259</range>
+						<tilt>2.646267415324186</tilt>
+						<heading>1.845697093550228</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt90</styleUrl>
+					<Point>
+						<coordinates>-59.5733639677823,-32.88142413002483,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Stadt 1 westlich von Kerrish Yih</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-64.17304654799736</longitude>
+						<latitude>-16.51851254256631</latitude>
+						<altitude>0</altitude>
+						<range>466485.4155452129</range>
+						<tilt>2.646859140601583</tilt>
+						<heading>-0.092738851097425</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt80</styleUrl>
+					<Point>
+						<coordinates>-63.13887369324441,-16.95891062925471,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Ras_Tabor_West_Myranor_inoffizielle_Quelle</name>
+				<open>1</open>
+				<Placemark>
+					<name>Byzar (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-106.9610042342627</longitude>
+						<latitude>7.131157644375155</latitude>
+						<altitude>0</altitude>
+						<range>354525.618582806</range>
+						<tilt>0</tilt>
+						<heading>-6.637082332358027</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt16</styleUrl>
+					<Point>
+						<coordinates>-107.3286553528447,7.588488694820208,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eresh (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-108.0869151309878</longitude>
+						<latitude>0.09189371670336335</latitude>
+						<altitude>0</altitude>
+						<range>349948.6799362673</range>
+						<tilt>0</tilt>
+						<heading>0.005042860224638366</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt9</styleUrl>
+					<Point>
+						<coordinates>-108.3582464257571,0.3800767123943156,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Meridia (InOff)</name>
+					<description>inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-101.2353652200098</longitude>
+						<latitude>0.3035814987003433</latitude>
+						<altitude>0</altitude>
+						<range>174097.2003377255</range>
+						<tilt>0</tilt>
+						<heading>-0.2964198840224842</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt15</styleUrl>
+					<Point>
+						<coordinates>-101.0837531534851,0.3163077421003158,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ghualnapatan</name>
+					<description>Dem Namen nach gehört diese Stadt wohl zu Draydalân.
+inoffizielle Quelle
+Quelle: Ras Tabor Karte von der Seite der Memoria Myrana http://www.memoria.myrana.de/</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-91.66644710049459</longitude>
+						<latitude>-0.3368810136833621</latitude>
+						<altitude>0</altitude>
+						<range>268239.5529681393</range>
+						<tilt>0</tilt>
+						<heading>-0.4542358494846562</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Grossstadt7</styleUrl>
+					<Point>
+						<coordinates>-91.65420997007723,-0.255826377707829,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Metropolen</name>
+			<Folder>
+				<name>Myr-Imperium_Position_sicher</name>
+			</Folder>
+			<Folder>
+				<name>Myr-Kerrishiter_Kerrish-Thalam_Position_sicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Kerrish Djanar</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Kerrish Djanar "> Kerrish Djanar </a> ist eine Stadt der <a href="http://www.wiki-aventurica.de/index.php?title= Kerrishiter "> Kerrishiter </a> vom Bund von Talaminas (ist eine Stadt der <a href="http://www.wiki-aventurica.de/index.php?title= Kerrish-Thalam "> Kerrish-Thalam </a>) auf der Insel <a href="http://www.wiki-aventurica.de/index.php?title= Djanar "> Djanar </a> im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title= Shindrabar "> Shindrabar </a>. Sie wurde im Jahre 4620 IZ als militärischer Stützpunkt gegründet, um von hier aus die eingebohrenen Shindrabarim der Insel zu unterwerfen, was im Jahre 4668 IZ mit der Eroberung des <a href="http://www.wiki-aventurica.de/index.php?title= Observatorium von Semparang "> Observatorium von Semparang </a> abgeschlossen war.
+ <hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title= Kerrish Djanar "> Kerrish Djanar </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<longitude>-38.47341</longitude>
+						<latitude>1.170721</latitude>
+						<altitude>0</altitude>
+						<range>200000</range>
+						<tilt>0</tilt>
+						<heading>0</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Metropole4</styleUrl>
+					<Point>
+						<coordinates>-38.47341,1.170721,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr-Kerrish-Yih_Position_sicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Kerrish-Yih</name>
+					<description>Kherrish-Yih ist die Hauptstadt der Yiheni-Kherrishiter.
+Quellen: Myranor HC S.96-97, Handelsfürsten &amp; Wüstenkrieger S.54-58
+Karten: Myranor HC und  Handelsfürsten &amp; Wüstenkrieger: &quot;Karte des Archipels von Talaminas und der angrenzenden Küsten Melakam IZ 4277&quot;</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-60.10025272784925</longitude>
+						<latitude>-15.83940501350078</latitude>
+						<altitude>0</altitude>
+						<range>441803.5764639598</range>
+						<tilt>0</tilt>
+						<heading>3.952459733341684</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Metropole12</styleUrl>
+					<Point>
+						<coordinates>-59.69320375410514,-15.7167297336123,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Myr_Draydalân_Position_sicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Metropole oder große Festung Name unbekannt 1</name>
+					<description>Auf der Karte im Myranor HC liegt in Draydalân, zwischen den beiden Pässen Ghulenjoch und Knocjenpaß, eine Metropole oder große Festung der Draydal
+
+(Myranor)Quelle: Myranor HC Karte</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-84.43033307923992</longitude>
+						<latitude>6.101062354232016</latitude>
+						<altitude>0</altitude>
+						<range>901856.1860875761</range>
+						<tilt>0</tilt>
+						<heading>-2.449512071079299</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Metropole5</styleUrl>
+					<Point>
+						<coordinates>-84.66330749153211,6.218553157258262,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

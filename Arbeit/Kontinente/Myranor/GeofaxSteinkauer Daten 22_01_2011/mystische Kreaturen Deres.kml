@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>mystische Kreaturen Deres.kml</name>
+	<Style id="sn_D2">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_D3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_X</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_X</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_D0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D3">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R26">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_S40">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_S40">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_S41">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_D">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R19">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_D1">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_D0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_S42">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_D2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R130">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_S70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_D0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_S41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_D3">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D1">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_X">
+		<IconStyle>
+			<color>ff7f00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D2">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R32">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_X">
+		<IconStyle>
+			<color>ff7f00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/X-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>mystische Kreaturen Deres</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Drachen Deres</name>
+			<visibility>0</visibility>
+			<Folder>
+				<name>Alte Drachen</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>Umbracor der Zerstörer ?</name>
+					<visibility>0</visibility>
+					<description><![CDATA[Umbracor der Zerstörer ist einer der Alten Drachen. Seine Aufgabe besteht darin, Ungleichgewicht mit gnadenloser Härte zu verfolgen. Er zerstört jene, deren Macht so gewaltig geworden ist, dass sie das Gleichgewicht der Welt stören. Sein Eingreifen summiert sich in der niedergeschriebenen Geschichte auf weniger als ein halbes dutzend Mal.
+
+Er soll auf der Dracheninsel hausen, die am Ende einer langen Inselkette vor der Küste des südlichen Myranors liegt und durch einen Mahlstrom geschützt ist. 
+
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Umbracor">Umbracor</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-31.21557479885412</longitude>
+						<latitude>-16.0621323832234</latitude>
+						<altitude>0</altitude>
+						<heading>-2.153596221514809</heading>
+						<tilt>0</tilt>
+						<range>301575.1116272265</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_D2</styleUrl>
+					<Point>
+						<coordinates>-31.62882252290715,-15.90642813078779,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fuldigor der Beender ?</name>
+					<visibility>0</visibility>
+					<description><![CDATA[Fuldigor der Beender ist einer der Alten Drachen. Er gilt als allwissend und hat die Aufgabe, Machtausübung ein Ende zu setzten, sollte sie ihre Zeit zu sehr strapazieren.
+
+Heute im Ehernen Schwert lebend, soll er früher dort gelebt haben, wo später Bosparan lag, bis er am 27. Tag im Rondra von Horas vertrieben wurde. Damit wird theologisch die Herrschaft der Menschen über Aventurien vor allem im Horasreich betont. In anderen Regionen werden an diesem Tag Drachenschuppen geopfert oder Baumdrachen und Tatzelwürmer gejagt sowie Drachentöter geehrt. 
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Fuldigor">Fuldigor</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>16.08104028347919</longitude>
+						<latitude>39.48024062219339</latitude>
+						<altitude>0</altitude>
+						<heading>11.85671394830249</heading>
+						<tilt>0</tilt>
+						<range>1915769.262318404</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_D3</styleUrl>
+					<Point>
+						<coordinates>13.4181172122471,37.93669043002483,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nosulgor der Spender ?</name>
+					<visibility>0</visibility>
+					<description><![CDATA[Nosulgor ist ein Alter Drache, der auch der Spender genannt wird. Er ist einer der Wahrer des kosmischen Gleichgewichts und soll Parteien vor einer Niederlage kräftigen.
+
+Nosulgors allsehendes Auge, ein Schwarzes Auge, wurde ihm von seinem Bruder Pyrdacor gestohlen, später diesem jedoch von den Trollen geraubt und zu den Yetis in den Hohen Norden gebracht, weswegen es der blinde Nosulgor seitdem dort sucht. 
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Nosulgor">Nosulgor</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-20.48225261831017</longitude>
+						<latitude>54.32324662592431</latitude>
+						<altitude>0</altitude>
+						<heading>-17.49500868571373</heading>
+						<tilt>0</tilt>
+						<range>8324216.018935895</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_D1</styleUrl>
+					<Point>
+						<coordinates>-44.35102061269044,77.18329245561424,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>alter Sitz von Pyrdacor dem Bewahrer ?</name>
+					<visibility>0</visibility>
+					<description><![CDATA[Pyrdacor der Bewahrer (auch: Pyrdakor, Gottdrache) ist einer der Alten Drachen. Er erhielt nach dem Ersten Drachenkrieg die Aufgabe, auf Dere das Gleichgewicht der Elemente und die Elementaren Schlüssel zu bewahren, jedoch nutzte er seine Position aus, ließ sich als Gott verehren und unterwarf einen großen Teil Aventuriens. Er starb im Zweiten Drachenkrieg. Sein Karfunkel befindet sich heute in der Drachenei-Akademie zu Khunchom und wird Das Drachenei genannt. 
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Pyrdacor">Pyrdacor</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>2.311183771212939</longitude>
+						<latitude>23.95073118420213</latitude>
+						<altitude>0</altitude>
+						<heading>-5.721344454081387</heading>
+						<tilt>0</tilt>
+						<range>188310.825426297</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_D</styleUrl>
+					<Point>
+						<coordinates>2.479645290642034,24.30774262674758,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Aldinor der Retter ?</name>
+					<visibility>0</visibility>
+					<description><![CDATA[Aldinor ist ein Alter Drache, der auch der Retter genannt wird. Er ist einer der Wahrer des kosmischen Gleichgewichts und verhindert Verluste von Gleichgewicht, bevor sie sich zu stark auswirken.
+
+Vereinzelte Geweihte des Efferd sehen in Aldinor den Vater der Wasserdrachen und verehren ihn in dieser Funktion.
+
+In der Gildenmagie halten sich Gerüchte einer Verpflichtung, die den Gilden von Aldinor aufgezwungen worden sein soll. In diesem sogenannten Aldinor-Diktat soll für das Eintreten einer bestimmten Situation geregelt sein, dass die Gildensprecher autokratische Befugnisse erhalten. Es heißt, dass drei Siegel für dieses Diktat existieren, bisher ist es jedoch noch nie in Kraft getreten.
+
+Gerüchteweise soll Aldinor entweder im Riesland leben, wo er den Frieden zwischen Drachen und Riesen überwachen soll, oder aber in den tiefsten Tiefen der Meere. 
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Aldinor">Aldinor</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>44.22866139536719</longitude>
+						<latitude>33.40773979619129</latitude>
+						<altitude>0</altitude>
+						<heading>8.050914656015792</heading>
+						<tilt>0</tilt>
+						<range>2101847.687738064</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_D0</styleUrl>
+					<Point>
+						<coordinates>45.60443946328812,38.45359565572608,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Riesen Deres</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Lumbudur der Gewaltige</name>
+				<visibility>0</visibility>
+				<description>Nach einer Sage der Kerrishiter soll der Riese Lumbudur der Gewaltige im Inneren des Myronosch-Gebirges leben. Er soll fast neun Schritt hoch und sehr gefräßig sein, schläft jedoch meistens.
+Er soll vor langer Zeit aus dem fernen Westen gekommen sein und die ersten Mammutbäume von dort mitgebracht haben.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 74 u. 101</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-54.75749543870839</longitude>
+					<latitude>-21.55736179541045</latitude>
+					<altitude>0</altitude>
+					<heading>0.5041546024800203</heading>
+					<tilt>0</tilt>
+					<range>668498.9706742506</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R11</styleUrl>
+				<Point>
+					<coordinates>-54.39193122387358,-20.48197418610171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Myrlumbur der Riese des Thearchen</name>
+				<visibility>0</visibility>
+				<description>In seinen Gärten soll der Thearch einen Riesen namens Myrlumbur besitzen, den er durch Magie und/oder rohe Gewalt beherrscht, und der für den Thearchen Kriegs- und Baudienste leistet. 
+Er soll ursprünglichin den Apelioten gelebt haben, bevor ihn einer der Thearchen des Ersten Imperiums überwältigte.
+Quelle: Myranische Mysterien S.104</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-57.66174932141535</longitude>
+					<latitude>19.35374461797979</latitude>
+					<altitude>0</altitude>
+					<heading>-2.654550732092552</heading>
+					<tilt>0</tilt>
+					<range>186235.5423110013</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R30</styleUrl>
+				<Point>
+					<coordinates>-57.28585606006884,19.01227144819928,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Spinnengöttinen Deres</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Spinnengöttin Srisrikritake</name>
+				<visibility>0</visibility>
+				<description>Im Nordosten der Insel, dem Silberwald, soll die Spinnengöttin Srisrikritake zusammen mit ihrem Volk intelligenter Spinnen leben.
+Sie soll die Schwester der in Tharpura verehrten Kutilakitaka sein und ihre Intrigen sollen über eine sie verehrende Sekte bis in die Städte der Kerrishiter reichen.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S.75</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-51.91642989525933</longitude>
+					<latitude>-18.70061341835141</latitude>
+					<altitude>0</altitude>
+					<heading>-3.761945019172709</heading>
+					<tilt>0</tilt>
+					<range>191070.6672365475</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_S70</styleUrl>
+				<Point>
+					<coordinates>-52.40649621883096,-18.62658976892952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spinnengöttin Kutilakitaka</name>
+				<visibility>0</visibility>
+				<description>Die Spinnengöttin Kutilakitaka lebt in einem tiefen Erdloch, sie soll so alt sein, wie das Gebirge selbst und soll über den Körper des gefallenen Giganten Tharaman und die Dämonenschlange Hrangschuva wachen.
+
+Quelle: Myranor Abenteuer M1 &quot;Palast der Goldenen Tieger&quot; S.52-53</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.30384868078194</longitude>
+					<latitude>0.2291948514627812</latitude>
+					<altitude>0</altitude>
+					<heading>-4.726773307025728</heading>
+					<tilt>0</tilt>
+					<range>15757.4535584574</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_S41</styleUrl>
+				<Point>
+					<coordinates>-48.28997183518627,0.1834783704071249,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sphingen Deres</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Die Katzen-Sphinx</name>
+				<visibility>0</visibility>
+				<description>Die Katzen-Sphinx im „Tal der Sphinx“ in Tharpura ist eines der berühmtesten Brajan-Orakel Myranors. Die fast 20 Schritt lange, inmitten einer Ruinenstadt ausgestreckt daliegende Gestalt eines riesigen weiblichen Katzenwesens lässt nicht erkennen, wie lange sie schon dort liegt.  Der Körper der Sphinx zeigt keinerlei Verwitterung, ja es ist nicht einmal klar ob er überhaupt aus Stein besteht. Die Sphinx ist dafür bekannt, für jeden ihrer rätselhaften Ratschläge eine oft ebenso rätselvolle Aufgabe an die Bittsteller zu stellen.
+
+Umgeben ist die Statue von einer unvergleichlichen Ruinenstadt, in der, in konzentrischen Ringen um die Sphinx herum, die verfallenen Ruinen von Völkern aus mehreren Zeitaltern stehen, welche wohl alle einmal die Sphinx verehrt haben.
+So finden sich hier vom Rand zum Zentrum hin Ruinen aus der makshamaunischen Zeit, Ruinen der Shindra, Ruinen von Wasserbewohnern, insektoide Ruinen und schlussendlich im Zentrum Ruinen der Aurishianer.
+Die Sphinx selbst ist von einer hohen U-förmigen Mauer umgeben, die nur einen Zugang in Form eines steinernen Tors besitzt, welches von zwei Wächter-Statuen in Form von fünf schritt großen, aufrecht gehenden Katzenwesen bewacht wird.
+
+Quelle: Myranor-Abenteuer M1 „Palast der Goldenen Tiger“ S. 42-43</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.3151600429922</longitude>
+					<latitude>0.2990549404984308</latitude>
+					<altitude>0</altitude>
+					<heading>-4.939382445448574</heading>
+					<tilt>0</tilt>
+					<range>8473.328232502612</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_X</styleUrl>
+				<Point>
+					<coordinates>-48.30280088187811,0.2866959988644289,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

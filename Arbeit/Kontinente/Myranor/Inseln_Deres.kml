@@ -1,0 +1,3356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inseln_Deres.kml</name>
+	<Style id="sh_grn-diamond910">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond49">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond1910">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grn-diamond22110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond280">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond1610">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond470</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond1810">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond45310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond3810</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond112">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond1511111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond620</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond35110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond3810">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond260">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond3211">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond132">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond3700">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-diamond71">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond3110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond43330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond4810</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond530">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond441112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond3900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond53">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_grn-diamond12110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond121110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond4210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond4710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond3410">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond28330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond3610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond141</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond47">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond192110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond270</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond26121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond111">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond111121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond380</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond711110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond440</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond340">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond612">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond232211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond2820</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond22110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond4300">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond430">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond4710">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond10210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond2911111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond4300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond002">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond421120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond260</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond1610</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond51113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond2211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond1121211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond440</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond301">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond250">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond0131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond114</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond280</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond250">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-diamond4520">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond35">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond320">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond81111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond330</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond114">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond2211">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond3900">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-diamond270">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond211">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond1642">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond4520</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond311</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond4211">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond913">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond620">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond252112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond12110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond14020">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond22114">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond340</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond390">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond3811210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond312121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond171">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond4111111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond14020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond211</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond61">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond170">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond470">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond1451">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond4900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond3311110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond3100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond380">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond351131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond171</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond3211</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond201">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond2711210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond1810</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond4211</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond710">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond520">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond113">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond440">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond26114">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond10210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond430</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond48">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond1311210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond3410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond410">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond113">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond35110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond4810">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond4900">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond312121">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond3100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond141">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond810">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond463110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond3110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond250</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond91">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond210111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond1910</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond370</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond270">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond54">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond91211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond132</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond52">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond491">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-diamond3611111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond3700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond810</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond3610">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond26121">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond3113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond510">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond4210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond330">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond150">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond160">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond2820">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-diamond311">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond2102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond91</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond46">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond240">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond4900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond53</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond2300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond290">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond51">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond490">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-diamond440">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond3911120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond2300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond131">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond820">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond3100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond240">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond330">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond1910">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-diamond41">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond31122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond1910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-diamond370">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-diamond47122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-diamond390</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-diamond270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Inseln_Deres</name>
+		<description>Hier sollen die Namen aller Inseln Deres rein!</description>
+		<Folder>
+			<name>Inseln_Ost-Myranors_und_Ost_Meralis</name>
+			<Folder>
+				<name>Archipel_von_Serovia</name>
+			</Folder>
+			<Folder>
+				<name>Archipel_von_Talaminas</name>
+				<open>1</open>
+				<Placemark>
+					<name>Illishtu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.5289926419637</longitude>
+						<latitude>-30.066362652007</latitude>
+						<altitude>0</altitude>
+						<range>160123.3654370558</range>
+						<tilt>4.289894929574429</tilt>
+						<heading>-5.300160906929896</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond91211</styleUrl>
+					<Point>
+						<coordinates>-50.49679414112731,-30.17163153533173,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Amazida</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.86329476589861</longitude>
+						<latitude>-15.24722542040785</latitude>
+						<altitude>0</altitude>
+						<range>255948.1749318561</range>
+						<tilt>9.457359957789459</tilt>
+						<heading>-3.24553058539537</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond22114</styleUrl>
+					<Point>
+						<coordinates>-44.74773214164896,-15.48651084644946,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Thalame</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.86932933925505</longitude>
+						<latitude>-21.69909050650568</latitude>
+						<altitude>0</altitude>
+						<range>255851.6461710463</range>
+						<tilt>9.477235730248045</tilt>
+						<heading>-5.14558795917697</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond1511111</styleUrl>
+					<Point>
+						<coordinates>-44.86932933925505,-21.69909050650568,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Khapas</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-42.80317058064878</longitude>
+						<latitude>-16.43341193606523</latitude>
+						<altitude>0</altitude>
+						<range>202613.2362974659</range>
+						<tilt>9.459087396076756</tilt>
+						<heading>-3.807515374016638</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond711110</styleUrl>
+					<Point>
+						<coordinates>-42.6247196229385,-16.50113333797897,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Alillu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.88771192912834</longitude>
+						<latitude>-17.08865257082891</latitude>
+						<altitude>0</altitude>
+						<range>149350.7935232976</range>
+						<tilt>9.462542781569111</tilt>
+						<heading>-3.181728744668301</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond2911111</styleUrl>
+					<Point>
+						<coordinates>-44.88771192912834,-17.08865257082891,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ildragush</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-41.64533691943772</longitude>
+						<latitude>-19.24151681346123</latitude>
+						<altitude>0</altitude>
+						<range>267831.1434756343</range>
+						<tilt>9.465134765765349</tilt>
+						<heading>-4.260503725184559</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond252112</styleUrl>
+					<Point>
+						<coordinates>-41.64533691943772,-19.24151681346123,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Dabuu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-42.88952968063759</longitude>
+						<latitude>-22.78275038337541</latitude>
+						<altitude>0</altitude>
+						<range>168883.0625478708</range>
+						<tilt>9.467727131241759</tilt>
+						<heading>-3.746373492994839</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond81111</styleUrl>
+					<Point>
+						<coordinates>-43.06230008992881,-22.56222493000829,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Kanish</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.45019209871818</longitude>
+						<latitude>-16.80599754156037</latitude>
+						<altitude>0</altitude>
+						<range>261982.578045808</range>
+						<tilt>0.2982620916246581</tilt>
+						<heading>-1.872577186300744</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond37</styleUrl>
+					<Point>
+						<coordinates>-48.41971795925534,-16.96437373415664,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Ninshinaa</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.14248194220315</longitude>
+						<latitude>-18.21434130093764</latitude>
+						<altitude>0</altitude>
+						<range>137314.8054559201</range>
+						<tilt>15.9779345005967</tilt>
+						<heading>0.8693174656617438</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond3811210</styleUrl>
+					<Point>
+						<coordinates>-50.04546180391001,-18.00213337446421,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Medak</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.20881255037034</longitude>
+						<latitude>-19.95685248486761</latitude>
+						<altitude>0</altitude>
+						<range>281602.8424706701</range>
+						<tilt>15.97972842206485</tilt>
+						<heading>0.9017749135887535</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond1311210</styleUrl>
+					<Point>
+						<coordinates>-50.05603183598215,-19.76739032614231,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Shewash</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.69147897546009</longitude>
+						<latitude>-21.33085516498285</latitude>
+						<altitude>0</altitude>
+						<range>251266.1652396208</range>
+						<tilt>15.98241903201675</tilt>
+						<heading>0.739263437433215</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond28330</styleUrl>
+					<Point>
+						<coordinates>-49.61965005934529,-21.29921339026426,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Umesh</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.90032705843058</longitude>
+						<latitude>-23.49910508727833</latitude>
+						<altitude>0</altitude>
+						<range>347789.1423701649</range>
+						<tilt>15.98510931503793</tilt>
+						<heading>1.214279452808935</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond111121</styleUrl>
+					<Point>
+						<coordinates>-50.88465559958925,-23.09349388634453,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Teshid´il</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-51.87452508862417</longitude>
+						<latitude>-26.41372371631529</latitude>
+						<altitude>0</altitude>
+						<range>231947.8371946738</range>
+						<tilt>4.287560998186069</tilt>
+						<heading>-4.715323099204525</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond463110</styleUrl>
+					<Point>
+						<coordinates>-52.16123223116123,-26.58322607729711,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Shikaar</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-57.43276577668903</longitude>
+						<latitude>-26.42721055377981</latitude>
+						<altitude>0</altitude>
+						<range>729699.54244541</range>
+						<tilt>3.690827383104586</tilt>
+						<heading>-1.353974950759687</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond351131</styleUrl>
+					<Point>
+						<coordinates>-57.19166356339608,-27.40879690887481,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Araphaar (Insel Kanyesh ?)</name>
+					<description>Im Myranor HC wird auf S. 13, im Kapitel &quot;Die Zeit der Heroen&quot; eine Insel Kanyesh erwähnt, auf der die ersten Kerrishiter unter Lahalkash die Trolle angetroffen haben. Ist diese Insel gleichbedeutend mit Yil´Araphaar?
+Quelle: Myranor HC S. 15</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-53.50824566590991</longitude>
+						<latitude>-20.66727312705496</latitude>
+						<altitude>0</altitude>
+						<range>1742459.563054444</range>
+						<tilt>3.652130748783567</tilt>
+						<heading>2.230909789165447</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond54</styleUrl>
+					<Point>
+						<coordinates>-53.08971733624852,-19.99326543211152,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Inseln der Yachyach</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.38787991410636</longitude>
+						<latitude>-18.10971687037083</latitude>
+						<altitude>0</altitude>
+						<range>888307.0679882699</range>
+						<tilt>0</tilt>
+						<heading>-2.067360542951286e-014</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond49</styleUrl>
+					<Point>
+						<coordinates>-47.02041879171583,-18.92654422171616,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Inseln_vor_Eshbathmar</name>
+				<Placemark>
+					<name>Yil´Aparu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-45.61350900592637</longitude>
+						<latitude>-11.60934294596955</latitude>
+						<altitude>0</altitude>
+						<range>126188.2529296312</range>
+						<tilt>2.355031711359991</tilt>
+						<heading>-3.110162677624676</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond1451</styleUrl>
+					<Point>
+						<coordinates>-45.61350900592637,-11.60934294596955,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yil´Ashada</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.91368213562805</longitude>
+						<latitude>-13.48320066751624</latitude>
+						<altitude>0</altitude>
+						<range>147394.037317108</range>
+						<tilt>2.358468342896564</tilt>
+						<heading>-3.382442796049032</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond0131</styleUrl>
+					<Point>
+						<coordinates>-45.01268246107977,-13.5055234122501,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Inseln_Makshapurams</name>
+				<Placemark>
+					<name>Makalimat</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-42.65937409772287</longitude>
+						<latitude>-7.81184247101289</latitude>
+						<altitude>0</altitude>
+						<range>561805.9022638593</range>
+						<tilt>24.75400003621917</tilt>
+						<heading>1.259646073501244</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond52</styleUrl>
+					<Point>
+						<coordinates>-42.67641307839524,-7.650659339568911,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Archipel_von_Shindrabar</name>
+				<Placemark>
+					<name>Uchabaja</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Uchabaja
+ "> Uchabaja </a> ist eine mittelgroße Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  An der Südküste der Insel liegen die verlassenen Ruinen der alten imperialen Metropole <a href="http://www.wiki-aventurica.de/index.php?title=Sidor Sindara"> Sidor Sindara </a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title= Uchabaja "> Uchabaja </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-35.99838191198503</longitude>
+						<latitude>4.040356200733392</latitude>
+						<altitude>0</altitude>
+						<range>77912.05332203272</range>
+						<tilt>0.1362420223538249</tilt>
+						<heading>-10.02873714607638</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond31122</styleUrl>
+					<Point>
+						<coordinates>-35.99838191198503,4.040356200733392,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Murakam</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Murakam "> Murakam </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  
+Das Innere der Insel wird von einem gewaltigen Vulkan bestimmt, dessen Ascheablagerungen  die schwarzen Strände der Insel hervorgebracht haben.<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title= Murakam "> Murakam </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-37.56319800846338</longitude>
+						<latitude>5.877699409180622</latitude>
+						<altitude>0</altitude>
+						<range>43578.33617612716</range>
+						<tilt>0.2857931929320426</tilt>
+						<heading>-64.82694934383177</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond3611111</styleUrl>
+					<Point>
+						<coordinates>-37.58482588718482,5.862385252729841,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Djanar</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title=Djanar">Djanar</a> ist die größte Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>, und schon immer eine der reichsten und für das Archipel kulturell bedeutensten gewesen, so steht hier z.B. das berühmte <a href="http://www.wiki-aventurica.de/index.php?title=Observatorium von Semparang">Observatorium von Semparang </a>. Sie ist, wie alle Inseln des Archipels an den Küsten mit Dschungel bedeckt, jedoch erheben sich in ihrem Inneren auch hohe Berge, auf denen ein tropischem Hochwald wächst. 
+
+
+Die Insel wurde in den Jahren 4620 bis 4668 IZ von den <a href="http://www.wiki-aventurica.de/index.php?title= Kerrishiter "> Kerrishiter</a>n vom Bund von Talaminas (<a href="http://www.wiki-aventurica.de/index.php?title=Kerrish-Thalam ">Kerrish-Thalam</a>) erobert, die seit dem die Einheimischen <a href="http://www.wiki-aventurica.de/index.php?title= Shindrabarim"> Shindrabarim</a> ausbeuten.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Djanar">Djanar</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-36.6855648241621</longitude>
+						<latitude>1.129633224105269</latitude>
+						<altitude>0</altitude>
+						<range>616056.9448600793</range>
+						<tilt>0</tilt>
+						<heading>-2.897575540001469</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond612</styleUrl>
+					<Point>
+						<coordinates>-36.9920506799798,1.123593727280746,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Alampang</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Alampang "> Alampang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Alampang">Alampang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.45504529530739</longitude>
+						<latitude>6.593913600311926</latitude>
+						<altitude>46047.17338364438</altitude>
+						<heading>-10.51525674747716</heading>
+						<tilt>0.4895531604547225</tilt>
+						<roll>6.193457956515971</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_grn-diamond47122</styleUrl>
+					<Point>
+						<coordinates>-34.40086454069535,6.67000811696786,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Attawak</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Attawak "> Attawak </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Attawak">Attawak</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.75214269652854</longitude>
+						<latitude>2.23490115563704</latitude>
+						<altitude>0</altitude>
+						<range>616056.9448600762</range>
+						<tilt>0</tilt>
+						<heading>-2.84022294173386</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond26114</styleUrl>
+					<Point>
+						<coordinates>-35.39125561066637,2.788644885951196,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lalewar</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Lalewar "> Lalewar </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title= Lalewar "> Lalewar </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-35.7666444851012</longitude>
+						<latitude>0.5021767014759445</latitude>
+						<altitude>0</altitude>
+						<range>121871.5629851543</range>
+						<tilt>0.285176976832617</tilt>
+						<heading>0.1247866022787852</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond441112</styleUrl>
+					<Point>
+						<coordinates>-35.75863825164806,0.4503225377016596,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Djolopandang</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Djolopandang "> Djolopandang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie liegt gegenüber von Melakkam im Archipel von Shindrabar und ist seit etwa 4700 IZ Mittelpunkt des Reiches des Kriegerfürsten <a href="http://www.wiki-aventurica.de/index.php?title=Padjang Pandang">Padjang Pandang </a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Djolopandang">Djolopandang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-39.63229193209284</longitude>
+						<latitude>2.548290979634624</latitude>
+						<altitude>0</altitude>
+						<range>206184.7174804832</range>
+						<tilt>0</tilt>
+						<heading>-14.63199187746819</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond232211</styleUrl>
+					<Point>
+						<coordinates>-39.6492593489857,2.600663069466392,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hemutra</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Hemutra "> Hemutra </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Hemutra">Hemutra</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-36.29829913344521</longitude>
+						<latitude>7.187586355275746</latitude>
+						<altitude>0</altitude>
+						<range>46718.76989053065</range>
+						<tilt>2.36190985925137</tilt>
+						<heading>-4.458630439009538</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond210111</styleUrl>
+					<Point>
+						<coordinates>-36.29829913344521,7.187586355275746,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lakabajanga</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Lakabajanga "> Lakabajanga </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Lakabajanga">Lakabajanga</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-32.83864106787602</longitude>
+						<latitude>3.886048623710383</latitude>
+						<altitude>105078.1062214145</altitude>
+						<heading>115.589820811069</heading>
+						<tilt>0.05524014065969292</tilt>
+						<roll>120.6672448693601</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_grn-diamond4111111</styleUrl>
+					<Point>
+						<coordinates>-33.18449419497302,3.923036505569324,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Brahamagun</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Brahamagun "> Brahamagun </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Brahamagun">Brahamagun</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-33.84768712914103</longitude>
+						<latitude>7.128577416575801</latitude>
+						<altitude>0</altitude>
+						<range>63336.80627013723</range>
+						<tilt>2.361380076993889</tilt>
+						<heading>-4.175673343807584</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond3311110</styleUrl>
+					<Point>
+						<coordinates>-33.7784814808433,7.166900137641682,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ilambajan</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Ilambajan "> Ilambajan </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Außerdem ist sie eine der beiden Heimatinseln der <a href="http://www.wiki-aventurica.de/index.php?title=Nyamaunir">Nyamaunir</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Ilambajan">Ilambajan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.97161641412703</longitude>
+						<latitude>8.334053560190899</latitude>
+						<altitude>0</altitude>
+						<range>296852.5876723997</range>
+						<tilt>0</tilt>
+						<heading>-14.58826834265327</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond4111111</styleUrl>
+					<Point>
+						<coordinates>-34.97161641412703,8.334053560190899,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Manwantang</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Manwantang "> Manwantang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Manwantang">Manwantang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.90480959231314</longitude>
+						<latitude>5.873185568914029</latitude>
+						<altitude>72779.90223712746</altitude>
+						<heading>-12.88693131480864</heading>
+						<tilt>0</tilt>
+						<roll>0</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_grn-diamond2711210</styleUrl>
+					<Point>
+						<coordinates>-34.81167356377791,5.965182892994842,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Doluwan</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Doluwan "> Doluwan </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Außerdem ist sie eine der beiden Heimatinseln der <a href="http://www.wiki-aventurica.de/index.php?title=Nyamaunir">Nyamaunir</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Doluwan">Doluwan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-33.43714476643319</longitude>
+						<latitude>6.279432943978469</latitude>
+						<altitude>0</altitude>
+						<range>106658.6447423146</range>
+						<tilt>0</tilt>
+						<heading>-14.44271310014506</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond45310</styleUrl>
+					<Point>
+						<coordinates>-33.43714476643319,6.279432943978469,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sarilau</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Sarilau "> Sarilau </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Sarilau">Sarilau</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.26517086743231</longitude>
+						<latitude>5.424528249799042</latitude>
+						<altitude>614936.9311186252</altitude>
+						<heading>53.15380303743815</heading>
+						<tilt>0.04644118064112809</tilt>
+						<roll>71.10786311797946</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_grn-diamond51113</styleUrl>
+					<Point>
+						<coordinates>-35.36098473981907,5.004964223004915,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lodalungun</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Lodalungun "> Lodalungun </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. 
+Der hiesige Hohepriester der <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabarim">Shindrabarim</a> hat sich mit den <a href="http://www.wiki-aventurica.de/index.php?title=Serover">Serover</a>n verbündet. Diese unterhalten hier einen Handelsstützpunkt.
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Lodalungun">Lodalungun</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-37.29851875156482</longitude>
+						<latitude>7.460992126158772</latitude>
+						<altitude>0</altitude>
+						<range>162815.2182138058</range>
+						<tilt>3.711441709016044</tilt>
+						<heading>-9.809773884013641</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond421120</styleUrl>
+					<Point>
+						<coordinates>-37.29851875156482,7.460992126158772,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gurjamang</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Gurjamang "> Gurjamang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Gurjamang">Gurjamang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-39.21012259330346</longitude>
+						<latitude>1.802581826697696</latitude>
+						<altitude>0</altitude>
+						<range>66308.55039348583</range>
+						<tilt>0</tilt>
+						<heading>-14.61323732121758</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond3911120</styleUrl>
+					<Point>
+						<coordinates>-39.37987451135296,1.780824943816138,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Barawan</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Barawan "> Barawan </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Mit <a href="http://www.wiki-aventurica.de/index.php?title=Sengabaru">Sengabaru</a> gehört sie zu den letzten zwei Inseln, die dem Imperium noch im Archipel geblieben sind. 
+Sie gehört offiziell zum <a href="http://www.wiki-aventurica.de/index.php?title=Horasiat Cantera">Horasiat Cantera</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Barawan">Barawan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-39.28310355682069</longitude>
+						<latitude>7.057070830895979</latitude>
+						<altitude>0</altitude>
+						<range>123766.4174637157</range>
+						<tilt>3.712258548593838</tilt>
+						<heading>-10.05088187157362</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond4111111</styleUrl>
+					<Point>
+						<coordinates>-39.2967447611632,6.927759868812569,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bahari</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Bahari "> Bahari </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Auf ihr gibt es die Stadt <a href="http://www.wiki-aventurica.de/index.php?title=Alonka">Alonka </a>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Bahari">Bahari</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-35.46695485113069</longitude>
+						<latitude>6.024014818248791</latitude>
+						<altitude>0</altitude>
+						<range>54723.59884468218</range>
+						<tilt>12.16847232751999</tilt>
+						<heading>4.141259727639931</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond121110</styleUrl>
+					<Point>
+						<coordinates>-35.56615541491436,6.035202525650838,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sengabaru</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Sengabaru "> Sengabaru </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Mit <a href="http://www.wiki-aventurica.de/index.php?title=Barawan">Barawan</a> gehört sie zu den letzten zwei Inseln, die dem Imperium noch im Archipel geblieben sind. Sie gehört offiziell zum <a href="http://www.wiki-aventurica.de/index.php?title=Horasiat Cantera">Horasiat Cantera</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Sengabaru">Sengabaru</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-40.10601133221045</longitude>
+						<latitude>6.182835519129568</latitude>
+						<altitude>0</altitude>
+						<range>57327.03910401299</range>
+						<tilt>12.16467607561157</tilt>
+						<heading>3.711430774519135</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond48</styleUrl>
+					<Point>
+						<coordinates>-40.14327586218229,6.131042991291333,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Maryakatra</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Maryakatra "> Maryakatra </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Maryakatra">Maryakatra</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-38.59366270950177</longitude>
+						<latitude>4.992987413773719</latitude>
+						<altitude>0</altitude>
+						<range>68973.61831096571</range>
+						<tilt>12.17037052862475</tilt>
+						<heading>3.82481541099936</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond1642</styleUrl>
+					<Point>
+						<coordinates>-38.69404856489184,5.016456019627762,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Durdawan</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Durdawan "> Durdawan </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Durdawan">Durdawan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-40.40772841192413</longitude>
+						<latitude>5.067268207237906</latitude>
+						<altitude>0</altitude>
+						<range>209176.1075879878</range>
+						<tilt>0.05612571070041247</tilt>
+						<heading>115.2496672642237</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond1121211</styleUrl>
+					<Point>
+						<coordinates>-40.40772841192413,5.067268207237906,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Andamutra</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Andamutra "> Andamutra </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Andamutra">Andamutra</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-39.12748631378666</longitude>
+						<latitude>3.521939750180878</latitude>
+						<altitude>139195.6429526724</altitude>
+						<heading>52.7585579062931</heading>
+						<tilt>0.0498689146683797</tilt>
+						<roll>70.88311957765312</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_grn-diamond43330</styleUrl>
+					<Point>
+						<coordinates>-39.19107102669839,3.602143452632875,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chawak</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Chawak "> Chawak </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Chawak">Chawak</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<Camera>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.02365426059467</longitude>
+						<latitude>2.66340088085721</latitude>
+						<altitude>134290.4067621092</altitude>
+						<heading>115.5560279261205</heading>
+						<tilt>0.05501708221250286</tilt>
+						<roll>120.5386482405306</roll>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_grn-diamond4111111</styleUrl>
+					<Point>
+						<coordinates>-34.10142142408391,2.622869076971045,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Anawak</name>
+					<description><![CDATA[<a href="http://www.wiki-aventurica.de/index.php?title= Anawak "> Anawak </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/index.php?title=Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Anawak">Anawak</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-34.5652275015844</longitude>
+						<latitude>3.43619143919863</latitude>
+						<altitude>0</altitude>
+						<range>137377.7921326271</range>
+						<tilt>0.05619590472906454</tilt>
+						<heading>115.521133898102</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond192110</styleUrl>
+					<Point>
+						<coordinates>-34.5652275015844,3.43619143919863,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Inseln_der_Galeerenbucht</name>
+				<Placemark>
+					<name>Era´Sumu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.13757617837903</longitude>
+						<latitude>9.939811702801032</latitude>
+						<altitude>0</altitude>
+						<range>828617.05426466</range>
+						<tilt>1.93280736717045</tilt>
+						<heading>-3.602480978762022</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond170</styleUrl>
+					<Point>
+						<coordinates>-46.13757617837904,9.939811702801032,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lev´tasu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-43.01400632430343</longitude>
+						<latitude>10.80647184217168</latitude>
+						<altitude>0</altitude>
+						<range>86670.2560225591</range>
+						<tilt>1.933678448951046</tilt>
+						<heading>-3.087869046228233</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond3113</styleUrl>
+					<Point>
+						<coordinates>-43.00842870982278,10.7378730505589,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nimoras</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.20071833585896</longitude>
+						<latitude>8.605653562487841</latitude>
+						<altitude>0</altitude>
+						<range>139242.2392376762</range>
+						<tilt>1.934332013427567</tilt>
+						<heading>-4.409670820891755</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond2102</styleUrl>
+					<Point>
+						<coordinates>-50.26601782767903,8.683288795400264,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Asucar</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-51.2956290564563</longitude>
+						<latitude>10.81270512890762</latitude>
+						<altitude>0</altitude>
+						<range>314798.2443872546</range>
+						<tilt>1.934549916483983</tilt>
+						<heading>-4.588611891479784</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond913</styleUrl>
+					<Point>
+						<coordinates>-51.2956290564563,10.81270512890762,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arathax</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.71679914596005</longitude>
+						<latitude>13.0844073843281</latitude>
+						<altitude>0</altitude>
+						<range>145718.4977273885</range>
+						<tilt>1.936075913371191</tilt>
+						<heading>-4.467628600203815</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond820</styleUrl>
+					<Point>
+						<coordinates>-50.71679914596005,13.0844073843281,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Inseln_Haldingard´s</name>
+				<Placemark>
+					<name>Eikey</name>
+					<description>Eikey ist eine Insel im Odalwik.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.11017628501776</longitude>
+						<latitude>29.61614050725504</latitude>
+						<altitude>0</altitude>
+						<range>543922.805394836</range>
+						<tilt>1.973421962424903</tilt>
+						<heading>-0.9408929347353359</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond520</styleUrl>
+					<Point>
+						<coordinates>-45.86587337313057,29.74188551288073,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Archipel_der_Dracheninseln</name>
+				<Placemark>
+					<name>Dracheninsel ?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-30.58493994360919</longitude>
+						<latitude>-15.74773119026169</latitude>
+						<altitude>0</altitude>
+						<range>2104484.169488707</range>
+						<tilt>0</tilt>
+						<heading>-1.917313243233955</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-diamond4900</styleUrl>
+					<Point>
+						<coordinates>-31.65048446576569,-16.32402465674247,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Inseln_des_Meeres_der_Schwimmenden_Inseln</name>
+				<open>1</open>
+				<Folder>
+					<name>Position_unsicher</name>
+					<open>1</open>
+					<Placemark>
+						<name>Brutinsel</name>
+						<description>Diese kleine Felseninsel liegt im Bleichwasser, die genaue Position ist nichr bekannt. Hier brüten einmal im Jahr im Monat Firun hunderte von Blauen Breitschnabelenten.
+Quelle: Reise zum Horizont S. 66, Myranor Abenteuer &quot;Vergessene Tiefen&quot;</description>
+						<LookAt>
+							<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+							<longitude>-52.72820895140657</longitude>
+							<latitude>-0.05572756669539136</latitude>
+							<altitude>0</altitude>
+							<range>315904.7374165923</range>
+							<tilt>0</tilt>
+							<heading>-1.638174866611269</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_grn-diamond53</styleUrl>
+						<Point>
+							<coordinates>-52.55557244993529,-0.5541238290462964,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Inseln_West-Myranors_und_West_Meralis</name>
+			<open>1</open>
+		</Folder>
+		<Folder>
+			<name>Inseln_Ras-Tabors</name>
+		</Folder>
+		<Folder>
+			<name>Insel_&quot;Insel_der_Gleißenden_Stadt&quot;?</name>
+			<Placemark>
+				<name>&quot;Insel der Gleißenden Stadt&quot;?</name>
+				<description>Der wahre Name dieser Insel ist unbekannt, Harika die Rote entdeckte die Insel auf ihrer ersten Güldenlandexpedition.
+
+Quelle: Geographia Aventuria S. 105</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-130.979004203471</longitude>
+					<latitude>6.949779494012847</latitude>
+					<altitude>0</altitude>
+					<range>4895168.512666316</range>
+					<tilt>0</tilt>
+					<heading>2.024382231587065</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-diamond491</styleUrl>
+				<Point>
+					<coordinates>-135.3597404150638,7.150620139095127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>&quot;Steppengras-Insel&quot;?</name>
+				<description>Der wahre Name dieser Insel ist unbekannt, Harika die Rote entdeckte die Insel auf ihrer ersten Güldenlandexpedition.
+Sie soll unbewohnt und von einer Grassteppe bedeckt sein.
+Quelle: Geographia Aventuria S. 105</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-137.3083669165548</longitude>
+					<latitude>12.42672028063265</latitude>
+					<altitude>0</altitude>
+					<range>749897.2745829665</range>
+					<tilt>0</tilt>
+					<heading>6.814240400335732</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-diamond490</styleUrl>
+				<Point>
+					<coordinates>-137.5860442267496,12.31809381115686,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

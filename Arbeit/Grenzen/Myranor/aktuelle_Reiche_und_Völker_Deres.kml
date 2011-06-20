@@ -1,0 +1,3239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>aktuelle_Reiche_und_Völker_Deres.kml</name>
+	<Style id="sh_H2">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H26">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R150">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R17">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R40">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H30">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H39">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H31">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H11">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R200">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R29">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H210">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R02">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H44">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R60">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R21">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H38">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H3">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R18">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R40">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H32">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H27">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R7">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H14">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R17">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R15">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R201">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H29">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H7">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H5">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R16">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H0">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H0">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H22">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin28">
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_H23">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H44">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R200">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H21">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H14">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H1">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H16">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R140">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H10">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H43">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H40">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R22">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R11">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H13">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R01">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H32">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H28">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H17">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H24">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R101">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R81">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R150</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H4">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H33">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H45">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H8">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H11">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R12">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H20">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H4">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H31">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H20">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R21">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H41">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H110">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H24">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H34">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H2">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H9">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H8">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R120">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H27">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H37">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H200">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H7">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H35">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H28">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H6">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R70">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H16">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H19">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H35">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin292">
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_H18">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H43">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R50">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H21">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H17">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R600">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H42">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R400">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H00">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H33">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R70">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H38">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R50">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>aktuelle_Reiche_und_Völker_Deres</name>
+		<Folder>
+			<name>aktuelle_Reiche_und_Völker_Deres_Polygon_Position_sicher</name>
+			<Folder>
+				<name>Imperiale_Horasiate_Polygon</name>
+				<open>1</open>
+				<Placemark>
+					<name>Horasiat Era´Sumu</name>
+					<styleUrl>#sn_ylw-pushpin28</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+-43.82024094463456,7.382588158625341,17214 -43.2161573229946,7.305586504111674,17214 -42.3234761650731,6.972398625937678,17214 -40.65434551554117,7.018800366008775,17214 -40.61501699869552,8.442182142520137,17214 -40.52216087750588,14.43649962955868,17214 -45.69127930641149,14.5287508246511,17214 -45.74414106513142,14.02113516566758,17214 -47.06580027027055,12.96483164037748,17214 -47.98398572725759,12.54699367293954,17214 -48.42572874582177,11.91238224649224,17214 -48.3738012777812,11.47873753207873,17214 -49.15943395116498,10.63270317269578,17214 -49.29970694408568,9.850686139135918,17214 -49.11880246259261,9.314106959578906,17214 -48.4853494221516,8.167281874686545,17214 -48.41069471511595,7.328192248058768,17214 -47.51495041232253,6.501903502145256,17214 -46.83646215954943,6.170758858715874,17214 -46.11500833332338,6.403076873989178,17214 -44.75897637990279,7.089978659931829,17214 -43.82024094463456,7.382588158625341,17214 </coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Cantera</name>
+					<styleUrl>#sn_ylw-pushpin292</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+-46.12279245505189,6.417402455715985,34590 -46.88671650133655,6.229250191729995,34590 -47.62735483809843,6.519666770197254,34590 -48.49625360030457,7.33433633679943,34590 -51.10427660892189,7.589050742063395,34590 -51.78375982952576,7.550719753854909,34590 -51.90267914888083,7.500349285100163,34590 -52.09997271305846,7.412139647965854,34590 -52.41397016529093,7.286215940279905,34590 -52.63560242917349,7.223413693597213,34590 -52.81794306615745,7.198490483460757,34590 -53.07727108046439,7.160821194219789,34590 -53.39966106985025,7.110144118683531,34590 -54.37277119323197,7.954717739833836,34590 -55.92695188288217,9.815751380986262,34590 -59.44758419224274,9.359466282418344,34590 -59.43141334305804,8.588883566196657,34590 -59.14073116887615,7.979999594580303,34590 -58.49156669471239,7.746137435195299,34590 -57.43478260064313,7.074011130564757,34590 -56.78877112678489,6.844737580161465,34590 -56.30704932383463,6.395426375854303,34590 -56.07476837897684,6.230679519959588,34590 -55.95149320685054,5.714285434546191,34590 -55.63111065805749,5.270239733229637,34590 -55.38404540159278,5.101064175134566,34590 -54.95898791840139,4.597162143621834,34590 -54.4908654460159,4.221912921263806,34590 -54.15558949004894,3.739759316939513,34590 -54.64999375127512,3.324732654059215,34590 -54.66368204166678,2.859503039603603,34590 -53.99128626230217,2.852169973589049,34590 -53.53810133352435,2.776765648251832,34590 -53.26003335633562,2.614209041930101,34590 -52.46706032360202,3.190852190014796,34590 -51.67649720678581,3.152261443507852,34590 -51.14603956948498,3.287129585170836,34590 -50.91398968719366,3.530450264336408,34590 -50.2915488418012,3.660649293702499,34590 -49.82734497228473,3.909420955040788,34590 -48.99572146351726,4.333488977249091,34590 -48.12597824987267,4.463222781710965,34590 -47.57640220013181,4.635698974635685,34590 -47.26059027402636,4.767144640894879,34590 -46.78619178510928,4.919223184729297,34590 -46.78135498416161,5.10521002748624,34590 -46.7648170751858,5.337937045392715,34590 -46.75352881368381,5.460267035835572,34590 -46.70110835394111,5.629698148425294,34590 -46.49499249228751,5.806669692639043,34590 -45.74769594976679,6.192425754460622,34590 -44.41536548671746,6.709040729295216,34590 -43.77827917480055,6.798198990195956,34590 -42.86673008225969,6.523502035917533,34590 -42.33083648268767,6.630309300804766,34590 -40.75964845658741,6.702173189142695,34590 -40.50207951438674,6.390969060441024,34590 -40.50701779158334,5.779208640977161,34590 -40.33681950242277,5.734457089824579,34590 -39.90276575252685,5.883876475504732,34590 -39.72791745517404,6.114636805007411,34590 -39.00290847567015,6.696155196538163,34590 -38.8870887833061,6.894722065656196,34590 -38.63814291118332,7.131237325809712,34590 -39.00305488838991,7.455521234110725,34590 -39.45828091428047,7.4067649037967,34590 -39.85965027003311,7.052979211190267,34590 -40.63519468826206,7.018593221796326,34590 -42.24821159181541,6.972936825459076,34590 -43.17178848116887,7.322499684193229,34590 -43.80397815833968,7.409685412739032,34590 -44.79513707658212,7.099193948619398,34590 -46.19034292235496,6.409175308743234,34590 -46.12279245505189,6.417402455715985,34590 </coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>aktuelle_Reiche_und_Völker_Deres_Standort_Position_sicher</name>
+			<Folder>
+				<name>heutige_Imperiale_Horasiate</name>
+				<Placemark>
+					<name>Horasiat Haldingard (imperial) Hjaldingard, Haldinganu (hjaldingisch)</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.57740182534361</longitude>
+						<latitude>28.89603751428614</latitude>
+						<altitude>0</altitude>
+						<range>3384769.634112594</range>
+						<tilt>1.974311020243507</tilt>
+						<heading>-1.007761223941529</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H12</styleUrl>
+					<Point>
+						<coordinates>-44.28922961983597,31.97897960307552,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Era´Sumu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.70625260789572</longitude>
+						<latitude>9.265079069546685</latitude>
+						<altitude>0</altitude>
+						<range>1501810.625462232</range>
+						<tilt>2.832549367446583</tilt>
+						<heading>14.30291231413409</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H0</styleUrl>
+					<Point>
+						<coordinates>-45.05817188761486,9.715101641770298,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Cantera</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.70625260789572</longitude>
+						<latitude>9.265079069546692</latitude>
+						<altitude>0</altitude>
+						<range>2153521.137892245</range>
+						<tilt>2.832549367446326</tilt>
+						<heading>14.30291231413433</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H8</styleUrl>
+					<Point>
+						<coordinates>-53.40082976827051,5.266278340752635,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Tharpura</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.85587179315443</longitude>
+						<latitude>-0.1293975835436468</latitude>
+						<altitude>0</altitude>
+						<range>1143935.340741949</range>
+						<tilt>2.833181238686936</tilt>
+						<heading>13.685002588328</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H00</styleUrl>
+					<Point>
+						<coordinates>-49.83801104092621,2.285248939089613,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Mayenios</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-51.81785890681881</longitude>
+						<latitude>9.45154943624906</latitude>
+						<altitude>0</altitude>
+						<range>1958038.437268308</range>
+						<tilt>2.83349722518086</tilt>
+						<heading>13.69287194023419</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H5</styleUrl>
+					<Point>
+						<coordinates>-54.13839254351495,10.64652405349211,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Iolon</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.84333558515229</longitude>
+						<latitude>17.9352523292812</latitude>
+						<altitude>0</altitude>
+						<range>925327.4502205745</range>
+						<tilt>2.833813245595247</tilt>
+						<heading>14.96875976759668</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H16</styleUrl>
+					<Point>
+						<coordinates>-48.78282383379346,16.93699370449906,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Telaniu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.75555242222958</longitude>
+						<latitude>18.56524861958357</latitude>
+						<altitude>0</altitude>
+						<range>1281469.330781904</range>
+						<tilt>2.834129299931636</tilt>
+						<heading>14.13346192908228</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H17</styleUrl>
+					<Point>
+						<coordinates>-52.92371138779335,17.82972584081272,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Corabeniu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-54.74660445313361</longitude>
+						<latitude>15.68472230438148</latitude>
+						<altitude>0</altitude>
+						<range>977905.7001106793</range>
+						<tilt>2.835077666512496</tilt>
+						<heading>-2.35585985520598</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H</styleUrl>
+					<Point>
+						<coordinates>-55.97564923249121,16.25916389713664,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Trivina</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.32591110079457</longitude>
+						<latitude>20.01379186609833</latitude>
+						<altitude>0</altitude>
+						<range>1143461.401244803</range>
+						<tilt>2.835393856573985</tilt>
+						<heading>-0.8140754874789927</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H13</styleUrl>
+					<Point>
+						<coordinates>-49.79227797670352,20.13441260163621,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Cranarenu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.88228036945356</longitude>
+						<latitude>23.8044194775828</latitude>
+						<altitude>0</altitude>
+						<range>1143461.401244801</range>
+						<tilt>2.835710080574529</tilt>
+						<heading>-1.011619602135542</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H44</styleUrl>
+					<Point>
+						<coordinates>-49.85123261157463,25.32918935475717,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Lorthalis</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.50723843489112</longitude>
+						<latitude>29.18526650124081</latitude>
+						<altitude>0</altitude>
+						<range>2172992.947802369</range>
+						<tilt>2.836026338517068</tilt>
+						<heading>-1.333674695858224</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H30</styleUrl>
+					<Point>
+						<coordinates>-51.38577855070547,30.44979365326561,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Skiresis</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-55.73667954349033</longitude>
+						<latitude>29.75802435355824</latitude>
+						<altitude>0</altitude>
+						<range>2172992.947802373</range>
+						<tilt>2.836026338517582</tilt>
+						<heading>-3.888323826123443</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H23</styleUrl>
+					<Point>
+						<coordinates>-56.4250711941168,30.34062147408246,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Sevanyr</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.96152699172244</longitude>
+						<latitude>28.81164402499019</latitude>
+						<altitude>0</altitude>
+						<range>2172992.947802371</range>
+						<tilt>2.836026338517325</tilt>
+						<heading>-6.983778889473686</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H18</styleUrl>
+					<Point>
+						<coordinates>-61.18127768229723,30.78445377188665,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Arktorismaniu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-60.73536288212643</longitude>
+						<latitude>34.49098867142185</latitude>
+						<altitude>0</altitude>
+						<range>2172992.94780237</range>
+						<tilt>2.836026338517325</tilt>
+						<heading>-7.210204513853281</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H36</styleUrl>
+					<Point>
+						<coordinates>-63.49787583054179,36.46948184770898,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Nyravalion</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-71.85673955796176</longitude>
+						<latitude>32.39887498643832</latitude>
+						<altitude>0</altitude>
+						<range>3256015.03932618</range>
+						<tilt>2.836342630405436</tilt>
+						<heading>-13.18447318877881</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H29</styleUrl>
+					<Point>
+						<coordinates>-75.59286160905231,34.30943154324347,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Seskeru</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-68.79594436078139</longitude>
+						<latitude>24.99063054393932</latitude>
+						<altitude>0</altitude>
+						<range>1845887.299521792</range>
+						<tilt>2.836658956242185</tilt>
+						<heading>-9.239511349651518e-013</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H45</styleUrl>
+					<Point>
+						<coordinates>-68.82895896559386,26.67569392090062,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Karóniu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-63.4700878926098</longitude>
+						<latitude>25.84682582755997</latitude>
+						<altitude>0</altitude>
+						<range>2112657.319720913</range>
+						<tilt>2.836975316030759</tilt>
+						<heading>2.145569004971627</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H38</styleUrl>
+					<Point>
+						<coordinates>-64.64136581178408,25.3449989578467,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Ochobeniu</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-58.41563482853027</longitude>
+						<latitude>26.8837054819637</latitude>
+						<altitude>0</altitude>
+						<range>846605.6664132777</range>
+						<tilt>2.837608137477795</tilt>
+						<heading>4.202868892891352</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H40</styleUrl>
+					<Point>
+						<coordinates>-56.25538372843136,26.36154058163762,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Bashura</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.99988101315733</longitude>
+						<latitude>20.32103192054278</latitude>
+						<altitude>0</altitude>
+						<range>1470538.236336237</range>
+						<tilt>2.837924599142238</tilt>
+						<heading>3.302254940247511</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H11</styleUrl>
+					<Point>
+						<coordinates>-62.01606761633866,21.14983503367178,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Harpalis</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-63.4704222608857</longitude>
+						<latitude>21.05479437655083</latitude>
+						<altitude>0</altitude>
+						<range>1470538.236336236</range>
+						<tilt>2.838241094770848</tilt>
+						<heading>2.05331473073805</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H2</styleUrl>
+					<Point>
+						<coordinates>-66.30694424897472,21.76528166081862,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Nepreton</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-70.33723162116374</longitude>
+						<latitude>21.76359364593285</latitude>
+						<altitude>0</altitude>
+						<range>1470538.236336235</range>
+						<tilt>2.838241094770976</tilt>
+						<heading>-0.5642938103663094</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H1</styleUrl>
+					<Point>
+						<coordinates>-72.4619695252576,22.67426293206865,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Haënya</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-76.12504893222129</longitude>
+						<latitude>19.06496397061473</latitude>
+						<altitude>0</altitude>
+						<range>1344647.376876218</range>
+						<tilt>2.838557624367316</tilt>
+						<heading>-2.527554298756928</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H25</styleUrl>
+					<Point>
+						<coordinates>-77.24751520986673,16.46094397535866,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Lakiadda</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-74.54626553641387</longitude>
+						<latitude>20.08917255808754</latitude>
+						<altitude>0</altitude>
+						<range>1413131.980566224</range>
+						<tilt>2.8388741879352</tilt>
+						<heading>-1.92239895452684</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H26</styleUrl>
+					<Point>
+						<coordinates>-74.05055647590673,19.52105558938312,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Lerach</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-74.54626553641387</longitude>
+						<latitude>20.08917255808754</latitude>
+						<altitude>0</altitude>
+						<range>1413131.980566224</range>
+						<tilt>2.8388741879352</tilt>
+						<heading>-1.92239895452684</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H21</styleUrl>
+					<Point>
+						<coordinates>-77.47680410844123,20.38357628322459,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Gathiadda</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-69.69554191958866</longitude>
+						<latitude>17.88483039879121</latitude>
+						<altitude>0</altitude>
+						<range>901517.7254398551</range>
+						<tilt>2.839507416997511</tilt>
+						<heading>-0.3272804089900079</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H6</styleUrl>
+					<Point>
+						<coordinates>-69.69554191958866,17.88483039879121,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Demelion</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-67.36953153441652</longitude>
+						<latitude>15.77351497779898</latitude>
+						<altitude>0</altitude>
+						<range>901517.7254398528</range>
+						<tilt>2.839507416997511</tilt>
+						<heading>0.3400897760056524</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H41</styleUrl>
+					<Point>
+						<coordinates>-67.90531591113606,15.47553135179594,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Tholdaron</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-63.55839837690754</longitude>
+						<latitude>17.35324320035458</latitude>
+						<altitude>0</altitude>
+						<range>1212341.417928503</range>
+						<tilt>2.83697531603153</tilt>
+						<heading>9.293329433655325</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H34</styleUrl>
+					<Point>
+						<coordinates>-63.1166925576587,17.65577186434668,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Valantia</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-57.72823164550409</longitude>
+						<latitude>11.96597192322323</latitude>
+						<altitude>0</altitude>
+						<range>641760.6978537579</range>
+						<tilt>2.837924599142366</tilt>
+						<heading>10.60174520922757</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H37</styleUrl>
+					<Point>
+						<coordinates>-58.42698041234416,12.55217555024225,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Centralis</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-58.3031654113393</longitude>
+						<latitude>18.15757124406219</latitude>
+						<altitude>0</altitude>
+						<range>702310.2038746566</range>
+						<tilt>2.838874187936228</tilt>
+						<heading>-6.662095200262524</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H3</styleUrl>
+					<Point>
+						<coordinates>-57.1056963783841,19.2645352786745,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Narinion</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-58.16118383476869</longitude>
+						<latitude>16.33336172464129</latitude>
+						<altitude>0</altitude>
+						<range>702310.2038746559</range>
+						<tilt>2.838874187936228</tilt>
+						<heading>-6.624789242612208</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H28</styleUrl>
+					<Point>
+						<coordinates>-58.15335208194497,17.04703907302768,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Avasis</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.44812058106163</longitude>
+						<latitude>18.16308495183126</latitude>
+						<altitude>0</altitude>
+						<range>702310.2038746575</range>
+						<tilt>2.838874187936613</tilt>
+						<heading>-7.001196289240319</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H31</styleUrl>
+					<Point>
+						<coordinates>-59.89042670289834,18.72210992252835,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Peranthis</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.5005727075716</longitude>
+						<latitude>22.8507147375021</latitude>
+						<altitude>0</altitude>
+						<range>867941.3163000832</range>
+						<tilt>2.839507416998282</tilt>
+						<heading>-6.922870264057965</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H27</styleUrl>
+					<Point>
+						<coordinates>-59.98446575463872,24.17432274152588,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Rhesias</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-56.33235019942298</longitude>
+						<latitude>21.57175650431843</latitude>
+						<altitude>0</altitude>
+						<range>867941.3163000854</range>
+						<tilt>2.839507416998025</tilt>
+						<heading>-6.05582579082044</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H24</styleUrl>
+					<Point>
+						<coordinates>-56.63295729740653,22.22543377212276,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Horasiat Martrgu /Martigu?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-53.95196175649065</longitude>
+						<latitude>20.94580492996993</latitude>
+						<altitude>0</altitude>
+						<range>867941.3163000832</range>
+						<tilt>2.839507416998282</tilt>
+						<heading>-5.174509280419245</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_H20</styleUrl>
+					<Point>
+						<coordinates>-53.99357734300125,21.52672662813011,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>aktuelle_nicht_imperiale_Reiche_und_Völker</name>
+				<Placemark>
+					<name>Ban Bargui</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-91.77941757606106</longitude>
+						<latitude>19.00608244301699</latitude>
+						<altitude>0</altitude>
+						<range>3733790.153198282</range>
+						<tilt>0</tilt>
+						<heading>-4.975876888915921</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R31</styleUrl>
+					<Point>
+						<coordinates>-84.59543816111749,24.43685258757098,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Draydalân</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-85.82676904100062</longitude>
+						<latitude>7.921398625223581</latitude>
+						<altitude>0</altitude>
+						<range>2596925.162263193</range>
+						<tilt>2.833813245596534</tilt>
+						<heading>-0.667044491626942</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R18</styleUrl>
+					<Point>
+						<coordinates>-87.7524419658649,4.966453545533089,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Draydalân</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-94.16423877495564</longitude>
+						<latitude>-2.15867308134832</latitude>
+						<altitude>0</altitude>
+						<range>3056964.661800006</range>
+						<tilt>0</tilt>
+						<heading>3.68688953863721</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R100</styleUrl>
+					<Point>
+						<coordinates>-95.90949633302431,-2.129433359698592,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chrattac der Tränenwüste</name>
+					<description>Quelle: Myranor HC S. 9</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-88.79983492762773</longitude>
+						<latitude>17.37371416599735</latitude>
+						<altitude>0</altitude>
+						<range>2596925.16226319</range>
+						<tilt>2.83381324559692</tilt>
+						<heading>-1.568189270282414</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R9</styleUrl>
+					<Point>
+						<coordinates>-88.40206704808236,13.64356593789357,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kerrishiter</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-55.31350503637681</longitude>
+						<latitude>-15.95427570576587</latitude>
+						<altitude>0</altitude>
+						<range>2999834.355567149</range>
+						<tilt>2.830338886109849</tilt>
+						<heading>3.629723144220643</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R16</styleUrl>
+					<Point>
+						<coordinates>-45.20721098957271,-22.3212177966591,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kerrishiter</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-55.10335670290645</longitude>
+						<latitude>-17.96905757126833</latitude>
+						<altitude>0</altitude>
+						<range>1155207.935432509</range>
+						<tilt>2.82939204534852</tilt>
+						<heading>3.52310508405147</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R13</styleUrl>
+					<Point>
+						<coordinates>-55.40241077561239,-16.24662676594203,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kerrishiter</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-63.43977293259793</longitude>
+						<latitude>-19.921861336856</latitude>
+						<altitude>0</altitude>
+						<range>4253400.468662269</range>
+						<tilt>2.830654567468721</tilt>
+						<heading>6.94700858477871</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R7</styleUrl>
+					<Point>
+						<coordinates>-67.74298648418184,-22.32371539152252,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kerrishiter</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.25892787201261</longitude>
+						<latitude>-30.40756876328268</latitude>
+						<altitude>0</altitude>
+						<range>4253400.468662264</range>
+						<tilt>2.830654567468721</tilt>
+						<heading>5.782043612249384</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R01</styleUrl>
+					<Point>
+						<coordinates>-58.26758502064981,-32.2465333933414,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Vinshina</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-78.3379618196272</longitude>
+						<latitude>10.74038149854464</latitude>
+						<altitude>0</altitude>
+						<range>1103239.329458016</range>
+						<tilt>2.841407919825289</tilt>
+						<heading>-8.847130147569613</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R30</styleUrl>
+					<Point>
+						<coordinates>-76.96324599335195,11.21522520614099,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Reiche_der_submarinen_Völker</name>
+				<Folder>
+					<name>Historische_Reiche_der_submarinen_Völker</name>
+					<Placemark>
+						<name>M´iiku´on</name>
+						<description>Quelle: Myranor HC S. 12</description>
+						<LookAt>
+							<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+							<longitude>-49.25769438748417</longitude>
+							<latitude>24.14981168747339</latitude>
+							<altitude>0</altitude>
+							<range>1146764.684119647</range>
+							<tilt>0</tilt>
+							<heading>6.52663560584546</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_R17</styleUrl>
+						<Point>
+							<coordinates>-49.32142885643365,24.55979690922622,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Reich der Tiefsee</name>
+						<description>Quelle: Myranor HC S. 12</description>
+						<LookAt>
+							<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+							<longitude>-16.28729870220052</longitude>
+							<latitude>-16.1211541984835</latitude>
+							<altitude>0</altitude>
+							<range>78792.10259723253</range>
+							<tilt>0</tilt>
+							<heading>-2.943610867930983</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_R29</styleUrl>
+						<Point>
+							<coordinates>-16.07959995841035,-16.08652060024198,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>aktuelle_Reiche_der_submarinen_Völker</name>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>aktuelle_Reiche_und_Völker_Standort_Position_unsicher</name>
+			<Folder>
+				<name>aktuelle_nicht_imperiale_Reiche_und_Völker</name>
+				<Placemark>
+					<name>Vesai?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-61.63559907173577</longitude>
+						<latitude>-23.03884957967784</latitude>
+						<altitude>0</altitude>
+						<range>4863270.164477692</range>
+						<tilt>2.830970282718382</tilt>
+						<heading>6.559828428691006</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R150</styleUrl>
+					<Point>
+						<coordinates>-62.46963717149433,-34.13322464854247,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Vesai?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-61.63559907173577</longitude>
+						<latitude>-23.03884957967784</latitude>
+						<altitude>0</altitude>
+						<range>4863270.164477692</range>
+						<tilt>2.830970282718382</tilt>
+						<heading>6.559828428691006</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R41</styleUrl>
+					<Point>
+						<coordinates>-49.78285342064795,-35.32137711343425,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Vesai?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-72.22004929143292</longitude>
+						<latitude>-21.09292406294637</latitude>
+						<altitude>0</altitude>
+						<range>4863270.164477689</range>
+						<tilt>2.83097028271864</tilt>
+						<heading>12.32624552809405</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R110</styleUrl>
+					<Point>
+						<coordinates>-74.50177816168448,-26.23065161388504,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Vesai?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-72.22004929143292</longitude>
+						<latitude>-21.09292406294637</latitude>
+						<altitude>0</altitude>
+						<range>4863270.164477689</range>
+						<tilt>2.83097028271864</tilt>
+						<heading>12.32624552809405</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R10</styleUrl>
+					<Point>
+						<coordinates>-81.5633521790859,-18.73278000767026,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ban Bargui ?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-91.7382641308171</longitude>
+						<latitude>19.77374162629749</latitude>
+						<altitude>0</altitude>
+						<range>3733790.153198286</range>
+						<tilt>0</tilt>
+						<heading>-5.218495033114774</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R40</styleUrl>
+					<Point>
+						<coordinates>-94.36131698747624,26.16075641359758,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupferhaarige braunhäutige Wilde ?</name>
+					<description>Harika die Rote entdeckte auf ihrer ersten Güldenlandexpedition einen Landstrich der von kupferhaarigen, braunhäutigen Wilden bewohnt ist, welche außer ihren langen Haaren keine Kleidung tragen, kein Eisen kennen, jedoch Gold schmelzen können. Aus den Aufzeichnungen geht hervor, dass dieses Volk Handels-Kontakt mit einem Volk hat, welches sich mit der Verarbeitung von Chitin und Eisen auskennt (Ban-Bargui ?) und sich anscheinend vor Elfen fürchtet (Shakagra von Pardona?).
+Auch soll es in diesem Land sehr warm sein. Diese Aussagen lassen vermuten, dass das Treffen mit diesem Volk irgendwo an dieser Küste statgefunden haben könnte.
+
+Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-126.238971559825</longitude>
+						<latitude>20.02783683191073</latitude>
+						<altitude>0</altitude>
+						<range>1414465.236977024</range>
+						<tilt>0</tilt>
+						<heading>-16.53407392426748</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R60</styleUrl>
+					<Point>
+						<coordinates>-126.072056476848,19.73031480652251,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ban Bargui ?</name>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-100.1603850764655</longitude>
+						<latitude>19.2649144001979</latitude>
+						<altitude>0</altitude>
+						<range>3733790.153198283</range>
+						<tilt>0</tilt>
+						<heading>-7.87508372533959</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R5</styleUrl>
+					<Point>
+						<coordinates>-107.7850928687334,19.42204386848226,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Shakagra ?</name>
+					<description>Die Shakagra, Pardonas finstere &quot;Dunkelelfen&quot; sollen im Osten der Frostfeste leben...
+
+Quelle: Myranor HC S. 9</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-84.03491553379388</longitude>
+						<latitude>34.06050941560351</latitude>
+						<altitude>0</altitude>
+						<range>1887747.113261531</range>
+						<tilt>2.831601814906232</tilt>
+						<heading>6.020401505007769</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_R14</styleUrl>
+					<Point>
+						<coordinates>-77.92531585941488,34.66620174215152,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

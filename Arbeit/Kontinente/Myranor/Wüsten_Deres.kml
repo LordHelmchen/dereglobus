@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Wüsten_Deres.kml</name>
+	<Style id="sn_W20">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_W10">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_W30">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_W5">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_W00">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_W6">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_W00">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_W5">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_W500">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_W30">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_W7">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_W10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_W500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_W50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_W40">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_W50">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_W20">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/W-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Wüsten_Deres</name>
+		<open>1</open>
+		<Folder>
+			<name>Wüsten_Insel_der_Gleißenden_Stadt</name>
+			<Placemark>
+				<name>Wüste der &quot;Gleißenden Stadt&quot;</name>
+				<description>Harika die Rote entdeckte diese Wüste auf ihrer ersten Güldenlandexpedition, ihr wahrer Name ist unbekannt.
+Dabei beschreibt sie ein wüstenhaftes Land von der schon 1000 Schritt hohen Steilküste zum Landesinneren hin immer weiter bis über die Wolken ansteigt. Hier sollen sich auch die Ruinen der &quot;Gleißenden Stadt&quot; befinden. Nach Norden hin soll die Wüste in ein Waldland übergehen.
+
+Quelle: Geographia Aventuria S. 105</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-138.2242335682539</longitude>
+					<latitude>6.226969203106124</latitude>
+					<altitude>0</altitude>
+					<range>669189.1251031424</range>
+					<tilt>0</tilt>
+					<heading>6.371661895361587</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W5</styleUrl>
+				<Point>
+					<coordinates>-138.0095570341875,5.888977317665372,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Wüsten_Ost-Myranors</name>
+			<Placemark>
+				<name>Narkramar</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-57.6981603907652</longitude>
+					<latitude>-10.58667408335495</latitude>
+					<altitude>0</altitude>
+					<range>484002.1884747716</range>
+					<tilt>1.967681763829673</tilt>
+					<heading>4.536066919864483</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W50</styleUrl>
+				<Point>
+					<coordinates>-57.6981603907652,-10.58667408335495,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zhirricwüste</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-63.60144454589742</longitude>
+					<latitude>9.521847681936144</latitude>
+					<altitude>0</altitude>
+					<range>203300.2607975312</range>
+					<tilt>1.968568282264182</tilt>
+					<heading>5.278285744893035</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W30</styleUrl>
+				<Point>
+					<coordinates>-63.60144454589742,9.521847681936144,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dharrac</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-79.30684200335656</longitude>
+					<latitude>9.832420328644133</latitude>
+					<altitude>0</altitude>
+					<range>283997.6105671545</range>
+					<tilt>3.420491231475979</tilt>
+					<heading>4.162949641780905</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W40</styleUrl>
+				<Point>
+					<coordinates>-79.10613952351028,9.537990833019402,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kleine Dharrac</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-76.79163795687846</longitude>
+					<latitude>9.500252154467393</latitude>
+					<altitude>0</altitude>
+					<range>174065.1057049807</range>
+					<tilt>3.421626017925305</tilt>
+					<heading>4.558322950650538</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W20</styleUrl>
+				<Point>
+					<coordinates>-76.8544994237436,9.457285691760758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tlorrac</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-71.64137812853021</longitude>
+					<latitude>6.263513708737483</latitude>
+					<altitude>0</altitude>
+					<range>640439.3600059439</range>
+					<tilt>3.421626017925518</tilt>
+					<heading>5.120777861564669</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W10</styleUrl>
+				<Point>
+					<coordinates>-71.42012231898916,6.687898206454116,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Wüsten_West-Myranors</name>
+			<Placemark>
+				<name>Tränenwüste / Chrattac-Wüste</name>
+				<description>Die Tränenwüste gilt als ursprüngliche Heimat der Chrattac und ist für Menschen sehr lebensfeindlich.
+
+Quelle: Myranor HC S. 9</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-90.11733539042891</longitude>
+					<latitude>14.23467834584348</latitude>
+					<altitude>0</altitude>
+					<range>349762.0015495276</range>
+					<tilt>1.966795637442515</tilt>
+					<heading>3.816305378591529</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_W8</styleUrl>
+				<Point>
+					<coordinates>-90.11733539042889,14.23467834584348,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

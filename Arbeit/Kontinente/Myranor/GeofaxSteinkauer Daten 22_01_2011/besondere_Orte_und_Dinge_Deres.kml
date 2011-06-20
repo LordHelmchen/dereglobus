@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>besondere_Orte_und_Dinge_Deres.kml</name>
+	<Style id="sn_ylw-pushpin450">
+		<LineStyle>
+			<color>ffffffaa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_S60">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_S60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_S60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_S60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin62">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin450</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_S60">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3800">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffffaa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>besondere_Orte_und_Dinge_Deres</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Efferdswall (aventurisch) Thalassischer Wall (myranisch)</name>
+			<visibility>0</visibility>
+			<description>24° 5&apos;49.62&quot;W
+
+Quelle: Grographia Aventurica S. 103
+Quelle: Efferds Wogen S. 179</description>
+			<styleUrl>#msn_ylw-pushpin62</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-24.91342833139016,41.86046055356066,0 -24.09711887860274,13.40162283383677,0 -24.91056634440883,-40.01343562502644,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>Strudel und Mahlströme</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Mahlstrom der Dracheninsel ?</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-32.53341883119825</longitude>
+					<latitude>-18.00968953179664</latitude>
+					<altitude>0</altitude>
+					<heading>4.387424717030456</heading>
+					<tilt>0</tilt>
+					<range>276580.2473982069</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_S60</styleUrl>
+				<Point>
+					<coordinates>-32.41603522275837,-18.09357593453865,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

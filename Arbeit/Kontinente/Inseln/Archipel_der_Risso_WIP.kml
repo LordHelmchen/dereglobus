@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Inseln im Südmeer</name>
+	<visibility>0</visibility>
+	<GroundOverlay>
+		<name>Eiland der Gefahren</name>
+		<visibility>0</visibility>
+		<description>Quelle: Die Insel der Risso</description>
+		<drawOrder>7</drawOrder>
+		<Icon>
+			<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/media/Inseln/Eiland_der_Gefahren_A15_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>6.387087231457918</north>
+			<south>6.323095408731317</south>
+			<east>1.333598099021371</east>
+			<west>1.236513514281399</west>
+			<rotation>-178.4624611248948</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Insel der Risso</name>
+		<visibility>0</visibility>
+		<description>Quelle: Die Insel der Risso</description>
+		<drawOrder>7</drawOrder>
+		<Icon>
+			<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/media/Inseln/Insel_der_Risso_A15_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>5.141979005121222</north>
+			<south>5.083321490962219</south>
+			<east>1.95751579025226</east>
+			<west>1.890847464104404</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Vogelinsel</name>
+		<visibility>0</visibility>
+		<description>Quelle: Die Insel der Risso</description>
+		<drawOrder>7</drawOrder>
+		<Icon>
+			<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/media/Inseln/Vogelinsel_A15_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>5.814369755044579</north>
+			<south>5.769795907002833</south>
+			<east>1.647020900151845</east>
+			<west>1.574758334594841</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Bild-Overlay ohne Namen</name>
+		<visibility>0</visibility>
+		<color>78ffffff</color>
+		<drawOrder>7</drawOrder>
+		<Icon>
+			<href>C:/Users/Daniel/Desktop/Das_Archipel_der_Risso_A15_sw.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>5.894405065298677</north>
+			<south>4.909114537938376</south>
+			<east>2.398105925339809</east>
+			<west>1.278019407902557</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Bild-Overlay ohne Namen</name>
+		<visibility>0</visibility>
+		<color>8affffff</color>
+		<drawOrder>7</drawOrder>
+		<Icon>
+			<href>C:/Users/Daniel/Documents/DSA/DereGlobus/Release-Version/DereGlobus/Kontinente/media/Inseln/Archipel_der_Risso_A95_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>6.083622729906462</north>
+			<south>4.912154943324753</south>
+			<east>2.346749665116928</east>
+			<west>1.296711338308232</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Bild-Overlay ohne Namen</name>
+		<visibility>0</visibility>
+		<color>5cffffff</color>
+		<drawOrder>9</drawOrder>
+		<Icon>
+			<href>C:/Users/Daniel/Documents/DSA/DereGlobus/Release-Version/DereGlobus/Kontinente/media/Inseln/Insel_der_Risso_A95_sw.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>5.217006718267663</north>
+			<south>5.030677341272964</south>
+			<east>2.010985750941243</east>
+			<west>1.779255960903666</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

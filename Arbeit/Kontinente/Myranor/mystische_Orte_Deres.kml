@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>mystische_Orte_Deres.kml</name>
+	<Style id="sn_M20">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M50">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M110">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M600">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M8">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M9">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M15">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M21">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M000">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_M40">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M0">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M80">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M70">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M50">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M62">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M600">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M17">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M8">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M19">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M13">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M16">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M12">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_M13">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M0">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M9">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M17">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_M60">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M18">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M30">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_M12">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M14">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M60">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M1">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M11">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M11">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M1">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>mystische_Orte_Deres</name>
+		<Folder>
+			<name>mystische_Orte_Myranors_Position_sicher</name>
+			<Placemark>
+				<name>Krater des Spinnentempels von Kutilakitaka</name>
+				<description>Der Spinnentempel der „Spinnengöttin“ Kutilakitaka ist im Zentrum eines etwa eine halbe Meile durch messenden, seit langem erloschenen  Vulkankrater errichtet worden. Über dem tiefen Schlund, in dem die unsterbliche Kutilakitaka ihre ewigen Netze webt, errichteten die Tharpuresen schon vor der Eroberung durch das Erste Imperium einen schützenden Tempel in Form einer hoch aufragenden, turmähnlichen Pyramide aus dem örtlichen vulkanischen Gestein. Sie bauten den Tempel jedoch auf die Ruinen von Vorgängerbauten, welche wesentlich älter sind und bis in das 7. Zeitalter der Insektoiden zurückreichen sollen.
+
+Quelle: Myranor-Abenteuer M1 „Palast der Goldenen Tiger“ S. 45</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.28907317464294</longitude>
+					<latitude>0.1830873069159325</latitude>
+					<altitude>0</altitude>
+					<range>353.9439310883302</range>
+					<tilt>0</tilt>
+					<heading>0.1331727689774038</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M0</styleUrl>
+				<Point>
+					<coordinates>-48.28997800775822,0.1834497565185214,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tal der Dämmerung</name>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-44.72061773381134</longitude>
+					<latitude>2.590772057209304</latitude>
+					<altitude>0</altitude>
+					<range>58381.77725892785</range>
+					<tilt>0</tilt>
+					<heading>6.975608726379095</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M20</styleUrl>
+				<Point>
+					<coordinates>-44.7383808258237,2.614907927721942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Unsichtbare Stadt</name>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Myranor (HC) <i>Karte</i> <TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-44.52483345983455</longitude>
+					<latitude>3.532757772577536</latitude>
+					<altitude>0</altitude>
+					<range>397286.7649524519</range>
+					<tilt>0</tilt>
+					<heading>6.747103858625236</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M60</styleUrl>
+				<Point>
+					<coordinates>-44.54466113064225,4.167796338666514,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tochter der Morgenröte</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-39.99101943379243</longitude>
+					<latitude>1.105153988564127</latitude>
+					<altitude>0</altitude>
+					<range>60958.98577992791</range>
+					<tilt>0</tilt>
+					<heading>-21.26591453138619</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M30</styleUrl>
+				<Point>
+					<coordinates>-39.89003752040914,1.306094162144449,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Treppe der 1111 Stufen</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.15262807085296</longitude>
+					<latitude>0.2461931235114357</latitude>
+					<altitude>0</altitude>
+					<range>22582.34592466629</range>
+					<tilt>0</tilt>
+					<heading>6.870748313023604</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M40</styleUrl>
+				<Point>
+					<coordinates>-48.1433469922659,0.2675410066310581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tal der Sphinx</name>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style>Das <b>Tal der Sphinx</b> liegt in der Nähe der Metropole <a href="http://www.wiki-aventurica.de/index.php?title=Tokum_Isoru" title="Tokum Isoru">Tokum Isoru</a> im <a href="http://www.wiki-aventurica.de/index.php?title=Tharpagiri-Gebirge" title="Tharpagiri-Gebirge">Tharpagiri-Gebirge</a>. Im Tal befindet sich seit Äonen ein Orakel (eine 20 Gradu große Statue einer Shinx), die das Geschick des gesammten Horasiat mit ihren Rätseln und Wahrsagungen beeinflußt.
+Umgeben ist die Statue von einer unvergleichlichen Ruinenstadt, in der, in konzentrischen Ringen um die Sphinx herum, die verfallenen Ruinen von Völkern aus mehreren Zeitaltern stehen, welche wohl alle einmal die Sphinx verehrt haben.
+So finden sich hier vom Rand zum Zentrum hin Ruinen aus der makshamaunischen Zeit, Ruinen der Shindra, Ruinen von Wasserbewohnern, insektoide Ruinen und schlussendlich im Zentrum Ruinen der Aurishianer.
+Die Sphinx selbst ist von einer hohen U-förmigen Mauer umgeben, die nur einen Zugang in Form eines steinernen Tors besitzt, welches von zwei Wächter-Statuen in Form von fünf schritt großen, aufrecht gehenden Katzenwesen bewacht wird.
+
+Quelle: Myranor-Abenteuer M1 „Palast der Goldenen Tiger“ S. 41-43
+
+
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=Balan_Cantara">Balan Cantara</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-48.3051061791933</longitude>
+					<latitude>0.2866976983423798</latitude>
+					<altitude>0</altitude>
+					<range>10129.63677974433</range>
+					<tilt>0</tilt>
+					<heading>6.870020709967892</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-48.30288466617702,0.2871298602243156,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jharrabar</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-49.14311275204697</longitude>
+					<latitude>2.754853473739089</latitude>
+					<altitude>0</altitude>
+					<range>935.3749797214354</range>
+					<tilt>0</tilt>
+					<heading>7.089398639238142</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M01</styleUrl>
+				<Point>
+					<coordinates>-49.14325055014931,2.756086036303567,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>mystische_Orte_Myranors_Position_unsicher</name>
+			<Placemark>
+				<name>Trollfestung Myrgotschthor</name>
+				<description>Irgendwo tief im Myronoschmassiv soll die legendäre Trollfestung des Trollstammes der Tralleropp liegen.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 101</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-54.60775265047085</longitude>
+					<latitude>-20.28486666913403</latitude>
+					<altitude>0</altitude>
+					<range>254063.7254981437</range>
+					<tilt>0</tilt>
+					<heading>7.833527163455954</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M12</styleUrl>
+				<Point>
+					<coordinates>-55.29013740161142,-20.82155161596761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Die Flotte der Steinernen Schiffe...</name>
+				<description>Hier soll eine versunkene Flotte von riesigen Schiffen aus versteinertem Holz auf dem Meeresgrund liegen. Bewacht und bewohnt wird sie von einer Rasse von Humeriden, die woanders als ausgestorben gilt.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S.75</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-53.30562498866216</longitude>
+					<latitude>-20.04508128954447</latitude>
+					<altitude>0</altitude>
+					<range>597054.3044644855</range>
+					<tilt>0</tilt>
+					<heading>-3.11137830908874</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M11</styleUrl>
+				<Point>
+					<coordinates>-51.41301433045539,-21.0413873910155,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Das Tal des Tränenkataraktes Sa´Thnavor</name>
+				<description>In einem geheimgehaltenen Tal soll sich ein Fluss mit rostbraunem Wasser über einen Wasserfall in große Tiefen stürzen. Auf dem Weg nach unten verliert das Wasser auf wundersame Weise seine rote Farbe und sammelt sich im sogenannten Tränensee. In den Dunstschwaden über dem See sollen Beobachter Bilder und Zeichen aus Vergangenheit und Zukunft sehen können. Nur männliche Priester dürfen diesen Ort betreten, und sie zeichnen in einer großen Bibliothek all das auf, was sie in den Nebeln sehen.
+
+Quelle:Myranische Mysterien S.104 u.  Handelsfürsten &amp; Wüstenkrieger S. 98</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-44.91500815065235</longitude>
+					<latitude>10.60332820297753</latitude>
+					<altitude>0</altitude>
+					<range>322744.4708923154</range>
+					<tilt>0</tilt>
+					<heading>4.524397483572821</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M130</styleUrl>
+				<Point>
+					<coordinates>-44.68481595042528,10.94436508260302,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Die drei Greifen...</name>
+				<description>Auf einer Felszinne am Ufer kauern drei steinerne Greifen, die, an Lev´thasu vorbei, in Richtung Osten über das Thalassion blicken. Auf ihnen wächst kein Moos und keine Flechte, sie wirken sehr lebendig.
+Sehr selten sollen sie wahrhaft göttergläubigen Menschen Orakel über die Zukunft gewähren. Sie sollen mit den Hexatéer in Verbindung stehen.
+Quelle:Myranische Mysterien S.104 u. Handelsfürsten &amp; Wüstenkrieger S. 98</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-44.99704922536268</longitude>
+					<latitude>13.06604539134983</latitude>
+					<altitude>0</altitude>
+					<range>140482.6904680048</range>
+					<tilt>0</tilt>
+					<heading>-0.06531770100351129</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M7</styleUrl>
+				<Point>
+					<coordinates>-44.84594194351687,13.40666428937607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>die westlichen Eshbathi der Narkramar Position unsicher</name>
+				<open>1</open>
+				<Placemark>
+					<name>Takalshesh?</name>
+					<description>Dies soll eine der Eshbathi im fernen Westen der Narkramar sein, jedoch ist außer dem Namen nichts über sie bekannt (es ist auch unklar ob der Name überhaupt eine Eshbathi bezeichnet, oder nicht etwas Anderes). Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 13</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-60.73196333356669</longitude>
+						<latitude>-10.5955908981909</latitude>
+						<altitude>0</altitude>
+						<range>994185.7540887686</range>
+						<tilt>0</tilt>
+						<heading>-0.7185106028765704</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M9</styleUrl>
+					<Point>
+						<coordinates>-60.09921579313491,-10.49564945235298,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mehennamath?</name>
+					<description>Dies soll eine der Eshbathi im fernen Westen der Narkramar sein, jedoch ist außer dem Namen nichts über sie bekannt (es ist auch unklar ob der Name überhaupt eine Eshbathi bezeichnet, oder nicht etwas Anderes). Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 13</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-59.92616031957932</longitude>
+						<latitude>-11.89085983883367</latitude>
+						<altitude>0</altitude>
+						<range>994185.75408877</range>
+						<tilt>0</tilt>
+						<heading>-0.9372298758998335</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M15</styleUrl>
+					<Point>
+						<coordinates>-59.97684159884016,-12.0060142919194,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bath Ammar?</name>
+					<description>Dies soll eine der Eshbathi im fernen Westen der Narkramar sein, jedoch ist außer dem Namen nichts über sie bekannt (es ist auch unklar ob der Name überhaupt eine Eshbathi bezeichnet, oder nicht etwas Anderes). Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 13</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-62.58078714944961</longitude>
+						<latitude>-12.0128315751194</latitude>
+						<altitude>0</altitude>
+						<range>994185.754088769</range>
+						<tilt>0</tilt>
+						<heading>-0.3883682258654762</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M18</styleUrl>
+					<Point>
+						<coordinates>-62.6701959712523,-11.75042311251017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lagalshash?</name>
+					<description>Dies soll eine der Eshbathi im fernen Westen der Narkramar sein, jedoch ist außer dem Namen nichts über sie bekannt (es ist auch unklar ob der Name überhaupt eine Eshbathi bezeichnet, oder nicht etwas Anderes). Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 13</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-62.58078714944961</longitude>
+						<latitude>-12.0128315751194</latitude>
+						<altitude>0</altitude>
+						<range>994185.754088769</range>
+						<tilt>0</tilt>
+						<heading>-0.3883682258654762</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M17</styleUrl>
+					<Point>
+						<coordinates>-65.86447871408427,-12.73179279259338,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Indrabar?</name>
+					<description>Indrabar ist eine legendäre Eshbathya, die auch als die &quot;Verlorene Eshbathya&quot; bezeichnet wird, weil niemand mehr weis wo sie sich befindet. Angeblich sollen die Bewohner einen wahren Schatz an Wasser gefunden haben, diesen jedoch eiversüchtig hüten. Und die Stadt soll unermesslich reich sein, bzw. gewesen sein. Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 23</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-64.14757044747874</longitude>
+						<latitude>-10.93834625087352</latitude>
+						<altitude>0</altitude>
+						<range>994185.7540887672</range>
+						<tilt>0</tilt>
+						<heading>-0.06860064910771478</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M1</styleUrl>
+					<Point>
+						<coordinates>-65.84585260634955,-10.72928793552976,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Obsidian Eshbathi?</name>
+					<description>Dies soll eine der Eshbathi im fernen Westen der Narkramar sein. Sie soll ganz aus Obsidian bestehen und von einem Sonnenkönig beherrscht werden. Von hier sollen Schmuckstücke, Edelsteine und Paraphernalia der Feuermagie kommen. Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 13</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-61.89374375450589</longitude>
+						<latitude>-9.667986261126861</latitude>
+						<altitude>0</altitude>
+						<range>994185.7540887703</range>
+						<tilt>0</tilt>
+						<heading>-0.4641731985360645</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M6</styleUrl>
+					<Point>
+						<coordinates>-63.20535763830735,-8.839398045882795,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kristall Eshbathi?</name>
+					<description>Dies soll eine der Eshbathi im fernen Westen der Narkramar sein. Sie soll ganz aus Kristall und Glas bestehen und ihr Licht soll so hell sein, das man erblindet, während sie an anderen Tagen fast unsichtbar ist. Die angegebene Position ist rein spekulativ.
+
+Quelle: Handelsfürsten &amp; Wüstenkrieger S. 13</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-61.89374375450589</longitude>
+						<latitude>-9.667986261126861</latitude>
+						<altitude>0</altitude>
+						<range>994185.7540887703</range>
+						<tilt>0</tilt>
+						<heading>-0.4641731985360645</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_M8</styleUrl>
+					<Point>
+						<coordinates>-60.03790917364192,-8.614576652323155,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>mystische_Orte_der_&quot;Insel_der_Gleißenden_Stadt&quot;_Position_unsicher</name>
+			<Placemark>
+				<name>Die &quot;Gleißende Stadt&quot; (InOff)?</name>
+				<description>Harika die Rote entdeckte die Ruinen dieser Stadt auf ihrer ersten Güldenlandexpedition.
+Dabei beschreibt sie eine etwa zweihundert
+Meilen von der Steilküste entfernt liegende Stadt, gleißend wie die Zitadelle von Alveran, deren Mauern geborsten sind, und welche sich über den Wolken befinden soll, da das wüstenhafte Land von der Küste zum Landesinneren hin immer weiter ansteigt.
+
+Quelle: Geographia Aventuria S. 105</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-138.2246365721143</longitude>
+					<latitude>6.22807832011041</latitude>
+					<altitude>0</altitude>
+					<range>1101467.438086567</range>
+					<tilt>0</tilt>
+					<heading>6.371618233475576</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M71</styleUrl>
+				<Point>
+					<coordinates>-137.9478005896359,4.989345367769328,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

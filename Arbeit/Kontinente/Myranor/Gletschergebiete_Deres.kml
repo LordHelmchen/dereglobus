@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Gletschergebiete_Deres.kml</name>
+	<Style id="sn_wht-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Gletschergebiete_Deres</name>
+		<Placemark>
+			<name>Ewiges Nordeis (hjaldingisch Aiwaglitiz)</name>
+			<description>Aiwaglitiz nennen die Hjaldinger das Ewiges Nordeis nördlich des Gletschermeeres.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 275 Erklärung</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-51.28892545548732</longitude>
+				<latitude>38.01073640948914</latitude>
+				<altitude>0</altitude>
+				<range>2569104.983009066</range>
+				<tilt>1.968568282264922</tilt>
+				<heading>-6.249014442078818</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-47.84716788799036,40.14978759720741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ewiges Südeis</name>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-57.57103854111808</longitude>
+				<latitude>-35.9193646851133</latitude>
+				<altitude>0</altitude>
+				<range>5488643.858886204</range>
+				<tilt>1.969233428468335</tilt>
+				<heading>6.505196080544553</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-55.31215010764842,-41.14419013191422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ewiges Nordeis</name>
+			<description>Quelle: Myranor HC S. 7 (Karte:Myranor und angrenzende Lande)</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-86.08872538550526</longitude>
+				<latitude>29.09975776123393</latitude>
+				<altitude>0</altitude>
+				<range>3618853.941466951</range>
+				<tilt>2.820254957991428</tilt>
+				<heading>6.056502901499118</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-83.91083415279107,38.48346632020142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ewiges Nordeis</name>
+			<description>Quelle: Myranor HC S. 7 (Karte:Myranor und angrenzende Lande)</description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-133.8605461904004</longitude>
+				<latitude>39.21152363176523</latitude>
+				<altitude>0</altitude>
+				<range>3618853.941466947</range>
+				<tilt>2.820254957991299</tilt>
+				<heading>-19.56215584603651</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<coordinates>-138.4578655393729,38.94875114783076,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Grenzen</name>
+	<open>1</open>
+
+
+	<NetworkLink>
+		<name>Provinzen</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Grenzen/kml/Provinzen/Provinzen.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+	<NetworkLink>
+		<name>Grafschaften</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Grenzen/kml/Grafschaften/Grafschaften.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+
+
+	<NetworkLink>
+		<name>Baronien</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Grenzen/kml/Baronien/Baronien.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+
+
+
+</Document>
+</kml>

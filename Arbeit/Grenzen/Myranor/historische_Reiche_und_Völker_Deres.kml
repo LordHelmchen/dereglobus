@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>historische_Reiche_und_Völker_Deres.kml</name>
+	<Style id="sh_H19">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R3">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H42">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H25">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R0">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R0">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R27">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R19">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H18">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H12">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H5">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R15">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R24">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H9">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R26">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R9">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H12">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R25">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R6">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H13">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H1">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H37">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H10">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R27">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R1">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R23">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R8">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R7">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H36">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H3">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R19">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R22">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H34">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R14">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H45">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R6">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H25">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_R27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R23">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R20">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R8">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R2">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H36">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H23">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R28">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R5">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R11">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H15">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R16">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_H22">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R24">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H39">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_H41">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H6">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R2">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R28">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R12">
+		<IconStyle>
+			<color>ff000055</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R25">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R26">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H15">
+		<IconStyle>
+			<color>ff7faaff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_R20">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_H32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_R9">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_R18">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_R1">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/R-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_R11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_R8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_R12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>historische_Reiche_und_Völker_Deres</name>
+		<Folder>
+			<name>Reiche_und_Völker_des_Echsen-_des_10._Zeitalters</name>
+			<Placemark>
+				<name>Shindra</name>
+				<description>Im 10. Zeitalter sollen die Shindra vorallem die äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur in Tharpura und Makshapuram verblieben einige Restgebiete.
+Später wurden sie in einem Krieg mit den Jharra von dort auf die Inseln von Shindrabar vertrieben (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren), wo sie ihrerseits die Halimatongan, eine Zivilisation intelligenter Affenmenschen fast ausrotteten. Die letzten Shindra verschwanden bei der Eroberung der Inseln von Shindrabar durch das Erste Imperium.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-108.88608265997</longitude>
+					<latitude>4.25520185504787</latitude>
+					<altitude>0</altitude>
+					<range>5126507.426854151</range>
+					<tilt>0</tilt>
+					<heading>7.53655732328516</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R8</styleUrl>
+				<Point>
+					<coordinates>-103.4956550663259,-2.500752117278354,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shindra</name>
+				<description>Im 10. Zeitalter sollen die Shindra vorallem die äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur in Tharpura und Makshapuram verblieben einige Restgebiete.
+Später wurden sie in einem Krieg mit den Jharra von dort auf die Inseln von Shindrabar vertrieben (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren), wo sie ihrerseits die Halimatongan, eine Zivilisation intelligenter Affenmenschen fast ausrotteten. Die letzten Shindra verschwanden bei der Eroberung der Inseln von Shindrabar durch das Erste Imperium.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-77.40256815783097</longitude>
+					<latitude>3.195350261329987</latitude>
+					<altitude>0</altitude>
+					<range>5126507.426854146</range>
+					<tilt>0</tilt>
+					<heading>1.938801590932136</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R19</styleUrl>
+				<Point>
+					<coordinates>-59.48350955411926,-3.702764862131414,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shindra</name>
+				<description>Im 10. Zeitalter sollen die Shindra vorallem die äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur in Tharpura und Makshapuram verblieben einige Restgebiete.
+Später wurden sie in einem Krieg mit den Jharra von dort auf die Inseln von Shindrabar vertrieben (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren), wo sie ihrerseits die Halimatongan, eine Zivilisation intelligenter Affenmenschen fast ausrotteten. Die letzten Shindra verschwanden bei der Eroberung der Inseln von Shindrabar durch das Erste Imperium.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-108.88608265997</longitude>
+					<latitude>4.25520185504787</latitude>
+					<altitude>0</altitude>
+					<range>5126507.426854151</range>
+					<tilt>0</tilt>
+					<heading>7.53655732328516</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R4</styleUrl>
+				<Point>
+					<coordinates>-118.2129557235273,-1.455376507766059,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shindra</name>
+				<description>Im 10. Zeitalter sollen die Shindra vorallem die äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur in Tharpura und Makshapuram verblieben einige Restgebiete.
+Später wurden sie in einem Krieg mit den Jharra von dort auf die Inseln von Shindrabar vertrieben (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren), wo sie ihrerseits die Halimatongan, eine Zivilisation intelligenter Affenmenschen fast ausrotteten. Die letzten Shindra verschwanden bei der Eroberung der Inseln von Shindrabar durch das Erste Imperium.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-53.64427245893061</longitude>
+					<latitude>0.283890483276785</latitude>
+					<altitude>0</altitude>
+					<range>5126507.426854142</range>
+					<tilt>0</tilt>
+					<heading>1.384268772045968</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R26</styleUrl>
+				<Point>
+					<coordinates>-49.27638418301616,0.7530946525433435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shindra</name>
+				<description>Im 10. Zeitalter sollen die Shindra vorallem die äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur in Tharpura und Makshapuram verblieben einige Restgebiete.
+Später wurden sie in einem Krieg mit den Jharra von dort auf die Inseln von Shindrabar vertrieben (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren), wo sie ihrerseits die Halimatongan, eine Zivilisation intelligenter Affenmenschen fast ausrotteten. Die letzten Shindra verschwanden bei der Eroberung der Inseln von Shindrabar durch das Erste Imperium.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-76.14984338763699</longitude>
+					<latitude>-0.9556967783867703</latitude>
+					<altitude>0</altitude>
+					<range>5126507.42685414</range>
+					<tilt>0</tilt>
+					<heading>2.087509139141847</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R27</styleUrl>
+				<Point>
+					<coordinates>-70.99905699190646,-1.21134931987006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shindra</name>
+				<description>Im 10. Zeitalter sollen die Shindra vorallem die äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur in Tharpura und Makshapuram verblieben einige Restgebiete.
+Später wurden sie in einem Krieg mit den Jharra von dort auf die Inseln von Shindrabar vertrieben (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren), wo sie ihrerseits die Halimatongan, eine Zivilisation intelligenter Affenmenschen fast ausrotteten. Die letzten Shindra verschwanden bei der Eroberung der Inseln von Shindrabar durch das Erste Imperium.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-75.20569973733227</longitude>
+					<latitude>-2.094893424186006</latitude>
+					<altitude>0</altitude>
+					<range>2912019.602526403</range>
+					<tilt>0</tilt>
+					<heading>2.055260704094765</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R32</styleUrl>
+				<Point>
+					<coordinates>-80.94999325858322,-1.755155971557627,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jharra</name>
+				<description>Im 10. Zeitalter sollen die Jharra vorallem die Savannen nördlich und nur weniger südlich der äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur einige Reste in Makshapuram und Tharpura verblieben.
+Im weiteren 11. Zeitalter vertrieben sie in einem Krieg die Shindra auf die Inseln von Shindrabar (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren) und wurden gleichzeitig von den Tigrir bedrängt. 
+Die letzten Jharra in Tharpura und Makshapuram verschwanden, als eine Allianz von Menschen und Amaunir sie besiegte. In Draydalân wurden sie von den ersten Draydal abgeschlachtet.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-75.15555664770736</longitude>
+					<latitude>1.26786737939744</latitude>
+					<altitude>0</altitude>
+					<range>3404559.799331926</range>
+					<tilt>0</tilt>
+					<heading>7.716516764916801</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R28</styleUrl>
+				<Point>
+					<coordinates>-77.31089105806541,4.452934937434341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jharra</name>
+				<description>Im 10. Zeitalter sollen die Jharra vorallem die Savannen nördlich und nur weniger südlich der äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur einige Reste in Makshapuram und Tharpura verblieben.
+Im weiteren 11. Zeitalter vertrieben sie in einem Krieg die Shindra auf die Inseln von Shindrabar (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren) und wurden gleichzeitig von den Tigrir bedrängt. 
+Die letzten Jharra in Tharpura und Makshapuram verschwanden, als eine Allianz von Menschen und Amaunir sie besiegte. In Draydalân wurden sie von den ersten Draydal abgeschlachtet.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-75.96595687605114</longitude>
+					<latitude>4.030168294702257</latitude>
+					<altitude>0</altitude>
+					<range>3404559.799331929</range>
+					<tilt>0</tilt>
+					<heading>7.881870035995442</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R20</styleUrl>
+				<Point>
+					<coordinates>-66.01932455596374,6.566907916753487,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jharra</name>
+				<description>Im 10. Zeitalter sollen die Jharra vorallem die Savannen nördlich und nur weniger südlich der äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur einige Reste in Makshapuram und Tharpura verblieben.
+Im weiteren 11. Zeitalter vertrieben sie in einem Krieg die Shindra auf die Inseln von Shindrabar (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren) und wurden gleichzeitig von den Tigrir bedrängt. 
+Die letzten Jharra in Tharpura und Makshapuram verschwanden, als eine Allianz von Menschen und Amaunir sie besiegte. In Draydalân wurden sie von den ersten Draydal abgeschlachtet.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-53.90363470985876</longitude>
+					<latitude>0.08009050958867821</latitude>
+					<altitude>0</altitude>
+					<range>3404559.799331924</range>
+					<tilt>0</tilt>
+					<heading>7.192562652139706</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R25</styleUrl>
+				<Point>
+					<coordinates>-48.2828038522845,-6.36568888169498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jharra</name>
+				<description>Im 10. Zeitalter sollen die Jharra vorallem die Savannen nördlich und nur weniger südlich der äquatorialen Dschungel-Gebiete besiedelt haben.
+Aus diesen Gebieten wurden sie zu Beginn des 11. Zeitalter von eine Invasion insektoider Völker vertrieben, nur einige Reste in Makshapuram und Tharpura verblieben.
+Im weiteren 11. Zeitalter vertrieben sie in einem Krieg die Shindra auf die Inseln von Shindrabar (zusammen mit den Vorfahren der Shindrabarim, die Diener der Shindra waren) und wurden gleichzeitig von den Tigrir bedrängt. 
+Die letzten Jharra in Tharpura und Makshapuram verschwanden, als eine Allianz von Menschen und Amaunir sie besiegte. In Draydalân wurden sie von den ersten Draydal abgeschlachtet.
+Quelle: Myranor HC S. 12</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-85.06127175520882</longitude>
+					<latitude>5.490649612487323</latitude>
+					<altitude>0</altitude>
+					<range>1676039.566414876</range>
+					<tilt>0</tilt>
+					<heading>1.659402918088726</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R3</styleUrl>
+				<Point>
+					<coordinates>-86.01726672168232,6.291485013537225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Inselreich der Halimatongan</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-35.23845184936903</longitude>
+					<latitude>6.085636739066078</latitude>
+					<altitude>0</altitude>
+					<range>452957.1459433817</range>
+					<tilt>0</tilt>
+					<heading>0.2203380639564542</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R6</styleUrl>
+				<Point>
+					<coordinates>-34.21018121965768,6.658539473821107,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Inselreich der myranischen Sumurrer</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-53.00242499524129</longitude>
+					<latitude>-9.583538684432371</latitude>
+					<altitude>0</altitude>
+					<range>1238703.047823449</range>
+					<tilt>0</tilt>
+					<heading>-4.715476714233489</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R1</styleUrl>
+				<Point>
+					<coordinates>-52.44991778251536,-9.138403830588898,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>ehemalige_Imperiale_Horasiate</name>
+			<Placemark>
+				<name>ehemaliges Horasiat Xarxaron</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-67.84578386297984</longitude>
+					<latitude>7.049975550742455</latitude>
+					<altitude>0</altitude>
+					<range>1153728.018098651</range>
+					<tilt>2.837291709776144</tilt>
+					<heading>8.487192047051781</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H43</styleUrl>
+				<Point>
+					<coordinates>-69.69153709782692,5.236494274610592,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Serovia</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-49.75555242222958</longitude>
+					<latitude>18.56524861958357</latitude>
+					<altitude>0</altitude>
+					<range>2251928.442109468</range>
+					<tilt>2.834129299931379</tilt>
+					<heading>14.13346192908193</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H33</styleUrl>
+				<Point>
+					<coordinates>-44.10236801118892,22.44447619966778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Makshapuram</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-45.92959606817202</longitude>
+					<latitude>-4.483628168676149</latitude>
+					<altitude>0</altitude>
+					<range>1019699.601988808</range>
+					<tilt>2.838557624368343</tilt>
+					<heading>10.30371938650862</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H14</styleUrl>
+				<Point>
+					<coordinates>-47.79744932960259,-2.310458654950208,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Rhacornos</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-65.63507184161414</longitude>
+					<latitude>13.32088246211369</latitude>
+					<altitude>0</altitude>
+					<range>1260750.287770738</range>
+					<tilt>2.835393856574115</tilt>
+					<heading>3.487727851264513</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H15</styleUrl>
+				<Point>
+					<coordinates>-65.74684480766972,12.84658900637993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Koromanthia</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-63.18593098945404</longitude>
+					<latitude>10.81052632671361</latitude>
+					<altitude>0</altitude>
+					<range>1260750.287770741</range>
+					<tilt>2.835393856574115</tilt>
+					<heading>3.981736515354934</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H320</styleUrl>
+				<Point>
+					<coordinates>-63.03889911008637,10.29923179768093,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Nyranthal</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-70.18823509797997</longitude>
+					<latitude>10.50926866443408</latitude>
+					<altitude>0</altitude>
+					<range>1679581.298327594</range>
+					<tilt>2.835710080574272</tilt>
+					<heading>2.789239144731541</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H32</styleUrl>
+				<Point>
+					<coordinates>-72.90556764373834,10.79199869810915,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Meranthal</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-72.57697311866765</longitude>
+					<latitude>5.99639316188312</latitude>
+					<altitude>0</altitude>
+					<range>1679581.298327597</range>
+					<tilt>2.835710080574401</tilt>
+					<heading>2.388390453305013</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H42</styleUrl>
+				<Point>
+					<coordinates>-75.15174263310068,3.885530071282757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Narthalis</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-77.43977198527182</longitude>
+					<latitude>6.742180521377525</latitude>
+					<altitude>0</altitude>
+					<range>1679581.298327593</range>
+					<tilt>2.835710080574658</tilt>
+					<heading>2.158823654041926</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H7</styleUrl>
+				<Point>
+					<coordinates>-80.88453492363625,4.323184982634095,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Kentorikan</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-74.52521277319191</longitude>
+					<latitude>27.96647712062405</latitude>
+					<altitude>0</altitude>
+					<range>1153104.428168119</range>
+					<tilt>2.836342630405565</tilt>
+					<heading>5.409360901506876</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H10</styleUrl>
+				<Point>
+					<coordinates>-76.32875152020053,28.60557007988222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Yaquiro</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-1.260236546857153</longitude>
+					<latitude>25.50727636555436</latitude>
+					<altitude>0</altitude>
+					<range>270640.906931006</range>
+					<tilt>2.844578144879623</tilt>
+					<heading>2.791642418554186e-011</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H22</styleUrl>
+				<Point>
+					<coordinates>-1.189513644306903,25.14836552113343,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat Sindaria / Shindrabar</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-37.04288347211557</longitude>
+					<latitude>4.683091199862974</latitude>
+					<altitude>0</altitude>
+					<range>1311877.871183946</range>
+					<tilt>2.838241094771747</tilt>
+					<heading>9.763079344902193</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H9</styleUrl>
+				<Point>
+					<coordinates>-36.92515961347857,4.261483411136156,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat / Kolonie Meralis?</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-77.28908903698807</longitude>
+					<latitude>-15.67832207863554</latitude>
+					<altitude>0</altitude>
+					<range>3005524.347742837</range>
+					<tilt>2.840140781983754</tilt>
+					<heading>-3.379055180754859</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H35</styleUrl>
+				<Point>
+					<coordinates>-79.7785791171181,-20.87487105332711,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ehemaliges Horasiat / Kolonie Meralis?</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-67.4476178651081</longitude>
+					<latitude>-23.8461935882938</latitude>
+					<altitude>0</altitude>
+					<range>3328314.670084407</range>
+					<tilt>2.840457515455706</tilt>
+					<heading>-7.034440853342366</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H39</styleUrl>
+				<Point>
+					<coordinates>-55.0019036244299,-34.12776929270874,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Vorimperiale_Reiche</name>
+			<Placemark>
+				<name>Dorinthis</name>
+				<description>Quelle:  Myranisches Arsenal S. 10</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-56.51775577641966</longitude>
+					<latitude>18.36993570568636</latitude>
+					<altitude>0</altitude>
+					<range>898638.7696679113</range>
+					<tilt>2.840774282916903</tilt>
+					<heading>-3.533644541648912</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R11</styleUrl>
+				<Point>
+					<coordinates>-56.63743097018654,19.03898843663041,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Te´Sumurru (Reich der Fünf Flüsse)</name>
+				<description>Quelle: Myranor HC S.13
+Quelle: Myranisches Arsenal S.19</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-79.07736924860376</longitude>
+					<latitude>-4.929776324200795</latitude>
+					<altitude>0</altitude>
+					<range>1414489.889385539</range>
+					<tilt>2.8420416927336</tilt>
+					<heading>-8.65541676410473</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R15</styleUrl>
+				<Point>
+					<coordinates>-77.37004911674833,-4.895136929278817,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Krisra von Xarxaron</name>
+				<description>Vor der Eroberung durch das Imperium lebte in den Bergen von Xarxaron ein Stamm des flugfähigen Echsenvolkes der Krisra. Seit wann sie dort lebten ist unbekannt.
+Heute gibt es nur noch wenige von ihnen, welche sich vor den Menschen fürchten und in ein Stadium der Barbarei zurückgefallen sind.
+Quelle: Myranische Mysterien S. 100</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-68.07798419269761</longitude>
+					<latitude>6.08718832236686</latitude>
+					<altitude>0</altitude>
+					<range>833336.0667596911</range>
+					<tilt>2.841724789277238</tilt>
+					<heading>-7.326795905244927</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R22</styleUrl>
+				<Point>
+					<coordinates>-69.68352171376478,5.739206847282431,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Krisra von Mayenios</name>
+				<description>Vor der Eroberung durch das Imperium (vor etwa 4000 Jahren) lebte in den nun abgeholzten Wäldern von Mayenios ein Stamm des flugfähigen Echsenvolkes der Krisra. Seit wann sie dort lebten ist unbekannt.
+Quelle: Myranor Abenteuer 2 &quot;Äonenstaub&quot; S. 6</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-54.72128927698071</longitude>
+					<latitude>10.93904891505984</latitude>
+					<altitude>0</altitude>
+					<range>736368.9584268241</range>
+					<tilt>2.842675601666616</tilt>
+					<heading>-5.231017056137922</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R24</styleUrl>
+				<Point>
+					<coordinates>-53.64925520531686,10.39463395444858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>vorimperiales Inselreich der Shindra u. Shindrabarim</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-36.32136818422014</longitude>
+					<latitude>4.09036112092387</latitude>
+					<altitude>0</altitude>
+					<range>656847.9601589673</range>
+					<tilt>0</tilt>
+					<heading>1.691414208175417</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R23</styleUrl>
+				<Point>
+					<coordinates>-37.20895095284765,4.493088589325676,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Reiche_der_Zeit_der_Chimärenkriege</name>
+			<Placemark>
+				<name>Reich von Balan Cantara</name>
+				<description>Quelle: Myranor HC S.16</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-53.67780851527792</longitude>
+					<latitude>4.039924305381394</latitude>
+					<altitude>0</altitude>
+					<range>300301.066664743</range>
+					<tilt>2.84235863019585</tilt>
+					<heading>-2.052291523018632</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R0</styleUrl>
+				<Point>
+					<coordinates>-53.12303836897677,3.869086827427998,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Reich von Sidor Corabis</name>
+				<description>Quelle: Myranor HC S. 16</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-55.85401415325823</longitude>
+					<latitude>16.2113267966685</latitude>
+					<altitude>0</altitude>
+					<range>428880.6884366353</range>
+					<tilt>0</tilt>
+					<heading>6.105810285199604</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_R21</styleUrl>
+				<Point>
+					<coordinates>-55.73104608759453,16.04792579678423,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,4852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Expeditionen.kml</name>
+	<Style id="sh_ylw-pushpin34">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target73</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin262">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target57">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target62">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target35">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target18">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target49">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target10">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target11">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target15">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin382">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin321</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target9">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target1">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target52">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin590">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target17">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target29">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin351">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target42">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin520</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin261</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target66">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target48">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin261">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin420">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target75</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin300">
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin560">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin430</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin570">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin480</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target13">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target43">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin321">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target43">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target33">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin390">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target281">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target311">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target5">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target26">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target69">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin53</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target47">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target46">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin590">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin490</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target480</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target470</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target450</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target72">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target24">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target470">
+		<IconStyle>
+			<color>ffff55ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target30">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target18">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target27">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target55">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target73">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target151</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target58">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target74">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target56">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin321">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin590</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin262</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin56">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target39">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target75">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target13">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin332">
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target91">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target64</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target311</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin370">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target68</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin381">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin490">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin470">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin480</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin360</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin520">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target10">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target65">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin331">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin282</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target71">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin38">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin360">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target69</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target132</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin291</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin370</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target48">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target32">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target45">
+		<IconStyle>
+			<color>ffff55ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target311</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target75">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin42">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target221">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target76">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target76">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target76">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target4">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin53">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target480</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target410</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target9">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target5">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target01">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target221</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin450</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target54">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin46">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target311">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin540">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin540</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin420</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin430">
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target32">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target112">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin49">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin46">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target63">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target68">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target74">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin270">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin351</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin520</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target72">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target450">
+		<IconStyle>
+			<color>ffff55ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target67">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin550">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin550</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target25">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target3">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target41">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target360</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin42">
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target53">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2701">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin390</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target74</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target90">
+		<IconStyle>
+			<color>ffff55ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target69">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target83">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2401">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target69">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target64">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target480">
+		<IconStyle>
+			<color>ffff55ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin330">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin351">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin381</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin290</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target16">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target431</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target610">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target27">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target17">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target50">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target151">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin61">
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target66">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin480">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target2">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target20">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin282">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target62">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target8">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target58">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target63">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target66">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target56">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target61">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target640">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target6">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin290">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target57">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin65">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target71">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target55">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target360">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target64">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target78">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target73</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target42">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target2">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target14">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target59">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target31">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin75">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_target100">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target51">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target0">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target530">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target51">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target53">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target60">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target7">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target77">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target34">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target132">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target54">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin550">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target25">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target410">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target59">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target78</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin470</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target480">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target59">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target36">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target1">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target4">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target33">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target53</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target460</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target46">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin520">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target68">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target161">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target431">
+		<IconStyle>
+			<color>ffff55ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin540">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target26">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target68</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target460">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin281">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2401</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target79">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target7">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target22">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target73">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target8">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target0">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin480">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin470">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_target28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target70">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin341">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin332</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target61">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin291">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin44">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_target12">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target67">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target11">
+		<IconStyle>
+			<color>ffff0055</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin450">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Expeditionen</name>
+		<Document>
+			<name>Harikas Reise zum Horizont.kml</name>
+			<StyleMap id="msn_ylw-pushpin25">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin27</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin23</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sh_ylw-pushpin23">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="sn_ylw-pushpin27">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Placemark>
+				<name>Harikas Reise zum Horizont</name>
+				<styleUrl>#msn_ylw-pushpin25</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-1.222480621711022,26.38838101563231,0 -1.359636091197015,26.26584263391516,0 -1.60554288482191,26.10259225686513,0 -2.216210056065051,25.41430764410411,0 -2.593680637873833,24.68961469994855,0 -3.192072077991384,23.35509256466279,0 -3.380271086056024,23.00551666131209,0 -5.203115082788462,22.70650712599826,0 -6.695557303055,21.87873982095084,0 -7.674542108659087,20.91829747207846,0 -8.786659688467298,20.01103880263489,0 -10.47562447911468,19.04688011216108,0 -12.29854909573384,18.37478461187063,0 -14.60386029802889,18.18529179414097,0 -15.52974290517307,18.04499005819092,0 -16.36391623482785,16.96887766343607,0 -17.0684809466929,16.42883741561351,0 -17.66594710743481,16.38283087982307,0 -19.26893777851,14.77150349349721,0 -21.62263950682782,13.6351837606639,0 -21.89079509718913,13.7042215814123,0 -22.58319001026397,13.52508005094792,0 -23.58433680571645,13.43077990723618,0 -26.29956067546648,13.33499298372846,0 -32.55556754673492,9.625594585922876,0 -35.79139311720715,8.855148000430303,0 -43.64678077524986,7.150047387558878,0 -46.81203540962046,6.1623610966694,0 -50.91464228199084,4.214540447873028,0 -52.15946808911445,3.629479498063397,0 </coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+		<Folder>
+			<name>Harikas erste Expedition</name>
+			<Folder>
+				<name>offizielle_Riesland_Route</name>
+				<Placemark>
+					<name>offizielle Riesland-Route1</name>
+					<styleUrl>#msn_ylw-pushpin382</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+18.26006004856594,27.23027049792745,0 18.26065183167452,33.87540152280393,0 41.071786319618,23.95515554024552,0 40.85097134189561,23.48911785809521,0 40.73297473139054,23.16474967301359,0 40.81509589780436,22.89311350216678,0 41.09674819477863,22.72624064276384,0 41.58570723129156,22.63293037968107,0 41.90511947976493,22.44285581588217,0 42.12315376855921,22.10323568584385,0 42.05691990426714,21.3103978609202,0 41.93302957121121,20.73991818121176,0 41.77892850125731,20.21949200278771,0 41.37812755267252,19.78661194107664,0 41.07044164233493,19.26269940641566,0 40.97137224624319,18.70565663811243,0 41.39910138033046,17.8804004661124,0 42.03787306034905,17.07403001035949,0 42.52256621661503,16.40495892030402,0 42.35461328627481,15.26820663342843,0 42.32522181614461,14.05627440003084,0 42.18024373310605,12.86233988452459,0 41.85512583734876,11.49652519859012,0 41.44752090758144,10.6527011498018,0 40.90833526384186,9.930410736851691,0 40.84052309627554,9.23576788040447,0 41.59166022088877,8.660883396086479,0 42.02965800660237,7.789646387887975,0 42.0971097221936,6.427792397498636,0 42.62837832109824,5.157290707619512,0 42.95120587835529,4.139506829484565,0 43.28563575467238,3.194624204193738,0 43.95160846942637,2.78912821307292,0 44.50517125170649,2.904487836034964,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Riesland-Route2</name>
+					<styleUrl>#msn_ylw-pushpin321</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+44.50554104256607,2.904588606271607,0 40.6852412944942,-29.13977494979677,0 144.1949473617194,-0.09070504270172808,0 -140.6404631372494,4.50426881560741,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>offizielle Myranor-Route</name>
+				<open>1</open>
+				<Placemark>
+					<name>offizielle Myranor-Route1</name>
+					<styleUrl>#msn_ylw-pushpin270</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-140.6405580266673,4.504393853689535,0 -140.0624020958925,4.566455780587433,0 -140.1919960404183,5.28308169048543,0 -140.0188321474589,5.607471988834645,0 -140.2916438852808,5.867564484754018,0 -140.5288873138542,6.487822911338161,0 -140.9970619806049,7.357346924781679,0 -141.1996988492646,9.144359451550303,0 -140.9530069832821,10.0730249243177,0 -140.302233696403,10.62945735731989,0 -139.1966299540933,11.15491592228043,0 -138.1014988271463,11.48646816615912,0 -137.3334450886838,11.42739914744131,0 -136.9111094096499,11.40357587295281,0 -136.1162734652543,11.60699830087677,0 -134.9740818120151,12.16638705637083,0 -134.6022192982605,12.77378930518793,0 -134.1696429336915,13.32888191522418,0 -134.0384433197025,13.63103799622438,0 -134.4435991937936,13.9350877668556,0 -134.5752649876203,13.58875485666553,0 -134.8368995411692,13.25980152331406,0 -136.028313750316,13.46573978186777,0 -136.9629676644765,13.97297992366225,0 -137.3549251265323,14.28114832175471,0 -138.2548191632631,14.86402273069286,0 -139.4169788785556,15.89600677747115,0 -139.8240258050573,16.4482300612668,0 -139.9844902982639,17.03057234798468,0 -139.8948479349067,17.42896639036945,0 -139.1501348238676,17.95350455104557,0 -137.5916037758468,18.76446973342773,0 -136.3301471923674,19.13304206606923,0 -135.7954422356106,19.09650807578471,0 -134.078190690912,18.95021191217664,0 -133.0499343984595,19.11085578779119,0 -132.3503552064162,19.29566035625227,0 -131.9113459003895,19.57583019247795,0 -131.1825384490679,19.66780969459791,0 -130.6799872408685,19.71562513495091,0 -130.220993434386,19.64232178083283,0 -129.6232239592669,19.42213836498033,0 -129.381585965969,18.80080429849427,0 -129.1370861793964,17.93651812676455,0 -128.8621983724962,16.98151717504582,0 -128.3537665545535,16.28716512671366,0 -127.8275828567169,15.88434234121234,0 -127.1877726087733,15.82298670634448,0 -126.1811196450047,15.88953429557875,0 -125.3868498995761,16.82027867728846,0 -124.8781300054269,18.4452137443592,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route2</name>
+					<styleUrl>#msn_ylw-pushpin550</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-124.8659049224964,18.44111130977525,0 -124.3048666983494,17.71537373669792,0 -121.5297645798793,14.89660420615874,0 -118.090812055856,11.79097865228511,0 -115.4852143867784,10.13864817861772,0 -115.0389172836206,9.924777585501948,0 -114.9119555330284,9.36684821888139,0 -114.6234183823326,8.967994432729638,0 -113.6966040232895,8.762416515772552,0 -111.5510098247265,8.825160329171505,0 -110.1706009607613,9.065029119741523,0 -108.9196016530344,9.275937588054603,0 -107.7531383860662,9.31850979093433,0 -106.3463647589428,8.987548123748145,0 -105.7208495554131,8.582081058751149,0 -105.7461036533822,8.03819579562799,0 -105.8410298419361,7.192621176065782,0 -105.2807890509079,6.2013958990512,0 -104.8433821946891,5.443606935641868,0 -104.4571462538879,5.022663131247924,0 -104.0529605193352,5.135188453777834,0 -103.7490740976186,5.272652972208087,0 -104.1981883740861,3.226001570444747,0 -104.5124349444754,0.7432092272543022,0 -105.2279720075124,1.437253811317989,0 -106.3424712281001,2.482287142926997,0 -106.9903925203524,3.016687403134355,0 -107.4392601922106,3.240611456155574,0 -107.7952993952309,2.858285087322326,0 -108.0085897744917,2.219862509780714,0 -108.3590869400037,1.649099929516693,0 -108.5746250699757,1.204828389745801,0 -108.8712504902567,0.4605794682110351,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor Route 3</name>
+					<styleUrl>#msn_ylw-pushpin45</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-108.8708095089804,0.4924465217909822,0 -108.9260973333901,0.1130075279800714,0 -108.9923373595488,-0.2104611599382417,0 -109.1797224854087,-0.5292584202384554,0 -109.4886540965187,-0.8701812617946597,0 -109.6544092199875,-0.9860363000236916,0 -109.9244609473588,-1.004059493847029,0 -110.2534245264373,-0.7775845972604917,0 -110.3681455725094,-0.5850161475926144,0 -110.4344647537328,-0.4644138968883376,0 -110.5681376595321,-0.4050505687505502,0 -110.7495070807645,-0.4627921650105821,0 -110.9566325564852,-0.5576383102180552,0 -111.2013674069904,-0.6603115874232259,0 -111.3289496263421,-0.8691937978535179,0 -111.6772005626206,-0.9774200298320667,0 -112.0339438096129,-0.9747215097086384,0 -112.2278760766934,-0.9768574412722232,0 -112.3874290244682,-0.7944692696501554,0 -112.5546708779389,-0.8388048292897101,0 -112.5394977756949,-1.154929957613088,0 -112.6287357450027,-1.517826273783672,0 -112.8455647759044,-1.633490602029578,0 -113.1681281194867,-1.650822622959677,0 -113.4870040808544,-1.77583585946629,0 -113.7897854414141,-1.783669746863554,0 -113.9398882662137,-1.875216303755309,0 -114.0070296226465,-2.0769527053003,0 -114.1821460045403,-2.07954162852948,0 -113.9894675808425,-2.092700060143713,0 -113.9161349355586,-1.891587902843483,0 -113.7834191089832,-1.802890638679791,0 -113.4829585134775,-1.795245670646764,0 -113.1630238990908,-1.668353686333712,0 -112.8417482145105,-1.647468141802803,0 -112.6140506083322,-1.537487551278715,0 -112.519996955187,-1.167942280378482,0 -112.5366254031336,-0.8542509090928673,0 -112.391217514284,-0.8172193187462568,0 -112.2291399658911,-0.9932832825173646,0 -112.0296922579719,-0.9916186234270638,0 -111.6727526753433,-0.9933988628619034,0 -111.3232858799051,-0.8842514685315942,0 -111.1902861130768,-0.6826629548575234,0 -110.9462256325447,-0.5775882944012483,0 -110.738622758205,-0.4773792664172044,0 -110.5692096081686,-0.4313747757177494,0 -110.4496550772034,-0.4821356772127466,0 -110.3887242837059,-0.5996902204663965,0 -110.274597479954,-0.7849224235200096,0 -109.9303264957727,-1.030102584805669,0 -109.6380953980383,-1.012296316679078,0 -109.4656326482518,-0.8912611434036203,0 -109.1565677118058,-0.549202071541858,0 -108.9769238690499,-0.2454250474089407,0 -108.8932706683624,0.113223522663423,0 -108.8498805992681,0.4459175998757363,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor Route4</name>
+					<styleUrl>#msn_ylw-pushpin540</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-108.8479163045464,0.4282336380648476,0 -108.5306302355961,1.217186644425718,0 -107.9707834638996,2.214014280027075,0 -107.7831542646149,2.848294773212662,0 -107.4274160089794,2.989170938880963,0 -106.9308510201242,2.752273082800043,0 -106.1514374468639,2.194360627985697,0 -105.2871191968481,1.155516273205329,0 -104.0898580975838,1.102308343242213,0 -103.5337838008843,1.400835575394599,0 -102.6331499038624,1.877488749162537,0 -101.7274997079302,1.826312725717695,0 -100.8200635581659,1.669774143107956,0 -99.87459833216951,0.9446315171039718,0 -99.07273563952346,0.1493444148105108,0 -97.51181227506746,-0.2515377671255851,0 -96.06790169340178,-0.4275967186919708,0 -95.99636247306297,-0.5733236284182671,0 -95.95558546757982,-0.3660121353365822,0 -95.83997892133468,0.06910333372214965,0 -95.48949045291569,0.572959057815172,0 -94.81081298041703,0.9020989498011736,0 -94.21686041406269,1.046063513461221,0 -93.3123646680216,0.632593614873856,0 -92.36703137972231,0.63440653860407,0 -91.59778169498519,1.198506168485584,0 -91.09899991588549,1.721062314642434,0 -90.43605923291536,2.003885933759449,0 -89.53453732503675,2.074425521191227,0 -88.78135251249546,2.039983929504391,0 -88.25738956809364,1.91659496519934,0 -87.65732001264202,1.868549405243654,0 -87.05982813631353,1.630050901949394,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route5</name>
+					<styleUrl>#msn_ylw-pushpin2601</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-85.86446535147626,1.587934789775631,0 -85.19567181580841,1.378860353612324,0 -84.80597523575901,1.005748419670425,0 -84.67813223814409,0.6511028968950541,0 -84.95534902616838,0.02895159642142127,0 -93.07615341451999,-10.17138954503075,0 -93.72688819211287,-10.31985136407018,0 -92.58715608910612,-11.29331342947643,0 -92.21879104920988,-13.40214643900634,0 -92.16335184046868,-14.45438057816157,0 -91.60904563175177,-14.81781751886293,0 -89.98953301388934,-14.46977817779327,0 -84.17892401671229,-10.77476403636876,0 -81.12576147777081,-8.056736027054035,0 -80.23675051254361,-7.418248305124931,0 -79.52550161963774,-6.863219517459268,0 -79.24101191981853,-6.825857271070669,0 -78.87749163476968,-6.907598696700334,0 -78.58106556382826,-7.178897396551343,0 -78.19535077376052,-8.348431728584712,0 -77.2998692222111,-9.672045322732869,0 -73.5133442694755,-11.64168657337848,0 -72.71734547652629,-12.00502828780556,0 -72.29520476387239,-12.32445526113796,0 -72.11105334583546,-12.68981337331066,0 -72.09425137582166,-13.21270141521676,0 -72.14079055228869,-13.58153400296768,0 -71.91534951025342,-14.02674564316261,0 -71.28505152960828,-14.94471899636307,0 -70.99716681454453,-15.00736254303141,0 -70.50072896218737,-15.01756143465597,0 -69.90268247149359,-15.66022469803546,0 -69.74352387872544,-15.98740444691426,0 -69.78742003423491,-16.71140525551322,0 -69.68416319568776,-16.93838735352072,0 -69.06912720301475,-17.41156768891161,0 -68.68597319151286,-17.8667328094245,0 -68.52231931736309,-18.42255545210115,0 -68.32541366438871,-18.9012388532677,0 -68.34585913531556,-19.27173599343125,0 -68.61158072864726,-20.17785151342919,0 -68.78592442644651,-20.60139427645242,0 -68.84935130610202,-21.38178217586287,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route6</name>
+					<styleUrl>#msn_ylw-pushpin351</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-68.84763467012243,-21.3809153204779,0 -68.73809112082131,-22.52315899851158,0 -68.29185601886506,-23.45215031484872,0 -66.33704094629465,-24.01241879438743,0 -64.96198007426283,-23.78102489773705,0 -61.7572412494554,-23.72549040268632,0 -59.60670092849187,-23.81000270924237,0 -57.54437189300237,-24.47595748733486,0 -56.13234789401702,-24.16372993037746,0 -53.92665971539584,-24.78338191909491,0 -53.2967830105152,-24.84304998921301,0 -52.7367056168706,-25.63789431666686,0 -50.47507356713633,-25.18537485818053,0 -49.64455186616104,-24.96526909735745,0 -48.95467230428896,-24.75501169521396,0 -47.54659047880708,-24.32887355174593,0 -44.67492991556512,-23.53557269697196,0 -43.30459943126832,-23.77138193712084,0 -41.21833985875299,-23.76768195368569,0 -37.42320936633578,-23.26489214171901,0 -36.25221031040871,-23.16310137210823,0 -35.74953099248135,-22.53674526142551,0 -34.24219062440616,-21.40239683226847,0 -32.63532027417584,-20.20611190374534,0 -32.03936402764402,-19.39137376860302,0 -32.08349634460895,-18.60044678800006,0 -32.47938897277859,-18.32734765232624,0 -34.10305165375913,-17.76602732162068,0 -38.62518811336634,-16.80554180537511,0 -40.64376977017503,-16.87113218714653,0 -42.38500955423155,-17.37907533075673,0 -43.55005116843948,-17.33091582214316,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route7</name>
+					<styleUrl>#msn_ylw-pushpin470</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-43.55181598374446,-17.3335106875774,0 -44.34635396289932,-17.65928613585024,0 -45.40896436045706,-17.85608258202335,0 -45.81068659704576,-17.71603020411915,0 -46.39905465078755,-17.00597507913953,0 -46.76579076972525,-15.98558542950047,0 -46.68661577305597,-15.50761179692225,0 -46.26286323305419,-15.32418551187531,0 -45.76461378343189,-14.96629616184281,0 -45.45323199674818,-14.52423631763119,0 -45.45130962398227,-14.2109308304308,0 -45.5075404769523,-13.80075699717284,0 -45.63873180909734,-13.45516765187193,0 -45.8306191918455,-12.88664474977344,0 -46.2085004197938,-12.45067766558426,0 -46.56095586463507,-12.34475194644136,0 -46.87435733107867,-11.88508701162347,0 -47.40223284366573,-11.6368279098714,0 -47.65562327047672,-11.49630112619233,0 -47.66942143654048,-11.1749686851928,0 -47.86333845006428,-10.99987870413013,0 -48.15910684301185,-10.91084782389592,0 -47.89645888546941,-10.82335164483144,0 -47.78974211607571,-10.71109896364565,0 -47.66819378920606,-10.58919462917334,0 -47.52569439000106,-10.23674711226691,0 -47.3908394554965,-9.853835508851569,0 -47.28147684479059,-9.464515911535024,0 -47.14669656052622,-9.103930229488281,0 -47.15110582634603,-8.869590737414223,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route8</name>
+					<styleUrl>#msn_ylw-pushpin46</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.15074175633627,-8.868120621140546,0 -47.16673969633789,-8.762947058802627,0 -47.26845651242336,-8.596863741159948,0 -47.27969512953235,-8.197845206005377,0 -47.18390514344843,-8.050477066289078,0 -46.88016277971465,-7.984665033613301,0 -46.32295322630224,-8.022475057339225,0 -45.71247066535612,-8.235428370556553,0 -45.05361043482409,-8.503033054790326,0 -44.4992077152354,-8.56387766972127,0 -43.99937131117279,-8.382036297942172,0 -43.71053305655531,-8.221531505086176,0 -43.36362073025059,-7.792866195029702,0 -43.11642641787197,-7.229138770177521,0 -42.92607085121358,-6.206202945071278,0 -43.94289003059283,-4.15011655803045,0 -44.81079942029715,-3.481330749191827,0 -45.7307885892907,-3.341332883009669,0 -46.13294880139387,-3.190175183367077,0 -46.52892712528316,-2.851072638550532,0 -46.40069627815267,-2.654786600208386,0 -45.84473930503392,-2.534361827172916,0 -43.34662572740709,-2.896228239681302,0 -42.78651072832572,-2.801201868594891,0 -42.30441830232831,-2.293557260090184,0 -42.72290374345234,-1.448285671934131,0 -43.11526904261484,-0.9921808611352361,0 -42.90806823945152,-0.5052717752382823,0 -41.70121370656957,-0.3721647286269579,0 -40.46018508628549,0.2369279872085481,0 -40.00011717639253,0.5375812740262246,0 -39.80544809635124,0.7982549991088651,0 -39.72786510479761,1.164495643503296,0 -39.75673617877677,1.440813688792084,0 -39.93705875639877,1.653999879385294,0 -40.09030710929943,1.787352427592974,0 -40.26550827888079,1.835753861642805,0 -40.43416047287204,1.660116963442043,0 -40.2093983387659,1.749289422705372,0 -39.77316810852708,1.818120798436094,0 -39.44063205375118,2.187751064740719,0 -39.19306834218451,2.611266003454584,0 -38.7283975008411,2.568226654773167,0 -38.2672184498448,2.701540568222341,0 -37.81502686951815,3.509201476007195,0 -37.27014985296862,4.486386749958625,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route9</name>
+					<styleUrl>#msn_ylw-pushpin570</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-37.26684686547689,4.493559591870059,0 -37.28203916172298,4.770025766132884,0 -37.36062995187226,5.407552276108213,0 -37.84888123062312,5.796784631422283,0 -38.05927924990779,6.660220216997048,0 -38.72068162517657,7.682961072944433,0 -39.98714490174203,7.673688407655988,0 -45.17501294460258,6.671310778994724,0 -46.70357603649651,6.120883073642335,0 -48.40503954631775,7.152761136960072,0 -49.50808620339506,8.24580574219476,0 -49.63481094452,9.231746633740707,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route10</name>
+					<styleUrl>#msn_ylw-pushpin85</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-49.6293307864829,9.222098781654376,0 -48.99049677024829,10.13708831804855,0 -49.1160424361685,10.47107463417619,0 -48.98101050017083,10.73889061761922,0 -48.67203792749883,10.85977535475954,0 -48.25133856682971,10.92276045290928,0 -47.79731930463868,11.07949146440796,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route11</name>
+					<styleUrl>#msn_ylw-pushpin27</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.79726122657497,11.07880174837897,0 -48.25526555149693,12.08054098276824,0 -47.67373267682766,13.11880450682971,0 -46.31949296440135,13.75136826539415,0 -46.08397949753182,13.80316779569196,0 -45.99968771659634,13.86095393611229,0 -45.93181469924639,13.93181871059508,0 -45.89303059625534,14.15264167791186,0 -45.88650728020323,14.88443474324643,0 -46.7686828925982,16.35271178314967,0 -47.56121632944991,17.23489491309006,0 -47.52299788066913,17.68097780012513,0 -46.88711270486186,18.83830422112674,0 -46.56082202261956,19.58676810539946,0 -46.5173300537521,20.0562455131142,0 -47.15348242941455,20.47376196497368,0 -47.83954540882915,20.6776664492676,0 -49.11293017999044,20.18604929280618,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>offizielle Myranor-Route12</name>
+					<styleUrl>#msn_ylw-pushpin331</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-49.11641364722459,20.17919672877716,0 -49.01609890732402,20.28950712408591,0 -49.04631450342505,20.46059249218616,0 -49.20239310348944,20.64188820199701,0 -49.43649489715394,20.82978233878188,0 -49.87234787612641,20.86330442777259,0 -50.26904141503664,20.78704792862497,0 -50.76940236795362,20.75205774067315,0 -51.1776028282835,20.85753956364204,0 -51.64372389351335,20.90945290542506,0 -51.96688647438333,20.93326431164994,0 -52.16128130717583,20.92932682190559,0 -52.0389959943446,21.23867275110849,0 -51.94370051204759,21.6298424348115,0 -51.81151903447318,21.84940039200764,0 -51.62224122097916,22.06232142130382,0 -51.39051861859694,22.20808460302306,0 -50.53395149863286,21.66327402765541,0 -49.80257020547764,21.41651727434717,0 -48.97745730823522,21.29585717500116,0 -48.28111658722105,21.15616051062736,0 -47.65797180732953,20.830363668095,0 -46.38228782761259,20.04997121421654,0 -44.81796781337222,19.34839019192138,0 -43.19867254511382,18.8790552750559,0 -38.48769600429382,22.07513398896615,0 -24.50904120266323,29.69372117296787,0 -1.388409517623782,26.12937026168537,0 -1.245494089949467,26.36418837457508,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>offiziell beschriebene Punkte der Expedition</name>
+				<open>1</open>
+				<Placemark>
+					<name>Start der 1. Harika-Expedition auf Korelkin</name>
+					<description>Vorbereitungen der Expedition:
+Im Rondra 19 Hal wird Harika offiziell für tot erklärt, angeblich hätten währe ihr Schiff vor der Küste Traheliens angegriffen und versenkt worden. Dies ist ein Täuschungsmanöver um die Expedition ungestört vorbereiten zu können.
+
+Auf der Insel Korelkin wird drei Jahre lang die Expedition vorbereitet, Ziele sind, die Küste des Riesland´s zu erkunden und möglicherweise eine Ostpasage ins Güldenland zu finden.
+
+Im Frühling 22 Hal (1015 BF)  läuft die Expedition mit den Altoum-Winden aus, Kurs hart Nord...
+Zusammensetzung: Die Schivonellen &quot;Prinzessin Lamea&quot; und &quot;Gylduria von Bethana&quot; sowie die Karavelle &quot;Avesfreund&quot;
+
+Besatzung: insgesamt 189 Frauen und Männer
+Persönlichkeiten: Harika von Bethana, genannt &quot;Die Rote Harika&quot;= Admiral und Kapitän der  &quot;Prinzessin Lamea&quot;, 
+Dr. Lysvalis, Schiffsarzt, Alchimist und Metallurg, magiebegabt (Vinsalt/Heilung)
+Haridiyon Thaliyin (der Sohn des ehemaligen Seekönigs Mermydion der Zyklopeninseln)
+
+Quellen: Aventurischer Bote 43, Reise zum Horizont S. 5, Efferds Wogen S.63</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>18.32333176156128</longitude>
+						<latitude>27.26353683462625</latitude>
+						<altitude>0</altitude>
+						<range>62704.0676774943</range>
+						<tilt>0</tilt>
+						<heading>-3.118635016954225</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target</styleUrl>
+					<Point>
+						<coordinates>18.26040277777778,27.23893702050625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>gigantische, felsige Steilküste etwa auf der Breite Vallusas...</name>
+					<description>Die Expedition trifft auf eine 1500 Schritt hohe Steilküste, mit dahinter liegenden Vulkanen. Aufgrund der sehr gefährlichen Brandung nähert man sich der Küste nicht und fährt weiter über den offenen Ozean Richtung SO.
+
+Die Meeresströmung und der beständige Südwest
+haben uns weit in den Norden hochgetragen, so dass wir
+uns laut Quadrant und Foliant auf der Höhe von. Vallusa
+befinden. Weit im Norden können wir schwarze Klippen
+erkennen., die sich, wenn unsere Peilung stimmt, fast
+anderthalb Meilen hoch aus dem Meer erheben. Über den
+Klippen stehen dicke, gelb-schwarze Rauchsäulen von
+vielen Meilen Höhe, während am Fuß der Klippen die
+Gischt tobt – und wenn auch hier unser Maß richtig ist,
+können wir Efferd danken, dass Wind und Wogen uns
+nun wohl von der Küste fernhalten wollen und wieder
+gen Südosten führen, denn was dort aufschäumt, müssen
+Brecher von mindestens achtzig Schritt Höhe sein..
+
+Quellen: Efferds Wogen S.64, Geographia Aventurica S.98</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>18.31846946583955</longitude>
+						<latitude>33.93210159158249</latitude>
+						<altitude>0</altitude>
+						<range>33013.93096601551</range>
+						<tilt>0</tilt>
+						<heading>-3.223448277843765</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target39</styleUrl>
+					<Point>
+						<coordinates>18.26084120621643,33.87540640911527,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eilande im Perlenmeer...</name>
+					<description>Harika berichtet, das sie auf der Reise nach SO einige kleine Inseln im Perlenmeer findet. Dies könnten die Perlwasser-Inseln gewesen sein.
+
+Quellen: Efferds Wogen S.64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>28.26278848364911</longitude>
+						<latitude>30.35561630332692</latitude>
+						<altitude>0</altitude>
+						<range>81490.91370916984</range>
+						<tilt>0</tilt>
+						<heading>-9.545505768569747</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target54</styleUrl>
+					<Point>
+						<coordinates>28.05487853249275,30.32654955749328,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>tropische Küste mit grünhaarigen feindlichen Eingebohrenen...</name>
+					<description>Harika berichtet, das sie auf der Höhe Thalusa (22°47&apos;21.93&quot;N) auf eine N-S verlaufende tropische Küste mit feindlichen Eingebohrenen trifft. Sie muss die Küste jedoch schon etwas nördlicher als Thalusa gefunden haben (wahrscheinlich ein leichter Navigationsfehler)
+Hier münden auch mehrere große Flüsse ins Meer.
+
+&quot;Sichteten wir Land im Osten, das sich über viele
+Meilen von N nach S zog und in das einige breite
+Wasserarme oder Flussmündungen hineinführten. Am Ufer
+konnten wir Boote erkennen, die wohl aus drei Rümpfen
+bestanden und zwei Masten nebeneinander trugen. Esindio
+vermutete ob der Farbe des Holzes, dass es sich um Boote
+aus Vizrangyi-Holz handele.
+Als sie uns wohl auch erkannten., sprangen viele der
+Menschen
+am Ufer in die Boote und hielten mit diesen auf uns zu,
+wobei sie ab einer Entfernung von geschätzt einer Meile
+mit Speerschleudern auf uns schossen, jedoch knapp zu
+kurz lagen.
+Auf nächste Nähe, die wir sie herankommen ließen,
+konnten wir erkennen, dass ihr Haar von grüner Farbe, ihre
+Haut wie altes Messing war. Darüber trugen sie nichts
+außer langen, schwarzen Röcken, die an der Seite geschlitzt
+waren, und einer geschwärzten. Brustplatte. Gut drei
+Viertel von ihnen waren Frauen.
+Wir fielen gen Süden ab und entkamen mit gutem Wind.
+An einem Speer, der in unserer Bordwand steckte, konnten
+wir Zauberzeichen oder eine Schrift erkennen, wiewohl
+Esindio behauptete, keine `Residualstrahlung&apos; festzustellen.
+(Allein, es waren bis zur Untersuchung auch schon einige
+Stundenvergangen.) &quot;
+
+Quellen: Efferds Wogen S.64, Geographia Aventurica S.100</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>41.22545089410177</longitude>
+						<latitude>23.95112599309354</latitude>
+						<altitude>0</altitude>
+						<range>37595.22179743353</range>
+						<tilt>0</tilt>
+						<heading>5.448890398352076</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target85</styleUrl>
+					<Point>
+						<coordinates>41.09097693590562,23.94297033630441,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>...nach S, grade so in Sichtweite der Küste</name>
+					<description>Da Harika wegen der feindlichen Eingebohrenen nur da an Land geht wo sie keine Zivilisation bemerkt, und sich nur grade so in Sichtweite der Küste hält, entgeht ihr offenbar, das es sich hier um keine N-S verlaufende Landzunge handelt, wie sie beschreibt, sondern um eine N-S Kette großer Inseln!
+Anscheinend fährt sie nie in eine der &quot;Buchten&quot; ein, die zwischen den Inseln liegen, dies könnte auch an den ungünstigen Winden liegen...
+Sie folgt der Inselgruppe bis kurz vor Breite des Äquators..
+
+&quot;Sichteten wir Land im Osten, das sich über viele
+Meilen von N nach S zog und in das einige breite
+Wasserarme oder Flussmündungen hineinführten&quot;
+
+Quellen: Efferds Wogen S.64, Geographia Aventurica S.100</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>42.49244302501199</longitude>
+						<latitude>13.81413181574064</latitude>
+						<altitude>0</altitude>
+						<range>329025.6317571197</range>
+						<tilt>0</tilt>
+						<heading>-2.411618039799059</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target64</styleUrl>
+					<Point>
+						<coordinates>42.22339238150028,13.20765371470872,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schaffen es nicht die Landzunge zu umrunden...</name>
+					<description>Aufgrund falscher Winde, die anscheinen beständig aus Richtung NE oder gar nicht wehen, schafft es Harika nicht die Spitze der Inselgruppe, die von ihr immer noch für eine Landzunge gehalten wird, zu umrunden.
+
+Harika ist in das Gebiet der äquatorialen Kalmen, geraten, wo das Wasser extrem salzig wird und die Luft unerträglich feuchtheiß. Beständiger Nebel erlaubt nur noch eine Navigation per Instrument...
+Zeitweise muss das Boot per Beiboot geschleppt werden, es gibt viele Verluste innerhalb der Mannschaft.
+
+&quot;Die Zone der Kalmen ist weiter ausgedehnt, als
+wir befürchteten. Seit drei Tagen nichts als heißer Nebel
+bis zur Mittagsstunde, dann eine kurze Zeit heißer Winde,
+dann heißer Wolkenbruch. Insgesamt mittlerweile fast drei
+Quader Salz von den Rümpfen abgeschlagen – Teile der
+Kupferplatten bereits arg angegriffen. Die Seeleute, die die
+Schiffe von unten betrachten sollten, haben
+Schwierigkeiten, ins Wasser einzutauchen, und im Licht
+der Gwen Petryl glauben sie, riesige, rochenähnliche
+Schatten in der Tiefe gesehen zu haben.&quot;
+
+Schließlich, nachdem sie fast zwei Wochen kaum von der Stelle gekommen ist, gibt Harika auf und läßt sich nach Süden abdriften...
+
+Quellen: Efferds Wogen S.64, Geographia Aventurica S.101</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>44.60381094654321</longitude>
+						<latitude>2.871525060448535</latitude>
+						<altitude>0</altitude>
+						<range>172728.6038439733</range>
+						<tilt>0</tilt>
+						<heading>-2.662777349972062</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target45</styleUrl>
+					<Point>
+						<coordinates>44.51264294128431,2.907310528552522,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Segeln weit nach Süden...</name>
+					<description>Harika überwindet das Gebiet der Kalmen und segelt sehr weit nach Süden, über den Äquator und Südlichen Wendekreis hinaus...
+Dabei wird von allerlei seltsamen Funden auf und im Meer, jedoch von keiner Landsichtung offiziell berichtet.
+
+&quot;den Berichten der Weltfahrt der Prinzessin Lamea
+entstammen Beobachtungen, die von Albatrossen&apos; mit
+geschätzten acht Schritt Spannweite, von gehörnten und sehr
+schmackhaften Perlbeißern, ja, sogar von roten Segeln (in
+Form einer Hummerschere) am Horizont berichteten – ja, im
+Magen eines krakenmolchähnlichen Wesens konnte gar ein
+Unterarm einer humanoiden Kreatur gefunden werden:
+unbehaart, von schneeweißer Farbe und von einer Größe, wie
+man sie in Aventurien Trollen zuschreibt ...&quot;
+
+Quellen: Efferds Wogen S.64, Geographia Aventurica S.102</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>43.310636972655</longitude>
+						<latitude>-8.057450316814212</latitude>
+						<altitude>0</altitude>
+						<range>7071.949278907183</range>
+						<tilt>0</tilt>
+						<heading>3.737296626977011</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target3</styleUrl>
+					<Point>
+						<coordinates>43.29850830823982,-8.057977973796241,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Insel Nova-Albernia...</name>
+					<description>Harika entdeckt schließlich weit im Süden eine anscheinend unbewohnte Insel in der Größe einer Grafschaft, die sie Nova-Albernia nennt und für das Horasreich in Besitz nimmt. Von einem hohen Berg im Süden der Insel, welcher Prinz-Timor-Spitze getauft wird, kann sie in der Ferne Eisberge beobachten. Von hier aus läßt sie wieder Kurs ONO setzen.
+
+&quot;... Eine erste Umrundung der Insel ergab eine
+geschätzte Fläche von der Größe einer Grafschaft.
+Kulturschaffende Zweibeiner konnten wir ebensowenig
+erkennen wie größere Tiere, aber eine Vielzahl von sehr
+großen Möwen nistet in den steilen Klippen, und wir
+konnten auch einige sechsbeinige Murmeltiere erschlagen.
+Wir hissten das Adlerbanner und nahmen die Insel als
+Nova Albernia – weil sie in der Art ihrer Pflanzen und des
+Klimas dem Land meiner Vorfahren so ähnelt – in Besitz
+ihrer horaskaiserlichen Majestät. Als wir uns vom Gipfel
+eines hohen Berges aus (wo wir geringe
+Mengengediegenen Goldes in einem kleinen Bach fanden)
+das umliegende Meer besahen, konnten wir mit dem
+Meulenar-Glase im Süden drei treibende Eisberge
+ausmachen. Ließ Kurs ONO setzen. &quot;
+
+Quellen: Efferds Wogen S.64, Geographia Aventurica S.102</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>40.67597103098249</longitude>
+						<latitude>-29.1407214127714</latitude>
+						<altitude>0</altitude>
+						<range>5919.930965369185</range>
+						<tilt>0</tilt>
+						<heading>2.494130439334933</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target6</styleUrl>
+					<Point>
+						<coordinates>40.68550414971386,-29.13952940947691,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Die Andere Seite Deres?</name>
+					<description>Bis jetzt gibt es keine offiziellen oder inoffiziellen Informationen darüber, wie es die Expedition der Harika geschafft hat die riesige Entfernung (etwa 17.759,52 km) zwischen der Insel Nova-Albernia und dem Westen Myranors zu überwinden...
+
+Der hier vorgeschlagene Weg der Expedition ist reine Spekulation...</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>144.5899634226063</longitude>
+						<latitude>-0.1580580910420512</latitude>
+						<altitude>0</altitude>
+						<range>148906.5972922275</range>
+						<tilt>0</tilt>
+						<heading>-0.04940971597541484</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target10</styleUrl>
+					<Point>
+						<coordinates>144.2023595810947,-0.09168988631139156,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ankunft im Westen Myranors, Sichtung der &quot;Gleißenden Stadt&quot;</name>
+					<description>Harika die Rote entdeckte die Ruinen dieser Stadt auf ihrer ersten Güldenlandexpedition.
+Dabei beschreibt sie eine etwa zweihundert
+Meilen von der Steilküste entfernt liegende Stadt, gleißend wie die Zitadelle von Alveran, deren Mauern geborsten sind, und welche sich über den Wolken befinden soll, da das wüstenhafte Land von der Küste zum Landesinneren hin immer weiter ansteigt.
+
+&quot;... sahen wir endlich Land am Horizont, doch als
+wir näher kamen, erkannten wir, dass sich die Felsenküste
+wohl eine Meile aus dem Meer erhob; das Land dahinter –
+eine karge Wüste – stieg noch weiter an bis zu den
+Wolken. Als die Wolken aber auf rissen, erkannten wir in
+der Höhe die Mauern einer Stadt, wohl zweihundert
+Meilen entfernt, gleißend wie die Zitadelle von Alveran.
+Doch die Mauern waren geborsten. ...
+Nach zwei Tagen Nord sahen wir einen breiten Fluss von
+der Höhe der Klippe herunterstürzen. Die Farbe des
+Stromes war von solch leuchtendem Grün, dass das Meer
+auf Meilen hinaus eingefärbt wurde ...
+Gen Norden senkt sich die Klippe und macht langsam
+einem urtümlichen Waldland Platz. Hart S von uns stürzt
+ein weiterer Fluss ins Meer, diesmal gelb von Lehm. Hart
+N liegt eine Insel, die von Steppengras bedeckt ist und
+keinerlei Spuren von Zivilisation aufweist. Folgen dem
+Küstenverlauf. &quot;
+
+Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-139.2868024324033</longitude>
+						<latitude>5.444177999618663</latitude>
+						<altitude>0</altitude>
+						<range>627016.5020477473</range>
+						<tilt>0</tilt>
+						<heading>-2.808103402860484</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target4</styleUrl>
+					<Point>
+						<coordinates>-140.0713774282586,4.58546096478765,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sichtung des &quot;Grünen Flusses&quot;</name>
+					<description>Harika die Rote entdeckte die Mündung dieses Flusses auf ihrer ersten Güldenlandexpedition, sein wahrer Name ist unbekannt.
+Dabei beschreibt sie eine einen breiten Fluss, der sich von
+den 1000 Schritt hohen  Klippen der Steilküste herunterstürzt, und dessen Farbe das Meer auf Meilen hinaus grün eingefärbt.
+Im Nordteil der Insel soll die Höhe der Steilküste abnehmen und die Wüste einem Waldland platz machen.
+
+Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-139.2868024324033</longitude>
+						<latitude>5.444177999618663</latitude>
+						<altitude>0</altitude>
+						<range>433958.3556470886</range>
+						<tilt>0</tilt>
+						<heading>-2.808103402860488</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target122</styleUrl>
+					<Point>
+						<coordinates>-140.0409961743941,5.597869262975247,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sichtung des &quot;Gelben Flusses&quot; und der Steppengras-Insel</name>
+					<description>Harika die Rote entdeckte die Mündung dieses Flusses auf ihrer ersten Güldenlandexpedition, sein wahrer Name ist unbekannt.
+Dabei beschreibt sie eine einen Fluss, der sich von
+den Klippen der Steilküste herunterstürzt und dessen lehmiges Wasser das Meer gelb eingefärbt.
+
+Der wahre Name der nördlichen Insel ist unbekannt, Harika die Rote entdeckte die Insel auf ihrer ersten Güldenlandexpedition.
+Sie soll unbewohnt und von einer Grassteppe bedeckt sein.
+Quelle: Geographia Aventuria S. 105
+
+Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-137.5654082472788</longitude>
+						<latitude>10.75993696663806</latitude>
+						<altitude>0</altitude>
+						<range>252414.3823286177</range>
+						<tilt>0</tilt>
+						<heading>-2.554404784088097</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target34</styleUrl>
+					<Point>
+						<coordinates>-137.8794876461998,11.46865740459007,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;....folgen dem Küstenverlauf&quot;</name>
+					<description>Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-133.8966360607321</longitude>
+						<latitude>11.41379606905079</latitude>
+						<altitude>0</altitude>
+						<range>1008934.787577397</range>
+						<tilt>0</tilt>
+						<heading>-1.902934371745219</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target53</styleUrl>
+					<Point>
+						<coordinates>-136.0128732400932,13.46037928153073,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Möglicher Treffpunkt mit den &quot;Kupferhaarigen Wilden&quot;</name>
+					<description>Harika die Rote entdeckte auf ihrer ersten Güldenlandexpedition einen Landstrich der von kupferhaarigen, braunhäutigen Wilden bewohnt ist, welche außer ihren langen Haaren keine Kleidung tragen, kein Eisen kennen, jedoch Gold schmelzen können. Aus den Aufzeichnungen geht hervor, dass dieses Volk Handels-Kontakt mit einem Volk hat, welches sich mit der Verarbeitung von Chitin und Eisen auskennt (Ban-Bargui ?) und sich anscheinend vor Elfen fürchtet (Shakagra von Pardona?).
+Auch soll es in diesem Land sehr warm sein. Diese Aussagen lassen vermuten, dass das Treffen mit diesem Volk irgendwo an dieser Küste statgefunden haben könnte.
+
+»Zwar trugen die Wilden keine Kleidung außer ihrem
+Haar, das Männern wie Weibern oft bis zur Hüfte reichte
+(was ob der Hitze des Landes nicht verwunderte), dafür
+aber vielerlei Geschmeide aus noch fast rohen
+Edelsteinen (dafür aber bis zur Größe eines Taubeneis)
+und fein getriebenem Gold. Sie waren ohne Arg und
+zeigten Interesse an den. Messern und Scheren., die wir
+geladen, und waren wohl zu gutem Tausch bereit.
+Als aber Tanarion von Bord kam, um zu begutachten, ob
+ein Teil ihres Schmuckes wirklich Mondsilber sei, da
+erhoben sie ein großes Geschrei, zeigten mit Fingern auf
+ihn und liefen fort, die Handelsware im Sand
+zurücklassend. Und als wir uns noch wunderten und
+gerade ihr Gold und unsere Eisenwaren an uns nehmen
+wollten, da begannen sie, vom Waldrand aus, mit Pfeilen
+nach uns zu schießen – sie hatten ihre Bögen wohl dort
+verborgen gehalten.
+Wir retirierten mit dem, was wir tragen konnten, zu den
+Booten, wobei jedoch die Söldnerin Frenja von einem
+Pfeil im Bein getroffen wurde.
+Als am nächsten Morgen Frenja an einem Gift, das wohl
+in der Wunde war, unter Qualen verstarb, erboste sich
+ihre geliebte Thorenja und wollte Tanarion mit ihrer Axt
+den Schädel spalten, um das &apos;spitzohrige Unglück&apos; von uns
+abzuwenden. Ich ließ Thorenja überwältigen und für drei
+Tage in Eisen legen.&quot;
+
+»Nachbemerkung zu den am [Zeit] beschriebenen
+kupferhaarigen., braunen. Wilden: Eine Untersuchung
+ihrer Schmuckstücke ergab laut den Aussagen von Doctor
+Lysvalis erstaunliche Inkonsistenzen. Ein Teil – wohl der
+von ihnen selbst gefertigte – ist von einfacher und
+schöner Machart, verrät dem Kundigen aber, dass sie zwar
+das Goldschmelzen, nicht aber die Eisenverhüttung
+kennen; ein (geringerer) Teil scheint wohl eingetauschte
+Ware zu sein, die von einem Volke stammt, das sich auf
+die Gravur von schillernden Käferpanzern versteht, sehr
+geschickt in der Verhüttung und Verschmiedung des
+Eisens ist und sich auf seltsamen zweibeinigen Reittieren
+mit langem Hals und langem Schwanz (so legen es die
+Gravuren nahe) voranbewegt.
+
+Siehe &quot;EINE SELTSAME BEGEBENHEIT&quot;
+Quelle: Geographia Aventuria S. 105</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-125.0533360415245</longitude>
+						<latitude>18.08459174791155</latitude>
+						<altitude>0</altitude>
+						<range>343613.0311928363</range>
+						<tilt>0</tilt>
+						<heading>0.5895417725634452</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target69</styleUrl>
+					<Point>
+						<coordinates>-124.8631023532732,18.43634265038312,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Möglicher Standort der Ban Bargui Stadt Bjöngku</name>
+					<description>Harika die Rote entdeckte auf ihrer ersten Güldenlandexpedition die Stadt Bjöngku in der Ban Bargui leben. Sie wird beschrieben als ein mobiles Lager der Ban Bargui, welches um einen riesigen &quot;Termitenbau&quot; errichtet wurde. In diesem &quot;Termitenbau&quot;, (einem alten Chratack Nest ?) haben es sich die Ban Bargui häuslich eingerichtet. Es wird beschrieben, dass sich die Steppen der Ban Bargui von hier nach Norden und Nordosten erstrecken (weshalb die Stadt hier an diesem Kap liegen könnte)
+
+... Haben an der Küste einen hohen Turm erkannt
+und halten auf ihn zu. Zwei Stunden später: Turm ist
+sicherlich 80 Schritt hoch und erinnert an einen
+mhanadischen Termitenbau. Um den Turm eine Stadt oder ein großes Lager.
+Können keine Befestigung erkennen.; Bewohner scheinen
+uns bemerkt zu haben, denn es ist Bewegung in den Ort
+gekommen.. Haben die drei Schiffe auf der Außenreede
+geankert, da kein echter Hafen vorhanden. Verschärfter
+Wachzustand angeordnet. Begebe mich mit einigen
+Offizieren und Mannschaften in die Boote, um
+hinüberzurudern.
+Nachts: Trotz herzlicher Einladung an Bord
+zurückgekehrt; habe Alrigio und sechs Leute von der
+Besatzung als Repräsentanz an Land gelassen.
+Die Ban Bargui, wie sie sich selbst nennen und was wohl
+&apos;Kinder des Windes&apos; bedeutet, sind von schlankem, häufig
+athletischem Wuchs, um neun. Spann groß (bisweilen auch
+größer), von fast nachtschwarzer Hautfarbe und mit einer
+Unmenge Haupthaar gesegnet, das in verschiedensten
+metallischen Farben. – vornehmlich kupfern und golden,
+aber auch blaue und silberne Töne kommen vor – schillert.
+Sie weisen scharf geschnittene Gesichtszüge, leicht
+schrägstehende Augen und langgezogene, aber nicht
+spitze Ohren auf.
+Sie kleiden sich, Männer wie Weiber, in weiche, lederne
+Reithosen, die meist reich und vielfarbig bestickt sind,
+dazu Reitstiefel, jedoch mit Absatz. Am Oberkörper
+tragen sie kurze, ebenfalls reich bestickte Westen. (die
+Frauen bisweilen darunter ein Brusttuch), deren Machart
+wohl die Zugehörigkeit zu einem der großen Stämme oder
+der kleineren Sippen anzeigt. Als Kopfbedeckungen tragen
+sie entweder nichts oder hauch-dünne Seidenschleier, aber
+sie haben auch eng anliegende Lederkappen für
+harscheres Wetter. Ihre Rüstungen, die sie mir stolz
+präsentierten, bestehen zumeist aus einer festen, stählernen
+Brustplatte, an die frei fallend Schuppengeflecht angenietet
+ist; dazu tragen sie eng anliegende, nach oben
+konisch verlaufende Helme. Ihre Waffen sind meist eine
+Form von Schnittern oder kurzen Hellebarden, die auch
+für einen. Reiter – und das scheinen fast alle hier zu sein –
+von Nutzen ist; ihre Dolche sind den unseren sehr ähnlich;
+an Fernwaffen ver-wenden sie Hornbögen mit einer
+erstaunlichen Reichweite und Durchschlagskraft.
+Ihre Stadt Bjöngku weist nur wenige feste Gebäude auf,
+denn sie scheint eher ein Handelsposten oder Winterlager
+für dieses Volk zu sein. Statt dessen haben wir eine Unzahl
+von großen Wagen gesehen, die meist von schweren
+Pferden gezogen wer-den, dazu Koppeln mit
+zweibeinigen, gelbpelzigen Reittieren, die ein mörderisches
+Tempo erreichen können, wie ich selbst gesehen habe.
+Der hohe Turm, der aus der Nähe noch viel fremdartiger
+wirkt, wurde offensichtlich wirklich von Insekten errichtet,
+denn er weist keine Zeichen herkömmlicher Architektur
+auf, sondern ist mit Gängen und Kammern angefüllt, die
+von den. Ban Bargui nachträglich in eine für
+Menschengewöhnlichere Form gebracht und mit Möbeln
+und Teppichen verschönt wurden.
+Sie behaupten., &apos;draußen&apos; – also auf dem endlosen
+Grasmeer, das hinter der Stadt Bjöngku beginnt und sich
+nach Norden und Nordosten erstreckt – besäßen sie
+Städte, die auf hundert mal hundert Beinen liefen, was ich,mutig, aber nicht zu lenken, weswegen man ihrem Marsch
+folge. Ihre Eier, von denen sie Woche für Woche
+Hunderte absondern, böten nicht nur Nahrung, sondern
+auch Fasern, aus denen sich sowohl eine feine als auch
+eine grobe Seide verspinnen ließe. Diese Seidenarten –
+mögen sie nun vom Himmel fallen, geraubt sein oder aus
+dem Hintern eines Tausendfüßlers stammen – sind
+fürwahr die beste Handelsware, die uns bislang begegnet,
+zumal sie auch für einen deutlich geringeren Preis als im
+schandbaren Al`Anfa gehandelt wird ...
+Die Ban Bargui scheinen in steter Fehde mit einem Reich
+weiter im Osten zu liegen, das wohl einst den gesamten.
+Kontinent beherrschte, nun aber viele Ländereien an
+Rebellen verloren habe. Da die Bewohner dieses Reiches,
+das `mit fahrenden Schiffen&apos; und `künstlichen Vögeln&apos;, uns
+wohl ähnlich sehen und eine verwandte Sprache sprechen,
+war Tugmak wohl zuerst misstrauisch uns gegenüber, ließ
+sich aber überzeugen., dass wir von jenem Reich noch
+niemals gehört haben. (Ich vermute jedoch, dass dies das
+Imperium von Cantera ist, von dem aus ältester Zeit
+berichtet wird und das einst die Hjaldinger unterwarf und
+auch Schiffe gen Westen sandte ...)
+
+Quelle: Geographia Aventuria S. 105-106
+
+Weitere Beschreibungen der Ban Bargui aus dem Lamea-Logbuch
+Quelle: Myranor HC S. 93
+
+Weitere Beschreibungen der Chrattac aus dem Lamea-Logbuch
+Quelle: Myranor HC S. 64 u. 94-95</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-114.4600948840237</longitude>
+						<latitude>9.761759702273794</latitude>
+						<altitude>0</altitude>
+						<range>329568.8506305028</range>
+						<tilt>0</tilt>
+						<heading>4.567859337953888</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target14</styleUrl>
+					<Point>
+						<coordinates>-115.0394576391595,9.920367356292019,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;... Die Fjordküste ist hinter uns im N zurückgefallen&quot;</name>
+					<description>&quot;... Die Fjordküste ist hinter uns im N zurückgefallen&quot;
+
+Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 106
+
+An dieser Fjordküste soll Harika fast Schiffbruch erlitten haben, weshalb die Kartierung aufgegeben wird
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-103.0892776595686</longitude>
+						<latitude>4.946990807196901</latitude>
+						<altitude>0</altitude>
+						<range>472611.9298518272</range>
+						<tilt>0</tilt>
+						<heading>4.593752937240875</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target71</styleUrl>
+					<Point>
+						<coordinates>-103.7663451890997,5.267794306486473,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...während sich an der Südküste in Richtung ONO - O ...&quot;</name>
+					<description>&quot;...während sich an der Südküste in Richtung ONO - O nun
+schier endlose Wälder erstrecken.&quot;
+
+Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 106</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-104.3804723287635</longitude>
+						<latitude>0.9245773610943581</latitude>
+						<altitude>0</altitude>
+						<range>323439.1520770395</range>
+						<tilt>0</tilt>
+						<heading>4.579086763448412</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target72</styleUrl>
+					<Point>
+						<coordinates>-104.5081588242273,0.7478268796353447,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...um in die Mündung eines riesigen Flusses einzufahren&quot;</name>
+					<description>&quot;...um in die Mündung eines riesigen Flusses einzufahren, der mit
+einer trägen Strömung gelbbraunes Wasser viele Dutzend
+Meilen ins Meer spürt.&quot;
+
+Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 106</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-107.8961758947996</longitude>
+						<latitude>2.923561294014377</latitude>
+						<altitude>0</altitude>
+						<range>344984.5731239397</range>
+						<tilt>0</tilt>
+						<heading>4.723152625001808</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target41</styleUrl>
+					<Point>
+						<coordinates>-107.4271641505317,3.21270753254776,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Wir haben uns zurück nach NW gewandt...&quot;</name>
+					<description>Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 106</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-105.8862514931052</longitude>
+						<latitude>2.3570057705201</latitude>
+						<altitude>0</altitude>
+						<range>369889.6441974396</range>
+						<tilt>0</tilt>
+						<heading>4.773223461116018</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target0</styleUrl>
+					<Point>
+						<coordinates>-106.0672053736384,2.234597384665871,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...der Strom hat sich Richtung W gewandt&quot;</name>
+					<description>... sind jetzt den dritten Tag auf dem Fluss, der von
+sieben. Meilen Breite an der Mündung auf nur noch eine
+Meile abgenommen hat. Bislang vier größere und elf kleine
+Zuflüsse; der Strom hat sich Richtung W gewandt.
+
+Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 106</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-112.7857360590606</longitude>
+						<latitude>-1.540633124166974</latitude>
+						<altitude>0</altitude>
+						<range>256401.8172666337</range>
+						<tilt>0</tilt>
+						<heading>4.81996360647805</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target83</styleUrl>
+					<Point>
+						<coordinates>-113.2556202836078,-1.684693074360231,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Kehren um, bevor wir echte Verluste
+erleiden...&quot;</name>
+					<description>21 im Krankenlager. Kehren um, bevor wir echte Verluste
+erleiden. Sind uns sicher, dass hierin den Wäldern
+Kulturschaffende wohnen, die sich uns nicht zeigen
+wollen; fanden im Fluss aber eindeutig Artefakte einer
+fremden Kultur. Höchster Baum bislang mit 450 Schritt
+trianguliert.
+
+Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-113.9195916868382</longitude>
+						<latitude>-2.540237475307609</latitude>
+						<altitude>0</altitude>
+						<range>389668.8467774497</range>
+						<tilt>0</tilt>
+						<heading>4.858445960982244</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target33</styleUrl>
+					<Point>
+						<coordinates>-114.2051046646857,-2.075716094076368,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...entlang einer O-W-Linie nur Dschungel am Ufer&quot;</name>
+					<description>Folgen wieder dem Küstenverlauf. Seit vier Tagen
+entlang einer O-W-Linie nur Dschungel am Ufer, Bäume
+werden jedoch niedriger. Viele kleinere Inseln vor der
+Küste.
+
+Siehe: VON DEN ENDLOSEN WÄLDERN
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-97.79988796092863</longitude>
+						<latitude>0.8797266001181613</latitude>
+						<altitude>0</altitude>
+						<range>706355.8109063046</range>
+						<tilt>0</tilt>
+						<heading>3.635588743740299</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target16</styleUrl>
+					<Point>
+						<coordinates>-97.98554981233289,-0.1294808503353196,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>erstes Treffen Harikas mit den Draydal ?</name>
+					<description>Harika stößt während ihrer ersten Reise möglicherweise hier auf den ersten Stützpunkt der Draydal...
+
+... Sind auf eine Ansiedlung gestoßen, die
+wie die Dschungelsforts auf den Waldinseln zwar grob,
+aber sehr organisiert wirkt. Die Bewohner scheinen
+Menschen zu sein, zumindest was Größe und Zahl der
+Gliedmaßen angeht, doch laufen sie alle in weite
+Pumphosen, Kaftane und Turbane gekleidet einher.
+Etliche sichtbare Waffen, meist säbelartig. «
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-95.77585949716837</longitude>
+						<latitude>-0.6332316010229825</latitude>
+						<altitude>0</altitude>
+						<range>121373.9875106493</range>
+						<tilt>0</tilt>
+						<heading>-4.214778431753357</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target15</styleUrl>
+					<Point>
+						<coordinates>-95.99496396566322,-0.5725436679938907,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>...befinden uns unter
+vollem Zeug auf Kurs ONO</name>
+					<description>Harika erkennt anhand der Tempel der Draydal, das diese den Namenlosen anbeten...
+
+Die Draydal scheinen eine üble
+Sklavenhaltergesellschaftschaft zu sein, denn ich sah kaum
+einen von ihnen je einen Finger rühren, wenn Arbeit zu
+verrichten war – außer, um die Peitsche zu schwingen. Dafür
+werden eine Anzahl verschiedenster Wesen – offensichtlich
+alle von Hesinde mit Vernunft gesegnet – von den
+vermummten, bleichen Draydal wie Vieh gehalten, und ich vermute, wären wir nicht in großer Zahl und in Waffen erschienen, wäre es uns ähnlich ergangen. Unter den Sklaven erkannten wir viele
+Menschen, darunter etliche Ban Bargui, aber auch solche
+von bleicher Hautfarbe und solche, die Cyclopäer oder
+Mohaha hätten sein können, dazu aufrechtgehende Katzen
+mit einem kurzen, gefleckten Fell, kleine Wesen mit sehr
+bleicher Haut und sehr schlanken Gliedmaßen (die wir
+zuerst für Kinder hielten) und eine Gruppe sehr rüde
+auftretender Wesen, deren Leib an den eines großen,
+gefleckten Schweins erinnerte, aus dem sich ein weniger
+behaarter gedrungener Menschenrumpf mit zwei Armen
+erhob, wohingegen der Kopf wieder an den eines
+Schweins erinnerte, wenn auch ihre Nase eher flach war.
+Nächster Tag: Die Draydal scheinen die Herrscher dieser
+Region zu sein und könnten unserer Weiterfahrt im Wege
+stehen, aber nachdem wir ihren Tempel, eine gestufte
+Pyramide, von innen gesehen haben und es allen
+Gelehrten klar ist, dass sie dem Namenlosen blutige Opfer
+darbringen, haben wir uns entschlossen, noch heute
+aufzubrechen.
+
+&quot;Wir haben mit wenigen gezielten Schüssen ihre
+drei Schiffe in Brand gesetzt und befinden uns unter
+vollem Zeug auf Kurs ONO.&quot;
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-94.55781940389116</longitude>
+						<latitude>-0.0472013604828082</latitude>
+						<altitude>0</altitude>
+						<range>648842.7438669971</range>
+						<tilt>0</tilt>
+						<heading>-4.221267350778932</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target9</styleUrl>
+					<Point>
+						<coordinates>-94.87185970320554,0.8770589886400667,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont</name>
+					<description>... Vor uns ein Gebirge von teilweise drei Meilen
+Höhe sowohl am S- als auch am W-Horizont, teilweise von
+Fjorden durchschnitten. Auf den Gebirgshöhen sind
+teilweise Festungen zu erkennen, über denen das goldene
+Banner der Draydal flattert ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-88.84944895386319</longitude>
+						<latitude>1.765135621904877</latitude>
+						<altitude>0</altitude>
+						<range>207283.4427963616</range>
+						<tilt>0</tilt>
+						<heading>-8.291181457352355</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target50</styleUrl>
+					<Point>
+						<coordinates>-88.63011871317769,2.006938303502908,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>...nächtens den
+Durchbruch in einen der bewachten Fjorde zu wagen</name>
+					<description>&quot;Habe mich trotz des Protestes von Kapitän Jerrago und
+anderer (beiligend) entschlossen, nächtens den
+Durchbruch in einen der bewachten Fjorde zu wagen.
+Sollte sich dieser als geschlossen erweisen, werden wir
+wohl umkehren müssen – wenn nicht, heißt`s weiter!
+Alarmzustand auf allen Schiffen befohlen. Die Beiboote
+werden bereitgehalten, um notfalls die Schiffe zu ziehen ...&quot;
+
+Quelle: Geographia Aventuria S. 107
+
+Das Gebirge der &quot;Blutgischtmauer&quot; soll bis 3 Meilen hoch und von Fjorden und Grotten durchzogen sein...
+Es gibt Stützpunkte und Festungen der Draydal...
+Auf den ersten Blick soll es unpassierbar sein...
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-86.28603447067268</longitude>
+						<latitude>1.267774678161746</latitude>
+						<altitude>0</altitude>
+						<range>427897.637593967</range>
+						<tilt>0</tilt>
+						<heading>-1.570398873972612e-014</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target5</styleUrl>
+					<Point>
+						<coordinates>-86.98879059737944,1.63801195972207,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Der genaue Bericht über den Durchbruch fehlt...</name>
+					<description>Der genaue Bericht über den Durchbruch fehlt an dieser Stelle,
+auch wird die Karavelle Avesfreund in weiteren
+Logbucheintragungen nicht mehr erwähnt. Es scheint, als sei
+dieses Schiff den `Draydal&apos; zum Opfer gefallen.
+Außerdem bekommen hier Harika und der Schiffsarzt Dr. Lysvalis den &quot;Fluch der Draydal&quot; &quot;angehext&quot;, der sie droht langsam zu töten...
+
+Quelle: Geographia Aventuria S. 107
+
+Die genauen Informationen wie der Durchbruch durch die &quot;Blutgischtmauer&quot; gelingen konnten sind noch Staatsgeheimnis des Horasreiches, jedoch gibt es Andeutungen, das die Schifsmagier eine große Beschwörung durchführten. Dabei scheint jedoch die &quot;Avesfreund&quot; zerstört worden zu sein, auch die anderen beiden Schiffe wurden anscheinend stark beschädigt...
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-85.75297146835955</longitude>
+						<latitude>1.748629651708901</latitude>
+						<altitude>0</altitude>
+						<range>511309.0548381998</range>
+						<tilt>0</tilt>
+						<heading>0.7798098556703139</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target25</styleUrl>
+					<Point>
+						<coordinates>-86.53806292011247,1.625707166981812,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Der SW weisende Meeresarm...&quot;</name>
+					<description>Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-87.947088223504</longitude>
+						<latitude>-7.188362652591706</latitude>
+						<altitude>0</altitude>
+						<range>1204719.045890598</range>
+						<tilt>0</tilt>
+						<heading>1.520049253770392</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target67</styleUrl>
+					<Point>
+						<coordinates>-89.27606551004328,-5.441691765907375,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Lasse Kurs NO setzen ...&quot;</name>
+					<description>Der SW weisende Meeresarm scheint zurück
+gen W zu führen und somit eine riesige Landmasse
+abzuteilen. Lasse Kurs NO setzen ...
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-89.50784132404694</longitude>
+						<latitude>-12.32112297990678</latitude>
+						<altitude>0</altitude>
+						<range>1073291.524863901</range>
+						<tilt>0</tilt>
+						<heading>4.073836164235627</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target84</styleUrl>
+					<Point>
+						<coordinates>-91.66810385958769,-14.75706510307801,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...eine schmale Meeresstraße vor
+uns, dieses Mal hart NO führend&quot;</name>
+					<description>&quot;Schon wieder eine schmale Meeresstraße vor
+uns, dieses Mal hart NO führend. Gebirgige Küsten zu
+beiden Seiten, im N höher als im S...&quot;
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-82.09792862595211</longitude>
+						<latitude>-12.09543342014484</latitude>
+						<altitude>0</altitude>
+						<range>1825242.250512258</range>
+						<tilt>0</tilt>
+						<heading>2.934911388909547</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target30</styleUrl>
+					<Point>
+						<coordinates>-83.52020703436288,-10.20927422991834,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Nach Passage eines Beckens...&quot;</name>
+					<description>&quot;Nach Passage eines Beckens von geschätzt 400
+auf 200 Meilen Größe...&quot;
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-81.63211194682789</longitude>
+						<latitude>-9.003294746799828</latitude>
+						<altitude>0</altitude>
+						<range>633593.1249941789</range>
+						<tilt>0</tilt>
+						<heading>2.706997897319809</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target66</styleUrl>
+					<Point>
+						<coordinates>-81.83279640168634,-8.68924995865023,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...eine erneute Engstelle&quot;</name>
+					<description>&quot;...eine erneute Engstelle, nun nach
+SO weisend.&quot;
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-80.02897071523991</longitude>
+						<latitude>-7.566778247995983</latitude>
+						<altitude>0</altitude>
+						<range>385854.9148510707</range>
+						<tilt>0</tilt>
+						<heading>2.442178374684872</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target79</styleUrl>
+					<Point>
+						<coordinates>-80.06269785451947,-7.295103578505533,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...nun nach
+SO weisend.&quot;</name>
+					<description>&quot;...eine erneute Engstelle, nun nach
+SO weisend.&quot;
+
+Quelle: Geographia Aventuria S. 107</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-78.32713445023109</longitude>
+						<latitude>-7.409234859855294</latitude>
+						<altitude>0</altitude>
+						<range>611066.0187883776</range>
+						<tilt>0</tilt>
+						<heading>2.146388706744107</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target8</styleUrl>
+					<Point>
+						<coordinates>-78.57742048386503,-7.206892785728334,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>möglicher Punkt: Harika sichtet eine fliegende Stadt der Vinshina</name>
+					<description>&quot;... Über der Küste im N konnten wir ein Gebilde
+ziehen sehen, das wir zuerst für einen großen Vogel
+hielten, doch Blicke mit dem Glas zeigten, dass dieses
+Objekt gut die Größe von drei bis vier Schivonen haben
+musste. Übereinstimmende Aussagen der Beobachter auf
+beiden Schiffen konnten einen &apos;Balg&apos; identifizieren, an
+dem mit dicken Tauen korbähnliche Strukturen hingen, in
+und an denen Bewegung wahrzunehmen war. Seitlich und
+achterwärts konnten wir viele bunte Tücher ausmachen,
+teilweise wie Segel aufgespannt, teilweise als lange Bänder
+im Wind flatternd. Das Gebilde wurde von kleineren
+Flugwesen umschwärmt, die etwa die Größe von
+Riesenalken hatten und auch deutliche Vogelform
+aufwiesen. Da das Gebilde sich land einwärts bewegte,
+ließen wir von einer Verfolgung ab.&quot;
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-70.36386866588339</longitude>
+						<latitude>-12.55937834141507</latitude>
+						<altitude>0</altitude>
+						<range>2629945.930056253</range>
+						<tilt>0</tilt>
+						<heading>0.1801881306740344</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target63</styleUrl>
+					<Point>
+						<coordinates>-74.11793466590981,-11.32435018155307,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Piratenüberfall der Kerrishiter?</name>
+					<description>Piratenüberfall der Kerrishiter?
+
+... Die Piraten waren zwar entschlossene und
+durchaus fähige Kämpfer und Seeleute und ihre
+zweimastigen Doppelrumpfschiffe sehr wendig, aber
+nachdem wir drei davon zu Efferdgeschickt hatten, gaben
+sie die Verfolgung auf. Wenden uns nun entlang der
+Inselkette nach ONO.
+
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.18633568958435</longitude>
+						<latitude>-23.91321572978593</latitude>
+						<altitude>0</altitude>
+						<range>841258.9817408145</range>
+						<tilt>0</tilt>
+						<heading>-0.4211501861677249</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target12</styleUrl>
+					<Point>
+						<coordinates>-51.44630193234341,-25.40021955808238,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Wenden uns nun entlang der
+Inselkette nach ONO.&quot;</name>
+					<description>... Die Piraten waren zwar entschlossene und
+durchaus fähige Kämpfer und Seeleute und ihre
+zweimastigen Doppelrumpfschiffe sehr wendig, aber
+nachdem wir drei davon zu Efferdgeschickt hatten, gaben
+sie die Verfolgung auf. Wenden uns nun entlang der
+Inselkette nach ONO.
+
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-49.18633568958435</longitude>
+						<latitude>-23.91321572978593</latitude>
+						<altitude>0</altitude>
+						<range>841258.9817408145</range>
+						<tilt>0</tilt>
+						<heading>-0.4211501861677249</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target59</styleUrl>
+					<Point>
+						<coordinates>-47.22126968602751,-24.20037029460902,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Die Ausmaße des Strudels...&quot;</name>
+					<description>... Die Ausmaße des Strudels sind eindeutig
+größer als jene südwestlich von Pailos, aber nicht so
+groß wie bei Setokan. Es scheint, dass die Drachen, die
+aus dem Nordosten heranfliegen, hier wie die Geier auf
+essbares Treibgut warten, und von den zerschmetterten
+Fischleibern mag man schließen, dass die Drachen hier
+recht fett werden ... genauso, wie man schließen kann,
+dass sich unterhalb des Mahlstroms scharfe Felsklippen
+befinden müssen.
+Wir hielten gebührenden Abstand zu dem Mahlstrom und
+versuchten auch, jener Insel, auf der die Drachen
+horsteten, nicht zu nahe zu geraten.
+
+Quelle: Geographia Aventuria S. 104</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-33.77359515147905</longitude>
+						<latitude>-18.12131564028115</latitude>
+						<altitude>0</altitude>
+						<range>492778.4368447625</range>
+						<tilt>0</tilt>
+						<heading>-2.843246828137485</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target58</styleUrl>
+					<Point>
+						<coordinates>-32.49267249160993,-18.33503766232284,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;wieder im Meer der Sieben Winde...&quot;</name>
+					<description>Wenn unsere Berechnungen stimmen, müssten wir uns
+nun bereits wieder im Meer der Sieben Winde befinden,
+was ein enormer Triumph für die Wissenschaft wäre ...«
+
+Quelle: Geographia Aventuria S. 108
+
+Es sollen fast drei Jahre seit Beginn der Fahrt vergangen sein!
+Quelle:Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-37.64363534081676</longitude>
+						<latitude>-22.54655687255261</latitude>
+						<altitude>0</altitude>
+						<range>1845082.735102386</range>
+						<tilt>0</tilt>
+						<heading>-1.930270470430921</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target13</styleUrl>
+					<Point>
+						<coordinates>-40.70030994571116,-23.70656836597111,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Passage der Dracheneilande abgeschlossen. Kurs NNW.&quot;</name>
+					<description>Passage der Dracheneilande abgeschlossen.
+Keine Verluste oder Schaden. Vor uns offene See. Lasse
+Kurs NNW stecken.
+
+Quelle: Geographia Aventuria S. 104</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.32439887142957</longitude>
+						<latitude>-16.15315410615858</latitude>
+						<altitude>0</altitude>
+						<range>2378232.222561461</range>
+						<tilt>0</tilt>
+						<heading>1.462090912279118</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target77</styleUrl>
+					<Point>
+						<coordinates>-34.07004747049879,-17.78832349024688,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;Haben ein Vorgebirge umfahren...&quot;</name>
+					<description>&quot;Haben ein Vorgebirge umfahren...&quot;
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.98479634416114</longitude>
+						<latitude>-15.40228365438266</latitude>
+						<altitude>0</altitude>
+						<range>396126.3160801971</range>
+						<tilt>0</tilt>
+						<heading>2.237781859440453</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target57</styleUrl>
+					<Point>
+						<coordinates>-46.27884570269207,-15.32433016474997,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>&quot;...einen Blick auf ein wahrlich verbranntes Land&quot;</name>
+					<description>Haben ein Vorgebirge umfahren und nun
+einen Blick auf ein wahrlich verbranntes Land – flach
+zwischen dem just im Süden liegenden Gebirge und
+einem blauen Höhenzug, den wir am Nordhorizont
+aufragen sahen. Die Wüste, Sand und Geröll zumeist,
+erstreckt sich bis zum Ufer; in der Ferne sahen wir
+einige Tafelberge von vielleicht 500 Schritt Höhe und
+geringem Durchmesser, die uns an die Gor
+gemahnten.
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.03943801300414</longitude>
+						<latitude>-13.52696241248502</latitude>
+						<altitude>0</altitude>
+						<range>611756.2754425935</range>
+						<tilt>0</tilt>
+						<heading>2.239178120347767</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target52</styleUrl>
+					<Point>
+						<coordinates>-45.63793631212122,-13.45842799582103,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika entdeckt den Fluss Haratta und Eshbathmar...</name>
+					<description>&quot;... Wundersamerweise ergießt sich hier ein
+Fluss ins Meer, der an der Mündung eine Breite von
+fast einer Meile hat und hier erheben sich die Mauern einer
+Stadt, die geschätzt die Größe von Neetha hat.
+Später: Die Einwohner sind zwar sehr verschlossen,
+haben uns aber erlaubt, die Frischwasservorräte
+aufzufüllen und uns auch Lebensmittel gegen Gold
+verkauft. Sie sind alle recht klein gewachsen und
+laufen stets vollständig verschleiert umher, doch alle
+Proportionen und der Klang ihrer Sprache lasst uns
+schließen, dass es sich um Menschen handelt. Die
+Farbe ihrer Schleier scheint ihren gesellschaftlichen
+Rang anzugeben, und einer der wenigen dunkelblau
+Verschleierten (unter dessen Tracht wir Rüstungsplatten zu erkennen glaubten) wies uns an, die Stadt bis zum Sonnenuntergang wieder
+zu verlassen, wobei er auf einen der Tafelberge
+deutete und ominöse Zeichen mit seinen Fingern
+machte. «
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.24343784321543</longitude>
+						<latitude>-11.29295401636196</latitude>
+						<altitude>0</altitude>
+						<range>202304.341645599</range>
+						<tilt>0</tilt>
+						<heading>1.643986312263069</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target74</styleUrl>
+					<Point>
+						<coordinates>-47.97978002514896,-10.93900851789343,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika fährt entlang der Piraten-Steilküste von Makshapuram</name>
+					<description>... Die Küste bietet mit ihren unzähligen engen
+Felsenbuchten sicherlich mehr Piraten Lebensraum, aLs
+wir abschätzen können. Küste steigt weiterhin an;
+Oberseite der Felsklippen scheint mit Gras und lichtem
+Ward bewachsen zu sein. Die Schäden an der Gylduria
+sind ausgebessert, so dass wieder Fahrbereitschaft
+gemeldet wurde. Folgen dem Küstenverlauf.
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.93983770176077</longitude>
+						<latitude>-8.171922548542636</latitude>
+						<altitude>0</altitude>
+						<range>492125.6094005096</range>
+						<tilt>0</tilt>
+						<heading>-1.060983802110477</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target68</styleUrl>
+					<Point>
+						<coordinates>-43.71060338017133,-8.222028292019415,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika erreicht das Ende der Makshapurischen Steilküste?</name>
+					<description>Die Küste ist urplötzlich auf Meeresniveau
+zurückgefallen – eine riesige Stufe von fast 500 Schritt
+Höhe scheint sich, so weit wir das erkennen können, ins
+Inland zu ziehen.
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-46.33904131318914</longitude>
+						<latitude>-3.29654934075484</latitude>
+						<altitude>0</altitude>
+						<range>242063.7417754321</range>
+						<tilt>0</tilt>
+						<heading>-0.9176301360010932</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target65</styleUrl>
+					<Point>
+						<coordinates>-45.73030902141409,-3.339845974380317,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Von der Sumpfinsel nach NO wegsteuernd...</name>
+					<description>könnte Nimoras die &quot;Sumpfinsel&quot; sein die Harika beschreibt, von der aus sie nach Era´Sumu gelangt?
+
+Von der Sumpfinsel nach NO wegsteuernd
+erreichten wir nach zwei Tagen äußerst fruchtbar
+aussehende Gestade, die von Menschen bewohnt
+werden und die sehr kultiviert aussehen: Wir konnten
+Kornfelder und große Äcker erkennen, von Feldsteinen
+umsäumte Weiden, hohe Wachttürme in den Hügeln
+und Fischerboote am Ufer. Etwa acht Meilen voraus
+scheint eine Hafenstadt zu liegen.
+
+Quelle: Geographia Aventuria S. 108</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.1679420399457</longitude>
+						<latitude>8.544384778486451</latitude>
+						<altitude>0</altitude>
+						<range>1175612.514764739</range>
+						<tilt>0</tilt>
+						<heading>-0.5046932688010695</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target61</styleUrl>
+					<Point>
+						<coordinates>-49.63397473237808,9.224292622488857,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika erreicht Era´Sumu und die Stadt Eratu...?</name>
+					<description>...erreichten wir nach zwei Tagen äußerst fruchtbar
+aussehende Gestade, die von Menschen bewohnt
+werden und die sehr kultiviert aussehen: Wir konnten
+Kornfelder und große Äcker erkennen, von Feldsteinen
+umsäumte Weiden, hohe Wachttürme in den Hügeln
+und Fischerboote am Ufer. Etwa acht Meilen voraus
+scheint eine Hafenstadt zu liegen.
+
+Quelle: Geographia Aventuria S. 108
+
+Hier soll Harika längere Zeit verbracht haben um die Schäden an den Schiffen auszubessern... seit der Wiederankunft im &quot;Meer der Sieben Winde&quot; sollen weitere zwei Jahre vergangen sein, also insgesamt fünf Jahre Expeditionsfahrt...
+Quelle:Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.84107036565226</longitude>
+						<latitude>11.07896379556482</latitude>
+						<altitude>0</altitude>
+						<range>13948.68566367815</range>
+						<tilt>0</tilt>
+						<heading>-76.24714538875169</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target1</styleUrl>
+					<Point>
+						<coordinates>-47.79780565249096,11.07938302074348,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika erreicht die Stadt Trivinia...</name>
+					<description>Es gibt Schwierigkeiten mit dem Handel... anscheinend wird die &quot;Gylduria&quot; hier verkauft...
+
+»... Die vorherigen Beschreibungen treffen insofern zu, als
+dass es sich bei Trivina in der Tat um eine Stadt mit einem
+wirklich großen Hafen handelt, der denjenigen Grangors
+oder Perricums deutlich an Größe und an Anzahl der hier
+angelandeten Schiffe übertrifft. Die öffentlichen Gebäude
+entsprechen in ihrer Größe etwa den Prunkbauten Gareths
+und sind häufig mit goldenen oder goldfarbenen Dächern
+ausgestattet; vom Baustil her ähneln sie den ältesten
+helaischen Bauten, sind jedoch wuchtiger und
+gedrungener. Dazwischen finden sich viele Wohn- und
+Lagergebäude, die allesamt mindestens drei Stockwerke
+hoch sind, dazwischen in einem Viertel etwa ein Dutzend
+Gebäude. im Stil der schon von uns beobachteten
+`Termitenhügel&apos;.
+All dies können wir nur aus der Entfernung beurteilen,
+denn es ist uns nicht erlaubt, den der Stadt vorgelagerten
+Hafenbezirk zu verlassen – wie nicht nur die
+ausgesprochenen Verbote, sondern auch einige eigene
+Versuche ergeben haben. Das Hafenviertel selbst scheint –
+von den Flaggen her zu urteilen – hauptsächlich imperialen
+Schiffen Heimat zu bieten, aber auch einige
+Doppelrumpfschiffe vom Piratenarchipel, thorwalsch
+wirkende schlanke &apos;Drachenschiffe&apos;, Zedrakken aus dem
+tiefsten Süden und von der Piratenküste sowie
+Kornfrachter von der Insel Era&apos;Sumu (diese jedoch unter
+imperialer Flagge) (iegen hier vor Anker oder am Kai. Wir
+tun unser bestes, uns mit Händen und Füßen mit den
+Besatzungen und Offizieren der anderen Schiffe zu
+verständigen, aber viele scheinen von einer
+abergläubischen Furcht erfüllt zu sein und sind wenig
+gesprächsbereit, ja, deuten häufig zu einem
+Tempelgebäude am Hang, an dem wir mit dem Meulenar-
+Glas ein großes, goldenes Augensymbol erkennen
+konnten.
+Die riesigen Delphinstatuen an der Hafeneinfahrt wirken
+eher bedrohlich und als Warnzeichen denn als Symbol
+erfolgreicher Ausfahrt und glücklicher Heimkehr, und
+auch im Efferdtempel hier im Hafen wird der Alte
+Wandelbare eher als gnadenloser Verursacher von
+Zornfluten und Mahlströmen, von Schiffsuntergängen
+und schrecklichen Stürmen gesehen, so dass es mich auch
+nicht wunderte, dass zu seinem Gefolge auch
+Seeschlangen und Riesenkraken zählen – Wesen, die wir
+ja eher der Herrin der Nachtblauen Tiefen zuordnen
+würden.
+Wir haben zwar mit unseren Kenntnissen des
+Altgüldenländischen unsere liebe Not, uns mit den
+Offizialen hier zu verständigen, aber es scheint, als habe
+Trivina den Status einer Freien Reichsstadt innerhalb des
+Imperiums, sei also wohl der Krone (zu Cantara?) direkt
+untertan. Uns will immer mehr scheinen, als sei der
+Handel hier aufs Schärfste reglementiert, und da wir kaum
+noch aventurische Handelswaren an Bord haben, werden
+wir hier durchaus eher wie Bittsteller behandelt. Ich
+fürchte, wir werden die Gylduria verkaufen müssen, um
+die Reparaturen an der Lamea zahlen zu können (und
+vielleicht noch einige Warenmuster an Bord nehmen zu
+können) ...
+Wir haben hier die Gelegenheit, einige der Katzenwesen,
+die auf den Schiffen Dienst tun, genauer zu beobachten,
+auch wenn mit ihnen keine sprachliche Verständigung
+möglich ist. Es scheint unter ihnen verschiedene Rassen
+zu geben, ebenso wie Thorwaler und Mohaha sich
+untereinander und von Ferkinas oder Nivesen
+unterscheiden. Die kleinsten und häufigsten von ihnen
+sind etwa anderthalb Schritt groß, die größten merklich
+über zwei Schritt. Ihr Fell ist, von Haupt- und
+Nackenhaaren abgesehen, meist kurz. Sie tragen außer
+breiten Gürteln, an denen Waffen und Werkzeug hängen
+(und gelegentlich Umhängen), keine Kleidung. Ihre
+Schwänze sind stets voll ausgebildet und fast bodenlang
+und scheinen ihnen zum Balancieren zu dienen, denn
+kaum ein Mensch vermag sich so geschickt und
+gleichzeitig elegant in den Wanten und Rahen der Schiffe
+zu bewegen. «
+
+Quelle: Geographia Aventuria S. 110</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.95430532543234</longitude>
+						<latitude>20.34625841354893</latitude>
+						<altitude>0</altitude>
+						<range>407527.9400645761</range>
+						<tilt>0</tilt>
+						<heading>-0.1352494271083509</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target42</styleUrl>
+					<Point>
+						<coordinates>-49.01766517611723,20.28967955829491,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika entdeckt einige Fischerdörfer...</name>
+					<description>&quot;Haben trotz widersprechender Anordnungen
+noch einmal den Weg nach Westen gewählt und sind
+entlang der Küste auf allerlei Fischerdörfer gestoßen,
+jedoch auf keine weitere größere Ansiedlung.&quot;
+
+Quelle: Geographia Aventuria S. 110</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-50.45655471506481</longitude>
+						<latitude>21.31054495702223</latitude>
+						<altitude>0</altitude>
+						<range>262804.9701990014</range>
+						<tilt>0</tilt>
+						<heading>-0.4802891183909147</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target43</styleUrl>
+					<Point>
+						<coordinates>-50.75678737684486,20.749137785126,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika flieht vor einem Kampf mit drei Galeeren...</name>
+					<description>Mussten an der Mündung eines Flusses vor drei großen Galeeren
+schließlich die Flucht ergreifen, konnten aber eine der
+uns verfolgenden Flugmaschinen abschießen.
+
+Quelle: Geographia Aventuria S. 110</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-51.17468718874017</longitude>
+						<latitude>22.23540748898828</latitude>
+						<altitude>0</altitude>
+						<range>156949.8475745042</range>
+						<tilt>0</tilt>
+						<heading>-0.74173823620874</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target36</styleUrl>
+					<Point>
+						<coordinates>-51.38694048788913,22.20857202601043,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika will in den offenen Ozean...</name>
+					<description>Halten Kurs auf Kap Trivina, tun es außer Sicht des Landes zu
+passieren und von dort aus NO in den Güldenlandstrom
+einzuschwenken.
+
+Quelle: Geographia Aventuria S. 110</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.12550444718956</longitude>
+						<latitude>21.36849625533782</latitude>
+						<altitude>0</altitude>
+						<range>639401.226081539</range>
+						<tilt>0</tilt>
+						<heading>0.2323378124677867</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target51</styleUrl>
+					<Point>
+						<coordinates>-46.91338327531338,20.39217927249063,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika schwenkt in den Güldenlandstrom ein, zurück nach Aventurien...</name>
+					<description>...von dort aus NO in den Güldenlandstrom
+einzuschwenken. Mit Efferds Hilfe sind wir in vier
+Wochen wieder zu Hause ...
+
+Quelle: Geographia Aventuria S. 110</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-43.25661433033076</longitude>
+						<latitude>19.03766017418456</latitude>
+						<altitude>0</altitude>
+						<range>179331.1857488927</range>
+						<tilt>0</tilt>
+						<heading>-4.074286376895425</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target76</styleUrl>
+					<Point>
+						<coordinates>-43.187873524128,18.88183386565452,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Besucht Harika die Serovischen Inseln?</name>
+					<description>Ob Harika die Serovischen Inseln selbst besucht hat ist nicht klar, jedoch liefert sie einen Bericht über die dortigen Verhältnisse...
+
+Quelle: Myranor HC S. 96</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-48.12354021329443</longitude>
+						<latitude>21.60995013791944</latitude>
+						<altitude>0</altitude>
+						<range>1248974.581338708</range>
+						<tilt>0</tilt>
+						<heading>8.929416391088328</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target501</styleUrl>
+					<Point>
+						<coordinates>-46.72852774332186,21.61461594518484,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika nimmt Kontakt mit den Kerrishitern und Trollen auf...</name>
+					<description>Harika nimmt Kontakt mit den Kerrishitern und den Trollen (vom Stamm der Tralleropp) auf der Insel auf.
+Harika erweist dem Trollschamanen Römpeldasch, Sohn des Gumbalodsch einen großen Dienst (was genau bleibt ein Geheimnis), dafür erfähtr sie von ihm die Lösung des Rätsels der &quot;Singenden Inseln&quot; und er gibt ihr einen der &quot;Gelben Obelisken&quot; mit dem man die &quot;Singenden Inseln&quot; steuern kann...
+Hier erhalten Harika und der Schifsartzt Dr. Lysvalis erstmals medizinische Hilfe gegen den &quot;Fluch der Draydal&quot; in Form des Lapirul? von einigen Trollfrauen...
+
+Quelle:Efferds Wogen S. 64
+Quelle: Handelsfürsten und Wüstenkrieger S.100
+
+Weitere Infos zu den Trollen der Insel, welche von den Kerrishitern Yil´araphaar genannt werden siehe
+Quelle: Handelsfürsten und Wüstenkrieger S.74</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-57.22456077369044</longitude>
+						<latitude>-22.87302373013945</latitude>
+						<altitude>0</altitude>
+						<range>422607.8618853404</range>
+						<tilt>0.0365693932984871</tilt>
+						<heading>2.865042080114937</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target78</styleUrl>
+					<Point>
+						<coordinates>-56.11505478127113,-24.17081911846026,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika kapert ein Kerrishiter Schatzschiff voll mit Endurium</name>
+					<description>Irgendwo an der Küste kapert Harika ein kerrishitisches Schatzschiff vol mit Endurium von Kerrish-Thalam. Es war unterwegs von Kerrish-Thalam nach Balan Cantara um Handelsgüter, Sold und Bestechungsgelder an das dortige Kontor zu liefern. 
+Daraufhin wurde der für den Transport verantwortliche Usharid von Kherrish-Djanar Labarsa aus der Familie der Gutium von Kerrish-Marad abgesetzt. Nun soll sein Nachfolger der neue Usharid von Kherrish-Djanar Rimat-Ulai aus der Familie der Tibira von Kherrish-Thalam eine Piratin namens &quot;Ariq´Aqiru&quot; jagen. 
+
+Dies konnte geschehen, weil das Schiff ohne Lotsen fuhr (dieser wurde zuvor von einem mysteriösen Giftanschlag getötet) und während eines Sturms in den Inseln Shindrabar von seinen Begleutschiffen getrennt , und Harika direkt vor die Nase geweht wurde...(Aussage aus Handelsfürsten und Wüstenkrieger)
+
+Etwas problematisch scheint mir, wie das Schiff von den Inseln von Shindrabar bis an die Küste der Narkramar &quot;geweht&quot; worden sein soll...
+
+Diese Informationen unterliegen der horasischen Geheimhaltung und ab hier gibt es eine offizielle und eine wirkliche Route.
+
+Quelle: Efferds Wogen S. 64
+Quelle: Handelsfürsten und Wüstenkrieger S.47</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-47.09769962298928</longitude>
+						<latitude>-8.938225662417109</latitude>
+						<altitude>0</altitude>
+						<range>37001.56850098349</range>
+						<tilt>0</tilt>
+						<heading>0.2944328813154808</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target11</styleUrl>
+					<Point>
+						<coordinates>-47.15103751063704,-8.869412762635976,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Überwinterung auf einer gebirgigen Insel...</name>
+					<description>die verbliebenen zwei, anscheinend stark beschädigten Schiffe überwintern auf einer gebirgigen Insel irgendwo im Schädelgrund...
+dabei werden die Schäden ausgebessert...
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-93.78162670319719</longitude>
+						<latitude>-10.27559684630373</latitude>
+						<altitude>0</altitude>
+						<range>134031.0122289478</range>
+						<tilt>0</tilt>
+						<heading>-1.841926599940558</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target22</styleUrl>
+					<Point>
+						<coordinates>-93.74924367674591,-10.32240077570821,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika entdeckt die makshapurische Stadt Melakkam</name>
+					<description>Harika entdeckt die makshapurische Stadt Melakkam
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-40.44394984156158</longitude>
+						<latitude>2.345643916402079</latitude>
+						<altitude>0</altitude>
+						<range>168896.4325613273</range>
+						<tilt>0</tilt>
+						<heading>-12.55902308034149</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target56</styleUrl>
+					<Point>
+						<coordinates>-40.43968003288652,1.658718516100384,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika erkundet das Archipel von Shindrabar...</name>
+					<description>Harika erkundet das Archipel von Shindrabar...
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-37.80985118629374</longitude>
+						<latitude>2.760196824517288</latitude>
+						<altitude>0</altitude>
+						<range>1167574.807928524</range>
+						<tilt>0</tilt>
+						<heading>0.1111837332396553</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target281</styleUrl>
+					<Point>
+						<coordinates>-37.26677868752199,4.493834732856166,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Rückkehr der 1. Expedition der Harika in Grangor...</name>
+					<description>Am 21. Peraine 29 Hal (1022 BF) fährt Harika nach sieben Jahren auf der ramponierten &quot;Prinzessin Lamea&quot; wieder in den Hafen von Grangor ein. Nur 27 Besatzungsmitglieder haben überlebt...
+Man fragt sich warum sie (nach offizieller Lesart von Era´Sumu über Trivinia bis hierher 2 weitere Jahre gebraucht hat?
+
+Bekannte Überlebende der Expedition:
+Persönlichkeiten: Harika von Bethana, genannt &quot;Die Rote Harika&quot;= Admiral und Kapitän der  &quot;Prinzessin Lamea&quot;, 
+Dr. Lysvalis, Schiffsarzt, Alchimist und Metallurg, magiebegabt (Vinsalt/Heilung)
+
+
+Quelle: Aventurischer Bote 80, Reise zum Horizont S. 6
+Quelle: Efferds Wogen S. 64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-1.271513605469458</longitude>
+						<latitude>26.36773279962837</latitude>
+						<altitude>0</altitude>
+						<range>56657.9099988396</range>
+						<tilt>0</tilt>
+						<heading>5.17310578403659</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target640</styleUrl>
+					<Point>
+						<coordinates>-1.245320289366072,26.36404485248934,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika trifft auf den Efferdswall (offizielles Logbuch)</name>
+					<description>Hier trifft Harika offiziell auf eine Schule von Pottwahlen, die das Schiff friedlich begleiten...
+Wahrscheinlich jedoch verliehrt sie am Efferdswall ihr Schiff Gylduria  weil dieses zu stark mit myranischem Holz repariert wurde...
+Nach offiziellem Logbuch läßt sie nach dem Wall Kurs Ost setzen, um Aventurien zu erreichen...
+Um in den Hafen von Grangor einzulaufen muss sie jedoch irgendwann auf einen südlicheren Kurs gegangen sein...
+Ein weiteres logisches Problem ist, das sie auf diesem Kurs niemals in die Nähe der Insel Nargalosch kommt, auf der sie jedoch nach &quot;Reise zum Horizont&quot; den gelben Obeliken versteckt hat, der zur Steuerung der Singenden Inseln dient...
+Quelle:Geographia Aventurica S. 104, Efferds Wogen S. 64, Reise zum Horizont S. 43 folgende</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-24.51294839207158</longitude>
+						<latitude>29.68298288743509</latitude>
+						<altitude>0</altitude>
+						<range>13676.95961965886</range>
+						<tilt>0</tilt>
+						<heading>-2.332436220180193</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target40</styleUrl>
+					<Point>
+						<coordinates>-24.5089237417502,29.69360171072983,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>inoffizielle wirkliche Routen (vom Horasreich für geheim erklärt)</name>
+				<open>1</open>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Lamea</name>
+					<styleUrl>#msn_ylw-pushpin3210</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-47.15074175633627,-8.868120621140546,0 -47.14253789903741,-8.76220477915497,0 -47.23189318272767,-8.587848697777762,0 -47.24507072339762,-8.205560273865313,0 -47.15047205524363,-8.080917907231408,0 -46.88074731865039,-8.026299429247178,0 -46.32655997865431,-8.05655510135783,0 -45.72138385289922,-8.27430745789245,0 -45.063792350538,-8.553782590240735,0 -44.49028070021814,-8.626257261024179,0 -43.98477389782867,-8.449812746472926,0 -43.66796392801683,-8.251289065665489,0 -43.32797468063862,-7.816145172712235,0 -43.05997824307162,-7.224060094455918,0 -42.85131599654937,-6.181911795523076,0 -43.82756408967485,-4.089622072911208,0 -44.78813558707702,-3.374703101712839,0 -45.66011420785105,-3.216440062794924,0 -46.06147501230307,-3.148636968487311,0 -46.39994409091482,-2.868805296065485,0 -46.27864787897147,-2.722085136021618,0 -45.84551955362565,-2.635036499672343,0 -43.34804146455475,-3.04756174389711,0 -42.6888878085791,-2.893100985838405,0 -42.12584414145041,-2.299079787048006,0 -42.60059510331531,-1.362051534845824,0 -42.98324559222903,-0.9635381673030785,0 -42.79069944084596,-0.595521336062686,0 -41.67865733526998,-0.4781903858477872,0 -40.36264243798593,0.1484921652657224,0 -39.87782372460675,0.4942780488469994,0 -39.68946068908014,0.7761883165499145,0 -39.63273841682322,1.14710908397037,0 -39.67636924194641,1.451033586908796,0 -39.902893861937,1.683338834228931,0 -40.05534661940157,1.814288879129787,0 -40.28581600278403,1.867173951749916,0 -40.43416047287204,1.660116963442043,0 -40.22566309149629,1.773852544021663,0 -39.78448297145357,1.853777187881571,0 -39.48950635499683,2.198938837629792,0 -39.21324868361419,2.655720245202546,0 -38.75066980135439,2.630216671541072,0 -38.32866233049777,2.756944111860127,0 -37.94075113690907,3.557255199495299,0 -37.30067092226782,4.505780554058141,0 -36.64960573618624,5.801860489139487,0 -36.59683928101534,6.858510837792098,0 -36.74046564268047,7.338840177552015,0 -36.35401268966859,7.668021279176788,0 -36.29501035854859,8.55600542983856,0 -35.76112325718528,8.826537955376052,0 -32.7288924668539,9.653624755211153,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Lamea2</name>
+					<styleUrl>#msn_ylw-pushpin37</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-32.72474258586009,9.653778845584629,0 -38.2190522605549,8.956402276540523,0 -42.93238580262997,7.800696676450782,0 -46.73496631228466,6.26713234408158,0 -50.11765032708215,4.767284127333283,0 -52.10494143369584,3.913863506136696,0 -53.40501249829876,3.913325255426944,0 -52.04076587126081,4.072809710532463,0 -49.94590818540346,5.014739194131023,0 -49.5155438776511,5.287962738909283,0 -49.69232600470818,7.718865720257194,0 -49.45987518223888,8.711290830818349,0 -49.62505668711155,9.231440951703819,0 -48.92352815839303,10.07467964063775,0 -48.99449399427311,10.43085640516129,0 -48.89993496465646,10.65870158232223,0 -48.53138294291585,10.81461745770047,0 -48.13087317091414,10.88701288677025,0 -47.79684484832767,11.07965007500497,0 -48.06517521290378,12.08843935413416,0 -47.57147083288046,13.04562810919839,0 -46.29530888727505,13.75308661252947,0 -46.08931633452431,13.80548367190342,0 -45.9313227675863,13.93288595634957,0 -45.88444666917437,14.15766273418157,0 -45.78521556840337,14.89947715218136,0 -46.65690873362753,16.51910636208736,0 -47.21817538702148,17.26342621860979,0 -47.21918481147358,17.66877989525659,0 -46.64526310406878,18.75688498645495,0 -46.3445795454916,19.908654354931,0 -46.85274975513358,20.36292855159475,0 -47.717627804218,20.75418716443188,0 -48.26821366874139,20.65245575050133,0 -49.10695189508623,20.18541398100117,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Haridiyon_Thaliyin1</name>
+					<styleUrl>#msn_ylw-pushpin281</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-53.4064573034769,3.907333432623343,0 -53.95233843665899,3.849104955470554,0 -54.05771763285948,3.825445195319918,0 -54.08338268319774,3.602043884440336,0 -54.12433180445866,3.45918355717394,0 -54.34184300416987,3.355164189038363,0 -54.84665912236348,2.950691725575251,0 -55.61718362619227,1.861746118158205,0 -55.65439467765092,1.266038803414378,0 -55.46716937652052,0.6756050928574076,0 -55.04290806446272,0.06561578221333658,0 -54.34533403610383,-0.2509663494431684,0 -54.03338379708663,-0.2788866181589602,0 -53.22012406826132,-0.4318187130774405,0 -52.54741903921007,-0.5446721743927281,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Haridiyon_Thaliyin2</name>
+					<styleUrl>#msn_ylw-pushpin590</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-52.54710545435543,-0.5466284151493339,0 -52.63092489878125,-0.1073776180426504,0 -52.9175982741341,0.9118468857242629,0 -53.40950749038221,3.909893771000508,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Lamea3</name>
+					<styleUrl>#msn_ylw-pushpin2701</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-49.10718324685678,20.18896065088386,0 -48.96626334922171,20.33957752366005,0 -48.98723191987381,20.54389279054002,0 -49.32465483511177,20.87941496598635,0 -49.80608473247996,20.9368103500965,0 -50.59411184715821,20.8528783993282,0 -50.7526064081847,20.79575046629513,0 -51.30394631970184,20.94916454711647,0 -52.02981947989624,21.00822072029793,0 -51.8907652114979,21.47043231618777,0 -51.75887514422585,21.76580177142127,0 -51.45488510981782,22.06668790270462,0 -51.39609539617673,22.21741579430683,0 -50.95420366991899,21.81527423935619,0 -49.87818997677253,21.34296830723558,0 -48.35672545902865,21.03741848606788,0 -47.15188824496822,20.67218745223963,0 -45.89070643348936,19.97967961181508,0 -45.33768507919449,18.76271378136959,0 -44.42384418825726,16.74859521315392,0 -42.36989102841431,12.82529555274572,0 -41.94335255405812,10.77987804403613,0 -42.24491565627009,9.162654997820278,0 -43.54131257435216,7.940020496016941,0 -45.49716183935363,6.963533541216307,0 -46.5134393937896,6.515992129642836,0 -49.7694412605269,4.987079880382009,0 -52.09665406115045,3.980917900465439,0 -53.4187867618313,3.933314772310396,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Lamea4</name>
+					<styleUrl>#msn_ylw-pushpin560</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-53.41921420444308,3.931176887547727,0 -52.08517611449991,3.942651340589823,0 -46.00410524053059,6.191231380755659,0 -35.7250165494191,9.051350699452767,0 -32.7263980297935,9.662660751252671,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>inoffizielle Myranor-Route_Lamea5</name>
+					<styleUrl>#msn_ylw-pushpin341</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-32.7263747663042,9.663601521659476,0 -24.17863333590981,16.92588859644021,0 -15.57485371812965,18.05069393009129,0 -1.39566549070452,26.12881139680394,0 -1.24036524544303,26.36556315900595,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>inoffizielle (vom Horasreich für geheim erklärte) Punkte der Expedition</name>
+				<open>1</open>
+				<Placemark>
+					<name>Lamea mit dem erbeuteten Kerrishiter Schiff zusammen auf der Flucht...</name>
+					<description>Die genaue Abfolge der Ereignisse ist noch geheim, jedoch ist nach der Erbeutung des mit Endurium beladenen Kerrishiter Schiffes die Lamea, zusammen mit der Gylduria und dem erbeuteten Schiff immer auf der Flucht vor den verschiedenen politischen Parteien an der myranischen Ostküste, welche das Endurium für sich erobern wollen...
+anscheinent Kerrishiter und Serover...
+Dabei werden wahrscheinlich Melakkam und die anderen beschriebenen Punkte auch angelaufen, jedoch vergeht vile mehr Zeit...
+Durch die Gefechte wird die Gylduria mehrfach beschädigt...
+
+Quelle: Efferds Wogen S.64, Reise zum Horizont S. 7</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-44.63565314499232</longitude>
+						<latitude>-8.549291392177045</latitude>
+						<altitude>0</altitude>
+						<range>51472.9942890321</range>
+						<tilt>0</tilt>
+						<heading>-1.676868344015609</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target121</styleUrl>
+					<Point>
+						<coordinates>-44.4907807858574,-8.62564138283178,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harikas erster Versuch die Singenden Inseln zu nutzen misslingt...</name>
+					<description>Anstatt wie offiziell angegeben Richtung Era´Sumu, ist Harika mit ihrer Flotte gleich Richtung des Auftauchortes der Singenden Inseln gefahren um sie zu nutzen... Verfolgt von den Schiffen der anderen Parteien. Aufgrund der Verfolger kann sie die Inseln jedoch nicht zur Flucht benutzen (vieleicht sind die auch gerade einfach nicht da?)
+Die Schiffe wenden sich wieder Richtung Festland, immer noch verfolgt...
+
+Quelle: Efferds Wogen S.64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-32.64494434524204</longitude>
+						<latitude>9.932485571603783</latitude>
+						<altitude>0</altitude>
+						<range>214686.0194266522</range>
+						<tilt>0</tilt>
+						<heading>-2.219696303885327</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target81</styleUrl>
+					<Point>
+						<coordinates>-32.72526012362864,9.655208302279938,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika und das Kerrishiter-Schiff trennen sich...</name>
+					<description>Durch ein gewagtes Seemanöver (im Louranath?) gelingt es Harika die Verfolger auf sich und die Gylduria zu ziehen, während das Kerrishiterschiff unter dem Kommando von Haridiyon Thaliyin (dem Sohn des ehemaligen Seekönigs Mermydion der Zyklopeninseln) sich von der Gruppe trennt.
+
+Er soll es irgendwo im Meer der Schwimmenden Inseln verstecken/versenken, so das keiner weis wo, und man will sich zu einem späteren Zeitpunkt wieder in Balan Cantara treffen um ihn und die Prisenmannschaft des Schatzschiffes wieder an Bord nehmen zu können.</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-53.27952587445255</longitude>
+						<latitude>4.028495653662758</latitude>
+						<altitude>0</altitude>
+						<range>253185.307064476</range>
+						<tilt>0</tilt>
+						<heading>-2.859818222908823</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target28</styleUrl>
+					<Point>
+						<coordinates>-53.50802933031881,3.822263145516254,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harikas erster Besuch von Balan Cantara</name>
+					<description>Der weitere Kurs der Lamea ist sehr spekulativ, besonders welche Punkte in welcher Reihenfolge angelaufen wurden... Das folgende ist eine durch Indizien gestützter möglicher Verlauf ...
+
+Harika läuft mit ihrer kleinen Flotte offiziell Balan Cantara an, vieleicht erhofft sie sich offiziellen Schutz vom Imperium vor den sie verfolgenden Kerrishitern und Serovern?
+
+Dadurch lernt sie Balan Cantara, das Louronath  und den alten &quot;Minenschutzgürtel&quot; kennen, der die Stadt schützt...
+
+Sie erfährt vom Meer der Schwimmenden Inseln und beschließt ihre Verfolger abzuschütteln und das Endurium vor ihnen zu verstecken...
+
+Durch ein gewagtes Seemanöver (im Louranath?) gelingt es Harika die Verfolger auf sich und die Gylduria zu ziehen, während das Kerrishiterschiff unter dem Kommando von Haridiyon Thaliyin (dem Sohn des ehemaligen Seekönigs Mermydion der Zyklopeninseln) sich von der Gruppe trennt.
+
+Er soll es irgendwo im Meer der Schwimmenden Inseln verstecken/versenken, so das keiner weis wo, und man will sich zu einem späteren Zeitpunkt wieder in Balan Cantara treffen um ihn und die Prisenmannschaft des Schatzschiffes wieder an Bord nehmen zu können.
+
+Anscheinend dringt die Lamea selbst nicht sehr weit bis ins Meer der Schwimmenden Inseln vor, ob es zu diesem Zeitpunkt schon Probleme mit dem Imperium selbst gibt ist unklar...
+Auch wo das Ablenkungsmanöver genau durchgeführt wird ist unklar...
+Quelle: Efferds Wogen S.64</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-52.87440867513596</longitude>
+						<latitude>3.90246941982726</latitude>
+						<altitude>0</altitude>
+						<range>164548.704938647</range>
+						<tilt>0</tilt>
+						<heading>-2.833305969464092</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target131</styleUrl>
+					<Point>
+						<coordinates>-53.36444804041053,3.83512704983587,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>das versenkte Endurium Schiff...</name>
+					<description>Haridiyon Thaliyin gelingt es tatsächlich, das Enduriumschiff, unbemerkt von den anderen Fraktionen im Bleichwasser, in der Nähe der Brutinsel zu versenken...
+
+Wahrscheinlich in einem Beiboot kehren er und die Mannschaft des Schiffes zur Küste von Tharpura zurück und schlagen sich mühsam durch den Djungel bis Balan Cantara durch...</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-52.4098546009013</longitude>
+						<latitude>-0.488617133714448</latitude>
+						<altitude>0</altitude>
+						<range>150849.2070818221</range>
+						<tilt>0</tilt>
+						<heading>-2.869694770537852</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target150</styleUrl>
+					<Point>
+						<coordinates>-52.5631334697255,-0.5937010304259945,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ortsmarke ohne Namen</name>
+					<description>Anstatt, wie offiziell beschrieben, nach NO Richtung Güldenlandstrom/Abenturien abzudrehen, nimmt Harika wieder Kurs Richtung Balan Cantara um dort Haridiyon Thaliyin an einem vereinbarten Ort wieder an Bort zu nehmen. Wahrscheinlich gibt es zu diesem Zeitpunkt schon Schwierigkeiten mit dem Imperium selbst...</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-45.96310392578419</longitude>
+						<latitude>20.21074679576796</latitude>
+						<altitude>0</altitude>
+						<range>439062.7158683281</range>
+						<tilt>0</tilt>
+						<heading>-1.974321759030319</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target60</styleUrl>
+					<Point>
+						<coordinates>-45.89385657731125,19.9839370449063,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harikas zweiter Besuch in Balan Cantara</name>
+					<description>Harika will Haridiyon Thaliyin und seine Mannschaft in Balan Cantara wieder an Bord holen, doch es gibt Schwierigkeiten...
+Haridiyon Thaliyin (und seine Mannschaft???) hat es zwar bis nach Balan Cantara geschafft, doch ist er festgenommen worden und soll anscheinend verhört werden...
+Ein Befreihungsversuch mißlingt anscheinend, da Harikas Verfolger wieder auftauchen, auch erfährt Harika nicht, wo das Schiff versenkt wurde, der Schiffsmagier kann jedoch Haridiyon Thaliyin noch mit einem &quot;Granit und Marmor&quot; in eine Statue verwandeln, damit niemand ihn verhören oder töten kann.
+Harika schwört sich, zurückzukehren und ihn zu retten, sie erfährt noch, dass die Statue an eine reiche Persönlichkeit in Balan Cantara verkauft wurde...
+
+Während dieser Zeit freundet sich Harika anscheinend auch mit dem Shingwa Wonschesch an und lernt den Spitzmuschelleuchtturm kennen...
+
+Harika weis jedoch, das sich die Recourcen ihrer Expedition erschöpft haben und das sie nach Aventurien zurückkehren muss, will sie die Expedition nicht vollständig verlieren.
+Sie nimmt wieder Kurs auf die Singenden Inseln im Kobaltgrund, die Verfolger immernoch im Nacken...
+
+Quellen: Efferds Wogen S. 64, Reise zum Horizont S.7
+, Myranor Abenteuer Vergessene Tiefen</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-53.1257978363678</longitude>
+						<latitude>3.984754913432296</latitude>
+						<altitude>0</altitude>
+						<range>128463.5139138186</range>
+						<tilt>0</tilt>
+						<heading>-3.257197412510001</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target101</styleUrl>
+					<Point>
+						<coordinates>-53.42362906031694,4.006651414808229,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>auch Harikas zweiter Versuch mißlingt...</name>
+					<description>Auch Harikas zweiter Versuch, die Singenden Inseln als schnelles Transportmittel nach Aventurien zu nutzen mißlingt, da ihr die Verfolger immer noch zu dicht auf den Fersen sind!
+
+Schließlich läßt sie Kurs NO setzen um das Meer der Sieben Winde auf konventionellem Wege zu überwinden und um endlich die Verfolger abzuschütteln.
+
+Da sie hier in einem für die Güldenlandfahrt schlechten Seegebiet ist (die Winde kommen häufig aus der Gegenrichtung) erklährt es die lange Reisezeit.</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-32.74483196936892</longitude>
+						<latitude>9.682574488292167</latitude>
+						<altitude>0</altitude>
+						<range>14478.37708221734</range>
+						<tilt>0</tilt>
+						<heading>-0.1840533404872772</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target48</styleUrl>
+					<Point>
+						<coordinates>-32.72613291148645,9.663565352227975,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika trifft auf den Efferdwall (wirklicher Punkt?)</name>
+					<description>Hier trifft Harika offiziell auf eine Schule von Pottwahlen, die das Schiff friedlich begleiten...
+Wahrscheinlich jedoch verliehrt sie am Efferdswall ihr Schiff Gylduria  weil dieses zu stark mit myranischem Holz repariert wurde...
+Nach offiziellem Logbuch läßt sie nach dem Wall Kurs Ost setzen, um Aventurien zu erreichen...
+Um den Hafen von Grangor und zuvor die Insel Nargolosch anzulaufen muss sie jedoch irgendwann auf einen ONO Kurs gegangen sein...
+Jedoch ist dieser Punkt zur Kreutzung des Efferdwalls viel wahrscheinlicher, nur hier kommt sie auf einem östlichen Kurs in die Nähe der Insel Nagalosch (um dort den gelben Obelisken zu verstecken)!
+Quelle:Geographia Aventurica S. 104, Efferds Wogen S. 64, Reise zum Horizont S. 43 folgende</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-24.30121880848876</longitude>
+						<latitude>16.953005962952</latitude>
+						<altitude>0</altitude>
+						<range>86530.49879360275</range>
+						<tilt>0</tilt>
+						<heading>-0.690943754233829</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target55</styleUrl>
+					<Point>
+						<coordinates>-24.17613644661818,16.92472838755254,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Harika versteckt den gelben Obelisken auf Nagalosch...</name>
+					<description>Harika kommt auf ihrer Rückreise nach Aventurien an der Insel Nagalosch vorbei. Dort versteckt sie den gelben Obelisken (den sie ja nicht zur Rückreise nutzen konnte), wahrscheinlich damit niemand außer ihr die Singenden Inseln so schnell nutzen kann. Dann steuert sie wahrscheinlich Grangor an.
+Quelle:Reise zum Horizont S. 43 folgende</description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>-15.45583924253655</longitude>
+						<latitude>18.4658583592128</latitude>
+						<altitude>0</altitude>
+						<range>338450.4577718983</range>
+						<tilt>0</tilt>
+						<heading>-1.332981642815851</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_target75</styleUrl>
+					<Point>
+						<coordinates>-15.63670019346949,18.1644481043682,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

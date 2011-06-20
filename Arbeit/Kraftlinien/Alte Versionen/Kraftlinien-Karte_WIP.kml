@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Kraftlinien-Karte_WIP</name>
+	<color>adffffff</color>
+	<drawOrder>30</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/svn/DereGlobus/Projekte/Kraftlinien/Kraftlinien_Karte_WIP.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>44.69514031760518</north>
+		<south>13.84202319841879</south>
+		<east>13.76848141057995</east>
+		<west>-8.989825673726005</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

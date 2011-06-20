@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Jungfrau in Nöten.kml</name>
+    <Folder>
+      <name>Jungfrau in Nöten.kml</name>
+      <Placemark>
+        <name>Einleitung</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 1)</p>
+<p>Die Helden werden bei der Rast in einer <a href="http://www.wiki-aventurica.de/index.php?title=Karawanserei">Karawanserei</a> Zeuge, wie der <a href="http://www.wiki-aventurica.de/index.php?title=Kaiserdrache">Kaiserdrache</a> <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Palandur</a> das Dorf <a href="http://www.wiki-aventurica.de/index.php?title=El%27Trutz">El'Trutz</a> heimsucht. Sein Gefolge - bestehend aus einem halben Dutzend kleinerer <a href="http://www.wiki-aventurica.de/index.php?title=Zwergdrache">Zwerg</a>- und <a href="http://www.wiki-aventurica.de/index.php?title=Meckerdrache">Meckerdrachen</a> - &uuml;berbringt eine Tributforderung. (S. 7)</p>
+<p><i>(Diese Begegnung kann - je nach aktueller Reiseroute der Heldengruppe - auch in <a href="http://www.wiki-aventurica.de/index.php?title=Kerbal">Kerbal</a> stattfinden.)</i></p>]]></description>
+        <LookAt>
+          <longitude>4.021833597106145</longitude>
+          <latitude>26.02880778050383</latitude>
+          <altitude>50000</altitude>
+          <range>3560.8736180302</range>
+          <tilt>0</tilt>
+          <heading>0.02300271708659049</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1-X</styleUrl>
+        <Point id="KMLe_76">
+          <coordinates>4.013721599941351,26.0262850669364,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Die Reise nach Komra</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 2 - ca. 30 Meilen)</p>
+<p>Die Helden begleiten die Tributzahlung an den <a href="http://www.wiki-aventurica.de/index.php?title=Kaiserdrache">Kaiserdrachen</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Komra">Komra</a>.&nbsp;(S. 8)</p>
+<p><i>(Wenn <a href="http://www.wiki-aventurica.de/index.php?title=Kerbal">Kerbal</a> als Ausgangspunkt des Abenteuers gew&auml;hlt wird, muss nat&uuml;rlich auch die Reiseroute angepasst werden.)</i></p>]]></description>
+        <LookAt>
+          <longitude>3.978868380442675</longitude>
+          <latitude>25.83839255789223</latitude>
+          <altitude>50000</altitude>
+          <range>66315.22760409619</range>
+          <tilt>0</tilt>
+          <heading>-0.3939725177224096</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_78">
+          <tessellate>1</tessellate>
+          <coordinates>
+4.013741087673299,26.02636638365974,0 4.0021248467968,26.02395993617305,0 4.00377538316532,26.01829750212706,0 4.004330208618341,26.01018227702101,0 4.004865360551609,26.00473646544931,0 4.009106311049249,26.00009154783064,0 4.010508125678685,25.99454001008516,0 4.010302526279559,25.98886772277077,0 4.009978303448117,25.98252753358269,0 4.008046216293691,25.97617765239273,0 4.005021216446019,25.96715199113311,0 4.00123710595782,25.96045650357014,0 3.997447454532752,25.95453882736172,0 3.994271328321617,25.94929154659891,0 3.990355767749281,25.94370528699621,0 3.987428018795807,25.93842797783546,0 3.982288997971981,25.9312796804035,0 3.979258005897775,25.92336531247192,0 3.975610565786631,25.91522369840329,0 3.973818427643765,25.90698120981853,0 3.971721255584753,25.90040926309581,0 3.967899606479579,25.89360594767182,0 3.965145572284043,25.88797201743843,0 3.962842046749124,25.87982379054867,0 3.961182873900393,25.87187400678585,0 3.958216171871454,25.86604647648358,0 3.955252799517111,25.85983191700991,0 3.95380483511715,25.85246541930184,0 3.954084015886252,25.8443356404862,0 3.954572021439,25.83698174014575,0 3.957868109489597,25.82809683550513,0 3.960915417949467,25.82346957520277,0 3.966150484286775,25.81401559213066,0 3.968771432645979,25.80880427588625,0 3.971854950293936,25.79933547164929,0 3.971909864865646,25.7921706029558,0 3.973271217392893,25.78288262136431,0 3.973757549794803,25.77552490329313,0 3.969505941712028,25.7691050941036,0 3.963507460976623,25.76616074025579,0 </coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ankunft in Komra</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 2 - abends)</p>
+<p>Die Helden sehen, wie der <a href="http://www.wiki-aventurica.de/index.php?title=Meckerdrache">Meckerdrache</a> Aberwitz die Bewohner <a href="http://www.wiki-aventurica.de/index.php?title=Komra">Komras</a>&nbsp;im Namen seines Herrn <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Palandur</a> zum Arbeiten antreibt und lernen das Dorf und seine Bewohner kennen. (S. 8f)</p>]]></description>
+        <LookAt>
+          <longitude>3.962062822427737</longitude>
+          <latitude>25.76773330834041</latitude>
+          <altitude>50000</altitude>
+          <range>2751.717018689766</range>
+          <tilt>0</tilt>
+          <heading>0.01502114046951558</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene2</styleUrl>
+        <Point id="KMLe_80">
+          <coordinates>3.963510749962926,25.76614545229212,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gift!</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 2 - nachts)</p>
+<p>Wie drei angereiste Drachenj&auml;ger werden auch die Helden durch ein <a href="http://www.wiki-aventurica.de/index.php?title=Schlafgift">Schlafgift</a> au&szlig;er Gefecht gesetzt, w&auml;hrend die D&ouml;rfler sich auf den Weg machen, um dem <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Drachen</a> seinen Tribut zu &uuml;berbringen und ihm das junge M&auml;dchen Shayla zu opfern. (S. 9f)</p>]]></description>
+        <LookAt>
+          <longitude>3.962062822427737</longitude>
+          <latitude>25.76773330834041</latitude>
+          <altitude>50000</altitude>
+          <range>2751.717018689766</range>
+          <tilt>0</tilt>
+          <heading>0.01502114046951558</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene3</styleUrl>
+        <Point id="KMLe_82">
+          <coordinates>3.959154084863266,25.7651757459568,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+       </Placemark>
+      <Placemark>
+        <name>Verfolgung</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag&nbsp;3 - ca. 5 Meilen)</p>
+<p>Nach dem Erwachen folgen die Helden den Bewohnern <a href="http://www.wiki-aventurica.de/index.php?title=Komra">Komras</a> zum Ort der Tribut&uuml;bergabe an den <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Drachen</a>. (S. 11)</p>]]></description>
+        <LookAt>
+          <longitude>3.941801392283193</longitude>
+          <latitude>25.78263584353073</latitude>
+          <altitude>50000</altitude>
+          <range>11819.19763098039</range>
+          <tilt>0</tilt>
+          <heading>-1.989834522590613e-013</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_84">
+          <tessellate>1</tessellate>
+          <coordinates>
+3.959135278009851,25.76515249334909,0 3.953448944184186,25.76894644139296,0 3.95022198840008,25.77396532897203,0 3.948337641069308,25.77781129070663,0 3.944303602992305,25.78162767018479,0 3.941294308105365,25.78352217789794,0 3.935155674261501,25.78462882903798,0 3.930853573845412,25.78471824501261,0 3.927670532584024,25.78705702053405,0 3.926603914263298,25.79136128688099,0 3.926358952772646,25.79597494213767,0 3.925472820173788,25.79938835907256,0 3.924467506556475,25.80011919371237,0 </coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tribut</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 3 - morgens)</p>
+<p>Die Helden erfahren vom Ablauf der Tributzahlung. Die Gruppe kann den &Uuml;bergabeort - eine alte tulamidische Ruine - genau untersuchen, bis sie <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Palandur</a> entdeckt, der &uuml;ber&nbsp;ihre K&ouml;pfe&nbsp;hinweg in Richtung <a href="http://www.wiki-aventurica.de/index.php?title=Komra">Komra</a> fliegt. (S. 11)</p>]]></description>
+        <LookAt>
+          <longitude>3.928894561916056</longitude>
+          <latitude>25.80368149822293</latitude>
+          <altitude>50000</altitude>
+          <range>2542.000428816871</range>
+          <tilt>0</tilt>
+          <heading>-0.8837367631033002</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene4</styleUrl>
+        <Point id="KMLe_86">
+          <coordinates>3.924503822962258,25.80013585958137,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+         </Placemark>
+      <Placemark>
+        <name>Zurück nach Komra</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 3&nbsp;- ca. 5 Meilen)</p>
+<p>Die Helden folgen dem <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Drachen</a> zur&uuml;ck ins Dorf. (S. 11)</p>]]></description>
+        <LookAt>
+          <longitude>3.941801392283193</longitude>
+          <latitude>25.78263584353073</latitude>
+          <altitude>50000</altitude>
+          <range>11819.19763098039</range>
+          <tilt>0</tilt>
+          <heading>-1.989834522590613e-013</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_88">
+          <tessellate>1</tessellate>
+          <coordinates>
+3.924504143121517,25.80011717941006,0 3.928619299223097,25.79928235905798,0 3.931456365402641,25.79783220365063,0 3.933804819881226,25.79592850008095,0 3.935662131131283,25.79372017677618,0 3.938017953792492,25.79136984465925,0 3.941190252297415,25.78962650052654,0 3.942027178513425,25.78904234177546,0 3.944520157119735,25.78833207683054,0 3.946684914931402,25.78746834506941,0 3.949017503991508,25.78645798029441,0 3.951360131795889,25.78485204729923,0 3.952875968052045,25.78323474543121,0 3.954406866755051,25.78072413437047,0 3.956604079488488,25.77792482057209,0 3.958766025364791,25.77720984344736,0 3.960762621172236,25.77649257286709,0 3.961772203891301,25.77546395046448,0 3.962468661589134,25.77338861640903,0 3.96215555663483,25.77234191353329,0 </coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Jungfrau in Nöten</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 3)</p>
+<p>Im Dorf haben die drei Drachenj&auml;ger inzwischen die <a href="http://www.wiki-aventurica.de/index.php?title=Funkeldrache">Funkeldrachen</a>dame <a href="http://www.wiki-aventurica.de/index.php?title=Perlzahn">Perlzahn</a> aus <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Palandurs</a> Gefolge gefangengenommen. Abends erhalten die Helden heimlichen Besuch vom <a href="http://www.wiki-aventurica.de/index.php?title=Zwergdrache">Zwergdrachen</a> <a href="http://www.wiki-aventurica.de/index.php?title=Aberwitz">Aberwitz</a>, der einen Geiselaustausch zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Perlzahn">Perlzahn</a> und Shayla beabsichtigt. Dabei erfahren die Helden auch, dass&nbsp;es&nbsp;sich bei dem&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Kaiserdrache">Kaiserdrachen</a> <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Palandur</a> nur um eine durch <a href="http://www.wiki-aventurica.de/index.php?title=Zauberei">Zauberei</a> erzeugte&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Illusion">Illusion</a> handelt. (S. 12)</p>]]></description>
+        <LookAt>
+          <longitude>3.96378042727217</longitude>
+          <latitude>25.77058954084686</latitude>
+          <altitude>50000</altitude>
+          <range>2618.987860200683</range>
+          <tilt>0</tilt>
+          <heading>-0.8685632332335787</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene5</styleUrl>
+        <Point id="KMLe_90">
+          <coordinates>3.962137582360901,25.77230920795645,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+         </Placemark>
+      <Placemark>
+        <name>Feuer und Stahl</name>
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<p>(Tag 4)</p>
+<p>Durch eine List gelingt es Helden und <a href="http://www.wiki-aventurica.de/index.php?title=Zwergdrache">Zwergdrachen</a> gemeinsam, den D&ouml;rflern und angereisten Drachenj&auml;gern den Tod <a href="http://www.wiki-aventurica.de/index.php?title=Palandur">Palandurs</a> vorzut&auml;uschen und im Austausch gegen die R&uuml;ckkehr Shaylas die Freilassung <a href="http://www.wiki-aventurica.de/index.php?title=Perlzahn">Perlzahns</a> zu erreichen. (S. 13f)</p>]]></description>
+        <LookAt>
+          <longitude>3.952224602241556</longitude>
+          <latitude>25.78507384514595</latitude>
+          <altitude>50000</altitude>
+          <range>6366.104875601311</range>
+          <tilt>0</tilt>
+          <heading>-0.8735930421625968</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl> http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene6-X</styleUrl>
+        <Point id="KMLe_92">
+          <coordinates>3.95900672024188,25.78844023308515,0</coordinates>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+        </Placemark>
+      </Folder>
+  </Document>
+</kml>

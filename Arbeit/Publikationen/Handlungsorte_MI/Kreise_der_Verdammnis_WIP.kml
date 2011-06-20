@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kreise_der_Verdammnis_A116_WIP.kml</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin184">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="Szene10-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene3-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Szene1-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene1-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene1-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Szene103">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene1-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene2-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Szene100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene1030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene6-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene1030">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene9-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene9.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin314">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Strecke-n0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_Szene11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Szene11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene2-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene2-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene2-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene5-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin216">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Szene7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene7-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene7-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene4-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_Szene100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene101">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene1-X-h">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene103</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene5-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene3-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene7-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene7.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene103">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene3-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene3-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene3-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin179">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Szene8-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene8.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Szene4-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene4-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene4-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Szene1000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene102">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin07">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Szene4-X-h">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene4-X-n">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene8-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene8-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Szene3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene5-n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene5-h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Szene1-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin178">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin07">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Szene2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Szene102">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene3-X-h">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene9-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene9-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin07">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin184</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin07</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene3-X-n">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Strecke-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_Szene101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin216">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Strecke0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Strecke-n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Strecke-h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene10-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene10-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Szene3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene2-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene4-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin185">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin183</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin216</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene1-X-n">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene8-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene8.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene4-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene4-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin216">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin314</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin178</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Szene3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene2-X-n">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin314">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="Szene2-X-h">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene7-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene7.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin184">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin179</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene10-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin183">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin314">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin07</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin314</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="Strecke-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_Szene1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene103</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene5-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene5-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene6-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<bgColor>ffffffff</bgColor>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene9-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene9.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene5-h0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Strecke-h0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Szene5-n0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Strecke">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Strecke-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Strecke-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Szene103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene6-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene6-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>cc00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Kreise der Verdammnis</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description>In der Anthologie &quot;Kreise der Verdammnis&quot; haben tapfere Helden die Möglichkeit, sich tief in den Schwarzen Landen dem Feind entgegenzustellen und kleine Erfolge im Kampf gegen die Erben Borbarads zu feiern.</description>
+		<Folder>
+			<name>Stadt der 1000 Augen</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<description>Hier gilt es einen Überläufer aus Yol-Ghurmak zu befreien.
+
+Dieses Abenteuer eignet sich gut als Vorbereitung zur Kampagne &quot;Jahr des Feuers&quot;</description>
+		</Folder>
+		<Folder>
+			<name>Das letzte Banner</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description>Mithilfe eines alten Banners kann dem Feind ein Schnippchen geschlagen werden.</description>
+			<Placemark>
+				<name>Eine Einladung der besonderen Art</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(30. Tsa, 1025BF)
+<p><b>In der Kanzlei zu Perainefurten</b><br />
+Die Helden werden von Herzog Bernfried von Ehrenstein gebeten ein verfluchtes Banner aus den Gew&ouml;lben unter Warunk zu bergen und nach Eslamsbr&uuml;ck zu bringen um einen Teil des endlosen Heerwurms dorthin zu locken.<br />
+(S.32 ff.)</p>
+<p><b>Die Liturgie der Erz&auml;btissin</b><br />
+Ein Held bekommt von der Erz&auml;btissin Hinwei&szlig;e, wie die Gruppe zum Banner gelangen kann, kann diese aber noch nicht mitteilen.<br />
+(S. 34)</p>]]></description>
+				<LookAt>
+					<longitude>8.087002385577858</longitude>
+					<latitude>33.03064422628676</latitude>
+					<altitude>1000</altitude>
+					<range>69.4897194202741</range>
+					<tilt>0</tilt>
+					<heading>0.003367255859322908</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-08-30</when>
+</TimeStamp>
+				<styleUrl>#msn_Szene11</styleUrl>
+				<Point id="KMLe_84">
+					<coordinates>8.086980737803224,33.03062607937131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Von Perainefurten zum &quot;Abflugplatz&quot;</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(1. Phex 1025 BF - nachts)
+
+<p>Die Helden werden zum "Abflugplatz" des Drachen geführt.<br>
+<i>ca. 8 Meilen</i>]]></description>
+				<TimeStamp><when>1025-08-30</when>
+</TimeStamp>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString id="KMLe_85">
+					<tessellate>1</tessellate>
+					<coordinates>
+8.086977598662896,33.03062621836409,0 8.07267996542441,33.03673675221996,0 8.058215312974442,33.04510115595059,0 8.040974976120092,33.05159576162555,0 8.020931019040965,33.06739741740228,0 8.012561848326634,33.07995719769896,0 8.00642143949923,33.08972624890011,0 8.004156620964636,33.09146991191618,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Auf in die Lüfte</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(30. Tsa 1025BF, Nachts)
+<p>Die Helden werden zum Drachen Apep gebracht, der sie im kurz vor dem Morgengrauen etwa 20 Meilen n&ouml;rdlich von Warunk absetzt.<br />
+(S. 35)</p>
+<p><i>Der genau Ort des Zusammentreffens mit dem Drachen ist nicht festgelegt, allerdings befindet er sich nicht sehr weit von Perainefurten entfernt</i></p>]]></description>
+				<LookAt>
+					<longitude>8.003778138929784</longitude>
+					<latitude>33.08160979785962</latitude>
+					<altitude>1000</altitude>
+					<range>5693.553944125021</range>
+					<tilt>0</tilt>
+					<heading>-0.1459800817391268</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-08-30</when>
+</TimeStamp>
+				<styleUrl>#Szene2</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_30">
+					<coordinates>8.004199704965922,33.09136415439321,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flug mit dem Drachen</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(Nacht vom 1. Tsa auf den 2. Tsa 1025 BF)
+
+<p>Die Helden fliegen auf dem Rücken des Drachen in die <a href="http://www.wiki-aventurica.de/index.php?title=Warunkei">Warunkei</a>.<br>
+<i>ca. 225 Meilen</i>]]></description>
+				<TimeSpan>
+					<begin>1025-08-30</begin>
+					<end>1025-08-31</end>
+				</TimeSpan>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString id="KMLe_87">
+					<tessellate>1</tessellate>
+					<coordinates>
+8.004139387405616,33.09141440780108,0 7.814526945803603,30.84733055956534,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Die Warunkei - ein Leben in Angst und Schrecken</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(2. Phex 1025BF, Morgens)
+
+<p>Die Helden werden etwa 20 Meilen von der Stadt <a href="http://www.wiki-aventurica.de/index.php?title=Warunk">Warunk</a> entfernt, in der Nähe der Reichstraße abgesetzt. Bis zum Sonnenuntergang erreichen sie die Stadt.]]></description>
+				<LookAt>
+					<longitude>7.810241450922941</longitude>
+					<latitude>30.84428786358208</latitude>
+					<altitude>1000</altitude>
+					<range>3284.260429844936</range>
+					<tilt>0</tilt>
+					<heading>-0.2453088609361763</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-08-31</when>
+</TimeStamp>
+				<styleUrl>#msn_Szene3</styleUrl>
+				<Point id="KMLe_34">
+					<coordinates>7.81454435328456,30.84731294425501,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vom Landeplatz nach Warunk</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(2. Phex 1025 BF)
+
+<p>Die Helden reißen durch die <a href="http://www.wiki-aventurica.de/index.php?title=Warunkei">Warunkei</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Warunk>Warunk</a>.<br>
+<i>ca. 20 Meilen</i>]]></description>
+				<TimeStamp><when>1025-08-31</when>
+</TimeStamp>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString id="KMLe_89">
+					<tessellate>1</tessellate>
+					<coordinates>
+7.814528621850565,30.84736015405099,0 7.826586919094516,30.84473425984345,0 7.832291758849131,30.73970157529047,0 7.83847790026593,30.63866629958795,0 7.836730310272053,30.62312048622759,0 7.826908812799966,30.60574427457575,0 7.826777407908338,30.60550476255919,0 7.826696265055322,30.60531432486835,0 7.826646839311984,30.60509140307025,0 7.826660403304853,30.60489586951828,0 7.826649319869244,30.60457529272627,0 7.826594392239739,30.60418393185301,0 7.826564685197612,30.60379828979946,0 7.826547420776859,30.60345052717542,0 7.826504412680935,30.60320589622507,0 7.826775485057739,30.60327748818054,0 7.826914112122887,30.60332687698643,0 7.827065780698106,30.60328938650885,0 7.827123188052056,30.60316463513926,0 7.827131838644819,30.60305211854616,0 7.827095552465977,30.60283052764907,0 7.827059095078248,30.60264465578177,0 7.82701030830141,30.60243373616587,0 7.827011354938627,30.60221584953913,0 7.827024765582841,30.60201586632529,0 7.82710066494182,30.60176609675233,0 7.82721362159675,30.60157718186691,0 7.827317437571826,30.60156326253489,0 7.827417052259305,30.60156004418815,0 7.827512139669071,30.60163539394943,0 7.827528035906777,30.60178190263072,0 7.827551700457375,30.60203917030045,0 7.827549934472577,30.6024070781976,0 7.827639502186623,30.60276816563172,0 7.827729807661362,30.60297566078891,0 7.827791474378854,30.60309732687339,0 7.827845304725393,30.60312252199967,0 7.827932437069114,30.60312640345909,0 7.828019620870432,30.603119569115,0 7.828102808760189,30.60308057270001,0 7.828152403370588,30.60312361253872,0 7.82827647585933,30.60321335257986,0 7.828379662173123,30.60333159448367,0 7.828441212144823,30.60347826471941,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ankunft in Warunk</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(1. Phex 1025BF, Später am Tag)
+
+<p>Die Helden erreichen <a href="http://www.wiki-aventurica.de/index.php?title=Warunk>Warunk</a>.Dort begeben sie sich in die Kaschemme "Otterngrube".<br>
+(S. 36ff.)]]></description>
+				<LookAt>
+					<longitude>7.829102577822347</longitude>
+					<latitude>30.60348348826543</latitude>
+					<altitude>1000</altitude>
+					<range>682.7862996669929</range>
+					<tilt>0</tilt>
+					<heading>-0.001033231585411755</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-08-31</when>
+</TimeStamp>
+				<styleUrl>#Szene4</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_46">
+					<coordinates>7.828438918851908,30.6034744093145,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mitternacht in Warunk</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(1. Phex 1025BF, Abends)
+
+<p>Die Helden treffen sich mit ihrer Kontaktperson am alten Pranger. Diese schickt sie weiter zur Kreuzergasse 7<br>
+(S. 38)]]></description>
+				<LookAt>
+					<longitude>7.83345273775908</longitude>
+					<latitude>30.60344792521052</latitude>
+					<altitude>0</altitude>
+					<range>739.4479089136358</range>
+					<tilt>0</tilt>
+					<heading>-0.2334239426778813</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-08-31</when>
+</TimeStamp>
+				<styleUrl>#Szene5</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_48">
+					<coordinates>7.833638594317723,30.60355004468624,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>In der Kreuzergasse 7</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(1. Phex, 1025BF, Nachts)
+<p>Die Helden werden von den Widerstandsk&auml;mpfern durch ein geheimes Tunnelsystem zum <a href="http://www.wiki-aventurica.de/index.php?title=Molchenberg">Molchenberg</a> gef&uuml;hrt.<br />
+(S. 38f.)</p>]]></description>
+				<LookAt>
+					<longitude>7.832790614003156</longitude>
+					<latitude>30.60286764892791</latitude>
+					<altitude>0</altitude>
+					<range>682.7862996654098</range>
+					<tilt>0</tilt>
+					<heading>0.0008442678220557877</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-09</when>
+</TimeStamp>
+				<styleUrl>#Szene6</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_42">
+					<coordinates>7.832365011498837,30.60308260494378,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Im Molchenberg</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(2. Phex 1025BF, Morgens)
+
+<p>Die Helden finden unter dem <a href="http://www.wiki-aventurica.de/index.php?title=Molchenberg">Molchenberg</a> "Das letzte Banner". Danach verlassen sie die unterirdischen Gänge wieder.<br>
+(S. 39ff.)
+
+<p><i>Anmerkung:<br>
+Diese Ortsmarke kennzeichnet nur den Molchenberg. Die Aktionen in diesem Abschnitt spielen sich alle in den Gängen tief im Inneren des Berges ab.]]></description>
+				<LookAt>
+					<longitude>7.832452925377554</longitude>
+					<latitude>30.6023953566112</latitude>
+					<altitude>1000</altitude>
+					<range>682.7862996664205</range>
+					<tilt>0</tilt>
+					<heading>0.0006723459332637599</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-09</when>
+</TimeStamp>
+				<styleUrl>#Szene7</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_65">
+					<coordinates>7.831577091634044,30.60147803349718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flucht aus Warunk</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(2. Phex 1025BF)
+
+<p> Die Helden fliehen aus  <a href="http://www.wiki-aventurica.de/index.php?title=Warunk">Warunk</a> in Richtung Dreiländereck <a href="http://www.wiki-aventurica.de/index.php?title=Eslamsbrück">Eslamsbrück</a>. <br>
+(S.43)
+<p>Dabei laufen sie "Soweit die Stiefel tragen" (S. 43f.), kommen durch "Thargunistein" (S. 44), erleben "Das Blutbad" (S. 44f.) und holen "Die <a href="http://www.wiki-aventurica.de/index.php?title=Drachengarde">Drachengarde</a>" (S.45) ein. Sie bekämpfen "Die Menschenjäger" (S. 45f.), werden von "Laufenden Bäumen" (S. 46f.)überrascht und zu guter Letzt hilft ihnen "Der Ochsenkarren" (S. 47)  dabei sich in <a href="http://www.wiki-aventurica.de/index.php?title=Galotta">Galottas</a> Lager einzuschleichen.]]></description>
+				<LookAt>
+					<longitude>7.828958750776853</longitude>
+					<latitude>30.60339308060642</latitude>
+					<altitude>1000</altitude>
+					<range>407.5008360071689</range>
+					<tilt>0</tilt>
+					<heading>-0.00110638289466721</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeStamp><when>1025-09</when>
+</TimeStamp>
+				<styleUrl>#Szene8</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_67">
+					<coordinates>7.828427634150634,30.60346353841258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Von Warunk nach Eslamsbrück</name>
+				<Snippet maxLines="0"></Snippet>
+				<description>ca. 120 Meilen</description>
+				<TimeSpan>
+					<begin>1025-09</begin>
+					<end>1025-09-07</end>
+				</TimeSpan>
+				<styleUrl>#Strecke0</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<LineString id="KMLe_69">
+					<tessellate>1</tessellate>
+					<coordinates>
+7.828428228599325,30.60346247099458,0 7.82842544810457,30.60338043626832,0 7.82834892360807,30.60331217224975,0 7.828224148388694,30.60318752593905,0 7.828133444607768,30.60309936728311,0 7.828039178462658,30.60309128138232,0 7.827943245823386,30.60314816442409,0 7.827879937830577,30.60314457011551,0 7.827824607964729,30.60311745888484,0 7.827750581652748,30.60303129689564,0 7.827695108390264,30.60292644542355,0 7.827641001406052,30.6028123156748,0 7.827584965344441,30.60264127742999,0 7.827549674685765,30.6023688316034,0 7.827533802189768,30.60206434687405,0 7.827530406326837,30.60185464011376,0 7.82750999097323,30.60167788620817,0 7.827475957189318,30.60160464484766,0 7.827422635197796,30.60155483979637,0 7.827329602284523,30.60154897778918,0 7.827214113401686,30.60159487190003,0 7.827133556414385,30.60169252329575,0 7.827077957788622,30.60182826034876,0 7.82704236239351,30.60194296523197,0 7.827028742838087,30.60205917279047,0 7.827023065350827,30.60216952140055,0 7.82701284902604,30.60229256498437,0 7.82701708302757,30.60245754360626,0 7.827051113958143,30.60259523658482,0 7.827080604482905,30.60278849195967,0 7.827119170699186,30.6030033316463,0 7.827129375706505,30.60315064769554,0 7.82709419984714,30.60325318313701,0 7.827014777610392,30.60330981995581,0 7.826953509933881,30.60333032538461,0 7.826822504394125,30.60332055567545,0 7.826672742992365,30.60328148914372,0 7.826627361953897,30.60324437912848,0 7.826472651361341,30.60319444566848,0 7.826559891895217,30.60339997869711,0 7.826564465600711,30.60379127660855,0 7.826587408660184,30.60417071872682,0 7.826660856605709,30.60474628655243,0 7.82665166009088,30.60501110453324,0 7.826683794340741,30.60526011460186,0 7.826725118796958,30.60538659710305,0 7.826821548567907,30.6055565597878,0 7.838331660307367,30.63396895772288,0 7.841288776573682,30.68531996655208,0 7.83548545636116,30.72256345441846,0 7.827232136498362,30.75067862642178,0 7.830186652511884,30.83629983920205,0 7.8155919201663,30.889855149764,0 7.808933945184682,30.92800136871647,0 7.851612741549614,30.94485274311916,0 7.938366525644101,31.00793758216166,0 8.021787507346883,31.04305533894598,0 8.049652732910136,31.06490676396446,0 8.085095274968463,31.08764126419015,0 8.115812061405446,31.09912207243105,0 8.193565182699699,31.1474520505891,0 8.246850285212364,31.18671730390983,0 8.321956574722488,31.24467740914127,0 8.344756687752323,31.27749127059706,0 8.376362975301532,31.30854230425835,0 8.385178051884113,31.33174248594444,0 8.38906765276673,31.34713829620726,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Das Finale Schurkenstück</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(Ende erste Phex Woche, 1025BF)<br>
+
+<p>Die Helden entrollen "Das letzte Banner" in <a href="http://www.wiki-aventurica.de/index.php?title=Eslamsbr%C3%BCck">Eslamsbrück</a>. Anschließend fliehen sie Richtung Tesralschlaufe um dort im Sanktuarium "Hort <a href="http://www.wiki-aventurica.de/index.php?title=Drachenblick">Drachenblick"</a> Schutz zu suchen.<br>
+(S. 48f.)
+<p><i>Anmerkung:<br>
+Wo die Helden das Banner genau hissen spielt keine Rolle.</i>]]></description>
+				<LookAt>
+					<longitude>8.40003669365241</longitude>
+					<latitude>31.35479679585312</latitude>
+					<altitude>1000</altitude>
+					<range>91470.81814208401</range>
+					<tilt>0</tilt>
+					<heading>0.2945018767838368</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeSpan>
+					<begin>1025-09-05</begin>
+					<end>1025-09-08</end>
+				</TimeSpan>
+				<styleUrl>#Szene9</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_70">
+					<coordinates>8.40003669365241,31.35479679585311,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Von Eslamsbrück zum Sanktuarium</name>
+				<Snippet maxLines="0"></Snippet>
+				<description>ca. 40 Meilen</description>
+				<TimeSpan>
+					<begin>1025-09-05</begin>
+					<end>1025-09-08</end>
+				</TimeSpan>
+				<styleUrl>#msn_ylw-pushpin185</styleUrl>
+				<LineString id="KMLe_73">
+					<tessellate>1</tessellate>
+					<coordinates>
+8.404469556746646,31.36877829799981,0 8.426911684687148,31.37627141318114,0 8.451151100296864,31.37720482970608,0 8.472314082860965,31.37710178463021,0 8.499554655514361,31.36910873616442,0 8.521563337331111,31.35904290499217,0 8.54081797823298,31.35003501946119,0 8.568406371202864,31.34778462381041,0 8.608912363891934,31.35069301301915,0 8.643353876682385,31.36226540940401,0 8.678456879244134,31.37775337346166,0 8.706247095844166,31.39642824211072,0 8.720265970031191,31.41755447094412,0 8.731311225889824,31.48666162260383,0 8.776498709571079,31.48720367691033,0 8.831361062779335,31.49052305095699,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ende Gut, Alles Gut</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[Im Sanktuarim endet das Abenteuer. Die Helden sind in Sicherheit.
+<p><i>Anmerkung:<br />
+Die genau Lage des Sanktuariums ist nicht bekannt. Es liegt aber etwa 40 Meilen &ouml;stlich von Eslamsbr&uuml;ck in der Tesralschlaufe.</i></p>]]></description>
+				<LookAt>
+					<longitude>8.801730107162991</longitude>
+					<latitude>31.49837315944956</latitude>
+					<altitude>1000</altitude>
+					<range>30236.68678201097</range>
+					<tilt>0</tilt>
+					<heading>0.5031242435755592</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeSpan>
+					<begin>1025-09-06</begin>
+					<end>1025-09-09</end>
+				</TimeSpan>
+				<styleUrl>#Szene10</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_74">
+					<coordinates>8.831366429451123,31.49050537738082,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Alveranskommando</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description>Nur warhaft tapferen Recken gelingt es ein Artefakt der Beilunker Zwerge zu bergen.</description>
+			<styleUrl>#Szene1-X</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark>
+				<name>Der Auftrag</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(11. Phex 1025 BF)
+
+<p>Die Helden erhalten Botschaft von <a href="http://www.wiki-aventurica.de/index.php?title=Delo_von_Gernotsborn">Delo von Gernotsborn</a>, der sie im Namen der Ingerimmskirche bittet, die <a href="http://www.wiki-aventurica.de/index.php?title=Saljethstele">Saljethstele</a> zu suchen und nach <a href="http://www.wiki-aventurica.de/index.php?title=Vallusa">Vallusa</a> zu bringen.<br>
+(S. 53ff.)
+
+<p><i>Anmerkung:<br>
+Die Anwerbung erfolgt nur im Rahmen der Kurzkampagne "Kreise der Verdammnis" im Hort Drachenblick. Sie kann auch verlegt werden.</i>]]></description>
+				<LookAt>
+					<longitude>8.801730107162991</longitude>
+					<latitude>31.49837315944956</latitude>
+					<altitude>1000</altitude>
+					<range>30236.68678201097</range>
+					<tilt>0</tilt>
+					<heading>0.5031242435755592</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<TimeSpan>
+					<begin>1025-09-06</begin>
+					<end>1025-09-09</end>
+				</TimeSpan>
+				<styleUrl>#Szene1</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_65">
+					<coordinates>8.831366429451123,31.49050537738082,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1. Tag bis 6. Tag - Gen Lorgolosch</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(12. Phex bis 17. Phex 1025 BF)
+
+<p>Die Helden brechen nach kurzen Nachforschungen im Hort Drachenblick und Vervollständigung ihrer Aufrüstung mit Ziel <a href="http://www.wiki-aventurica.de/index.php?title=Lorgolosch">Lorgolosch</a> auf. Im Laufe des 6. Tages erreichen sie <a href="http://www.wiki-aventurica.de/index.php?title=Shamaham">Shamaham</a> und die Ruinen von <a href="http://www.wiki-aventurica.de/index.php?title=Kurkum">Kurkum</a>. <i>(ca. 190 - 210 Meilen)</i><br>
+(S. 55ff.)
+
+<p></i>Anmerkung: Die Route ist hier nur zur übersicht abgebildet. Natürlich werden die Helden nicht genau entlang der Luftlinie reißen. Allerdings ist nicht sonderlich wichtig, durch welche Dörfer sie kommen, sondern dass sie 6 Tage für die Strecke brauchen.]]></description>
+				<styleUrl>#Strecke</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<LineString id="KMLe_67">
+					<tessellate>1</tessellate>
+					<coordinates>
+8.831373915490691,31.4905029627891,0 9.203828272235217,30.07503989586996,0 9.202168332333883,30.06750617219433,0 9.189955855985989,30.03966163750188,0 9.18259250236911,30.01055420113267,0 9.184214118542631,29.99763276380412,0 9.19133751936254,29.97956908277503,0 9.196916775099728,29.96374076784367,0 9.201469233784794,29.94944845236217,0 9.20431785611861,29.93846980190205,0 9.207986280086226,29.92240466612079,0 9.205984419214397,29.91160852645366,0 9.20073796418362,29.90593858158469,0 9.201295884876686,29.89062131460075,0 9.201834725244611,29.87305006088199,0 9.201444149017011,29.84870998312763,0 9.202342330597082,29.83279007999122,0 9.204716572916809,29.80781973655943,0 9.204930088567549,29.79280488655815,0 9.20468658463713,29.76541573067381,0 9.206619943149335,29.74933844300509,0 9.210944692473554,29.74115922913826,0 9.216732569429063,29.73106171421561,0 9.223730833350947,29.72110583407844,0 9.227439987476668,29.71072141548829,0 9.229432631535586,29.70169131201189,0 9.231399189595461,29.68996706732501,0 9.233720866079803,29.67929180640292,0 9.235884753873954,29.67026904839948,0 9.238236464889717,29.66289617362693,0 9.242293930562184,29.65310859781501,0 9.243277137698971,29.64724578795726,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Der 7. und 8. Tag</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(18. Phex und 19. Phex 1025 BF)
+<p>Die Helden durchqueren die <a href="http://www.wiki-aventurica.de/index.php?title=Beilunker_Berge">Beilunker Berge</a> und erreichen <a href="http://www.wiki-aventurica.de/index.php?title=Lorgolosch">Lorgolosch</a>. Unterwegs erleben sie einen "Sturm", setzten sich mit einem "Borkenbär" auseinadner und begegnen einem "Luftelementar", der sie nach Lorgolosch bringt. <i>(ca. 30 bis 40 Meilen)</i><br>
+(S. 57f.)
+
+<p><i>Anmerkung:<br>
+Auch hier ist die eingezeichnete Route nicht die tatsächliche. Wichtig ist wieder nur die Reisezeit von 2 Tagen.</i>]]></description>
+				<styleUrl>#Strecke</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<LineString id="KMLe_69">
+					<tessellate>1</tessellate>
+					<coordinates>
+9.243277245543025,29.64724130960522,0 9.233182871144084,29.6135060175734,0 8.97299483699285,29.36866211589068,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Lorgolosch</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(20. Phex 1025 BF)
+<p>Die helden erreichen das ehemalige Zwergenkönigreich. hier führt sie ihre Spurensuche nun zur Hauptstadt <a href="http://www.wiki-aventurica.de/index.php?title=Schatodor">Schatodor</a>.]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>1025-08-30</begin>
+						<end>1025-09-09</end>
+					</gx:TimeSpan>
+					<longitude>8.973010935360268</longitude>
+					<latitude>29.36864275969446</latitude>
+					<altitude>0</altitude>
+					<range>22.85061902836029</range>
+					<tilt>0</tilt>
+					<heading>0.4576358983529188</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#Szene2-X</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_77">
+					<coordinates>8.972994519595561,29.36866259828771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9. Tag - Schatodor</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(20. Phex 1025 BF)
+
+<p>Die Helden erreichen <a href="http://www.wiki-aventurica.de//index.php?title=Schatodor" title="Schatodor">Schatodor</a>. <i>(ca. 15 Meilen)</i> <br>
+(S. 58f.)]]></description>
+				<styleUrl>#Strecke</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<LineString id="KMLe_71">
+					<tessellate>1</tessellate>
+					<coordinates>
+8.972994521449557,29.36866280057559,0 9.1537371704927,29.32939638363668,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Schatodor &amp; Flucht</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(20. Phex bis 24. Phex 1025 BF)
+<p>Beim Erkunden der alten  Tempelruine entdecken sie eine "Niederhöllische Pforte" und werden von Geistern und Skeletten verjagt.<br>
+(S. 59f.) 
+<p>Auf der Flucht finden sie Kontakt zu den letzten Beilunker <a href="http://www.wiki-aventurica.de//index.php?title=Zwerg" title="Zwerg">Zwergen</a> in <a href="http://www.wiki-aventurica.de//index.php?title=Thorolosch">Thorolosch</a>. Auf dem Weg dorthin beschützen sie die Zwerge noch vor einem "Paktierer". In der Stadt finden sie die Stele, und machen sich auf zu einem vereinbarten Treffpunkt mit einem Boot das sie nach <a href="http://www.wiki-aventurica.de//index.php?title=Vallusa" title="Vallusa">Vallusa</a> bringen soll.<br>
+(S. 60ff.)
+
+<p><i>Anmerkung: <br>
+Die genaue Lage von Thorlosch ist nicht im Abenteuer angegeben und auch aus anderen Quellen nicht zu erfahren. Deshalb wird hier auch kein Standort angegeben.</i>]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>1025-08-30</begin>
+						<end>1025-09-09</end>
+					</gx:TimeSpan>
+					<longitude>9.155586548262704</longitude>
+					<latitude>29.3288872507584</latitude>
+					<altitude>0</altitude>
+					<range>757.0952403248192</range>
+					<tilt>0</tilt>
+					<heading>0.546958832882802</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#Szene3-X</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_79">
+					<coordinates>9.153750683201253,29.32938847227928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>An Bord der Odelind</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(24. Phex 1025 BF)
+
+<p>Die Helden können mit der Stele in letzter Minute auf das Schiff entkommen und ablegen.<br>
+(S. 62)
+
+<p><i>Anmerkung: <br>
+Da die genaue Lage von Thorlosch nicht bekannt ist, ist auch die Anlegestelle des Fischkutters "Odelind" nicht zu ermitteln. Diese Ortsmarke dient lediglich als Richtlinie.</i>]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>1025-08-30</begin>
+						<end>1025-09-09</end>
+					</gx:TimeSpan>
+					<longitude>9.06092494632961</longitude>
+					<latitude>29.23471888385057</latitude>
+					<altitude>0</altitude>
+					<range>58.38819744046719</range>
+					<tilt>0</tilt>
+					<heading>0.4995375615170128</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#Szene4-X</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_81">
+					<coordinates>9.061099298092596,29.23470851103954,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>An Bord der Odelind</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(24. Phex bis 27. Phex 1025 BF)
+
+<p>Während der Fahrt auf der <a href="http://www.wiki-aventurica.de/index.php?title=Blutige_See_(Meer)">Blutigen See</a> erleben die Helden die Gefahren dieser trügerischen Gewässer. Die "Odelind" sinkt, aber eine mystische Erscheinung der <a href="http://www.wiki-aventurica.de/index.php?title=Reichsforst_(Schiff)">Reichsforst</a> rettet die Helden, und bringt sie nach <a href="http://www.wiki-aventurica.de/index.php?title=Vallusa" title="Vallusa">Vallusa</a>. <i>(ca. 575 - 750 Meilen, je nach Route)<br>
+(S. 62ff.)
+
+<p><i>Anmerkung:<br>
+Die genaue Schiffsroute der Helden ist nicht nachzuvollziehen. Die hier gewählte Strecke ist eine Lösung, kann aber beliebig abgewandelt werden.</i>]]></description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString id="KMLe_73">
+					<tessellate>1</tessellate>
+					<coordinates>
+9.061099996705543,29.23470723664438,0 9.074365607599228,29.19769131378194,0 9.07487183532205,29.15039296115399,0 9.051142602207685,29.10651125200889,0 9.035788795047036,29.05847308110968,0 9.045684393969619,29.01677438822209,0 9.064095899624489,28.98966116096191,0 9.089745374094777,28.94056099926855,0 9.139685250656138,28.90105201705915,0 9.1945539424126,28.89083623027056,0 9.289700683021987,28.89737255951296,0 9.407222697475216,28.89054987421185,0 9.482792524500914,28.87833267420761,0 9.798963562195214,28.83577711833064,0 9.91019693608941,28.85225717817687,0 9.989734332438548,28.91646408906755,0 10.1036475411977,28.98833584203765,0 10.16898179515412,29.08525093956754,0 10.19515863980649,29.177909400646,0 10.26914437618805,29.36351605417381,0 10.39937032160528,29.42228160079698,0 10.6271917255592,29.50248435393806,0 10.84790839144882,29.70425577395029,0 11.042933758242,29.91096221594535,0 11.13236284370167,30.18086032145862,0 11.22209946457947,30.43224154702164,0 11.14380162433273,30.71098973443782,0 10.84967450724669,31.11667423960658,0 10.6550185374678,31.41766592200385,0 10.56073828208067,31.69199909264232,0 10.51574358494178,31.88477043334346,0 10.57560213246428,32.07560598716892,0 10.75239603644943,32.27367592851865,0 10.79944503279996,32.56331433877634,0 10.78478275960924,32.63393471953309,0 10.72397313234907,32.84626921087591,0 10.71294282731309,32.85116006441531,0 10.61061574380093,32.98922892014123,0 10.39378718384387,33.03974859964465,0 10.19812712249212,33.04266954357981,0 9.990710171810198,33.01262457052123,0 9.822407761636773,32.97247775377699,0 9.718116387835545,32.97404355408358,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Vallusa</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[(27. Phex 1025 BF)
+
+<p>In Vallusa angekommen übergeeben die Helden dem Ingerimmgeweihten die Stele.<br>
+(S.65)]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>1025-08-30</begin>
+						<end>1025-09-09</end>
+					</gx:TimeSpan>
+					<longitude>9.718289186210473</longitude>
+					<latitude>32.97311815419327</latitude>
+					<altitude>1000</altitude>
+					<range>567.1594455825506</range>
+					<tilt>0</tilt>
+					<heading>0.7525900670951591</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#Szene50</styleUrl>
+				<Style>
+					<BalloonStyle>
+						<textColor>ff000000</textColor>
+						<bgColor>ffffffff</bgColor>
+						<displayMode>default</displayMode>
+					</BalloonStyle>
+				</Style>
+				<Point id="KMLe_82">
+					<coordinates>9.718132972111398,32.97403628987679,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Operation Perlbeisser</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<description>Mit dem bekannten Schiff der mittelreichischen Flotte werden die Schwarzen Horden bekämpft.</description>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

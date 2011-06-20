@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Die Mission des Raspyrriz.kml</name>
+    <open>0</open>
+    <Folder>
+      <name>Die Mission des Raspyrriz (Drachenodem)</name>
+      <open>1</open>
+      <description><![CDATA[Im <i>Winter 1027 BF</i> greift ein Perldrache Burg Drachenhaupt in den schneebedeckten Drachensteinen an und bekommt dabei Unterst�tzung durch den Abgesandten von Apep, Dracodan von Misaquell - so scheint es jedenfalls auf den ersten Blick. Aber nat�rlich tr�gt auch hier der erste Eindruck, und die Helden geraten in eine Auseinandersetzung mit Boten der Schwarzen Lande. Ohne Hilfe werden sie, alleine in den winterlichen Bergen, kaum �berleben k�nnen, aber wo soll diese Hilfe nur herkommen?]]></description>
+      <LookAt>
+        <longitude>8.428932945611402</longitude>
+        <latitude>33.80909987831713</latitude>
+        <altitude>1000</altitude>
+        <range>229482.0180211517</range>
+        <tilt>0</tilt>
+        <heading>-1.335832966214677e-013</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Placemark>
+        <name>Ein Drach', von S�den kommend!</name>
+        <description><![CDATA[(Tag 1 - nachts)
+<p>Die Helden werden&nbsp;Zeugen des n&auml;chtlichen Angriffs eines Perldrachen auf <a href="http://www.wiki-aventurica.de/index.php?title=Burg_Drachenhaupt">Burg Drachenhaupt</a>, der einige Schwerverletzte zur&uuml;ckl&auml;sst. <a href="http://www.wiki-aventurica.de/index.php?title=Dracodan_von_Misaquell">Dracodan von Misaquell</a>, der Gesandte des <a href="http://www.wiki-aventurica.de/index.php?title=Kaiserdrache">Kaiserdrachen</a> <a href="http://www.wiki-aventurica.de/index.php?title=Apep">Apep</a> benimmt sich verd&auml;chtig und verl&auml;sst direkt nach dem Vorfall die Burg. Die Helden werden damit beauftragt, am n&auml;chsten Morgen ins <a href="http://www.wiki-aventurica.de/index.php?title=Tal_der_T%C3%BCrme">Tal der T&uuml;rme</a> aufzubrechen, um dort ein seltenes Heilkraut zu besorgen. (S. 50ff)<br />
+&nbsp;</p>]]></description>
+        <LookAt>
+          <longitude>7.957422661163277</longitude>
+          <latitude>33.80169452347425</latitude>
+          <altitude>1000</altitude>
+          <range>168450.2648534533</range>
+          <tilt>0</tilt>
+          <heading>0.02172525674132658</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+        <Point id="KMLe_18">
+          <coordinates>7.957435308537447,33.80169047575934,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>In den Drachensteinen</name>
+        <description><![CDATA[(2. Tag - ca. 26 Meilen)
+<p>Die Helden machen sich auf den Weg &uuml;ber den verschneiten Pass &uuml;ber das <a href="http://www.wiki-aventurica.de/index.php?title=Raulsjoch">Raulsjoch</a>&nbsp;zum <a href="http://www.wiki-aventurica.de/index.php?title=Tal_der_T%C3%BCrme">Tal der T&uuml;rme</a>. (S. 52)</p>]]></description>
+        <LookAt>
+          <longitude>8.035120752017226</longitude>
+          <latitude>33.81327145377573</latitude>
+          <altitude>0</altitude>
+          <range>128081.1508559997</range>
+          <tilt>0</tilt>
+          <heading>0.0648930708402693</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_20">
+          <tessellate>1</tessellate>
+          <coordinates>
+7.957435148076762,33.80169046266524,0 7.970227901775926,33.79902945415364,0 7.977081458581081,33.79978498589326,0 7.986677837907504,33.8035734870034,0 7.992161381562033,33.80584626401185,0 8.000387230808689,33.81001350613568,0 8.007699915621478,33.81456006563232,0 8.015011071950307,33.81758866477114,0 8.02186235020827,33.81796184477039,0 8.029167995356008,33.81681692624905,0 8.036923810114892,33.81149878164254,0 8.041485988323485,33.80883892082856,0 8.045134584790199,33.80617994820656,0 8.050152409191327,33.80351941668048,0 8.05471572196582,33.80237642200391,0 8.062476124660595,33.80236734189423,0 8.067500773503795,33.80425761052346,0 8.072983396158628,33.806905616246,0 8.080293633535442,33.81030944382292,0 8.087147000797037,33.81333418298213,0 8.092631205746645,33.8163605369955,0 8.096743770901648,33.81825087326133,0 8.100857315903657,33.82052035830222,0 8.106799751019375,33.82392471860083,0 8.110458137608722,33.82657392913973,0 8.115489147308203,33.83035870658599,0 8.121432926375613,33.83376254892895,0 8.12554418287789,33.83451422503163,0 8.12736773504566,33.83337322860036,0 8.13283808845679,33.82995012601462,0 8.134653546836958,33.82577476721408,0 8.137839428492345,33.82197627176633,0 8.139661538143049,33.82045587308935,0 8.148324133775002,33.81626786547447,0 8.154714332609386,33.81587645394527,0 8.158823069229658,33.81586848981471,0 8.170696627381147,33.81698263101313,0 8.178006524376478,33.81848469696891,0 8.185773647858641,33.81998543353065,0 8.192167743356416,33.82035085961987,0 8.198564788729035,33.82147462822857,0 8.204462521770193,33.82221487935789,0 8.231436930492693,33.82794935795433,0 8.234797804507943,33.82267701159359,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>"Rettet die Mission!"</name>
+        <description><![CDATA[(Tag 2 - sp&auml;ter Nachmittag)
+<p>Die Helden finden <a href="http://www.wiki-aventurica.de/index.php?title=Dracodan_von_Misaquell">Dracodan von Misaquell</a> beim Leichnam des abgest&uuml;rzten <a href="http://www.wiki-aventurica.de/index.php?title=Perldrache">Perldrachen</a> <a href="http://www.wiki-aventurica.de/index.php?title=Raspyrriz">Raspyrriz</a> auf. Es kommt zu einem Kampf mit drei <a href="http://www.wiki-aventurica.de/index.php?title=Asqarath">Irrhalken</a> und ein Erdrutsch bringt die Gruppe vom Passweg ab. W&auml;hrend <a href="http://www.wiki-aventurica.de/index.php?title=Dracodan_von_Misaquell">Dracodan</a>&nbsp;von der <a href="http://www.wiki-aventurica.de/index.php?title=Warunk">Warunker</a> <a href="http://www.wiki-aventurica.de/index.php?title=Oberst">Obristin</a> <a href="http://www.wiki-aventurica.de/index.php?title=Jendesa_von_Tuzak">Jendesa von Tuzak</a>&nbsp;entf&uuml;hrt wird, gibt er den Helden den Auftrag, <a href="http://www.wiki-aventurica.de/index.php?title=Raspyrriz">Raspyrriz'</a> <a href="http://www.wiki-aventurica.de/index.php?title=Karfunkel">Karfunkel</a> zu retten und eine Eisenkugel, die der <a href="http://www.wiki-aventurica.de/index.php?title=Perldrache">Perldrache</a> bei sich trug, zu <a href="http://www.wiki-aventurica.de/index.php?title=Apep">Apep</a> zu bringen. (S. 52-54)</p>]]></description>
+        <LookAt>
+          <longitude>8.279942195610712</longitude>
+          <latitude>33.84976840761625</latitude>
+          <altitude>0</altitude>
+          <range>100488.7108747066</range>
+          <tilt>0</tilt>
+          <heading>0.2005622768480009</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene2</styleUrl>
+        <Point id="KMLe_22">
+          <coordinates>8.234797642980251,33.82267701927815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Durch das Gebirge</name>
+        <description><![CDATA[<p>(Tag 2 - ca. 5 Meilen)</p>
+<p>W&auml;hrend das Wetter zunehmend schlechter wird, versuchen die Helden abseits des Passes einen gesch&uuml;tzten Platz f&uuml;r die Nacht zu finden. (ca. 5 Meilen)</p>]]></description>
+        <LookAt>
+          <longitude>8.28984817536405</longitude>
+          <latitude>33.80478049705511</latitude>
+          <altitude>0</altitude>
+          <range>39098.3227466734</range>
+          <tilt>0</tilt>
+          <heading>0.1817647013525375</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_24">
+          <tessellate>1</tessellate>
+          <coordinates>
+8.234797778524987,33.82267719236069,0 8.242670043537931,33.81734460194101,0 8.255137205223386,33.81113386271113,0 8.264042449612008,33.80690845245658,0 8.276810420790557,33.80192955077222,0 8.292852979237029,33.79768008732071,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Die erste Nacht und der Schneesturm</name>
+        <description><![CDATA[(Tag 2 - nachts)
+<p>Die Helden verbringen die Nacht in ihrem provisorischen Unterstand. &Uuml;ber Nacht steigert sich das Unwetter zu einem furchtbaren Schneesturm, der auch den gesamten folgenden Tag andauert. Eine Weiterreise ist unter diesen Bedingungen nicht m&ouml;glich. (S. 55)</p>]]></description>
+        <LookAt>
+          <longitude>8.314658313937573</longitude>
+          <latitude>33.80434141923749</latitude>
+          <altitude>0</altitude>
+          <range>39098.32274667081</range>
+          <tilt>0</tilt>
+          <heading>0.1955437119271226</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene3</styleUrl>
+        <Point id="KMLe_26">
+          <coordinates>8.292852792948903,33.79768002031925,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aufbruch ins Ungewisse</name>
+        <description><![CDATA[(Tag 4 - ca. 11 Meilen)
+<p>Nach dem Ende des Schneesturms k&ouml;nnen die Helden endlich weiterreisen. Das Vorw&auml;rtskommen im Tiefschnee ist beschwerlich und kostet Zeit, von Zeit zu Zeit sto&szlig;en die Helden aber auf H&ouml;hlen, die&nbsp;als&nbsp;Abk&uuml;rzungen&nbsp;unter den Bergen der <a href="http://www.wiki-aventurica.de/index.php?title=Drachensteine">Drachensteine</a> hindurch dienen. (S. 55)</p>]]></description>
+        <LookAt>
+          <longitude>8.38247668307339</longitude>
+          <latitude>33.80890954351403</latitude>
+          <altitude>0</altitude>
+          <range>39098.32274666976</range>
+          <tilt>0</tilt>
+          <heading>0.2332121838366373</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_28">
+          <tessellate>1</tessellate>
+          <coordinates>
+8.292852880105585,33.79768000351,0 8.312818270445458,33.79264990573317,0 8.324754281596977,33.79088500897728,0 8.355958673069148,33.79941048024553,0 8.369976971641817,33.79806545359479,0 8.383977426848002,33.79326583031886,0 8.402134261371888,33.78844796816743,0 8.421346663715525,33.78621253299037,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Eine Amazone zu retten</name>
+        <description><![CDATA[(Tag 4 - nachmittags)
+<p>In einer weiteren H&ouml;hle sto&szlig;en die Helden auf die <a href="http://www.wiki-aventurica.de/index.php?title=Amazone">Amazone</a> Talkra, die von einem <a href="http://www.wiki-aventurica.de/index.php?title=H%C3%B6hlendrache">H&ouml;hlendrachen</a> bedr&auml;ngt wird. Gemeinsam tritt man den geordneten R&uuml;ckzug an und&nbsp;st&ouml;&szlig;t&nbsp;im Freien auf den Rest des <a href="http://www.wiki-aventurica.de/index.php?title=Amazone">amazonischen</a> Sp&auml;htrupps. (S. 55-56)</p>]]></description>
+        <LookAt>
+          <longitude>8.448514693947653</longitude>
+          <latitude>33.80766583302573</latitude>
+          <altitude>0</altitude>
+          <range>39098.32274666683</range>
+          <tilt>0</tilt>
+          <heading>0.2698977728601641</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene4</styleUrl>
+        <Point id="KMLe_39">
+          <coordinates>8.421346597727411,33.78621250816119,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Von der Drachenh�hle nach Bergbach</name>
+        <description><![CDATA[(Tag 4 - ca. 11 Meilen)
+<p>Gemeinsam mit den&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Amazone">Amazonen</a>&nbsp;reist die&nbsp;Gruppe weiter, um die Nacht in den Ruinen des Dorfes <a href="http://www.wiki-aventurica.de/index.php?title=Bergbach">Bergbach</a> zu verbringen. (S. 56)</p>]]></description>
+        <LookAt>
+          <longitude>8.476275876723257</longitude>
+          <latitude>33.78215303904621</latitude>
+          <altitude>0</altitude>
+          <range>39098.32274666497</range>
+          <tilt>0</tilt>
+          <heading>0.2853545378804725</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_40">
+          <tessellate>1</tessellate>
+          <coordinates>
+8.421346597727411,33.78621250816119,0 8.442666855914458,33.78280866224537,0 8.444892062320236,33.78163962222627,0 8.44488071891648,33.77978433482318,0 8.446395286044112,33.77600326009145,0 8.462572288011002,33.77144303889664,0 8.467543023473141,33.76973552330241,0 8.464341139649843,33.76798649686653,0 8.46375282566993,33.76311799045277,0 8.473045038364671,33.75402800875084,0 8.480716478820991,33.75341168841138,0 8.489431171114831,33.74842019721512,0 8.501277884649287,33.74297511740456,0 8.510933656425287,33.73304784262015,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Das D�rfchen Bergbach</name>
+        <description><![CDATA[(Tag 4 - nachts)
+<p>Helden und <a href="http://www.wiki-aventurica.de/index.php?title=Amazone">Amazonen</a> n&auml;chtigen in den verbrannten Ruinen <a href="http://www.wiki-aventurica.de/index.php?title=Bergbach">Bergbachs</a>. (S. 56)</p>]]></description>
+        <LookAt>
+          <longitude>8.525725654455018</longitude>
+          <latitude>33.75763352780948</latitude>
+          <altitude>0</altitude>
+          <range>39098.32274666361</range>
+          <tilt>0</tilt>
+          <heading>0.3128032438924989</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene5</styleUrl>
+        <Point id="KMLe_42">
+          <coordinates>8.510932986393518,33.73304768892709,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Von Bergbach zum Felsplateau</name>
+        <description><![CDATA[(Tag 5 - ca. 13 Meilen)
+<p>Die Gruppe reist weiter, bis sie gegen Mittag ein etwa 100 Schritt breites Felsplateau zwischen einem schneebedeckten Berghang linkerhand und einer Schlucht rechterhand erreichen. (S. 56)</p>]]></description>
+        <LookAt>
+          <longitude>8.602099638738817</longitude>
+          <latitude>33.78487363156131</latitude>
+          <altitude>0</altitude>
+          <range>53412.81116557911</range>
+          <tilt>0</tilt>
+          <heading>0.3551644846995759</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_44">
+          <tessellate>1</tessellate>
+          <coordinates>
+8.51093317751134,33.73304776725825,0 8.523774843773024,33.73364522856008,0 8.531371256800316,33.73043970222609,0 8.544052304294214,33.7280001061176,0 8.5574056921718,33.73057213192309,0 8.567913320999859,33.7344779737359,0 8.572716786388225,33.73973350901325,0 8.579740295103985,33.74444922690429,0 8.589293881762838,33.7475669819689,0 8.59567240591584,33.75070147592549,0 8.60111167803603,33.75542544297073,0 8.606863413566648,33.75935556217574,0 8.61261631823589,33.76328574825318,0 8.618670494962355,33.76510144271247,0 8.628712323610346,33.76672353157652,0 8.639097364561035,33.77118640485475,0 8.646364160023962,33.77265149661584,0 8.652125725533111,33.77270617178023,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Die Falle</name>
+        <description><![CDATA[(Tag 5 - mittags)
+<p>Auf dem Felsplateau wird die Gruppe erneut von <a href="http://www.wiki-aventurica.de/index.php?title=Irrhalk">Irrhalken </a>angegriffen und&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Jendesa_von_Tuzak">Jendesa von Tuzak</a> versucht die Eisenkugel in ihre H&auml;nde zu bekommen. Mit Hilfe&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Dracodan_von_Misaquell">Dracodans von Misaquell</a>,&nbsp;der in Begleitung zweier <a href="http://www.wiki-aventurica.de/index.php?title=Perldrache">Perldrachen</a>&nbsp;auftaucht,&nbsp;gelingt es den Helden jedoch, das <a href="http://www.wiki-aventurica.de/index.php?title=Artefakt">Artefakt</a> zu verteidigen. (S. 56-58)</p>]]></description>
+        <LookAt>
+          <longitude>8.683805761843798</longitude>
+          <latitude>33.78391000547254</latitude>
+          <altitude>0</altitude>
+          <range>53412.81116557741</range>
+          <tilt>0</tilt>
+          <heading>0.4004810912635557</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene6</styleUrl>
+        <Point id="KMLe_46">
+          <coordinates>8.652126848498911,33.77270592171948,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vom Felsplateau zu Apeps S�ule</name>
+        <description><![CDATA[(Tag 5 bis Tag 6 - ca. 30 Meilen)
+<p>Nach dem &Uuml;berfall steht der Gruppe noch ein anderthalbt&auml;giger Marsch durch die <a href="http://www.wiki-aventurica.de/index.php?title=Drachensteine">Drachensteine</a> bevor, bis sie schlie&szlig;lich von Osten her kommend <a href="http://www.wiki-aventurica.de/index.php?title=Apeps_S%C3%A4ule">Apeps S&auml;ule</a> am &ouml;stlichen Ende des <a href="http://www.wiki-aventurica.de/index.php?title=Tal_der_T%C3%BCrme">Tals der T&uuml;rme</a> erreichen. (S. 58)</p>]]></description>
+        <LookAt>
+          <longitude>8.765572574274859</longitude>
+          <latitude>33.83354208863199</latitude>
+          <altitude>0</altitude>
+          <range>70481.18293288206</range>
+          <tilt>0</tilt>
+          <heading>0.4458122072408982</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+        <LineString id="KMLe_48">
+          <tessellate>1</tessellate>
+          <coordinates>
+8.652126942470641,33.77270576267256,0 8.658697667141924,33.77141019255851,0 8.66273019730933,33.76970386301078,0 8.670812082691457,33.76825325058197,0 8.680592612198543,33.76819349700757,0 8.68770293480452,33.7712336775913,0 8.698831977716708,33.77413440568934,0 8.718813629314461,33.77547166671644,0 8.726481330877846,33.77883927921793,0 8.751735811393571,33.77818437251899,0 8.765840775013139,33.77857729106315,0 8.781152492703058,33.78188985795195,0 8.803567121559091,33.78954556244558,0 8.834893620273878,33.80446027295348,0 8.866264435578044,33.82083846515472,0 8.891847656995868,33.84312416098692,0 8.899756804096857,33.86359181483446,0 8.900430743146083,33.8704299443718,0 8.899294408046307,33.87385990238507,0 8.892270238443702,33.87782116170966,0 8.882877077649262,33.88082122450406,0 8.871157352848973,33.88628101395616,0 8.870026146765328,33.89019953069712,0 </coordinates>
+        </LineString>
+       </Placemark>
+      <Placemark>
+        <name>Finale an Apeps S�ule</name>
+        <description><![CDATA[(Tag 6 - nachmittags)
+<p>Die Helden erreichen eine uralte Festungsruine an der Bergflanke von <a href="http://www.wiki-aventurica.de/index.php?title=Apeps_S%C3%A4ule">Apeps S&auml;ule</a>. Bevor sie den <a href="http://www.wiki-aventurica.de/index.php?title=Karfunkel">Karfunkel</a> des <a href="http://www.wiki-aventurica.de/index.php?title=Raspyrriz">Raspyrriz</a> und die Eisenkugel, bei der es sich um das <a href="http://www.wiki-aventurica.de/index.php?title=Artefakt#magische_Artefakte">magische Artefakt</a> &quot;<a href="http://www.wiki-aventurica.de/index.php?title=Der_Drachent%C3%B6ter">Drachent&ouml;ter</a>&quot; handelt, &uuml;bergeben k&ouml;nnen, erscheint <a href="http://www.wiki-aventurica.de/index.php?title=Jendesa_von_Tuzak">Jendesa von Tuzak</a>, die mit einer <a href="http://www.wiki-aventurica.de/index.php?title=Amazone">Amazone</a>&nbsp;als Geisel die Herausgabe des <a href="http://www.wiki-aventurica.de/index.php?title=Artefakt">Artefakts</a> fordert. Es bleibt den Helden &uuml;berlassen, wie sie das Leben der <a href="http://www.wiki-aventurica.de/index.php?title=Amazone">Amazone</a> retten und dennoch den <a href="http://www.wiki-aventurica.de/index.php?title=Der_Drachent%C3%B6ter">Drachent&ouml;ter</a> in die Obhut des <a href="http://www.wiki-aventurica.de/index.php?title=Kaiserdrache">Kaiserdrachen</a> &uuml;bergeben k&ouml;nnen. Zur Belohnung daf&uuml;r, dass sie die &quot;Mission des <a href="http://www.wiki-aventurica.de/index.php?title=Raspyrriz">Raspyrriz</a>&quot; zum Abschluss gebracht haben, erhalten sie von <a href="http://www.wiki-aventurica.de/index.php?title=Apep">Apep</a> schlie&szlig;lich ein heilkr&auml;ftiges Pulver f&uuml;r die Verletzten auf <a href="http://www.wiki-aventurica.de/index.php?title=Burg_Drachenhaupt">Burg Drachenhaupt</a>. (S. 58-59)</p>]]></description>
+        <LookAt>
+          <longitude>8.855327879770751</longitude>
+          <latitude>33.88230512395733</latitude>
+          <altitude>0</altitude>
+          <range>17620.29573321331</range>
+          <tilt>0</tilt>
+          <heading>0.4957199824738616</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene7</styleUrl>
+        <Point id="KMLe_50">
+          <coordinates>8.870026191816331,33.89019965051664,0</coordinates>
+        </Point>
+      </Placemark>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+    </Folder>
+    <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+  </Document>
+</kml>

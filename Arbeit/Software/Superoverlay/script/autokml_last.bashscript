@@ -1,0 +1,219 @@
+#! /bin/bash
+
+### TITEL: Script zum automatischen generieren von KML-Code fuer das Erstellen eines Superoverlays im Rahmen des DereGlobus Projekts. ###
+### AUTOR: Daniel Geibig alias Thamor ###
+### DATUM: 04. Februar 2009 ###
+
+zoom=4
+draworder=$(($zoom + 5))
+
+### Generierung der vier Childoverlays fuer die Namensliste
+for lastname in `cat lastnamelist.txt` ; do
+
+lastN=`sed -n 1p coord_"$lastname".txt`
+lastS=`sed -n 2p coord_"$lastname".txt`
+lastE=`sed -n 3p coord_"$lastname".txt`
+lastW=`sed -n 4p coord_"$lastname".txt`
+
+lastH=$(perl -e "print (($lastN - $lastS)/2);")
+lastB=$(perl -e "print (($lastE - $lastW)/2);")
+
+### 1 ###########################################################################################################################
+
+name="$lastname"1
+
+N="$lastN"
+S="$(perl -e "print ($lastS + $lastH);")"
+E="$(perl -e "print ($lastE - $lastB);")"
+W="$lastW"
+H="$(perl -e "print (($N - $S)/2);")"
+B="$(perl -e "print (($E - $W)/2);")"
+
+echo "$N" > coord_"$name".txt
+echo "$S" >> coord_"$name".txt
+echo "$E" >> coord_"$name".txt
+echo "$W" >> coord_"$name".txt
+
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > "$name".kml
+echo "<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">" >> "$name".kml
+echo "<Document>" >> "$name".kml
+echo "   <name>"$name"</name>" >> "$name".kml
+echo "   <Region>" >> "$name".kml
+echo "      <LatLonAltBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonAltBox>" >> "$name".kml
+echo "      <Lod>" >> "$name".kml
+echo "         <minLodPixels>128</minLodPixels>" >> "$name".kml
+echo "         <maxLodPixels>-1</maxLodPixels>" >> "$name".kml
+echo "      </Lod>" >> "$name".kml
+echo "   </Region>" >> "$name".kml
+echo "   <GroundOverlay>" >> "$name".kml
+echo "      <drawOrder>"$draworder"</drawOrder>" >> "$name".kml
+echo "      <Icon>" >> "$name".kml
+echo "         <href>http://www.dereglobus.orkenspalter.com/public/karten/aventurien/"$name".png</href>" >> "$name".kml
+echo "      </Icon>" >> "$name".kml
+echo "      <LatLonBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonBox>" >> "$name".kml
+echo "   </GroundOverlay>" >> "$name".kml
+echo "</Document>" >> "$name".kml
+echo "</kml>" >> "$name".kml
+
+echo "$name ... done"
+echo "$name" >> namelist.txt
+
+### 2 ###########################################################################################################################
+
+name="$lastname"2
+
+N="$lastN"
+S="$(perl -e "print ($lastS + $lastH);")"
+E="$lastE"
+W="$(perl -e "print ($lastW + $lastB);")"
+
+echo "$N" > coord_"$name".txt
+echo "$S" >> coord_"$name".txt
+echo "$E" >> coord_"$name".txt
+echo "$W" >> coord_"$name".txt
+
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > "$name".kml
+echo "<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">" >> "$name".kml
+echo "<Document>" >> "$name".kml
+echo "   <name>"$name"</name>" >> "$name".kml
+echo "   <Region>" >> "$name".kml
+echo "      <LatLonAltBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonAltBox>" >> "$name".kml
+echo "      <Lod>" >> "$name".kml
+echo "         <minLodPixels>128</minLodPixels>" >> "$name".kml
+echo "         <maxLodPixels>-1</maxLodPixels>" >> "$name".kml
+echo "      </Lod>" >> "$name".kml
+echo "   </Region>" >> "$name".kml
+echo "   <GroundOverlay>" >> "$name".kml
+echo "      <drawOrder>"$draworder"</drawOrder>" >> "$name".kml
+echo "      <Icon>" >> "$name".kml
+echo "         <href>http://www.dereglobus.orkenspalter.com/public/karten/aventurien/"$name".png</href>" >> "$name".kml
+echo "      </Icon>" >> "$name".kml
+echo "      <LatLonBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonBox>" >> "$name".kml
+echo "   </GroundOverlay>" >> "$name".kml
+echo "</Document>" >> "$name".kml
+echo "</kml>" >> "$name".kml
+
+echo "$name ... done"
+echo "$name" >> namelist.txt
+
+### 3 ##########################################################################################################################
+
+name="$lastname"3
+
+N="$(perl -e "print ($lastN - $lastH);")"
+S="$lastS"
+E="$(perl -e "print ($lastE - $lastB);")"
+W="$lastW"
+
+echo "$N" > coord_"$name".txt
+echo "$S" >> coord_"$name".txt
+echo "$E" >> coord_"$name".txt
+echo "$W" >> coord_"$name".txt
+
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > "$name".kml
+echo "<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">" >> "$name".kml
+echo "<Document>" >> "$name".kml
+echo "   <name>"$name"</name>" >> "$name".kml
+echo "   <Region>" >> "$name".kml
+echo "      <LatLonAltBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonAltBox>" >> "$name".kml
+echo "      <Lod>" >> "$name".kml
+echo "         <minLodPixels>128</minLodPixels>" >> "$name".kml
+echo "         <maxLodPixels>-1</maxLodPixels>" >> "$name".kml
+echo "      </Lod>" >> "$name".kml
+echo "   </Region>" >> "$name".kml
+echo "   <GroundOverlay>" >> "$name".kml
+echo "      <drawOrder>"$draworder"</drawOrder>" >> "$name".kml
+echo "      <Icon>" >> "$name".kml
+echo "         <href>http://www.dereglobus.orkenspalter.com/public/karten/aventurien/"$name".png</href>" >> "$name".kml
+echo "      </Icon>" >> "$name".kml
+echo "      <LatLonBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonBox>" >> "$name".kml
+echo "   </GroundOverlay>" >> "$name".kml
+echo "</Document>" >> "$name".kml
+echo "</kml>" >> "$name".kml
+
+echo "$name ... done"
+echo "$name" >> namelist.txt
+
+### 4 ###########################################################################################################################
+
+name="$lastname"4
+
+N="$(perl -e "print ($lastN - $lastH);")"
+S="$lastS"
+E="$lastE"
+W="$(perl -e "print ($lastW + $lastB);")"
+
+echo "$N" > coord_"$name".txt
+echo "$S" >> coord_"$name".txt
+echo "$E" >> coord_"$name".txt
+echo "$W" >> coord_"$name".txt
+
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > "$name".kml
+echo "<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">" >> "$name".kml
+echo "<Document>" >> "$name".kml
+echo "   <name>"$name"</name>" >> "$name".kml
+echo "   <Region>" >> "$name".kml
+echo "      <LatLonAltBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonAltBox>" >> "$name".kml
+echo "      <Lod>" >> "$name".kml
+echo "         <minLodPixels>128</minLodPixels>" >> "$name".kml
+echo "         <maxLodPixels>-1</maxLodPixels>" >> "$name".kml
+echo "      </Lod>" >> "$name".kml
+echo "   </Region>" >> "$name".kml
+echo "   <GroundOverlay>" >> "$name".kml
+echo "      <drawOrder>"$draworder"</drawOrder>" >> "$name".kml
+echo "      <Icon>" >> "$name".kml
+echo "         <href>http://www.dereglobus.orkenspalter.com/public/karten/aventurien/"$name".png</href>" >> "$name".kml
+echo "      </Icon>" >> "$name".kml
+echo "      <LatLonBox>" >> "$name".kml
+echo "		<north>"$N"</north>" >> "$name".kml
+echo "		<south>"$S"</south>" >> "$name".kml
+echo "		<east>"$E"</east>" >> "$name".kml
+echo "		<west>"$W"</west>" >> "$name".kml
+echo "      </LatLonBox>" >> "$name".kml
+echo "   </GroundOverlay>" >> "$name".kml
+echo "</Document>" >> "$name".kml
+echo "</kml>" >> "$name".kml
+
+echo "$name ... done"
+echo "$name" >> namelist.txt
+
+############################################################################################################################
+
+done
+
+echo "FINISHED SUCCESSFULLY!"

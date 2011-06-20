@@ -1,0 +1,25 @@
+a:link, a:visited 
+{ 
+	text-decoration: none; 
+	color: #B21C19; 
+}
+
+a:hover 
+{ 
+	text-decoration: underline; 
+	color: #B21C19; 
+}
+
+hr 
+{ 
+	width:100%; 
+	color:black; 
+	background-color:black; 
+	height:1px; 
+	margin-bottom:0px; 
+}
+
+#wiki 
+{ 
+	font-size:10px; 
+}

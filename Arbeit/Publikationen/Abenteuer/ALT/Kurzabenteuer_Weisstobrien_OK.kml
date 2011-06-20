@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kurzabenteuer.kml</name>
+	<Folder>
+		<name>Kurzabenteuer</name>
+		<Snippet maxLines="0"></Snippet>
+		<open>0</open>
+		<Placemark>
+			<name>Ish-ággárr (Bote 50)</name>
+			<description><![CDATA[Eine Kurzbeschreibung des Abenteuers mit Link zur <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und diesen einzufügen.<br>]]></description>
+			<LookAt>
+				<longitude>8.193288153241204</longitude>
+				<latitude>33.40024669306324</latitude>
+				<altitude>0</altitude>
+				<range>391553.762994296</range>
+				<tilt>0</tilt>
+				<heading>0.002881040821756434</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Publikationen.kml#Kurzabenteuer</styleUrl>
+			<Point>
+				<coordinates>8.093532211050352,33.02610850724295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Der Letzte Sturm auf Ilsur (Bote 79)</name>
+			<description><![CDATA[Eine Kurzbeschreibung des Abenteuers mit Link zur <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und diesen einzufügen.<br>]]></description>
+			<LookAt>
+				<longitude>9.732565440191797</longitude>
+				<latitude>31.89034819293399</latitude>
+				<altitude>0</altitude>
+				<range>391553.762994296</range>
+				<tilt>0</tilt>
+				<heading>0.8080360166119255</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Publikationen.kml#Kurzabenteuer</styleUrl>
+			<Point>
+				<coordinates>9.676635106907066,31.49667248237141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vortrieb (Bote 109)</name>
+			<description><![CDATA[Eine Kurzbeschreibung des Abenteuers mit Link zur <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und diesen einzufügen.<br>]]></description>
+			<LookAt>
+				<longitude>7.966928662882602</longitude>
+				<latitude>33.05551054801003</latitude>
+				<altitude>0</altitude>
+				<range>391553.762994296</range>
+				<tilt>0</tilt>
+				<heading>-0.1235287104922561</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Publikationen.kml#Kurzabenteuer</styleUrl>
+			<Point>
+				<coordinates>7.974719242177397,32.66902631456929,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

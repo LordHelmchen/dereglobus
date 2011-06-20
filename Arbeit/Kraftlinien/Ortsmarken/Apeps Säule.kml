@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Apeps Säule.kml</name>
+	<Style id="berg-X-n">
+		<IconStyle>
+			<color>7fffffff</color>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Berg.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="berg-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#berg-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#berg-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="berg-X-h">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Berg.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Apeps Säule</name>
+		<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><b>$[name]</b> ist ein Berg der <a href="http://www.wiki-aventurica.de/index.php?title=Drachensteine">Drachensteine<a>.]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+			<longitude>8.875758936957707</longitude>
+			<latitude>33.89341364574153</latitude>
+			<altitude>0</altitude>
+			<range>53010.39507230619</range>
+			<tilt>0</tilt>
+			<heading>-0.030609632160551</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#berg-X</styleUrl>
+		<Point>
+			<coordinates>8.870650051446408,33.88824252135454,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

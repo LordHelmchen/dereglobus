@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	layout="absolute"
+	backgroundColor="#FFFFFF" 
+	borderColor="#FFFFFF"
+	width="100%"
+	height="100%" backgroundGradientAlphas="[1.0, 1.0]" 
+	backgroundGradientColors="[#FFFFFF, #FFFFFF]" fontFamily="Arial" fontSize="12"
+	>
+	
+	<mx:states>
+		<mx:State name="edit"/>
+		<mx:State name="busy">
+			<mx:SetProperty target="{editPage}" name="visible" value="false" />
+			<mx:SetProperty target="{waitPage}" name="visible" value="true" />
+		</mx:State>
+		<mx:State name="done"/>
+	</mx:states>
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.binding.utils.BindingUtils;
+			import mx.rpc.events.ResultEvent;
+			import flash.system.fscommand;
+			import mx.preloaders.Preloader;
+		    import flash.events.TimerEvent;
+		    import flash.utils.Timer;
+			
+			private function sendKMLCode():void{
+				currentState="busy";
+				sendDataService.send();
+				
+				// creates a new five-second Timer
+		       	var minuteTimer:Timer = new Timer(2000, 5);
+		            
+		        // designates listeners for the interval and completion events
+		        minuteTimer.addEventListener(TimerEvent.TIMER, onTimerTick);
+		         
+		        // starts the timer ticking
+		        minuteTimer.start();
+			}	
+		
+		    public function onTimerTick(event:TimerEvent):void{
+		    	getStatus.send();
+		    }  
+		    
+		    [Bindable]
+		    private var status:String; 
+		    
+		 	private function setStatus(event:ResultEvent):void{
+		 		status = String(event.result);
+		 		statusText.text = status;
+		 	} 
+		 	
+		 	private function setSID(event:ResultEvent):void{
+		 		sid.text = String(event.result);
+		 	} 
+		
+		]]>
+	</mx:Script>
+	
+	<!--
+		http://localhost/Wizard.php?exec=genFromCode
+		http://www.dereglobus2.orkenspalter.com/autoMark/Wizard/
+		url="Wizard.php?exec=genFromCode"
+	-->
+	<mx:HTTPService 
+		id="sendDataService" 
+		url="http://localhost/Wizard.php?exec=testSession"
+		method="POST"
+		resultFormat="text"
+		result="setSID(event)">
+		<mx:request xmlns="">
+			<SID>{sid.text}</SID>
+		</mx:request>
+		<!--
+		<mx:request xmlns="">
+			<fileName>{fileName.text}</fileName>
+			<kmlCode>{kmlCode.text}</kmlCode>
+		</mx:request>
+		-->
+	</mx:HTTPService>
+	
+	<mx:HTTPService 
+		id="getStatus" 
+		url="http://localhost/Wizard.php?exec=getStatus"
+		method="GET"
+		resultFormat="text"
+		result="setStatus(event)">
+	</mx:HTTPService>
+		
+	<mx:VBox id="editPage"
+		backgroundColor="#FFFFFF" 
+		left="5" 
+		top="5" 
+		right="5" 
+		bottom="5"
+		height="100%"
+		width="100%">
+		
+		<mx:HBox>
+			<mx:Label text="Dein Dateiname" width="100"  fontWeight="bold"/>
+			<mx:TextInput id="fileName" themeColor="#FFBA00" cornerRadius="5"/>
+		</mx:HBox>
+		
+		<mx:VBox width="100%">
+			<mx:Label text="Dein Code" width="100"  fontWeight="bold"/>
+			<mx:TextArea id="kmlCode" width="100%" height="200" fontFamily="Courier New" themeColor="#FFBA00" cornerRadius="5" fontSize="14"/>
+		</mx:VBox>
+		
+		<mx:Button id="sendCode" label="Code senden" textAlign="right" click="sendKMLCode()"  themeColor="#FFBA00" cornerRadius="5"/>
+	</mx:VBox>
+	
+	<mx:HBox id="waitPage" visible="false">
+		<mx:Label id="sid" width="100%" height="100%" textAlign="center" />
+		<mx:Label id="statusText" width="100%" height="100%" textAlign="center" />
+		<mx:Button id="sendCode2" label="Code senden" textAlign="right" click="sendKMLCode()"  themeColor="#FFBA00" cornerRadius="5"/>
+	</mx:HBox>
+	<!--
+	<mx:transitions>
+		<mx:Transition fromState="*" toState="*">
+			<mx:Parallel>
+				<mx:Sequence>
+					<mx:Fade 
+						alphaFrom="0.0" alphaTo="1.0" 
+						duration="200" 
+						target="{waitPage}" />
+					<mx:Fade 
+						alphaFrom="1.0" alphaTo="0.0" 
+						duration="400" 
+						target="{editPage}" />
+				</mx:Sequence>
+			</mx:Parallel>
+		</mx:Transition>
+	</mx:transitions>
+	-->
+</mx:Application>

@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kraftlinien_WIP.kml</name>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="nodix_13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="nodix_1-n">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="nodix_12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="nodix_1-h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="nodix_1-h1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="nodix_1-n3">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin160">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin61">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="nodix_1-h3">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Magischer_Ort1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin90">
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_Magischer_Ort1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Magischer_Ort1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Magischer_Ort1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin150">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin71">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="nodix_11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Magischer_Ort1">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin180</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin170">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="nodix_1-n2">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="nodix_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="nodix_10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin180">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin120">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="nodix_1-h2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="nodix_1-n0">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="nodix_1-n1">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin12">
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="nodix_1-h0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa51cd6</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Kraftlinien</name>
+		<open>1</open>
+		<Folder>
+			<name>Kraftlinien</name>
+			<open>1</open>
+			<Folder>
+				<name>lokal</name>
+				<Placemark>
+					<name>Thalus-Massiv - Südwesten (V)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 1
+bekannte Nodices: Schicksalsinsel (mit Satinavs Kette I)
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin170</styleUrl>
+					<LineString id="KMLe_81">
+						<tessellate>1</tessellate>
+						<coordinates>
+5.593579976851375,22.46857790438649,0 5.721189112155085,22.34415704583449,0 5.855081618953304,21.97173607504309,0 5.205876177578057,21.35281128459951,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>regional</name>
+				<Placemark>
+					<name>Olport - Firnya Kharjanda Sala (P)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 2
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin21</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-4.973737549856894,35.73896817362893,0 1.97134381055329,40.95721717230087,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Strasse von Sylla - Altimont (Q)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 2
+bekannte Nodices: Altaia
+nekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin8</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+1.5993624009914,17.08458030424182,0 2.211955664316458,16.64553381321055,0 3.604383534819653,17.01407274688349,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Selem - Schwarze Feste (Gor) (R)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 2
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+6.337398589422996,25.01809670614603,0 5.806666661357025,24.65817727404372,0 5.260791452466071,24.11469738620536,0 3.492014762823459,22.55261411890776,0 1.705971136836626,21.00494449760815,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Elementares Hexagramm (S)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 2
+bekannte Nodices: Die Eckpunkte: Arras de Mott (mit B), Domaris Turm, Unsichtbarer Turm, Tarf El&apos;Hazaqur Mor (mit C), Al&apos;Zul, Blauer Turm
+bekannte Affinitäten: Elementar
+Anmerkung: das E.H. ist nicht eine einzelne Kraftlinie, sondern eine &quot;Kombination&quot; von sechs, die sich an den sogenannten Eckpunkten schneiden.</description>
+					<styleUrl>#msn_ylw-pushpin12</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+2.124839918081651,32.40208715510648,0 0.8697506625836704,29.88212766554318,0 1.954260542122588,28.33010313750893,0 4.982274185415756,29.03577132217222,0 6.422881986334792,30.22446522857395,0 4.527839345806179,31.89741046875756,0 2.124931122938338,32.4021038154397,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Temporallinie (T)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 2
+bekannte Nodices:
+bekannte Affinitäten: Dämonenbeschwörung</description>
+					<styleUrl>#msn_ylw-pushpin14</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+5.517454744537478,25.20726688994314,0 1.706466271331411,21.00579305900482,0 -0.7808600363712137,18.44375785965846,0 -3.042836287050714,16.9130997796521,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Zhamorrah - Mherwed (U)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 2
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin80</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+5.517454488990015,25.20725720837273,0 5.63183480487133,24.96130227630357,0 5.806739549248528,24.6582711277705,0 5.890190606104257,24.31770262543785,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>überregional</name>
+				<Placemark>
+					<name>Madas Kelch (K)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 3
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin40</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+4.885107574059829,35.37886908964787,0 1.516140933644035,35.34607986600895,0 0.05239450372924503,34.77459364257571,0 -2.08645065575448,33.01136349642738,0 -2.202012059418711,32.38451255117433,0 -1.752982543304045,31.15690675878823,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Greifenfurt - Rulat (L)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 3
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin9</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+2.301432490725159,31.32286138759934,0 3.967959451458691,30.96113855809374,0 7.831009640670206,30.6023375949881,0 10.92085591474755,30.39196258233232,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Nebelmoor - Warunk (M)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 3
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin31</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+4.116620415930257,34.17208496103358,0 6.209491557240481,32.66564410440569,0 7.831009478218933,30.60233816554716,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Altoum - Rote Sichel (N)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 3
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin13</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+3.662825781502128,17.01498815146055,0 6.337399242394632,25.01811597479231,0 7.831009562528733,30.60233799345683,0 7.668671226031012,32.25923171203256,0 7.493407133639569,34.84945328727908,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Brandans Steinkreis - Maraskan (O)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 3
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin150</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-0.3729480687257447,28.35678211442483,0 2.655905301935824,27.03422113923018,0 5.517444327888414,25.20727678180656,0 6.302861353701463,25.34920632782337,0 10.43169135171756,26.45375105154013,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>kontinental</name>
+				<Placemark>
+					<name>Basilius-Linie (A)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices: Nachtschattensturm (mit B), Zze Tha (mit C), Dämonenbrache (mit H), Pentagrammaton (mit I, O), Altaia (mit Q)</description>
+					<styleUrl>#msn_ylw-pushpin50</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+2.211960915260798,16.64553388411602,0 2.41283551418817,23.84497819176874,0 2.41594703645615,23.88911553405026,0 2.655854277295171,27.03422058847874,0 3.589664688338601,28.93510354405692,0 3.648671420271819,29.65359847751001,0 4.719622700206418,32.84624334675137,0 4.841310578536389,34.19922139881565,0 5.423667919069748,41.79725071210093,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Hexenband (B)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten: Telekinese, Verständigung</description>
+					<styleUrl>#msn_ylw-pushpin18</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-3.93527425243638,31.27497071245784,0 2.124848012841833,32.40205975088146,0 3.821357353231678,32.82016966285985,0 4.719613753946945,32.84622900354834,0 4.938608583382624,32.86211048513069,0 5.516415745363101,33.04195784698002,0 7.039401447881309,33.82217991760796,0 8.107883101640606,33.14514430991013,0 12.01965906681738,35.49629301913841,0 13.07418399263333,36.42621167691861,0 13.35143309008115,39.75945838400791,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Konzilslinie (C)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin11</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-3.042750998235055,16.91313538609203,0 2.412836646160506,23.84472953725908,0 2.453183443476252,23.89758255514444,0 3.997002722538481,27.56399095997011,0 4.98261865380395,29.03561404125686,0 7.831010519375474,30.60234185563103,0 9.677522096930316,31.50315476827576,0 11.91291237697024,33.53544467873352,0 12.01966031977366,35.49630268198392,0 13.35137219402546,39.75946306282751,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Olport - Maraskan (D)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+Bekannte Affinitäten:</description>
+					<styleUrl>#msn_ylw-pushpin101</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-4.972625780294462,35.73834560544715,0 -3.620005624722892,34.22570073643217,0 3.706936670956036,29.80048301051997,0 4.651041536224274,29.14719606095114,0 10.43131620247521,26.45613478177002,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Güldenland - Maraskan (E)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten:</description>
+					<styleUrl>#msn_ylw-pushpin16</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-4.185660795474817,25.40380181566355,0 -0.7141861162829366,24.85514404411413,0 0.4351081034057192,24.33473861642604,0 2.415946919574206,23.88911537039596,0 2.453283637743116,23.89769660535643,0 4.890375480599653,24.89588487969749,0 5.631837350188327,24.96139481439784,0 6.337399235069432,25.01811597801406,0 6.540084927628069,24.94250161727093,0 7.471087866458992,25.01088088867789,0 10.43039667249006,26.45370486266669,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Güldenland - Maraskan (Abspaltung) (E)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten:</description>
+					<styleUrl>#msn_ylw-pushpin60</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+4.8903756265808,24.89588511923692,0 1.599621070481627,25.29585198291526,0 -0.7141863882571597,24.85514435961495,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Satinavs Kette I (F)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten: Temporalmagie</description>
+					<styleUrl>#msn_ylw-pushpin19</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+2.500560325935461,44.67792494605138,0 7.03940152467422,33.82217999193121,0 6.337398593991641,25.01809670425405,0 5.720667664677269,22.34525364063717,0 1.368422304656294,16.31619114988638,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Satinavs Kette II (G)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten: Temporalmagie</description>
+					<styleUrl>#msn_ylw-pushpin200</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+10.1653453449344,46.50215577124025,0 7.4937418617981,34.84902803806997,0 7.039371020481708,33.82223098348392,0 6.210964557991135,32.66371075725641,0 5.861868821670615,30.58069317723225,0 6.337388918112124,25.01812591037591,0 -4.371285888959874,16.7122503182212,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Strick des Schwarzen Mannes (H)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nidices:
+bekannte Affinitäten: Beherrschung, Beeinflussung, seit G7 auch dämon. (BLK)</description>
+					<styleUrl>#msn_ylw-pushpin70</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-1.53130366609162,25.15094217012187,0 0.7357501752901063,26.44675948050264,0 3.648675139929081,29.65360170609496,0 3.706936701337513,29.80047437573581,0 6.533082105421475,30.81438760299587,0 7.668672818842994,32.25923101816373,0 13.3513111085509,39.75946735957074,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Kuslik - Drakonia (I)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Stärke: 4
+bekannte Nodices:
+bekannte Affinitäten: keine</description>
+					<styleUrl>#msn_ylw-pushpin02</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+-1.530870475423833,25.15051114184302,0 0.09498209425403692,25.68966618366115,0 0.7355857792589382,26.44706786834744,0 2.21857792184784,26.69030640409119,0 2.573640644055115,26.83656742104124,0 2.655855436854739,27.03412973022286,0 3.993754983101896,27.56303348460482,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Magische Orte / Nodices</name>
+			<open>1</open>
+			<styleUrl>#nodix_13</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+				<LineStyle>
+					<width>1</width>
+				</LineStyle>
+			</Style>
+			<Folder>
+				<name>schwach</name>
+				<Placemark>
+					<name>Chaluk-Quelle (48)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (1)</description>
+					<LookAt>
+						<longitude>6.724158754869775</longitude>
+						<latitude>25.46785860947877</latitude>
+						<altitude>0</altitude>
+						<range>80743.03350233</range>
+						<tilt>0</tilt>
+						<heading>5.886185220622499</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>6.572168747112732,25.52694253907765,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Septahengon (49)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (1)
+möglicherweise eine lokale Linie zu Xindras Eiland</description>
+					<LookAt>
+						<longitude>7.471063822194212</longitude>
+						<latitude>31.98908592761694</latitude>
+						<altitude>0</altitude>
+						<range>61025.20479000606</range>
+						<tilt>0</tilt>
+						<heading>6.522286507398268</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>7.378426821790464,32.01858287811363,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Asboran (47)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (1) - ??????????
+möglicherweise auch durch göttliches Wirken verhehlt</description>
+					<LookAt>
+						<longitude>5.21063178425689</longitude>
+						<latitude>28.68056766853947</latitude>
+						<altitude>0</altitude>
+						<range>80249.14632765786</range>
+						<tilt>0</tilt>
+						<heading>5.067957083237936</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>5.139895926307336,28.70118979170488,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Verbotene Schlucht (46)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (2)
+Temporallinie (?)
+Hinweis: Dieses Tal / Schlucht ist ein Instabiler Zugang zur Globule von Zze Tha (nähere Beschreibung in Pfade des Lichts - bekomme ich aber erst nächste Woche)</description>
+					<LookAt>
+						<longitude>3.121492681823221</longitude>
+						<latitude>24.03092241637703</latitude>
+						<altitude>0</altitude>
+						<range>48024.7141858956</range>
+						<tilt>0</tilt>
+						<heading>4.182506262765466</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>3.072580401045406,24.03263669864436,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pentagramm Akademie (39)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (3)
+Hinweis: hier speziell der Saal der Kämpfenden (LdES 167), welcher wegen magischer Pertubationen geschlossen wurde.</description>
+					<LookAt>
+						<longitude>6.293032116830415</longitude>
+						<latitude>24.24393020250978</latitude>
+						<altitude>0</altitude>
+						<range>20881.45023913765</range>
+						<tilt>0</tilt>
+						<heading>2.94142825757518</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>6.272964290941379,24.24400669033684,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Efferd Tempel zu Khunchom (41)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (2)
+Hinweis: hier handelt es sich eigentlich um ein Unheiligtum, das durch Göttermacht gebannt wird</description>
+					<LookAt>
+						<longitude>7.486810886206463</longitude>
+						<latitude>25.07929411052403</latitude>
+						<altitude>0</altitude>
+						<range>32787.64416040446</range>
+						<tilt>0</tilt>
+						<heading>3.669189339759762</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>7.471460829948724,25.0526308606651,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Firnya Kharjanda Sala (42)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (2) - Nodix ?
+Endpunkt einer Kraftlinie aus Olport</description>
+					<LookAt>
+						<longitude>2.21442238092711</longitude>
+						<latitude>40.83978903465049</latitude>
+						<altitude>0</altitude>
+						<range>130699.9766617129</range>
+						<tilt>0</tilt>
+						<heading>1.378269039095894</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>1.971353043920721,40.95722762999185,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Magischer Spiegel zu Zorgan (43)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (2)
+Pforte in andere Welten (Globulen ?) - magisch verhehlt</description>
+					<LookAt>
+						<longitude>6.86854262258995</longitude>
+						<latitude>27.20444856883373</latitude>
+						<altitude>0</altitude>
+						<range>51634.78222300614</range>
+						<tilt>0</tilt>
+						<heading>5.529239377868335</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>6.950287436787299,27.18193115131812,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Treppe nach Amhas (44)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (2) - ehemalig ?
+eine ehemalige Dunkle Pforte</description>
+					<LookAt>
+						<longitude>1.765350206965939</longitude>
+						<latitude>20.98633180444929</latitude>
+						<altitude>0</altitude>
+						<range>43509.03145394972</range>
+						<tilt>0</tilt>
+						<heading>3.433718245828427</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>1.691092196991908,21.00625716220484,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Domaris Turm (40)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (2)
+elementares Hexagramm</description>
+					<LookAt>
+						<longitude>1.130717427975336</longitude>
+						<latitude>29.9035612729548</latitude>
+						<altitude>0</altitude>
+						<range>140462.114757724</range>
+						<tilt>0</tilt>
+						<heading>0.6751618955077962</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>0.869735510677061,29.88214392630765,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Unsichtbarer Turm (45)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (2)
+elementares Hexagramm</description>
+					<LookAt>
+						<longitude>2.029651009108904</longitude>
+						<latitude>28.34715094237391</latitude>
+						<altitude>0</altitude>
+						<range>100890.5787734314</range>
+						<tilt>0</tilt>
+						<heading>3.527342708974609</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>1.954270958451527,28.33037387958941,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blauer Turm (51)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (2)
+Eckpunkt des Elementaren Hexagramms</description>
+					<LookAt>
+						<longitude>4.534380491924774</longitude>
+						<latitude>31.89457871349405</latitude>
+						<altitude>0</altitude>
+						<range>1663.505260886154</range>
+						<tilt>0</tilt>
+						<heading>-0.2460845992614108</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>4.527837988723753,31.89741355062832,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>mittel</name>
+				<Placemark>
+					<name>Drachenei-Akademie (31)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (4)
+liegt auf Linie Güldenland - Maraskan (?)</description>
+					<LookAt>
+						<longitude>7.47130237546433</longitude>
+						<latitude>25.0112189178397</latitude>
+						<altitude>0</altitude>
+						<range>608.3774867395382</range>
+						<tilt>0</tilt>
+						<heading>0.03102400946469527</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>7.470998963420142,25.0112436574892,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Narai Tuschas (35)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (4) - oder Nodix (?)
+Satinavs kette II (?)
+Altoum - Rote Sichel (?)
+HINWEIS: Gesichert ist, dass eine von Satinavs Ketten hindurch läuft. Möglicherweise läuft die Linie von Altoum auch gar nicht hindurch, oder sie läuft weiter oder sie entspringt dort.....</description>
+					<LookAt>
+						<longitude>7.49495661134711</longitude>
+						<latitude>34.81760038033966</latitude>
+						<altitude>0</altitude>
+						<range>24264.30323365767</range>
+						<tilt>0</tilt>
+						<heading>3.684593724872918</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>7.492941209679735,34.84901909163346,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tausenjährige Eiche (37)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (4)
+steht auf dem Hexenband</description>
+					<LookAt>
+						<longitude>4.974097126108987</longitude>
+						<latitude>32.78093486082919</latitude>
+						<altitude>0</altitude>
+						<range>55422.59657556927</range>
+						<tilt>0</tilt>
+						<heading>2.35108258982716</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>4.938422222222222,32.86224444444444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tie&apos;Shianna (?) - (38)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (4)
+Güldenland - Maraskan</description>
+					<LookAt>
+						<longitude>1.599622124279057</longitude>
+						<latitude>25.29584836427108</latitude>
+						<altitude>0</altitude>
+						<range>8.376848112912207</range>
+						<tilt>0</tilt>
+						<heading>1.000537661902599</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>1.599621001210498,25.29585192243631,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Altaia (17)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Basiliuslinie
+lokale Linie: Strasse von Sylla - Altimont</description>
+					<LookAt>
+						<longitude>2.260028393269853</longitude>
+						<latitude>16.56881109247582</latitude>
+						<altitude>0</altitude>
+						<range>60948.99420915056</range>
+						<tilt>0</tilt>
+						<heading>-0.8012396881946033</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>2.211961440721193,16.64554854673458,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Al&apos;Zul (18)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Elementares Hexagramm
+Konzilslinie (?)</description>
+					<LookAt>
+						<longitude>6.495528655003158</longitude>
+						<latitude>30.14564695290531</latitude>
+						<altitude>0</altitude>
+						<range>47997.75747864914</range>
+						<tilt>0</tilt>
+						<heading>0.2727794939967707</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>6.42288669224949,30.22446874972576,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arras de Mott (19)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+elementares Hexagramm
+Hexenband</description>
+					<LookAt>
+						<longitude>2.125491907838755</longitude>
+						<latitude>32.39965089878238</latitude>
+						<altitude>0</altitude>
+						<range>1871.136242846449</range>
+						<tilt>0</tilt>
+						<heading>-0.08111502107743948</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>2.124868227034733,32.40212830956146,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Borbra (20)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Güldenland - Maraskan
+Zhamorrah - Mherwed</description>
+					<LookAt>
+						<longitude>5.853060288528985</longitude>
+						<latitude>24.92527909604314</latitude>
+						<altitude>0</altitude>
+						<range>233027.0300225475</range>
+						<tilt>0</tilt>
+						<heading>1.320270100092123</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>5.631926113194012,24.96143290209238,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Brig-Lo (21)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Strick des Schwarzen Mannes
+Kuslik - Drakonia</description>
+					<LookAt>
+						<longitude>0.8227028908144018</longitude>
+						<latitude>26.45412462940673</latitude>
+						<altitude>0</altitude>
+						<range>27019.28807800536</range>
+						<tilt>0</tilt>
+						<heading>-0.8816941123539944</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>0.7355253488504809,26.44732307498077,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Drakonia (22)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Konzilslinie
+Kuslik - Drakonia</description>
+					<LookAt>
+						<longitude>3.967845153284006</longitude>
+						<latitude>27.59992471158359</latitude>
+						<altitude>0</altitude>
+						<range>26937.30813768089</range>
+						<tilt>0</tilt>
+						<heading>0.5098063397141758</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>3.993803883657261,27.56379086443029,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Keranvor (?) - (23)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Strick des Schwarzen Mannes
+Ausläufer des elementaren Hexagramms (?)</description>
+					<LookAt>
+						<longitude>6.49585465458055</longitude>
+						<latitude>30.71112218708474</latitude>
+						<altitude>0</altitude>
+						<range>35842.4829337643</range>
+						<tilt>0</tilt>
+						<heading>1.758244399950905</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>6.532281813924663,30.81454165850167,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Runajasko zu Olport (24)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Olport - Maraskan
+Olport - Firnya Kharjanda Sala</description>
+					<LookAt>
+						<longitude>-4.946866740720504</longitude>
+						<latitude>35.77303286069525</latitude>
+						<altitude>0</altitude>
+						<range>27901.45929470042</range>
+						<tilt>0</tilt>
+						<heading>-4.630564841459137</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>-4.972647495126465,35.73836447511703,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schlund (25)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+Olport - Maraskan
+mehrere orthosphärische Linien</description>
+					<LookAt>
+						<longitude>4.670573435260734</longitude>
+						<latitude>29.13836892833098</latitude>
+						<altitude>0</altitude>
+						<range>26540.78209336098</range>
+						<tilt>0</tilt>
+						<heading>2.64113222797947</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>4.65112230980206,29.14755261349545,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tarf&apos; El&apos;Hazaqur Mor (26)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (6)
+elementares Hexagramm
+Konzilslinie</description>
+					<LookAt>
+						<longitude>5.007963831391307</longitude>
+						<latitude>29.06271634361147</latitude>
+						<altitude>0</altitude>
+						<range>20845.20292324005</range>
+						<tilt>0</tilt>
+						<heading>2.804983588935767</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>4.982278214596465,29.0357893683261,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Luzelins Grotte (27)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (5)
+Hexenband
+Linie aus Richtung Olat (wahrscheinlich eine Ader, die aus dem Neunaugensee kommt ?)</description>
+					<LookAt>
+						<longitude>3.842193507022336</longitude>
+						<latitude>32.7540390175222</latitude>
+						<altitude>0</altitude>
+						<range>32704.99658005375</range>
+						<tilt>0</tilt>
+						<heading>2.171744695648673</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>3.821454429460274,32.82055123438983,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Palast des Pyrdakor Kultes (EdZ) - (28)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (5)
+Basiliuslinie
+eine weitere nicht identifizierbare</description>
+					<LookAt>
+						<longitude>2.605011359583054</longitude>
+						<latitude>26.23437891332439</latitude>
+						<altitude>0</altitude>
+						<range>39517.85027520397</range>
+						<tilt>0</tilt>
+						<heading>1.528772694376258</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>2.573652536169608,26.27371610502455,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schicksalsinsel (29)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (5)
+Satinavs Kette II (? - könnte auch I sein)
+lokale linie aus dem Thalus-Massiv</description>
+					<LookAt>
+						<longitude>5.72642545094044</longitude>
+						<latitude>22.35203584545359</latitude>
+						<altitude>0</altitude>
+						<range>39272.20574407046</range>
+						<tilt>0</tilt>
+						<heading>2.830860508790486</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>5.719968248170718,22.34422230739534,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eiszapfenkrypta zu Selem (32)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (4) - ?
+Zhamorrah - Selem (?)
+Temporallinie (?)</description>
+					<LookAt>
+						<longitude>1.7181658404962</longitude>
+						<latitude>21.00048630669264</latitude>
+						<altitude>0</altitude>
+						<range>22719.60047478536</range>
+						<tilt>0</tilt>
+						<heading>1.765484850923192</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>1.706399278824748,21.00572037053642,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Heilige Quellen von Ilsur (33)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (4)
+Konzilslinie
+möglicherweise auch eine Linie zu Xindaras Eiland (?)</description>
+					<LookAt>
+						<longitude>9.678985974595262</longitude>
+						<latitude>31.50467368533148</latitude>
+						<altitude>0</altitude>
+						<range>1378.149262775465</range>
+						<tilt>0</tilt>
+						<heading>4.938511947229176</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>9.677517109406782,31.50316538740441,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mhanessipur (34)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (4)
+Zhamorrah - Mherwed
+Selem - Schwarze Feste (Gor)
+(beide Linien gehören zu Bastrabuns Bann)</description>
+					<LookAt>
+						<longitude>5.82609102408157</longitude>
+						<latitude>24.63527794386047</latitude>
+						<altitude>0</altitude>
+						<range>29993.04425910247</range>
+						<tilt>0</tilt>
+						<heading>3.052496159646543</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>5.806696478634652,24.65837811343476,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sumus Kate (36)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (4)
+Altoum - Rote Sichel (?)
+Sumus Kate - Xindras Eiland (?)
+Hinweis: Laut IdV gibt es auf der Insel einen Nodix, jedoch werden keine Kraftlinien genannt, die sich schneiden. Die von mir festgelegten Linien sind willkürlich angenommen, da sich der Verlauf der Linien angeboten hat.</description>
+					<LookAt>
+						<longitude>7.86317936186921</longitude>
+						<latitude>31.94300688121738</latitude>
+						<altitude>0</altitude>
+						<range>28779.16489773864</range>
+						<tilt>0</tilt>
+						<heading>3.906367434721786</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>7.867964227038713,31.95793202659625,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>stark</name>
+				<Placemark>
+					<name>Al&apos;Churâm (14)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (7)
+Güldenland - Maraskan
+Temporallinie (?)</description>
+					<LookAt>
+						<longitude>5.252462793693143</longitude>
+						<latitude>24.76461388684704</latitude>
+						<altitude>0</altitude>
+						<range>137812.655900477</range>
+						<tilt>4.194536763613994</tilt>
+						<heading>-4.748965708760212e-012</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>4.89037566914871,24.89588491138568,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ruinen von Zhamorrah (15)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (7)
+Brandans Steinkreis - Maraskan
+Zhamorrah - Selem
+Temporallinie</description>
+					<LookAt>
+						<longitude>5.545709505553425</longitude>
+						<latitude>25.10664302303212</latitude>
+						<altitude>0</altitude>
+						<range>52272.14200837896</range>
+						<tilt>0</tilt>
+						<heading>0.591622486770259</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>5.517462374477837,25.20730073287906,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Xindras Eiland (16)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (7)
+Hexenband
+Strick des Schwerzen Mannes (?)
+mehrere weitere, die aber noch nicht weiter verifiziert sind</description>
+					<LookAt>
+						<longitude>8.062316668547462</longitude>
+						<latitude>33.1408589715295</latitude>
+						<altitude>0</altitude>
+						<range>32381.08785997279</range>
+						<tilt>0</tilt>
+						<heading>1.676821346975579</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_11</styleUrl>
+					<Point>
+						<coordinates>8.107383506772612,33.14672403344239,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dämonenbrache (8)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix  ? (8) ?
+Strick des Schwarzen Mannes
+Basiliuslinie
+HINWEIS: Mindestens die beiden oben gennannten Kraftlinien (LS 4) laufen durch die Brache, aber laut HdR-S.194 kann ein großer Nodix im Bereich Gareth und Dämonenbrache nicht ausgemacht werden.</description>
+					<LookAt>
+						<longitude>3.646743883852321</longitude>
+						<latitude>29.62393865947859</latitude>
+						<altitude>0</altitude>
+						<range>34967.8894415158</range>
+						<tilt>0</tilt>
+						<heading>-0.7841031828740824</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_Magischer_Ort1</styleUrl>
+					<Point>
+						<coordinates>3.648674048832707,29.6536110292845,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gareth (9)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (8) ?
+HINWEIS: Dieser Nodix ist in den offiziellen Publikationen sehr unterschiedlich beschrieben:
+1. In MdS-S.78 und in der Kurzgeschichte &quot;Das Herz des Kontinents&quot; wird die uralte Blutulme ARGARETH im Garten der Neuen Residenz als Schnittpunkt mehrerer kleiner Kraftlinien erwähnt.
+2. Mindestens zwei große Kraftlinien (LS 4) laufen durch Gareth: Olport - Maraskan und Strick des Schwarzen Mannes
+aber 3. Laut HdR-S.194 kann ein großer Nodix im Bereich Gareth und Dämonenbrache nicht ausgemacht werden.</description>
+					<LookAt>
+						<longitude>3.658585586052372</longitude>
+						<latitude>29.73885704796323</latitude>
+						<altitude>0</altitude>
+						<range>34967.88944151447</range>
+						<tilt>0</tilt>
+						<heading>-0.7781813550700982</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>3.706939443364519,29.80048782893863,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hursachquelle (10)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (8)
+Hexenband
+Konzilslinie (?)</description>
+					<LookAt>
+						<longitude>11.9354686658726</longitude>
+						<latitude>35.47315470824047</latitude>
+						<altitude>0</altitude>
+						<range>46998.8861253098</range>
+						<tilt>0</tilt>
+						<heading>3.523687176266177</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_12</styleUrl>
+					<Point>
+						<coordinates>12.01966181370436,35.49631299272551,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nachtschattensturm (11)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (8)
+Basiliuslinie
+Hexenband</description>
+					<LookAt>
+						<longitude>4.718589767701888</longitude>
+						<latitude>32.84532652142015</latitude>
+						<altitude>0</altitude>
+						<range>478.3025471445861</range>
+						<tilt>0</tilt>
+						<heading>0.39627037935321</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_12</styleUrl>
+					<Point>
+						<coordinates>4.719622623072919,32.84623457490941,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Schwarze Feste (Maraskan) (12)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (8 - mindestens)
+Olport - Maraskan
+Güldenland - Maraskan
+Brandans Steinkreis - Maraskan</description>
+					<LookAt>
+						<longitude>10.28520265953778</longitude>
+						<latitude>26.43169934434723</latitude>
+						<altitude>0</altitude>
+						<range>64579.27443177222</range>
+						<tilt>0</tilt>
+						<heading>2.53006479480109</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_12</styleUrl>
+					<Point>
+						<coordinates>10.43109206155895,26.45696734506117,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zze Tha? (13)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (8)
+Basiliuslinie
+Konzilslinie
+HINWEIS: Dieser Nodix ist nur ein Überrest eines wesentlich größeren, der zur Blütezeit Zze Tha&apos;s durch gezielte Umleitung magischer Ströme existierte. Die Lage kennzeichnet in etwa die Position der Stadt Zze Tha.</description>
+					<LookAt>
+						<gx:TimeStamp><when>2009-06-04T06:15:18Z</when>
+</gx:TimeStamp>
+						<longitude>2.414275763731437</longitude>
+						<latitude>23.84955240843691</latitude>
+						<altitude>0</altitude>
+						<range>7974.825243738786</range>
+						<tilt>0</tilt>
+						<heading>-0.2393762389138261</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_12</styleUrl>
+					<Point>
+						<coordinates>2.412792288691368,23.84465284056695,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>extrem</name>
+				<Placemark>
+					<name>Schwarze Feste (Gor) (3)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (14)
+Güldenland - Maraskan
+Altoum - Rote Sichel
+Schwarze Feste (Gor) - Selem
+Satinavs Kette I (?)
+Satinavs Kette II (?)</description>
+					<LookAt>
+						<longitude>6.258449899441173</longitude>
+						<latitude>24.97135501349311</latitude>
+						<altitude>0</altitude>
+						<range>29071.57553781357</range>
+						<tilt>0</tilt>
+						<heading>-0.02589782521662571</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>6.337396386991259,25.01814065296312,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dragenfeld (4)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (12)
+Satinavs Kette I 
+Satinavs Kette II 
+Hexenband</description>
+					<LookAt>
+						<longitude>6.979096267049609</longitude>
+						<latitude>33.81272349616621</latitude>
+						<altitude>0</altitude>
+						<range>45975.25811184043</range>
+						<tilt>0</tilt>
+						<heading>0.9471732441103546</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>7.039402777777777,33.82220555555556,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pentagrammaton zu Punin (5)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (11)
+Basiliuslinie
+Brandans Steinkreis - Maraskan
+Kuslik - Drakonia</description>
+					<LookAt>
+						<longitude>2.652103676426032</longitude>
+						<latitude>26.99519482070634</latitude>
+						<altitude>0</altitude>
+						<range>27757.42471085359</range>
+						<tilt>0</tilt>
+						<heading>-1.253723596241697</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>2.655856176208677,27.03433121054224,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dämonenhügel am Wall des Todes (6)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (10)
+Satinavs Kette II
+Strick des Schwarzen Mannes (?)
+Elementares Hexagramm (?)</description>
+					<LookAt>
+						<longitude>5.858005809683802</longitude>
+						<latitude>30.5740639767494</latitude>
+						<altitude>0</altitude>
+						<range>8434.443216858104</range>
+						<tilt>0</tilt>
+						<heading>1.011444521744743</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_12</styleUrl>
+					<Point>
+						<coordinates>5.861780649051529,30.58077187356583,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pher Drodonts Labor (7)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (10)
+Altoum - Rote Sichel
+Greifenfurt - Rulat
+Konzilslinie
+Warunk - Nebelmoor</description>
+					<LookAt>
+						<longitude>7.830700594505987</longitude>
+						<latitude>30.60138230466372</latitude>
+						<altitude>0</altitude>
+						<range>1536.26923598134</range>
+						<tilt>0</tilt>
+						<heading>2.01157947834051</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_12</styleUrl>
+					<Point>
+						<coordinates>7.831009687604881,30.60233807647187,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dämonenzitadelle (1)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (48)
+Strick des Schwarzen Mannes
+Konzilslinie
+Hexenband</description>
+					<LookAt>
+						<longitude>13.44904434871432</longitude>
+						<latitude>39.62386134401476</latitude>
+						<altitude>1000</altitude>
+						<range>155008.5028399905</range>
+						<tilt>0</tilt>
+						<heading>4.070389365807602</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_1</styleUrl>
+					<Point id="KMLe_84">
+						<coordinates>13.35134722222222,39.75950833333334,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sternentreppe zu Anchopal (2)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>magischer Ort (20)
+liegt auf Linie Altoum - Rote Sichel (?)</description>
+					<LookAt>
+						<longitude>6.049889434068856</longitude>
+						<latitude>25.47549409128884</latitude>
+						<altitude>1000</altitude>
+						<range>30767.63900124933</range>
+						<tilt>0</tilt>
+						<heading>0.477104719128221</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_10</styleUrl>
+					<Point id="KMLe_86">
+						<coordinates>6.118483461691393,25.50895003554625,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>unbekannt</name>
+				<Placemark>
+					<name>Simyala (30)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodices (keine Größe zu bestimmen)
+Laut &quot;Im Schatten Simyalas&quot; treffen dort mehrere Kraftlinien (die Linie von Olport nach Maraskan geht auf jeden Fall durch den Reichsforst) aufeinander. Diese bilden aber keinen einzelnen Nodix, sondern ein &quot;Netzt&quot; mehrerer kleiner Nodices.</description>
+					<LookAt>
+						<longitude>2.791962792152782</longitude>
+						<latitude>30.53800986318431</latitude>
+						<altitude>0</altitude>
+						<range>62559.48298838329</range>
+						<tilt>0</tilt>
+						<heading>1.676555082685838</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>2.677216890786363,30.48204493909546,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sankt Praiodan (50)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description>Nodix (?) - magischer Ort (?)
+ehemaliges Geoden Heiligtum, auf dem ein Tempel der Hela-Horas errichtet wurde, heute ein Tempel des Praios</description>
+					<LookAt>
+						<longitude>3.930605047618114</longitude>
+						<latitude>30.79179104721053</latitude>
+						<altitude>0</altitude>
+						<range>28787.34764670799</range>
+						<tilt>0</tilt>
+						<heading>4.611548154422717</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#nodix_13</styleUrl>
+					<Point>
+						<coordinates>3.883223802243776,30.78434454276938,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

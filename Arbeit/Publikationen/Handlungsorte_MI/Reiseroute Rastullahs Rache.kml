@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Reiseroute Rastullahs Rache</name>
+	<color>7affffff</color>
+	<drawOrder>15</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.com/tnbt/TEMP/RastullahsRache72dpi.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>26.54711583228641</north>
+		<south>23.3126035435101</south>
+		<east>3.661078503837977</east>
+		<west>1.173439701755398</west>
+		<rotation>-0.4363866024050798</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

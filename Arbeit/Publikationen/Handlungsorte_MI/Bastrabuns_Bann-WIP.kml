@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bastrabuns_Bann-WIP.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Bastrabuns Bann</name>
+		<open>1</open>
+		<Folder>
+			<name>Abenteuer</name>
+		</Folder>
+		<Folder>
+			<name>Bonusmaterial</name>
+			<Folder>
+				<name>Kapitel II: Khoramsbestien</name>
+				<GroundOverlay>
+					<name>Karte - Östliches Khoram Gebirge</name>
+					<color>7dffffff</color>
+					<drawOrder>21</drawOrder>
+					<Icon>
+						<href>Bastrabuns_Bann_Bonusmaterial/bb_khoram.jpg</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>25.10023134282406</north>
+						<south>24.51865332124423</south>
+						<east>5.699147095451474</east>
+						<west>4.75431832882406</west>
+					</LatLonBox>
+				</GroundOverlay>
+				<Placemark>
+					<name>Das Vorland</name>
+					<description><![CDATA[<p>Das fruchtbare Tiefland am <a href="/index.php?title=Mhanadi" title="Mhanadi">Mhanadi</a> ist von Feldern und Weiden bedeckt. Hier hat sich der kleine <a href="/index.php?title=Tulamide" title="Tulamide">Tulamidenstamm</a> der <a href="/index.php?title=Ulad_Barsh%C3%AEm" title="Ulad Barshîm">Ulad Barshîm</a> angesiedelt. (S. 142)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.575404332403211</longitude>
+						<latitude>25.04479371973885</latitude>
+						<altitude>0</altitude>
+						<range>4364.375807495073</range>
+						<tilt>0</tilt>
+						<heading>-0.006286816161029975</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin12</styleUrl>
+					<Point>
+						<coordinates>5.568466744513925,25.03595804578281,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arborea</name>
+					<description><![CDATA[<p>Die Siedlung wurde durch die <a href="/index.php?title=Chim%C3%A4re" title="Chimäre">Chimärenhorde</a> fast vollständig entvölkert. Die Leichen derjenigen, denen die Flucht nach <a href="/index.php?title=Borbra" title="Borbra">Borbra</a> nicht gelungen ist, liegen unbestattet auf dem Dorfplatz und in den Hütten. (S. 142)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.545590790239865</longitude>
+						<latitude>24.95018811077577</latitude>
+						<altitude>0</altitude>
+						<range>13279.78233656167</range>
+						<tilt>0</tilt>
+						<heading>0.0923402552291593</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin6</styleUrl>
+					<Point>
+						<coordinates>5.560660939827942,24.95035598434085,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eibenhänge</name>
+					<description><![CDATA[<p>Der <a href="/index.php?title=Ferkina" title="Ferkina">Ferkinastamm</a> der <a href="/index.php?title=B%C3%A2n_Shar%C3%AEda" title="Bân Sharîda">Bân Sharîda</a> beansprucht diese dichten Eibenwälder als Jagdgebiet. (S. 142-143)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.337787153749314</longitude>
+						<latitude>24.95501959818318</latitude>
+						<altitude>0</altitude>
+						<range>10990.54649683118</range>
+						<tilt>4.194536763613298</tilt>
+						<heading>0.03519561992414037</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin3</styleUrl>
+					<Point>
+						<coordinates>5.341091943324092,24.95443787822239,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Händler</name>
+					<description><![CDATA[<p>Fünf Händler bringen <a href="/index.php?title=Alchimie" title="Alchimie">alchimistische</a> Waren und Luxusgüter aus <a href="/index.php?title=Fasar" title="Fasar">Fasar</a> zu <a href="/index.php?title=Abu_Terfas" title="Abu Terfas" class="mw-redirect">Abu Terfas</a>. Sie werden von einem ortskundigen Jäger geführt. (S. 143)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.425668062389257</longitude>
+						<latitude>24.69343373600821</latitude>
+						<altitude>0</altitude>
+						<range>8.280129188898307</range>
+						<tilt>4.194537576555486</tilt>
+						<heading>0.07205796576409297</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<coordinates>5.425675026133519,24.69342674395851,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zwerge</name>
+					<description><![CDATA[<p>Vier kaum voneinander unterscheidbare <a href="/index.php?title=Zwerg" title="Zwerg">Zwergenbrüder</a> aus <a href="/index.php?title=Fasar" title="Fasar">Fasar</a> suchen nach Gestein, aus dem sich <a href="/index.php?title=Tulmadron" title="Tulmadron">Tulmadron</a> gewinnen lässt. Fremden werden sie diesen Grund ihres Aufenthaltes hier jedoch nicht auf die Nase binden. (S. 143) </p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.193381873395273</longitude>
+						<latitude>24.7849422893263</latitude>
+						<altitude>0</altitude>
+						<range>8.285928420351114</range>
+						<tilt>0</tilt>
+						<heading>0.01053146272976444</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin4</styleUrl>
+					<Point>
+						<coordinates>5.193371696884439,24.78494114111595,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Höhle der Drachin Ishlunar</name>
+					<description><![CDATA[<p>In dieser Höhle hat die erst 50 Jahre alte <a href="/index.php?title=H%C3%B6hlendrache" title="Höhlendrache">Höhlendrachin</a> <a href="/index.php?title=Ishlunar&amp;action=edit&amp;redlink=1" class="new" title="Ishlunar (Seite nicht vorhanden)">Ishlunar</a> begonnen, ihren Hort anzulegen. (S. 143)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>4.787342883707353</longitude>
+						<latitude>24.68542252791175</latitude>
+						<altitude>0</altitude>
+						<range>3509.023545724116</range>
+						<tilt>0</tilt>
+						<heading>-0.1593708170739942</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin13</styleUrl>
+					<Point>
+						<coordinates>4.789919686340822,24.68282619263355,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Vater Jesper</name>
+					<description><![CDATA[<p>Hier haust der blinde <a href="/index.php?title=Praios" title="Praios">Praiosgeweihte</a> <a href="/index.php?title=Vater_Jesper" title="Vater Jesper">Vater Jesper</a> in einer Höhle, der einst auszog, um den Untaten des <a href="/index.php?title=Magier" title="Magier">Magiers</a> <a href="/index.php?title=Abu_Terfas" title="Abu Terfas" class="mw-redirect">Abu Terfas</a> Einhalt zu gebieten, dabei jedoch von diesem geblendet und im <a href="/index.php?title=Khoramgebirge" title="Khoramgebirge">Khoramgebirge</a> ausgesetzt wurde. (S. 143-144)</p>]]></description>
+					<LookAt>
+						<longitude>5.252462793693143</longitude>
+						<latitude>24.76461388684704</latitude>
+						<altitude>0</altitude>
+						<range>137812.655900477</range>
+						<tilt>4.194536763613994</tilt>
+						<heading>-4.748965708760212e-012</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1</styleUrl>
+					<Point>
+						<coordinates>4.941364,24.778072,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Das Kernland der Bân Sharîda</name>
+					<description><![CDATA[<p>In diesem Gebiet ist ein Zusammentreffen mit Jägern oder Hirten der <a href="/index.php?title=B%C3%A2n_Shar%C3%AEda" title="Bân Sharîda">Bân Sharîda</a> praktisch unvermeidlich. (S. 144)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.321334827102331</longitude>
+						<latitude>24.74640427397867</latitude>
+						<altitude>0</altitude>
+						<range>30736.11750304302</range>
+						<tilt>0</tilt>
+						<heading>0.06224924385803665</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Point>
+						<coordinates>5.311767151839575,24.7356760211496,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Das Dorf Bir Sharîd</name>
+					<description><![CDATA[<p>In diesem Dorf leben die <a href="/index.php?title=Ferkina" title="Ferkina">Ferkina</a> vom Stamme der <a href="/index.php?title=B%C3%A2n_Shar%C3%AEda" title="Bân Sharîda">Bân Sharîda</a>, in dem nach dem Tode des alten Häuptlings <a href="/index.php?title=Tulsami_Shahr&amp;action=edit&amp;redlink=1" class="new" title="Tulsami Shahr (Seite nicht vorhanden)">Tulsami Shahr</a> ein Machtkampf zwischen dem Schamanen <a href="/index.php?title=Jikhab_ibn_Tascharik&amp;action=edit&amp;redlink=1" class="new" title="Jikhab ibn Tascharik (Seite nicht vorhanden)">Jikhab ibn Tascharik</a> und dem Häuptlingssohn <a href="/index.php?title=Devlakh&amp;action=edit&amp;redlink=1" class="new" title="Devlakh (Seite nicht vorhanden)">Devlakh</a> ausgebrochen ist.</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.201521003822465</longitude>
+						<latitude>24.71546303628649</latitude>
+						<altitude>0</altitude>
+						<range>5561.364937393906</range>
+						<tilt>0</tilt>
+						<heading>-0.05083937526933096</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin14</styleUrl>
+					<Point>
+						<coordinates>5.209051128974068,24.71480356945487,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Das Hochland</name>
+					<description><![CDATA[<p>Zwischen den kargen Sandsteinfelsen des Hochlandes leben die kleinen, aber sehr traditionsbewussten <a href="/index.php?title=Ferkina" title="Ferkina">Ferkinastämme</a> der <a href="/index.php?title=B%C3%A2n_Had%C3%A2rri" title="Bân Hadârri">Bân Hadârri</a> und der <a href="/index.php?title=B%C3%A2n_Tirgh%C3%BBfa" title="Bân Tirghûfa">Bân Tirghûfa</a> in Zeltsiedlungen. (S. 144)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.046964994908825</longitude>
+						<latitude>24.72076345784175</latitude>
+						<altitude>0</altitude>
+						<range>50330.69873075447</range>
+						<tilt>0</tilt>
+						<heading>-0.05218463240726294</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin8</styleUrl>
+					<Point>
+						<coordinates>5.049899409284453,24.70270155485036,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lager der Ban Hadârri</name>
+					<description><![CDATA[<p>In der Zeltsiedlung lebt <a href="/index.php?title=Devlakh&amp;action=edit&amp;redlink=1" class="new" title="Devlakh (Seite nicht vorhanden)">Devlakh</a>, der Sohn des verstorbenen Häuptlings <a href="/index.php?title=Tulsani_Shahr&amp;action=edit&amp;redlink=1" class="new" title="Tulsani Shahr (Seite nicht vorhanden)">Tulsani Shahr</a>. Er stachelt die <a href="/index.php?title=B%C3%A2n_Had%C3%A2rri" title="Bân Hadârri">Bân Hadârri</a> zum Kampf an, um die Häuptlingswürde der <a href="/index.php?title=B%C3%A2n_Shar%C3%AEda" title="Bân Sharîda">Bân Sharîda</a> zurückzuerlangen. (S. 144)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.113877687601341</longitude>
+						<latitude>24.80326458746901</latitude>
+						<altitude>0</altitude>
+						<range>50785.08992707324</range>
+						<tilt>0</tilt>
+						<heading>-0.02422116868946668</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin11</styleUrl>
+					<Point>
+						<coordinates>5.114145527281915,24.80302165980269,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Die Weide des Flügelrosses</name>
+					<description><![CDATA[<p>Hier weidet der von <a href="/index.php?title=Abu_Terfas" title="Abu Terfas" class="mw-redirect">Abu Terfas</a> geschaffene geflügelte Hengst, seit er von den <a href="/index.php?title=B%C3%A2n_Shar%C3%AEda" title="Bân Sharîda">Bân Sharîda</a> unfreiwilligerweise befreit wurde. (S. 144)</p>]]></description>
+					<LookAt>
+						<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+						<longitude>5.028571007637299</longitude>
+						<latitude>24.61560221274881</latitude>
+						<altitude>0</altitude>
+						<range>6455.061621681174</range>
+						<tilt>0</tilt>
+						<heading>-0.05956332882665264</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<Point>
+						<coordinates>5.030718438061381,24.60958054771738,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Das Tal des Abu Terfas</name>
+					<description><![CDATA[<p>In der 200 <a href="/index.php?title=Schritt" title="Schritt">Schritt</a> durchmessenden Senke, die auch als <a href="/index.php?title=Al%27Chur%C3%A2m" title="Al&#39;Churâm">Al'Churâm</a> bekannt ist, steht der Palast des <a href="/index.php?title=Abu_Terfas" title="Abu Terfas" class="mw-redirect">Abu Terfas</a> hinter einer hohen Wehrmauer. (S. 144-152)</p>]]></description>
+					<LookAt>
+						<longitude>5.252462793693143</longitude>
+						<latitude>24.76461388684704</latitude>
+						<altitude>0</altitude>
+						<range>137812.655900477</range>
+						<tilt>4.194536763613994</tilt>
+						<heading>-4.748965708760212e-012</heading>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin</styleUrl>
+					<Point>
+						<coordinates>4.89037566914871,24.89588491138568,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Weg von Arborea nach Ivrinno</name>
+					<description>ca. 76 Meilen</description>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+5.632023692188037,24.96422463290156,0 5.612222895592199,24.95910847163347,0 5.597947154244651,24.95515853851718,0 5.586400503162878,24.94992324424699,0 5.576688078959869,24.94466178559807,0 5.56558217471856,24.93817404585112,0 5.551374013290094,24.93754318241405,0 5.534934319484563,24.94026417324286,0 5.517148858797,24.94466312235771,0 5.500236278145129,24.94655665680072,0 5.492883117258669,24.94499613134709,0 5.486848928312775,24.94009531445174,0 5.479838402008621,24.93147060556816,0 5.471974612402373,24.92659442812153,0 5.465080996174678,24.92502655935611,0 5.45676041057386,24.92015583417996,0 5.452088981391041,24.91440554476034,0 5.445089280951172,24.90619506434525,0 5.436279525289596,24.89925382349188,0 5.430256376958584,24.8947663537596,0 5.422886776136431,24.89195696792411,0 5.416458936030669,24.89079556321051,0 5.408703500150212,24.89255747901537,0 5.399612888367855,24.89682758637772,0 5.387467019654528,24.90401403154658,0 5.379285792042319,24.90785732356939,0 5.369698670241703,24.90964222594289,0 5.36101437496267,24.91058441340707,0 5.351904826519494,24.91360721925535,0 5.338720470437488,24.91958700673177,0 5.327334524640595,24.92346698264566,0 5.319127013560623,24.92564562108667,0 5.309959858876969,24.92492964298064,0 5.298491909269614,24.92341118708796,0 5.287914993898733,24.92022026971322,0 5.279157109121664,24.91617605509219,0 5.271315137883727,24.91212013414699,0 5.263931292807818,24.90805818108898,0 5.25606588668269,24.9023409843245,0 5.249592125368991,24.89785200244898,0 5.238981855731641,24.89216627905898,0 5.22976893137074,24.88812359622907,0 5.22059786864026,24.88698572459273,0 5.212817324043437,24.8870764529746,0 5.203657291485433,24.88676742070127,0 5.20014839339053,24.89760264981797,0 5.198428701738209,24.90551096969865,0 5.199067939034285,24.91837427553553,0 5.199231373940474,24.92999773250544,0 5.199840721386875,24.94078593025775,0 5.199093197445928,24.95283609419452,0 5.195515608655573,24.95910650807448,0 5.19237814704282,24.96412623751424,0 5.185597771472756,24.97084974732866,0 5.180173440831839,24.97631182647311,0 5.171109853159952,24.9838930983057,0 5.167957689855016,24.98808328488483,0 5.164860772885866,24.99642703762573,0 5.164491367985537,25.00307811344482,0 5.16594452563375,25.00887749743971,0 5.170148682377307,25.01464502396723,0 5.178021067885705,25.020369601822,0 5.184993797596905,25.02735118942807,0 5.188740671299847,25.03312445504749,0 5.191610309079748,25.04181755017411,0 5.191739912540411,25.05137550757588,0 5.190493176753424,25.06095128068501,0 5.187007649448683,25.07471346548649,0 5.18253026839357,25.08308422901267,0 5.178073222332527,25.093120097365,0 5.177729194767951,25.10186055493781,0 5.177422898329938,25.11351513761094,0 5.176624185846965,25.12268112967669,0 5.174917150490397,25.13269274325479,0 5.16993467233524,25.13816595008173,0 5.161161399326602,25.1450199813106,0 5.147956463245132,25.15223302045048,0 5.136062968491075,25.15486036542705,0 5.122797719169263,25.15791811823963,0 5.106335671989961,25.16225760802242,0 5.09032960379459,25.16659136321252,0 5.07339708210258,25.17051915876192,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Weg nach Al&apos;Churâm</name>
+					<description>ca. 47 Meilen</description>
+					<styleUrl>#msn_ylw-pushpin9</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+4.734912857331963,25.00137358393242,0 4.736225557071712,24.99478588198915,0 4.741005412603469,24.98942113630602,0 4.745452577664895,24.98531188032095,0 4.749553945560818,24.98120564584202,0 4.752239948492592,24.97398079474238,0 4.751820923263637,24.96709650345362,0 4.750017446963177,24.95991154490291,0 4.749246790104529,24.952404781412,0 4.750189189141256,24.94363109949779,0 4.753913255462196,24.93671148244037,0 4.759393131798477,24.93259368390148,0 4.764212633046146,24.93129886160809,0 4.770757615538139,24.92935454412016,0 4.780212116047366,24.922983668579,0 4.788265964471958,24.91345976130594,0 4.792690013305771,24.90355912745875,0 4.793956267079247,24.8949206731406,0 4.796136423100361,24.88709614754327,0 4.801942128045535,24.87964987264208,0 4.808665327988826,24.873427676484,0 4.816306121828422,24.86842921475146,0 4.823031531085425,24.86261774600903,0 4.826144692882137,24.85766101662236,0 4.826981101006878,24.85149352216993,0 4.826377102703725,24.84530438327131,0 4.82357194172674,24.83865830415316,0 4.821307213808281,24.83173549468512,0 4.822136155669394,24.82279463103905,0 4.825090278948972,24.81806880006572,0 4.829916623526522,24.81373729875458,0 4.837730443983192,24.80946509536473,0 4.84488687377392,24.80755844370564,0 4.857428485975586,24.80649270612257,0 4.866157495560377,24.80346977646103,0 4.881040935234704,24.80148225755794,0 4.894235026968055,24.79829754556968,0 4.900985407982499,24.79535722658437,0 4.908285490975879,24.79116113293985,0 4.918686339633331,24.79262213978776,0 4.925367171020998,24.80120182219717,0 4.926468838346382,24.80783361147669,0 4.925683345611667,24.817696442528,0 4.924425546508555,24.82592154347373,0 4.925440200138951,24.83494544316509,0 4.931999237247934,24.84482656078904,0 4.938184214530505,24.85195214769911,0 4.941180726771723,24.85696668683016,0 4.940958669320096,24.86551709811928,0 4.938088797303626,24.86972727433635,0 4.922208765053315,24.88014849814443,0 4.908863444899718,24.88644455302261,0 4.900311065659517,24.89063526196184,0 4.89085384253136,24.89524422674219,0 4.890375654577966,24.89588511062102,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Weg durch das Stammesgebiet der Bân Sharîda</name>
+					<description>ca. 72 Meilen</description>
+					<styleUrl>#msn_ylw-pushpin17</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+5.380692082481257,24.65678627522091,0 5.375016084627071,24.66136801705632,0 5.368662017954431,24.66542045341124,0 5.363036394878393,24.67259003685749,0 5.359123584378667,24.68163009866944,0 5.358028696052324,24.68811833517184,0 5.350437197608473,24.69577719582226,0 5.335702022714539,24.70204874348894,0 5.320324640805579,24.70340143682325,0 5.305054209346314,24.70558672751125,0 5.288158534953835,24.71046971098211,0 5.278276118917516,24.7151690050031,0 5.266369996162394,24.71514346303326,0 5.248854702836874,24.70822166093381,0 5.241725268316985,24.70328904974936,0 5.235546293912011,24.69517095474322,0 5.232764451737355,24.68434813248737,0 5.233871355361675,24.67589487708329,0 5.238652629489433,24.66882707554607,0 5.247108260278703,24.66294763437389,0 5.256865458196209,24.6554975509488,0 5.264671362066393,24.649222236438,0 5.268155523754315,24.64077381198,0 5.269258176196987,24.63290971866134,0 5.266902770470145,24.62344398649451,0 5.262379749361736,24.61615834590359,0 5.255689564167101,24.61063737968312,0 5.246402292862397,24.60589650197889,0 5.235171048955523,24.60036332412255,0 5.229570071225369,24.59248259618318,0 5.225391931890419,24.577761474299,0 5.219587648740407,24.56634121309365,0 5.209016384260141,24.55844730119719,0 5.198213891474792,24.55546809595293,0 5.182744108166859,24.55503505239981,0 5.164332403196026,24.56501303154665,0 5.155009816783444,24.57206542252064,0 5.147031133664733,24.58046103854041,0 5.139270558428615,24.58599502028594,0 5.130971660110206,24.59004483414242,0 5.122817132528184,24.591624791446,0 5.112898119478643,24.59270467157307,0 5.09496508562999,24.59647470726918,0 5.08598350353873,24.6008902355224,0 5.077854417586289,24.60639117762727,0 5.07202549313186,24.61200174777257,0 5.048996730738002,24.61879169804028,0 5.02395708174415,24.62303858584559,0 5.009630637523923,24.62414068834431,0 4.987011335791463,24.62896989186613,0 4.971071953617477,24.63415218889842,0 4.96315231969152,24.63617306762701,0 4.958493958828846,24.63877819922239,0 4.956343466995019,24.64196465430063,0 4.956074977923743,24.64538751961116,0 4.959698296615224,24.64894130590982,0 4.964085666002058,24.65044388436432,0 4.96990490966404,24.65518172605582,0 4.973926087636902,24.65989513227705,0 4.979300063616519,24.66379737553152,0 4.984222299560257,24.66831047739902,0 4.989588988244607,24.67405097317082,0 4.993614707505733,24.67835658406433,0 5.003738530506531,24.68809638562835,0 5.006411010711087,24.69619945860532,0 5.007545584834119,24.70589600367503,0 5.003736393720044,24.71471124718833,0 4.998154656631151,24.72038201082476,0 4.994090587164573,24.72405598286075,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Weg durch die Stammesgebiete der Ban Hadârri und Ban Tirghûfa</name>
+					<description>ca. 47 Meilen</description>
+					<styleUrl>#msn_ylw-pushpin16</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+5.21142526375094,24.84889346054616,0 5.20949807454592,24.8468296770951,0 5.208692221840614,24.84474662710205,0 5.208885620490529,24.84030604809394,0 5.206671048829856,24.83548035587145,0 5.203235073104735,24.83022703882755,0 5.196985902273967,24.82341005459148,0 5.193079413274663,24.8201425199254,0 5.189331332872539,24.81446173619117,0 5.184825550455186,24.80982212700627,0 5.180920876080513,24.80598726544714,0 5.184883335189204,24.79629799766769,0 5.193371552862804,24.78494094052189,0 5.197271564430157,24.77783949094147,0 5.213920699216805,24.76292422620591,0 5.217689012648242,24.75627197138007,0 5.219279341030165,24.74889858573559,0 5.217501698435541,24.7431418507902,0 5.213742072203504,24.73954234965151,0 5.208199806330507,24.7366611374359,0 5.19635033492214,24.73631464940823,0 5.185763762152118,24.73836676197099,0 5.172907214101892,24.74178919840858,0 5.162506001609337,24.74607110302445,0 5.15267000056169,24.75086784647124,0 5.144912050941757,24.75583802929078,0 5.139232413219704,24.76115371449178,0 5.132042349290103,24.76389242338031,0 5.12244981977547,24.76508264874321,0 5.112242748175657,24.76403987322114,0 5.10393321304166,24.75853563933395,0 5.095358390317708,24.75560575035448,0 5.08779798907693,24.75508000159563,0 5.078151379498809,24.75832724271983,0 5.069259930070942,24.76174671064325,0 5.05942534478902,24.7636191920868,0 5.04964709129575,24.76247275518426,0 5.042284259931331,24.75765293952879,0 5.036255547480495,24.74820047598861,0 5.029659716405077,24.73926208132162,0 5.018523978261859,24.7323747166652,0 4.994090664767976,24.72405600984273,0 4.977359229649599,24.73095272970351,0 4.961769476308657,24.73322852028102,0 4.95508621419649,24.73494611104216,0 4.942839505212908,24.73592800639069,0 4.930598215911131,24.73806452499051,0 4.904201546142928,24.74492883721883,0 4.898945095176373,24.74751433644329,0 4.890977684983813,24.75225877829448,0 4.879988162776674,24.75685021262664,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Östlicher Khoram-Pass</name>
+					<description>ca. 100 Meilen</description>
+					<styleUrl>#msn_ylw-pushpin5</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+5.203657731018783,24.88676794520188,0 5.202616112772787,24.88145937387872,0 5.19935614183521,24.87529239550714,0 5.198987958583443,24.86603966515027,0 5.201802539774736,24.85868912648482,0 5.206035532179991,24.85276744708325,0 5.211425420442399,24.84889348805934,0 5.216553889055,24.84774514047306,0 5.224270149972163,24.84752172062121,0 5.234202478706398,24.84514029478733,0 5.246318630789968,24.84113028931026,0 5.259012768425238,24.83467591329481,0 5.268822927114591,24.82734690747348,0 5.277653985895896,24.81800402387883,0 5.288420530509286,24.80683600882874,0 5.297753018052922,24.79777925590333,0 5.308709121429398,24.79149562437048,0 5.323894702139755,24.78451103616768,0 5.346004685494503,24.77734497420196,0 5.353858006248727,24.76929576260602,0 5.362422125452109,24.76178964500452,0 5.377411824792421,24.7528891646438,0 5.38566516427021,24.73871132823885,0 5.394532236458611,24.72647581750914,0 5.414868200880325,24.70991325818478,0 5.425675079311441,24.69342655647063,0 5.425657393438515,24.6773110346661,0 5.421369167856667,24.67064652328635,0 5.413718902302637,24.66481853431347,0 5.395673255039071,24.65760915124316,0 5.380691985387765,24.6567861944052,0 5.377412657683179,24.64250073869151,0 5.372924267982111,24.62975035767323,0 5.367545215175595,24.62134226218403,0 5.355897439313992,24.60805392086392,0 5.351711729655994,24.59204895588769,0 5.347530309861501,24.58255488897388,0 5.333803095986118,24.57333526057241,0 5.322040352088465,24.5645847714443,0 5.316305668679062,24.55540009500802,0 5.312755921410714,24.54832506191673,0 5.309888921572838,24.54228923922726,0 5.305657872214367,24.53695200988436,0 5.298561748926131,24.53298023253496,0 5.295832392448904,24.52987680126552,0 5.287512928322339,24.51369037602239,0 5.280682743798055,24.49549021951102,0 5.26995256089299,24.4821726543544,0 5.244593635989387,24.47062675300319,0 5.206319421721826,24.47770866410457,0 5.175091654080514,24.47413944886812,0 5.15111809538962,24.49397664484877,0 5.14254673912109,24.49710920004288,0 5.128106844095752,24.49581320667419,0 5.12310481463458,24.48970141835351,0 5.106779450616328,24.47906394219054,0 5.088122693905214,24.46983814712306,0 5.075697706323449,24.45778695271365,0 5.057048979199912,24.44855749106465,0 5.038396613306489,24.44286523238212,0 5.016633041394312,24.43858073628483,0 4.997977905582594,24.43571442596666,0 4.96809736103187,24.42941853384303,0 4.93602798770072,24.41800985350275,0 </coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Ishlunars Pass</name>
+					<description>ca. 58 Meilen</description>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+4.908285487818005,24.79116112433755,0 4.906249185166467,24.78532834269969,0 4.902623524793617,24.78113481785027,0 4.898287134698592,24.77715761647581,0 4.893482583571444,24.77338980196649,0 4.889771191106589,24.7695086481009,0 4.884354176397013,24.76037958760812,0 4.879988215517626,24.75685013402009,0 4.87292407341619,24.756157148664,0 4.864787405601192,24.7532928853267,0 4.852699308927077,24.74738833964642,0 4.838970624090841,24.73706900756585,0 4.833676647063408,24.73220764624582,0 4.831224987588653,24.72682307968014,0 4.831415744309973,24.71478957318321,0 4.835266058819617,24.70429796736329,0 4.839808514241284,24.69626279841618,0 4.847201567074131,24.6859848329463,0 4.85217878554554,24.68079669884661,0 4.861924744969151,24.67224940583107,0 4.871313655581524,24.66380704891592,0 4.876870213787099,24.65526252845181,0 4.877388457726761,24.6473140196835,0 4.875288319378914,24.64260307328491,0 4.865787318734425,24.62987926090479,0 4.862759415607217,24.62518188713023,0 4.861618486279083,24.61819304310783,0 4.863788215505808,24.61089770245972,0 4.869371401777616,24.60587477893484,0 4.876073155316833,24.59920824605242,0 4.881318753793941,24.59388394364185,0 4.884596990996599,24.58589667832106,0 4.885721761782489,24.57757202954053,0 4.882895693885869,24.56922800393906,0 4.87826177924974,24.5631984347518,0 4.872170872722195,24.5607195908896,0 4.866597884714841,24.56183592728189,0 4.85777318673684,24.56620249276188,0 4.850405328825282,24.5669827577413,0 4.845388216935945,24.5649978771914,0 4.837147644204276,24.56136304534311,0 4.82799939830546,24.55919272773995,0 4.819512761896878,24.56073048957,0 4.812113355590424,24.56673484640621,0 4.800909707385253,24.57778169006899,0 4.791528594271586,24.58426512690933,0 4.772424423017078,24.59363711491325,0 4.764336566627003,24.59392058121687,0 4.728888443311819,24.59494175248982,0 4.693429351425023,24.59330950561371,0 4.661158984318689,24.58283742804625,0 4.64118901412512,24.5675866145813,0 4.635964114159257,24.55328420971827,0 4.63020243463689,24.53325493698184,0 </coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

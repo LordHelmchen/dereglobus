@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Gorische_Wueste_WIP.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff7fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f7fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f7fffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Gorische Wüste</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Gorische Wüste</b>, die man auch <b>Gor</b> oder <b>Mahammadat</b> (<a href="/index.php?title=Tulamidya" title="Tulamidya">Tulamidya</a> für "Ehrwürdigste Hochebene") nennt, ist eine staubige Hochebene in Form eines riesigen Tafelberges in der Region <a href="/index.php?title=Gorien" title="Gorien">Gorien</a> am Rande <a href="/index.php?title=Aranien" title="Aranien" class="mw-redirect">Araniens</a>. Sie ist nach der <a href="/index.php?title=Kh%C3%B4m" title="Khôm">Khôm</a> die zweitgrößte Wüste <a href="/index.php?title=Aventurien" title="Aventurien">Aventuriens</a>, aber nicht mit dieser zu vergleichen, und gilt als überaus lebensfeindlich.
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftstypen.kml#wueste</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+5.815598598041641,25.25345334985923,100 5.810776574317444,25.22256438698021,100 5.805992442342447,25.18415038105364,100 5.813642167584321,25.15708153284126,100 5.801240460302264,25.1382107242177,100 5.78152911480765,25.08165849828001,100 5.792413608345688,25.07116964349905,100 5.794169527534539,25.05235502326053,100 5.805083364280579,25.03358424836967,100 5.816040808307205,25.00276445397876,100 5.816163585089766,24.97263844191674,100 5.828710520419611,24.95613039767428,100 5.920414019444882,24.87972079634125,100 5.937041106291656,24.87451944068823,100 5.970242459317805,24.87918118251512,100 5.996021683802486,24.86194861917537,100 6.046686573792219,24.8425302687237,100 6.07155640003421,24.84939205175362,100 6.115546165092365,24.83519102129737,100 6.147051351450075,24.83827925112882,100 6.202603674453968,24.8406413154716,100 6.216704732226511,24.83839997874828,100 6.244877650350713,24.84973871606069,100 6.304540464852224,24.88142726022993,100 6.362568356003353,24.92060086133215,100 6.404862401251499,24.96501131519648,100 6.433086402132926,24.9898378477227,100 6.443876440311449,25.01165838757451,100 6.446355721516226,25.04627327892657,100 6.467138112216904,25.07560824845274,100 6.478786283663012,25.10193725640515,100 6.485450714378837,25.12676409053061,100 6.517949123750122,25.16888966106966,100 6.519630863681336,25.18469331364348,100 6.536354874895782,25.22909790608162,100 6.544741802445275,25.25845955565765,100 6.546448238142602,25.27879177500681,100 6.542306805214007,25.29385458403926,100 6.540691583561578,25.31946594953464,100 6.542417344282345,25.34433156065384,100 6.525766773476134,25.36391879404797,100 6.492436029193735,25.39103294812069,100 6.4324089491181,25.42565909248808,100 6.402380722033434,25.43165759300455,100 6.384862496419261,25.43012841141492,100 6.367346775605755,25.42633686590063,100 6.34233292453652,25.42781270280367,100 6.312318748998161,25.43757336038573,100 6.296479375745358,25.43755092798844,100 6.285646546901365,25.431503951605,100 6.248141921228814,25.43144808761839,100 6.222292882482401,25.44120831503906,100 6.174792486295546,25.43886837766003,100 6.152269565025157,25.44712342463971,100 6.138124371892029,25.43805085929396,100 6.108972140449227,25.43196701451329,100 6.0756516983186,25.4266272798322,100 6.045628460895318,25.43033787862709,100 6.007332178991178,25.41744350922277,100 5.966527282353516,25.40604740899723,100 5.903290774815588,25.37725482612069,100 5.83932360279988,25.33035863622285,100 5.815598598041641,25.25345334985923,100 </coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

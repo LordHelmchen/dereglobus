@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tal der Kaiser.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Tal der Kaiser</name>
+		<description>Etwa 5 Meilen �stlich der Reichstra�e II, in einem tiefen Talkessel [...], liegt [...] die Ruhest�tte der Kaiser. Als wei�es Band durchzieht eine Prozessionsstra�e das Tal bis zur Stadt Eslamsgrund. (HdR S.74)</description>
+		<LookAt>
+			<longitude>3.784773640233942</longitude>
+			<latitude>29.37164527887692</latitude>
+			<altitude>0</altitude>
+			<range>193678.5371197996</range>
+			<tilt>0</tilt>
+			<heading>0.3669656383931101</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>3.651964000651412,29.04724311601976,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RdH-Karte Stützstelle 1.kml</name>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>RdH-Karte Stützstelle 1</name>
+		<LookAt>
+			<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+			<longitude>-1.721546454505563</longitude>
+			<latitude>24.78613775492895</latitude>
+			<altitude>0</altitude>
+			<range>230652.2869284112</range>
+			<tilt>0</tilt>
+			<heading>-3.041531652816331</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.987985546434114,25.01996395700643,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

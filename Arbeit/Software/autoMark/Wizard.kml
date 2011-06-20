@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<!-- Styles -->
+	<Style id="Ortsmarken_umwandeln">
+
+		<BalloonStyle>
+            <text>$[description]</text>
+		</BalloonStyle>
+		
+	</Style>
+	
+	<name>WIZARD - Men�</name>
+	<Folder>
+		<name>Deine Ortsmarken umwandeln</name>
+		<styleUrl>#Ortsmarken_umwandeln</styleUrl>
+		<description>
+			<![CDATA[
+				<script type="text/javascript">
+					function loadText() {
+						document.write('Kr�h bla schwall');
+					}
+				</script>
+
+				<embed src="D:\Projekte\DereGlobus\Workspace\Projekte\Software\DG Wizard\bin-debug\main.swf"
+				type="application/x-shockwave-flash" wmode="transparent" width="600" height="300" onload="loadText()"></embed>
+
+			]]>
+		</description>
+		<Snippet maxLines='0'></Snippet>
+	</Folder>	
+	<NetworkLink>
+		<name>Umgewandelte Dateien</name>
+		<Link>
+			<!-- <href>http://www.dereglobus.orkenspalter.com/public/autoMark/autoMark.php</href> -->
+			<href>D:/Projekte/DereGlobus/Workspace/Projekte/Software/autoMark/UmgewandelteDateien.kml</href>
+			<!--<href>http://dereglobus.orkenspalter.com/svn/DereGlobus/Projekte/Software/autoMark/autoMark.php</href>-->
+			<refreshMode>onInterval</refreshMode>
+			<refreshInterval>60</refreshInterval>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
+

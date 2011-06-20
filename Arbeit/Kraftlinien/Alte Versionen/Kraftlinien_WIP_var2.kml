@@ -1,0 +1,2557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Kraftlinien</name>
+  <visibility>0</visibility>
+    <Folder>
+      <name>Kraftlinien</name>
+      <open>0</open>
+      <Folder>
+          <open>0</open>
+          <name>kontinental</name>
+                <Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+                        </Lod>
+		</Region>
+                <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+	  <Placemark>
+            <name>Basiliuslinie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Basiliuslinie</b> (auch <b>Elfenfaden</b> genannt) ist eine m&auml;chtige, kontinentumspannende <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>, die aus dem &auml;u&szlig;ersten S&uuml;den bis weit in das ewige Eis des Nordens verl&auml;uft. Im Gegensatz zu den meisten Kraftlinien ist sie weder schnurgerade noch harmonisch gebogen, sondern hat den gezackten Verlauf eines Sprungs im Eis.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Basiliuslinie">Basiliuslinie</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Basiliuslinie&amp;action=history">Liste der Autoren</a><!-- END EDIT --> verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Basiliuslinie&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_199">
+              <tessellate>1</tessellate>
+              <coordinates>
+2.211960915260798,16.64553388411602,0 2.41283551418817,23.84497819176874,0 2.41594703645615,23.88911553405026,0 2.505385196876558,26.26126550937655,0 2.655854277295171,27.03422058847874,0 3.651964000651412,29.04724311601976,0 3.648674048832707,29.6536110292845,0 3.739790200633252,29.7776040724147,0 3.881074291068436,30.78444867500293,0 4.719622700206418,32.84624334675137,0 4.997762400657605,33.41306861192623,0 4.841310578536389,34.19922139881565,0 5.423667919069748,41.79725071210093,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Hexenband</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Das <b>Hexenband</b>, dessen &ouml;stlichstes Teilst&uuml;ck auch <b>&Uuml;berwalslinie</b> genannt wird, ist eine kontinentumspannende <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>, die als eine Saite der <a href="http://www.wiki-aventurica.de/index.php?title=Zwölfsaitige_Götterharfe&amp;action=edit&amp;redlink=1">Zw&ouml;lfsaitigen G&ouml;tterharfe</a> beginnt. In ihrem Verlauf nach Westen kreuzt sie bedeutende Nodices wie die <a href="http://www.wiki-aventurica.de/index.php?title=Hursach">Hursachquelle</a>, <a href="http://www.wiki-aventurica.de/index.php?title=Dragenfeld">Dragenfeld</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Arras_de_Mott_(Kloster)">Arras de Mott</a>. Dem Hexenband wird eine Affinit&auml;t zur <a href="http://www.wiki-aventurica.de/index.php?title=Telekinese">Telekinese</a> und zur <a href="http://www.wiki-aventurica.de/index.php?title=Verständigung">Verst&auml;ndigungsmagie</a> nachgesagt. Weiterhin fliegen an ihr viele <a href="http://www.wiki-aventurica.de/index.php?title=Hexe">Hexen</a> entlang, wenn sie sich auf den Weg zu <a href="http://www.wiki-aventurica.de/index.php?title=Hexentreffen">Hexentreffen</a> im <a href="http://www.wiki-aventurica.de/index.php?title=Bornland">Bornland</a> machen.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Hexenband">Hexenband</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Hexenband&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Hexenband&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_200">
+              <tessellate>1</tessellate>
+              <coordinates>
+-3.93527425243638,31.27497071245784,0 2.124848012841833,32.40205975088146,0 3.913168463442499,32.77002636424618,0 4.719613753946945,32.84622900354834,0 4.938608583382624,32.86211048513069,0 5.516415745363101,33.04195784698002,0 7.039401447881309,33.82217991760796,0 8.169755959533312,34.22568587214293,0 12.01965906681738,35.49629301913841,0 13.08148403947888,36.42685856284166,0 14.95297535947865,38.75184301863803,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Konzilslinie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Konzilslinie</b> ist eine kontinentale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_109">
+              <tessellate>1</tessellate>
+              <coordinates>
+-3.042750998235055,16.91313538609203,0 2.412836646160506,23.84472953725908,0 2.453183443476252,23.89758255514444,0 3.991177138308538,27.56571222404326,0 4.98261865380395,29.03561404125686,0 7.831009687604881,30.60233807647187,0 8.731900974761691,33.7696886677118,0 12.09321600354617,36.11251586785269,0 13.03462681876888,36.41886382639091,0 14.95297535947865,38.75184301863803,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Nordwest-Südost-Linie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Nordwest-S&uuml;dost-Linie</b> ist eine kontinentale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_202">
+              <tessellate>1</tessellate>
+              <coordinates>
+-4.972625780294462,35.73834560544715,0 -3.620005624722892,34.22570073643217,0 3.706936670956036,29.80048301051997,0 4.651041536224274,29.14719606095114,0 10.43131620247521,26.45613478177002,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Ost-West-Achse</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Ost-West-Achse</b> ist eine kontinentale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. Sie verzweigt sich in <a href="http://www.wiki-aventurica.de/index.php?title=Al'Churâm">Al'Chur&acirc;m</a> in zwei Teilstr&auml;ge. Ihre n&ouml;rdliche, schw&auml;chere Ader verl&auml;uft durch die Ruinen der mythischen Hochelfenstadt <a href="http://www.wiki-aventurica.de/index.php?title=Tie'Shianna">Tie'Shianna</a> und schlie&szlig;lich nach <a href="http://www.wiki-aventurica.de/index.php?title=Silas">Silas</a>. Die s&uuml;dliche H&auml;lfte f&uuml;hrt mit fast gleicher St&auml;rke entlang des Nordrands des <a href="http://www.wiki-aventurica.de/index.php?title=Djurkaram-Massiv">Djurkaram-Massivs</a> sowie <a href="http://www.wiki-aventurica.de/index.php?title=Shafir">Shafirs</a> Hort an der <a href="http://www.wiki-aventurica.de/index.php?title=Kabashpforte">Kabashpforte</a> und vereinigt sich in Silas wieder mit ihrer n&ouml;rdliche H&auml;lfte.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_92">
+              <tessellate>1</tessellate>
+              <coordinates>
+-4.185660795474817,25.40380181566355,0 -0.7141861162829366,24.85514404411413,0 0.4351081034057192,24.33473861642604,0 2.415946919574206,23.88911537039596,0 2.453283637743116,23.89769660535643,0 4.890375480599653,24.89588487969749,0 5.631837350188327,24.96139481439784,0 6.21566690338075,25.02108117135049,0 6.540084927628069,24.94250161727093,0 7.471087866458992,25.01088088867789,0 10.43109206155895,26.45696734506117,0</coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satinavs Kette I</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Satinavs Ketten sind zwei <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a>, die sich vom &auml;u&szlig;ersten S&uuml;den Aventuriens bis ins Ewige Eis des Nordens erstrecken und sich in <a href="http://www.wiki-aventurica.de/index.php?title=Dragenfeld">Dragenfeld</a> an der Stelle kreuzen, an der die <a href="http://www.wiki-aventurica.de/index.php?title=Weidener_W%C3%BCstenei">Weidener W&uuml;stenei</a> entstanden ist. Beide Linien sollen eine starke Affinit&auml;t zu Temporalmagie haben. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Satinavs_Ketten">Satinavs Ketten</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Satinavs_Ketten&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Satinavs_Ketten&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_224">
+              <tessellate>1</tessellate>
+              <coordinates>
+10.1653453449344,46.50215577124025,0 7.4937418617981,34.84902803806997,0 7.039371020481708,33.82223098348392,0 5.861868821670615,30.58069317723225,0 6.21566690338075,25.02108117135049,0 5.719968248170718,22.34422230739534,0 4.359968248170718,14.35996824817072,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Satinavs Kette II</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Satinavs Ketten sind zwei <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a>, die sich vom &auml;u&szlig;ersten S&uuml;den Aventuriens bis ins Ewige Eis des Nordens erstrecken und sich in <a href="http://www.wiki-aventurica.de/index.php?title=Dragenfeld">Dragenfeld</a> an der Stelle kreuzen, an der die <a href="http://www.wiki-aventurica.de/index.php?title=Weidener_W%C3%BCstenei">Weidener W&uuml;stenei</a> entstanden ist. Beide Linien sollen eine starke Affinit&auml;t zu Temporalmagie haben. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Satinavs_Ketten">Satinavs Ketten</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Satinavs_Ketten&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Satinavs_Ketten&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_94">
+              <tessellate>1</tessellate>
+              <coordinates>
+2.500560325935461,44.67792494605138,0 7.039402777777777,33.82220555555556,0 10.43109206155895,26.45696734506117,0 14.98876575429627,14.81707043882736,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Strick des Schwarzen Mannes</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Der <b>Strick des Schwarzen Mannes</b> ist eine m&auml;chtige, &uuml;berregionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>, die sich von <a href="http://www.wiki-aventurica.de/index.php?title=Kuslik">Kuslik</a> bis zur <a href="http://www.wiki-aventurica.de/index.php?title=Dämonenzitadelle">D&auml;monenzitadelle</a> zieht. Dabei durchl&auml;uft sie Orte wie das Schlachtfeld der Zweiten <a href="http://www.wiki-aventurica.de/index.php?title=Dämonenschlacht">D&auml;monenschlacht</a> bei <a href="http://www.wiki-aventurica.de/index.php?title=Brig-Lo">Brig-Lo</a>, die <a href="http://www.wiki-aventurica.de/index.php?title=Dämonenbrache">D&auml;monenbrache</a> s&uuml;dlich von Gareth, die Grotte <a href="http://www.wiki-aventurica.de/index.php?title=Keranvor&amp;action=edit&amp;redlink=1">Keranvor</a> in der <a href="http://www.wiki-aventurica.de/index.php?title=Schwarze_Sichel">Schwarzen Sichel</a> und die Stadt <a href="http://www.wiki-aventurica.de/index.php?title=Yol-Ghurmak">Yol-Ghurmak.</a> Dieser Linie wird seit langer Zeit eine Affinit&auml;t zur Beeinflussungs- und Beherrschungsmagie nachgesagt, seit den g&ouml;tterfrevelnden Ritualen der Borbaradianer vor einigen Jahren soll sogar ein Bezug zur Dom&auml;ne des <a href="http://www.wiki-aventurica.de/index.php?title=Blakharaz">Blakharaz</a> sp&uuml;rbar sein.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Strick_des_Schwarzen_Mannes">Strick des Schwarzen Mannes</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Strick_des_Schwarzen_Mannes&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Strick_des_Schwarzen_Mannes&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_4</styleUrl>
+            <LineString id="KMLe_100">
+              <tessellate>1</tessellate>
+              <coordinates>
+-1.53130366609162,25.15094217012187,0 -0.5468162815423897,25.58021127640696,0 0.6654419627652627,26.4290526408317,0 3.648675139929081,29.65360170609496,0 5.87646451576388,31.16000313995677,0 7.668672818842994,32.25923101816373,0 14.95297535947865,38.75184301863803,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+      </Folder>
+      <Folder>
+          <open>0</open>
+          <name>überregional</name>
+                <Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1200</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+                <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_3</styleUrl>
+          <Placemark>
+            <name>Madas Kelch</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Madas Kelch</b> ist eine &uuml;berregionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_3</styleUrl>
+            <LineString id="KMLe_112">
+              <tessellate>1</tessellate>
+              <coordinates>
+4.885107574059829,35.37886908964787,0 1.516140933644035,35.34607986600895,0 0.05239450372924503,34.77459364257571,0 -1.317705288965035,34.18806724866657,0 -2.202012059418711,32.38451255117433,0 -1.752982543304045,31.15690675878823,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Mittellandlinie 1</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Mittellandlinie 1</b> ist eine &uuml;berregionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_3</styleUrl>
+            <LineString id="KMLe_195">
+              <tessellate>1</tessellate>
+              <coordinates>
+2.301432490725159,31.32286138759934,0 3.881074291068436,30.78444867500293,0 7.831009640670206,30.6023375949881,0 10.92085591474755,30.39196258233232,0 </coordinates>
+	      <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Mittellandlinie 2</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Mittellandlinie 2</b> ist eine &uuml;berregionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>
+St&auml;rke: 3 bekannte Nodices: bekannte Affinit&auml;ten: keine]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_3</styleUrl>
+            <LineString id="KMLe_196">
+              <tessellate>1</tessellate>
+              <coordinates>
+4.116620415930257,34.17208496103358,0 7.831009478218933,30.60233816554716,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Östliche Nord-Süd-Linie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>&Ouml;stliche Nord-S&uuml;d-Linie</b> ist eine &uuml;berregionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_3</styleUrl>
+            <LineString id="KMLe_197">
+              <tessellate>1</tessellate>
+              <coordinates>
+3.662825781502128,17.01498815146055,0 6.21566690338075,25.02108117135049,0 7.831009562528733,30.60233799345683,0 7.668671226031012,32.25923171203256,0 7.493407133639569,34.84945328727908,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Ost-West-Linie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Ost-West-Linie</b> ist eine &uuml;berregionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_3</styleUrl>
+            <LineString id="KMLe_219">
+              <tessellate>1</tessellate>
+              <coordinates>
+-0.3729480687257447,28.35678211442483,0 2.655905301935824,27.03422113923018,0 5.517444327888414,25.20727678180656,0 6.21566690338075,25.02108117135049,0 10.43109206155895,26.45696734506117,0</coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+      </Folder>
+      <Folder>
+          <open>0</open>
+          <name>regional</name>
+	        <Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+                <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+          <Placemark>
+            <name>Altoum-Linie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Altoum-Linie</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_188">
+              <tessellate>1</tessellate>
+              <coordinates>
+1.5993624009914,17.08458030424182,0 2.211955664316458,16.64553381321055,0 3.604383534819653,17.01407274688349,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Bann-Linie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Bann-Linie</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_189">
+              <tessellate>1</tessellate>
+              <coordinates>
+6.21566690338075,25.02108117135049,0 5.806666661357025,24.65817727404372,0 5.260791452466071,24.11469738620536,0 3.492014762823459,22.55261411890776,0 1.705971136836626,21.00494449760815,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Elementares Hexagramm</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Das <b>Elementares Hexagramm</b> ist eine Kombination von sechs regionalen <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a> mit elementaren Affinit&auml;ten, die sich derart schneiden, dass sich ein Hexagramm um Zentralaventurien ergibt. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_190">
+              <tessellate>1</tessellate>
+              <coordinates>
+2.124839918081651,32.40208715510648,0 0.8697506625836704,29.88212766554318,0 1.954260542122588,28.33010313750893,0 2.655856176208677,27.03433121054224,0 1.954260542122588,28.33010313750893,0 4.982274185415756,29.03577132217222,0 6.422881986334792,30.22446522857395,0 4.527839345806179,31.89741046875756,0 2.124931122938338,32.4021038154397,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Elementarlinie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Elementarlinie</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_187">
+              <tessellate>1</tessellate>
+              <coordinates>
+-3.304338285090189,35.13014756248013,0 -1.317725086390231,34.18785073007356,0 -0.07800854188731357,33.79034394831313,0 2.031122496599709,32.45872241047506,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Hexenbandschlaufe</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Hexenbandschlaufe</b> wird aus zwei regionalen <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a> gebildet, die beide das <a href="http://www.wiki-aventurica.de/index.php?title=Hexenband">Hexenband</a> schneiden und bei Xindras Eiland einen weiteren Nodix bilden.<!-- END EDIT --></p>
+            <hr />
+	    <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+	    <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_200">
+              <tessellate>1</tessellate>
+              <coordinates>
+8.314085940778892,34.27474665282176,0 8.34686263160609,33.73937791518359,0 8.107883101640606,33.14514430991013,0 7.949421025581601,33.65309863557518,0 7.971217508466441,34.15695896858066,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Ost-West-Achse (Abspaltung)</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die n&ouml;rdliche Abspaltung der <b>Ost-West-Achse</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>.&nbsp;Sie zweigt sich in Al'Chur&acirc;m von der Hauptlinie ab und verl&auml;uft als&nbsp;schw&auml;chere Ader durch die Ruinen der mythischen Hochelfenstadt <a href="http://www.wiki-aventurica.de/index.php?title=Tie%27Shianna">Tie'Shianna</a> und erreicht schlie&szlig;lich <a href="http://www.wiki-aventurica.de/index.php?title=Silas">Silas</a>, wo sie sich wieder mit der Hauptlinie vereint.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_90">
+              <tessellate>1</tessellate>
+              <coordinates>
+4.8903756265808,24.89588511923692,0 1.599621070481627,25.29585198291526,0 -0.7141863882571597,24.85514435961495,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Temporallinie der Sündenpfuhle</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Temporallinie der S&uuml;ndenpfuhle</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+	    <LineString id="KMLe_191">
+	      <tessellate>1</tessellate>
+	      <coordinates>
+5.517454744537478,25.20726688994314,0 1.706466271331411,21.00579305900482,0 -0.7808600363712137,18.44375785965846,0 -3.042836287050714,16.9130997796521,0 </coordinates>
+	      <altitudeMode>clampToGround</altitudeMode>
+	    </LineString>
+	  </Placemark>
+          <Placemark>
+            <name>Tulamidische Linie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Tulamidische Linie</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_192">
+              <tessellate>1</tessellate>
+              <coordinates>
+5.517454488990015,25.20725720837273,0 5.63183480487133,24.96130227630357,0 5.806739549248528,24.6582711277705,0 5.890190606104257,24.31770262543785,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Westliche Nordlandlinie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Westliche Nordlandlinie</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_187">
+              <tessellate>1</tessellate>
+              <coordinates>
+-4.973737549856894,35.73896817362893,0 4.192191666666667,41.04325277777778,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Yaquirlinie</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DER KRAFTLINIE -->Die <b>Yaquirlinie</b> ist eine regionale <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinie</a>. <!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_2</styleUrl>
+            <LineString id="KMLe_193">
+              <tessellate>1</tessellate>
+              <coordinates>
+-1.530870475423833,25.15051114184302,0 -0.05389845202856176,26.28857929517776,0 0.6654419627652627,26.4290526408317,0 2.21857792184784,26.69030640409119,0 2.573640644055115,26.83656742104124,0 2.655855436854739,27.03412973022285,0 3.991177138308538,27.56571222404326,0 4.129814468618655,27.58831604407603,0 </coordinates>
+              <altitudeMode>clampToGround</altitudeMode>
+            </LineString>
+          </Placemark>
+      </Folder>
+      <Folder>
+          <open>0</open>
+          <name>lokal</name>
+	        <Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>3000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+                <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Linien.kml#staerke_1</styleUrl>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Magische Orte</name>
+      <open>0</open>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+      <Folder>
+	  <open>0</open>
+          <name>extrem</name>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+          <Placemark>
+            <name>Simyala</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->In Simyala treffen sich mehere <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien</a> zu einem Netz mit mehreren&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodices</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <LookAt>
+		    <longitude>2.791962792152782</longitude>
+		    <latitude>30.53800986318431</latitude>
+		    <altitude>1000</altitude>
+		    <range>62559.48298838329</range>
+		    <tilt>0</tilt>
+		    <heading>1.676555082685838</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+            <Point id="KMLe_304">
+	            <coordinates>2.677216890786363,30.48204493909546,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Pentagrammaton</name>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Das <b>Pentagrammaton</b> ist das Hauptgeb&auml;ude der <a href="http://www.wiki-aventurica.de/index.php?title=Akademie_der_Hohen_Magie" title="Akademie der Hohen Magie">Akademie der Hohen Magie</a>. Es hat eine perfekt f&uuml;nfeckige Form und steht im Theaterviertel in <a href="http://www.wiki-aventurica.de/index.php?title=Punin" title="Punin">Punin</a>.
+</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Pentagrammaton">Pentagrammaton</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Pentagrammaton&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Pentagrammaton&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>2.652103676426032</longitude>
+		    <latitude>26.99519482070634</latitude>
+		    <altitude>0</altitude>
+		    <range>27757.42471085359</range>
+		    <tilt>0</tilt>
+		    <heading>-1.253723596241697</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+	    <Point>
+		    <coordinates>2.655856176208677,27.03433121054224,0</coordinates>
+	    </Point>
+          </Placemark>
+          <Placemark>
+            <name>Hursachquelle</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Der <b>Hursach</b> entspringt in den <a href="http://www.wiki-aventurica.de/index.php?title=Walberge">Walbergen</a> und m&uuml;ndet von Osten in den <a href="http://www.wiki-aventurica.de/index.php?title=Walsach">Walsach</a>. Der Hursach gilt als Piratenversteck und ist Heimat verschiedener mystischer Gesch&ouml;pfe wie den <a href="http://www.wiki-aventurica.de/index.php?title=Biestinger">Biestingern</a>. Der <a href="http://www.wiki-aventurica.de/index.php?title=Hexenzirkel">Hexenzirkel</a> der <a href="http://www.wiki-aventurica.de/index.php?title=Levthansweibchen&amp;action=edit&amp;redlink=1">Levthansweibchen</a> hat sich an der Hursachquelle niedergelassen und bewacht den mit elf <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a> durchzogenen hochmagischen Ort.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Hursach">Hursach</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Hursach&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Hursach&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>11.9354686658726</longitude>
+		    <latitude>35.47315470824047</latitude>
+		    <altitude>0</altitude>
+		    <range>46998.8861253098</range>
+		    <tilt>0</tilt>
+		    <heading>3.523687176266177</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+	    <Point id="KMLe_290">
+	            <coordinates>12.01966181370436,35.49631299272551,0</coordinates>
+	    </Point>
+          </Placemark>
+          <Placemark>
+            <name>Borbarads Schwarze Feste</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><b>Borbarads Schwarze Feste</b> wurde von <a href="http://www.wiki-aventurica.de/index.php?title=Borbarad">Borbarad</a> direkt unter dem <a href="http://www.wiki-aventurica.de/index.php?title=Sphärenriss&amp;action=edit&amp;redlink=1">Sph&auml;renriss</a> in der <a href="http://www.wiki-aventurica.de/index.php?title=Gorische_Wüste">Gorischen W&uuml;ste</a> inmitten einer Spirale aus roten Monolithen und auf einem <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>, in dem sich sieben <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a> schneiden. Die Bauarbeiten wurden gr&ouml;&szlig;tenteils ausgef&uuml;hrt von <a href="http://www.wiki-aventurica.de/index.php?title=Dharai">Dharayim</a>. In der <a href="http://www.wiki-aventurica.de/index.php?title=Schlacht_in_der_Gorischen_W%C3%BCste">Schlacht in der Gorischen W&uuml;ste</a> wurden die oberen Geschosse zerst&ouml;rt und die Kellerr&auml;ume versiegelt.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Borbarads_Schwarze_Feste">Borbarads Schwarze Feste</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Borbarads_Schwarze_Feste&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Borbarads_Schwarze_Feste&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <LookAt>
+		    <longitude>6.258449899441173</longitude>
+		    <latitude>24.97135501349311</latitude>
+		    <altitude>1000</altitude>
+		    <range>29071.57553781357</range>
+		    <tilt>0</tilt>
+		    <heading>-0.02589782521662571</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+            <Point id="KMLe_291">
+		    <coordinates>6.21566690338075,25.02108117135049,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Dragenfeld</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><b>Dragenfeld</b> ist ein kleiner Ort in <a href="http://www.wiki-aventurica.de/index.php?title=Weiden">Weiden</a>, der am <a href="http://www.wiki-aventurica.de/index.php?title=Goblinstieg&amp;action=edit&amp;redlink=1">Goblinpass</a> zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Rote_Sichel">Roter Sichel</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Schwarze_Sichel">Schwarzer Sichel</a> liegt. Von hier aus leitete <a href="http://www.wiki-aventurica.de/index.php?title=Liscom_von_Fasar">Liscom von Fasar</a> die Beschw&ouml;rung von <a href="http://www.wiki-aventurica.de/index.php?title=Borbarad">Borbarads</a> Geist ein, worauf sich die <a href="http://www.wiki-aventurica.de/index.php?title=W%C3%BCstenei_von_Dragenfeld">W&uuml;stenei von Dragenfeld</a> ausbreitete.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Dragenfeld">Dragenfeld</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Dragenfeld&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Dragenfeld&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <LookAt>
+		    <longitude>6.979096267049609</longitude>
+		    <latitude>33.81272349616621</latitude>
+		    <altitude>0</altitude>
+		    <range>45975.25811184043</range>
+		    <tilt>0</tilt>
+		    <heading>0.9471732441103546</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+            <Point id="KMLe_292">
+		    <coordinates>7.039402777777777,33.82220555555556,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Dämonenhügel am Wall des Todes</name>
+            <Snippet maxLines="0"><![CDATA[<br />]]></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Am <b>D&auml;monenh&uuml;gel</b>&nbsp;des <a href="http://www.wiki-aventurica.de/index.php?title=Trollpforte">Wall des Todes</a> befindet sich ein extrem magischer <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>5.858005809683802</longitude>
+		    <latitude>30.5740639767494</latitude>
+		    <altitude>1000</altitude>
+		    <range>8434.443216858104</range>
+		    <tilt>0</tilt>
+		    <heading>1.011444521744743</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+            <Point id="KMLe_293">
+		    <coordinates>5.861780649051529,30.58077187356583,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Pher Drodonts Laboratorium</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->In&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Pher_Drodont">Pher Drodonts</a> Laboratorium im Molchenberg befindet sich ein extrem magischer <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <LookAt>
+		    <longitude>7.830700594505987</longitude>
+		    <latitude>30.60138230466372</latitude>
+		    <altitude>1000</altitude>
+		    <range>1536.26923598134</range>
+		    <tilt>0</tilt>
+		    <heading>2.01157947834051</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+            <Point id="KMLe_295">
+		    <coordinates>7.831009687604881,30.60233807647187,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Dämonenzitadelle</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>D&auml;monenzitadelle</b> ist die in <a href="http://www.wiki-aventurica.de/index.php?title=Dere">Dere</a> ragende Spitze des <a href="http://www.wiki-aventurica.de/index.php?title=Dämonenbaum">D&auml;monenbaums</a>. Sie soll sich im <a href="http://www.wiki-aventurica.de/index.php?title=Hoher_Norden">Hohen Norden</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Ehernes_Schwert">Ehernes Schwert</a>, <a href="http://www.wiki-aventurica.de/index.php?title=Eiszinnen">Eiszinnen</a>, <a href="http://www.wiki-aventurica.de/index.php?title=Ewiges_Eis">Ewiges Eis</a>) befinden, kann jedoch auch im <a href="http://www.wiki-aventurica.de/index.php?title=Limbus">Limbus</a> verschwinden und an anderer Stelle auftauchen um die Position zu ver&auml;ndern. Dabei liegt sie stets auf einem der m&auml;chtigsten <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinie">Kraftlinien</a>-<a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodices</a> in <a href="http://www.wiki-aventurica.de/index.php?title=Aventurien">Aventurien</a>, was sie zum geeignetsten Ort f&uuml;r <a href="http://www.wiki-aventurica.de/index.php?title=Beschwörung">D&auml;monenbeschw&ouml;rungen</a> auf <a href="http://www.wiki-aventurica.de/index.php?title=Dere">Dere</a> macht. Im <a href="http://www.wiki-aventurica.de/index.php?title=Ehernes_Schwert">Ehernen Schwert</a> soll in der N&auml;he der D&auml;monenzitadelle ein ganzer Hain von <a href="http://www.wiki-aventurica.de/index.php?title=Arkhobal">Arkhobalim</a> wachsen. Anzeichen f&uuml;r ein Ann&auml;hern an die Zitadelle sind der gelbfettige Nebel <a href="http://www.wiki-aventurica.de/index.php?title=Yadreth-Ylam">Yadreth-Ylam</a> sowie der eisige Sturm <a href="http://www.wiki-aventurica.de/index.php?title=Kh%27bli">Kh'bli</a>. In jedem <a href="http://www.wiki-aventurica.de/index.php?title=Zeitalter">Zeitalter</a> wurde sie nur von einer Hand voll Sterblicher aufgesucht. Vor allem das Aussehen des Inneren der Zitadelle liegt im Auge/Geiste des Betrachters.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=D&auml;monenzitadelle">D&auml;monenzitadelle</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=D&auml;monenzitadelle&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=D&auml;monenzitadelle&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <LookAt>
+		    <longitude>13.44904434871432</longitude>
+		    <latitude>39.62386134401476</latitude>
+		    <altitude>1000</altitude>
+		    <range>155008.5028399905</range>
+		    <tilt>0</tilt>
+		    <heading>4.070389365807602</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+            <Point id="KMLe_297">
+		    <coordinates>14.95297535947865,38.75184301863803,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Sternentreppe zu Anchopal</name>
+            <Snippet maxLines="0"></Snippet>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Bei der&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Sternentreppe">Sternentreppe</a> zu <a href="http://www.wiki-aventurica.de/index.php?title=Anchopal">Anchopal</a> ist ein extrem magischer <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>6.049889434068856</longitude>
+		    <latitude>25.47549409128884</latitude>
+		    <altitude>1000</altitude>
+		    <range>30767.63900124933</range>
+		    <tilt>0</tilt>
+		    <heading>0.477104719128221</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_4</styleUrl>
+	    <Point id="KMLe_299">
+		    <coordinates>6.118483461691393,25.50895003554625,0</coordinates>
+	    </Point>
+	  </Placemark>
+      </Folder>
+      <Folder>
+          <open>0</open>
+	  <name>stark</name>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1200</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	  <Placemark>
+	    <name>Al'Churâm</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<b>Al'Chur&acirc;m</b>, das Domizil von <a href="http://www.wiki-aventurica.de/index.php?title=Abu_Terfas_Ysasser_Shenesach">Abu Terfas Ysasser Shenesach</a> ist ein stark magischer Ort.]]></description>
+	    <LookAt>
+		    <longitude>5.252462793693143</longitude>
+		    <latitude>24.76461388684704</latitude>
+		    <altitude>0</altitude>
+		    <range>137812.655900477</range>
+		    <tilt>4.194536763613994</tilt>
+		    <heading>-4.748965708760212e-012</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_256">
+		    <coordinates>4.89037566914871,24.89588491138568,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Dämonenbrache</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>D&auml;monenbrache</b> war der Ort der <a href="http://www.wiki-aventurica.de/index.php?title=Erste_Dämonenschlacht">Ersten D&auml;monenschlacht</a> im Jahre <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:999_v._BF_bis_0_BF">568 vor BF</a>. Durch das <a href="http://www.wiki-aventurica.de/index.php?title=Dämon">d&auml;monische</a> Wirken ist das St&uuml;ck Land im S&uuml;dwesten <a href="http://www.wiki-aventurica.de/index.php?title=Gareth">Gareths</a> bis heute verflucht, weswegen hier nur verdorrte und d&auml;monisch ver&auml;nderte Gew&auml;chse wuchern. Der einzige einigerma&szlig;en sichere Ort der D&auml;monebrache ist ein kleiner <a href="http://www.wiki-aventurica.de/index.php?title=Golgari">Golgari</a>-Schrein.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Dämonenbrache">D&auml;monenbrache</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Dämonenbrache&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Dämonenbrache&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>3.646743883852321</longitude>
+		    <latitude>29.62393865947859</latitude>
+		    <altitude>0</altitude>
+		    <range>34967.8894415158</range>
+		    <tilt>0</tilt>
+		    <heading>-0.7841031828740824</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_263">
+		    <coordinates>3.648674048832707,29.6536110292845,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Dunkle Halle</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>Dunkle Halle </b>(<i>Darken Hjalla </i>bzw. <i>Firnya Kharjanda Sala</i>), ist eine H&ouml;hle in den Nebelzinnen, in der sich ein machtvoller <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> der <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Schl&uuml;ssellinie des Eises</a> befindet und die deshalb eine starke Affinit&auml;t zum <a href="http://www.wiki-aventurica.de/index.php?title=Element">Element</a> <a href="http://www.wiki-aventurica.de/index.php?title=Eis_(Element)">Eis</a> besitzt. Heutzutage h&auml;lt hier <a href="http://www.wiki-aventurica.de/index.php?title=Tronde_Torbensson">Tronde Torbensson</a> seine ewige Wacht gegen <a href="http://www.wiki-aventurica.de/index.php?title=Gloranien">Gloranien</a>. <b>Trondes Wacht</b>, wie der Ort deshalb auch genannt wird, gilt den <a href="http://www.wiki-aventurica.de/index.php?title=Thorwaler">Thorwalern</a> als heilig, da ihr gro&szlig;er Anf&uuml;hrer dann zur&uuml;ckehren soll, wenn das <a href="http://www.wiki-aventurica.de/index.php?title=Thorwaler">Volk der Freien</a> ihn am dringendsten ben&ouml;tigt.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>2.21442238092711</longitude>
+		    <latitude>40.83978903465049</latitude>
+		    <altitude>0</altitude>
+		    <range>130699.9766617129</range>
+		    <tilt>0</tilt>
+		    <heading>1.378269039095894</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_257">
+		    <coordinates>4.192191666666667,41.04325277777778,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Gareth</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Dieser <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> bei <a href="http://www.wiki-aventurica.de/index.php?title=Gareth">Gareth</a> ist in den offiziellen Publikationen sehr unterschiedlich beschrieben:<br />
+1. In MdS S.78 und in der Kurzgeschichte &quot;Das Herz des Kontinents&quot; wird die uralte Blutulme <a href="http://www.wiki-aventurica.de/index.php?title=Argareth">Blutulme Argareth</a> im Garten der Neuen Residenz als Schnittpunkt mehrerer kleiner <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien</a> erw&auml;hnt.<br />
+2. Mindestens zwei gro&szlig;e <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien</a>&nbsp;laufen durch <a href="http://www.wiki-aventurica.de/index.php?title=Gareth">Gareth</a> aber <br />
+3. Laut HdR S.194 kann ein gro&szlig;er <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> im Bereich <a href="http://www.wiki-aventurica.de/index.php?title=Gareth">Gareth</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Dämonenbrache">D&auml;monenbrache</a> nicht ausgemacht werden.]]></description>
+	    <LookAt>
+		    <longitude>3.658585586052372</longitude>
+		    <latitude>29.73885704796323</latitude>
+		    <altitude>0</altitude>
+		    <range>34967.88944151447</range>
+		    <tilt>0</tilt>
+		    <heading>-0.7781813550700982</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_265">
+		    <coordinates>3.739790200633252,29.7776040724147,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Nachtschattensturm</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Der <a href="http://www.wiki-aventurica.de/index.php?title=Nachtschattensturm">Nachtschattensturm</a>, weist einen&nbsp;stark magischer <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>&nbsp;auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>4.718589767701888</longitude>
+		    <latitude>32.84532652142015</latitude>
+		    <altitude>0</altitude>
+		    <range>478.3025471445861</range>
+		    <tilt>0</tilt>
+		    <heading>0.39627037935321</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_269">
+		    <coordinates>4.719622623072919,32.84623457490941,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Schwarze Feste (Maraskan)</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>Schwarze Festung in der Maraskankette </b>weist einen&nbsp;stark magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>10.28520265953778</longitude>
+		    <latitude>26.43169934434723</latitude>
+		    <altitude>0</altitude>
+		    <range>64579.27443177222</range>
+		    <tilt>0</tilt>
+		    <heading>2.53006479480109</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_271">
+		    <coordinates>10.43109206155895,26.45696734506117,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Xindras Eiland</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><b>Xindras Eiland </b>weist einen&nbsp;stark magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>8.062316668547462</longitude>
+		    <latitude>33.1408589715295</latitude>
+		    <altitude>0</altitude>
+		    <range>32381.08785997279</range>
+		    <tilt>0</tilt>
+		    <heading>1.676821346975579</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_261">
+		    <coordinates>8.107383506772612,33.14672403344239,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Zhamorrah</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die Ruinen von <a href="http://www.wiki-aventurica.de/index.php?title=Zhamorrah">Zhamorrah</a>, vier Meilen &ouml;stlich von <a href="http://www.wiki-aventurica.de/index.php?title=Samra">Samra</a>,weisen einen&nbsp;stark magischer <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>&nbsp;auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>5.545709505553425</longitude>
+		    <latitude>25.10664302303212</latitude>
+		    <altitude>0</altitude>
+		    <range>52272.14200837896</range>
+		    <tilt>0</tilt>
+		    <heading>0.591622486770259</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_268">
+		    <coordinates>5.517462374477837,25.20730073287906,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Zze Tha</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Dieser starke <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> ist nur ein &Uuml;berrest eines wesentlich gr&ouml;&szlig;eren, der zur Bl&uuml;tezeit <a href="http://www.wiki-aventurica.de/index.php?title=Zze_Tha_(Stadt)">Zze Tha's</a> durch gezielte Umleitung magischer Str&ouml;me existierte.&nbsp;(RA 166; Magische Zeiten 155ff)<br />]]></description>
+	    <LookAt>
+		    <longitude>2.414275763731437</longitude>
+		    <latitude>23.84955240843691</latitude>
+		    <altitude>1000</altitude>
+		    <range>7974.825243738786</range>
+		    <tilt>0</tilt>
+		    <heading>-0.2393762389138261</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_3</styleUrl>
+	    <Point id="KMLe_273">
+		    <coordinates>2.412792288691368,23.84465284056695,0</coordinates>
+	    </Point>
+	  </Placemark>
+      </Folder>
+      <Folder>
+          <open>0</open>
+	  <name>mittel</name>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	  <Placemark>
+	    <name>Altaïa</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die Ruinenstadt <a href="http://www.wiki-aventurica.de/index.php?title=Altaïa">Alta&#239;a</a> auf <a href="http://www.wiki-aventurica.de/index.php?title=Altoum">Altoum</a> weist einen mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>2.260028393269853</longitude>
+		    <latitude>16.56881109247582</latitude>
+		    <altitude>0</altitude>
+		    <range>60948.99420915056</range>
+		    <tilt>0</tilt>
+		    <heading>-0.8012396881946033</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_243">
+		    <coordinates>2.211961440721193,16.64554854673458,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Al&apos;Zul</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Das Erdheiligtum <b>Al'Zul</b>, in der N&auml;he von <a href="http://www.wiki-aventurica.de/index.php?title=Altzoll">Altzoll</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>6.495528655003158</longitude>
+		    <latitude>30.14564695290531</latitude>
+		    <altitude>0</altitude>
+		    <range>47997.75747864914</range>
+		    <tilt>0</tilt>
+		    <heading>0.2727794939967707</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_237">
+		    <coordinates>6.42288669224949,30.22446874972576,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Arras de Mott</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Das Kloster <a href="http://www.wiki-aventurica.de/index.php?title=Arras_de_Mott_(Kloster)">Arras de Mott</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>2.125491907838755</longitude>
+		    <latitude>32.39965089878238</latitude>
+		    <altitude>0</altitude>
+		    <range>1871.136242846449</range>
+		    <tilt>0</tilt>
+		    <heading>-0.08111502107743948</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_236">
+		    <coordinates>2.124868227034733,32.40212830956146,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Borbra</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Unter <a href="http://www.wiki-aventurica.de/index.php?title=Borbra">Borbra</a>, im Refugium des <a href="http://www.wiki-aventurica.de/index.php?title=Assarbad">Assarbad</a> ist ein&nbsp;mittelstarker magischer <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>5.853060288528985</longitude>
+		    <latitude>24.92527909604314</latitude>
+		    <altitude>0</altitude>
+		    <range>233027.0300225475</range>
+		    <tilt>0</tilt>
+		    <heading>1.320270100092123</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_235">
+		    <coordinates>5.631926113194012,24.96143290209238,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Brig-Lo</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Das Schlachtfeld der D&auml;monenschlacht&nbsp;von <a href="http://www.wiki-aventurica.de/index.php?title=Brig-Lo">Brig-Lo</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>0.8227028908144018</longitude>
+		    <latitude>26.45412462940673</latitude>
+		    <altitude>0</altitude>
+		    <range>27019.28807800536</range>
+		    <tilt>0</tilt>
+		    <heading>-0.8816941123539944</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_234">
+		    <coordinates>0.6654419627652627,26.4290526408317,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Drachenei-Akademie</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Der Karfunkelsaal unter der <a href="http://www.wiki-aventurica.de/index.php?title=Drachenei-Akademie">Drachenei-Akademie</a>&nbsp;ist ein mittelstarker magischer&nbsp;Ort (LdES 163).]]></description>
+	    <LookAt>
+		    <longitude>7.47130237546433</longitude>
+		    <latitude>25.0112189178397</latitude>
+		    <altitude>0</altitude>
+		    <range>608.3774867395382</range>
+		    <tilt>0</tilt>
+		    <heading>0.03102400946469527</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_249">
+		    <coordinates>7.470998963420142,25.0112436574892,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Drakonia</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><a href="http://www.wiki-aventurica.de/index.php?title=Drakonia">Drakonia</a>&nbsp;weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Drakonia">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Drakonia&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Drakonia&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>3.967845153284006</longitude>
+		    <latitude>27.59992471158359</latitude>
+		    <altitude>0</altitude>
+		    <range>26937.30813768089</range>
+		    <tilt>0</tilt>
+		    <heading>0.5098063397141758</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_233">
+		    <coordinates>3.991177138308538,27.56571222404326,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Eiszapfenkrypta zu Selem</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>Eiszapfenkrypta</b> zu <a href="http://www.wiki-aventurica.de/index.php?title=Selem">Selem</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>1.7181658404962</longitude>
+		    <latitude>21.00048630669264</latitude>
+		    <altitude>0</altitude>
+		    <range>22719.60047478536</range>
+		    <tilt>0</tilt>
+		    <heading>1.765484850923192</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_225">
+		    <coordinates>1.706399278824748,21.00572037053642,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Heilige Quellen von Ilsur</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>Heilige Quellen von Ilsur</b> liegen im S&uuml;den von <a href="http://www.wiki-aventurica.de/index.php?title=Ilsur">Ilsur</a> inmitten des Hain der Ruhe. Im Park befindet sich ein Spital der <a href="http://www.wiki-aventurica.de/index.php?title=Therbuniten">Therbuniten</a> und der neu errichtete <a href="http://www.wiki-aventurica.de/index.php?title=Peraine">Peraine</a>-Tempel. Der Tempel wurde um den Quellsee angelegt. Das Wasser der Quellen besitzt wunderbare Heilkr&auml;fte, wird es jedoch in Beh&auml;lter abgef&uuml;llt, verliert es sofort diese Wirkung. Wegen dieses Heilwassers versuchte <a href="http://www.wiki-aventurica.de/index.php?title=Xeraan">Xeraan</a> die Stadt zu erobern, die neuen B&auml;ume im Park zeugen heute von seiner Niederlage.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Heilige_Quellen_von_Ilsur">Heilige Quellen von Ilsur</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Heilige_Quellen_von_Ilsur&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Heilige_Quellen_von_Ilsur&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>9.678985974595262</longitude>
+		    <latitude>31.50467368533148</latitude>
+		    <altitude>0</altitude>
+		    <range>1378.149262775465</range>
+		    <tilt>0</tilt>
+		    <heading>4.938511947229176</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_224">
+		    <coordinates>9.677517109406782,31.50316538740441,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Keranvor</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><b>Keranvor</b>, eine Grotte unter dem Geh&ouml;rnten Kaiser in der s&uuml;dlichen Schwarzen Sichel weist einen mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>6.49585465458055</longitude>
+		    <latitude>30.71112218708474</latitude>
+		    <altitude>0</altitude>
+		    <range>35842.4829337643</range>
+		    <tilt>0</tilt>
+		    <heading>1.758244399950905</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_232">
+		    <coordinates>5.87646451576388,31.16000313995677,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Luzelins Grotte</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><a href="http://www.wiki-aventurica.de/index.php?title=Luzelin_Silberhaar">Luzelins</a> Grotte im&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Blautann">Blautann</a> in <a href="http://www.wiki-aventurica.de/index.php?title=Weiden">Weiden</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>3.842193507022336</longitude>
+		    <latitude>32.7540390175222</latitude>
+		    <altitude>1000</altitude>
+		    <range>32704.99658005375</range>
+		    <tilt>0</tilt>
+		    <heading>2.171744695648673</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_228">
+		    <coordinates>3.913168463442499,32.77002636424618,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Mhanessipur</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><a href="http://www.wiki-aventurica.de/index.php?title=Mhanessipur">Mhanessipur</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>5.82609102408157</longitude>
+		    <latitude>24.63527794386047</latitude>
+		    <altitude>0</altitude>
+		    <range>29993.04425910247</range>
+		    <tilt>0</tilt>
+		    <heading>3.052496159646543</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_223">
+		    <coordinates>5.806696478634652,24.65837811343476,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Mondspeerturm</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Der <b>Mondspeerturm</b> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>-1.317675279411815</longitude>
+		    <latitude>34.18807103134503</latitude>
+		    <altitude>0</altitude>
+		    <range>9.384965018560932</range>
+		    <tilt>0</tilt>
+		    <heading>-1.054857526273991</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_231">
+		    <coordinates>-1.317705441883432,34.18806315962714,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Narai Tuschas</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><a href="http://www.wiki-aventurica.de/index.php?title=Narai_Tuschas">Narai Tuschas</a> ist ein mittelstarker magischer Ort auf einer <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinie</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>7.49495661134711</longitude>
+		    <latitude>34.81760038033966</latitude>
+		    <altitude>0</altitude>
+		    <range>24264.30323365767</range>
+		    <tilt>0</tilt>
+		    <heading>3.684593724872918</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_246">
+		    <coordinates>7.492941209679735,34.84901909163346,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Palast des Pyrdakor Kultes</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Der <b>Palast des Pyrdakor-Kultes </b>auf einem hohen Gipfel des <a href="http://www.wiki-aventurica.de/index.php?title=Raschtulsturm">Raschtulsturm</a> weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf]]></description>
+	    <LookAt>
+		    <longitude>2.605011359583054</longitude>
+		    <latitude>26.23437891332439</latitude>
+		    <altitude>1000</altitude>
+		    <range>39517.85027520397</range>
+		    <tilt>0</tilt>
+		    <heading>1.528772694376258</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_227">
+		    <coordinates>2.505385196876558,26.26126550937655,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Reichsabtei St. Praiodan</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die Reichsabtei <b>Sankt Praiodan&nbsp;</b>bei Wehrheim weist vermutlich einen mittelstarken&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a>&nbsp;auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>3.592191527105002</longitude>
+		    <latitude>30.57094365887327</latitude>
+		    <altitude>0</altitude>
+		    <range>210671.5904243944</range>
+		    <tilt>0</tilt>
+		    <heading>0.6176924794717022</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_306">
+		    <coordinates>3.881074291068436,30.78444867500293,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Runajasko zu Olport</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>Runajasko zu Olport</b> (<a href="http://www.wiki-aventurica.de/index.php?title=Runajasko">Halle des Windes</a>) weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>-4.946866740720504</longitude>
+		    <latitude>35.77303286069525</latitude>
+		    <altitude>0</altitude>
+		    <range>27901.45929470042</range>
+		    <tilt>0</tilt>
+		    <heading>-4.630564841459137</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_231">
+		    <coordinates>-4.972647495126465,35.73836447511703,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Schicksalsinsel</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die&nbsp;<b>Schicksalsinsel</b> von Ashanar bei <a href="http://www.wiki-aventurica.de/index.php?title=Ronishagen">Ronishagen</a>&nbsp;weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>5.72642545094044</longitude>
+		    <latitude>22.35203584545359</latitude>
+		    <altitude>1000</altitude>
+		    <range>39272.20574407046</range>
+		    <tilt>0</tilt>
+		    <heading>2.830860508790486</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_226">
+		    <coordinates>5.719968248170718,22.34422230739534,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Schlund</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Der Vulkan <b>Schlund</b> im Osten <a href="http://www.wiki-aventurica.de/index.php?title=Garetien">Garethien</a>s weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>4.670573435260734</longitude>
+		    <latitude>29.13836892833098</latitude>
+		    <altitude>0</altitude>
+		    <range>26540.78209336098</range>
+		    <tilt>0</tilt>
+		    <heading>2.64113222797947</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_230">
+		    <coordinates>4.65112230980206,29.14755261349545,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Sumus Kate</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><a href="http://www.wiki-aventurica.de/index.php?title=Sumus_Kate">Sumus Kate</a><b> </b>ist eine Insel im <a href="http://www.wiki-aventurica.de/index.php?title=Yslisee">Yslisee</a>&nbsp;weist einen mittelstarken magischen&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>7.86317936186921</longitude>
+		    <latitude>31.94300688121738</latitude>
+		    <altitude>1000</altitude>
+		    <range>28779.16489773864</range>
+		    <tilt>0</tilt>
+		    <heading>3.906367434721786</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_222">
+		    <coordinates>7.867964227038713,31.95793202659625,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Tarf&apos; El&apos;Hazaqur Mor</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX--><b>Tarf' El'Hazaqur Mor </b>weist einen&nbsp;mittelstarken magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>5.007963831391307</longitude>
+		    <latitude>29.06271634361147</latitude>
+		    <altitude>1000</altitude>
+		    <range>20845.20292324005</range>
+		    <tilt>0</tilt>
+		    <heading>2.804983588935767</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_229">
+		    <coordinates>4.982278214596465,29.0357893683261,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Tausenjährige Eiche</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Die <b>Tausendj&auml;hrige&nbsp;Eiche </b>in Baliho&nbsp;&nbsp;ist ein mittelstarker magischer Ort auf einer <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinie</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>4.974097126108987</longitude>
+		    <latitude>32.78093486082919</latitude>
+		    <altitude>0</altitude>
+		    <range>55422.59657556927</range>
+		    <tilt>0</tilt>
+		    <heading>2.35108258982716</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_245">
+		    <coordinates>4.938422222222222,32.86224444444444,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Tie&apos;Shianna</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<a href="http://www.wiki-aventurica.de/index.php?title=Tie%27Shianna">Tie'Shianna</a>&nbsp;&nbsp;ist ein mittelstarker magischer Ort auf einer <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinie</a> (RA 169, MdD 122, 142).]]></description>
+	    <LookAt>
+		    <longitude>1.599622124279057</longitude>
+		    <latitude>25.29584836427108</latitude>
+		    <altitude>1000</altitude>
+		    <range>8.376848112912207</range>
+		    <tilt>0</tilt>
+		    <heading>1.000537661902599</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_2</styleUrl>
+	    <Point id="KMLe_244">
+		    <coordinates>1.599621001210498,25.29585192243631,0</coordinates>
+	    </Point>
+	  </Placemark>
+      </Folder>
+      <Folder>
+          <open>0</open>
+	  <name>schwach</name>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>3000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	  <Placemark>
+	    <name>Asboran</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<p>Die Stadt <a href="http://www.wiki-aventurica.de/index.php?title=Asboran">Asboran</a> ist vermutlich ein schwach magischer Ort, m&ouml;glicherweise ist er aber auch g&ouml;ttlich verhehlt (LdES 176).</p>]]></description>
+	    <LookAt>
+		    <longitude>5.21063178425689</longitude>
+		    <latitude>28.68056766853947</latitude>
+		    <altitude>0</altitude>
+		    <range>80249.14632765786</range>
+		    <tilt>0</tilt>
+		    <heading>5.067957083237936</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_169">
+		    <coordinates>5.139895926307336,28.70118979170488,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Blauer Turm</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Der <b>Blaue Turm</b> westlich von <a href="http://www.wiki-aventurica.de/index.php?title=Auen">Auen</a> weist einen schwachen magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+            <LookAt>
+		    <longitude>4.534380491924774</longitude>
+		    <latitude>31.89457871349405</latitude>
+		    <altitude>0</altitude>
+		    <range>1663.505260886154</range>
+		    <tilt>0</tilt>
+		    <heading>-0.2460845992614108</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+            </LookAt>
+            <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+            <Point id="KMLe_176">
+		    <coordinates>4.527837988723753,31.89741355062832,0</coordinates>
+            </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Chaluk-Quelle</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Die <b>Chaluk-Quelle</b>, nahe des Dorfes <a href="http://www.wiki-aventurica.de/index.php?title=Birchaluk">Birchaluk</a> ist ein schwach magischer Ort. Der <a href="http://www.wiki-aventurica.de/index.php?title=Chaluk">Chaluk</a> entspringt einer Kaverne, die mit uralten <a href="http://www.wiki-aventurica.de/index.php?title=Glyphenmagie">Zauberglyphen</a> geschm&uuml;ckt ist. Das Wasser des Flusses ist schwach magisch und enth&auml;lt teilweise reines <a href="http://www.wiki-aventurica.de/index.php?title=Mindorit">Mindorit</a> (LdES 168/169)]]></description>
+	    <LookAt>
+		    <longitude>6.724158754869775</longitude>
+		    <latitude>25.46785860947877</latitude>
+		    <altitude>0</altitude>
+		    <range>80743.03350233</range>
+		    <tilt>0</tilt>
+		    <heading>5.886185220622499</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_167">
+		    <coordinates>6.572168747112732,25.52694253907765,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Pentagramm-Akademie</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+	    <p>Die Akademie ist die gr&ouml;&szlig;te Beschw&ouml;rungsschule Aventuriens. Ganz im Stile der alten <a href="http://www.wiki-aventurica.de/index.php?title=Tulamide" title="Tulamide">tulamidischen</a> Dschinnenbeschw&ouml;rer hat jeder Akademieleiter die Schule mit Hilfe eines Dschinns weiter ausgebaut. Da w&auml;hrend der Zeit der Priesterkaiser die Tore der Akademie von Dschinnen verschlossen wurden, l&auml;sst sich heute die Akademie nur mit Magie betreten und verlassen.</p>
+	    <p>Bis <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1021" title="Chronik:1021">1021</a> wurden hier Jahrhunderte lang neben <a href="http://www.wiki-aventurica.de/index.php?title=Elementar" title="Elementar">Elementaristen</a> auch <a href="http://www.wiki-aventurica.de/index.php?title=Dämon">D&auml;monenbeschw&ouml;rer</a> ausgebildet, doch nach dem Tod von <a href="http://www.wiki-aventurica.de/index.php?title=Belizeth_Dschelefsunni">Belizeth Dschelefsunni</a> wurde dieser Zweig von <a href="http://www.wiki-aventurica.de/index.php?title=Spektabilität">Spektabilit&auml;t</a> <a href="http://www.wiki-aventurica.de/index.php?title=Hasrabal_ben_Yakuban">Hasrabal ben Yakuban</a> geschlossen.
+
+</p></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Pentagramm-Akademie">Pentagramm-Akademie</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Pentagramm-Akademie&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Pentagramm-Akademie&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>6.293032116830415</longitude>
+		    <latitude>24.24393020250978</latitude>
+		    <altitude>0</altitude>
+		    <range>20881.45023913765</range>
+		    <tilt>0</tilt>
+		    <heading>2.94142825757518</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point>
+		    <coordinates>6.272964290941379,24.24400669033684,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Schwarzer Turm</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Der <b>Schwarze Turm</b>, das Domizil der Magierin&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Domaris_von_A%27Tall">Domaris von A'Tall</a>, weist einen&nbsp;schwach magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf&nbsp;(WdZ 367).]]></description>
+	    <LookAt>
+		    <longitude>1.130717427975336</longitude>
+		    <latitude>29.9035612729548</latitude>
+		    <altitude>0</altitude>
+		    <range>140462.114757724</range>
+		    <tilt>0</tilt>
+		    <heading>0.6751618955077962</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_174">
+		    <coordinates>0.869735510677061,29.88214392630765,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Septahengon</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Das <b>Septahengon</b>, ein uralter Steinkreis in den Yslih&ouml;hen &ouml;stlich des Yslisees, der schon von den <a href="http://www.wiki-aventurica.de/index.php?title=Al'Hani">Al'Hani</a> als Kultplatz genutzt wurde, ist ein schwach magischer Ort. Hier beschwor <a href="http://www.wiki-aventurica.de/index.php?title=Borbarad">Borbarad</a> das <a href="http://www.wiki-aventurica.de/index.php?title=Omegatherion">Omegatherion</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>7.471063822194212</longitude>
+		    <latitude>31.98908592761694</latitude>
+		    <altitude>0</altitude>
+		    <range>61025.20479000606</range>
+		    <tilt>0</tilt>
+		    <heading>6.522286507398268</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_168">
+		    <coordinates>8.081855850094117,32.22173001499278,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Treppe nach Amhas</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Die <b>Treppe nach Amhas&nbsp;</b>in <a href="http://www.wiki-aventurica.de/index.php?title=Selem">Selem</a>&nbsp;ist ein&nbsp;schwach magischer Ort auf einer <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinie</a> und eine ehemalige <a href="http://www.wiki-aventurica.de/index.php?title=Dunkle_Pforte">dunkle Pforte</a> (RA 46).]]></description>
+	    <LookAt>
+		    <longitude>1.765350206965939</longitude>
+		    <latitude>20.98633180444929</latitude>
+		    <altitude>0</altitude>
+		    <range>43509.03145394972</range>
+		    <tilt>0</tilt>
+		    <heading>3.433718245828427</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_173">
+		    <coordinates>1.691092196991908,21.00625716220484,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Unsichtbarer Turm</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: NAME DES NODIX-->Der&nbsp;<b>Unsichtbare Turm&nbsp;</b>im <a href="http://www.wiki-aventurica.de/index.php?title=Amboss">Ambossgebirge</a>&nbsp;weist einen&nbsp;schwach magischen <a href="http://www.wiki-aventurica.de/index.php?title=Nodix">Nodix</a> auf.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel&nbsp;<!-- EDIT: NAME DES ORTES --><!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinien in Aventurien</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	    <LookAt>
+		    <longitude>2.029651009108904</longitude>
+		    <latitude>28.34715094237391</latitude>
+		    <altitude>0</altitude>
+		    <range>100890.5787734314</range>
+		    <tilt>0</tilt>
+		    <heading>3.527342708974609</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_175">
+		    <coordinates>1.954270958451527,28.33037387958941,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Verbotene Schlucht</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Die <b>Verbotene Schlucht </b>im Wadi Yiyila&nbsp;in der <a href="http://www.wiki-aventurica.de/index.php?title=Khom">Khomw&uuml;ste</a> ist ein schwach magischer Ort.&nbsp; In einem Seitental des Wadi existiert ein instabiler Durchgang zur <a href="http://www.wiki-aventurica.de/index.php?title=Globule">Globule</a> von <a href="http://www.wiki-aventurica.de/index.php?title=Zze_Tha_(Globule)&amp;action=edit&amp;redlink=1">Zze Tha</a>&nbsp;(RA 170, Pfade des Lichts (Rastullahs Rache)).<br />]]></description>
+	    <LookAt>
+		    <longitude>3.121492681823221</longitude>
+		    <latitude>24.03092241637703</latitude>
+		    <altitude>0</altitude>
+		    <range>48024.7141858956</range>
+		    <tilt>0</tilt>
+		    <heading>4.182506262765466</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_274">
+		    <coordinates>3.072580401045406,24.03263669864436,0</coordinates>
+	    </Point>
+	  </Placemark>
+	  <Placemark>
+	    <name>Zorganer Spiegelpalast</name>
+	    <Snippet maxLines="0"></Snippet>
+	    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+Der<a href="http://www.wiki-aventurica.de/index.php?title=Zorgan">Zorganer</a> <a href="http://www.wiki-aventurica.de/index.php?title=Spiegelpalast&amp;action=edit&amp;redlink=1">Spiegelpalast</a>&nbsp;ist ein&nbsp;schwach magischer Ort auf einer <a href="http://www.wiki-aventurica.de/index.php?title=Kraftlinien_in_Aventurien">Kraftlinie</a> und eine&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Dunkle_Pforte">dunkle Pforte</a> (LdES 174).]]></description>
+	    <LookAt>
+		    <longitude>6.86854262258995</longitude>
+		    <latitude>27.20444856883373</latitude>
+		    <altitude>0</altitude>
+		    <range>51634.78222300614</range>
+		    <tilt>0</tilt>
+		    <heading>5.529239377868335</heading>
+		    <altitudeMode>relativeToGround</altitudeMode>
+	    </LookAt>
+	    <styleUrl>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/style/Nodices.kml#nodix_1</styleUrl>
+	    <Point id="KMLe_171">
+		    <coordinates>6.950287436787299,27.18193115131812,0</coordinates>
+	    </Point>
+	  </Placemark>
+      </Folder>
+    </Folder>
+</Document>
+</kml>

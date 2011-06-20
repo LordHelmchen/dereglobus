@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml">
+	<mx:Script>
+		<![CDATA[
+		
+			import de.oldcastle.model.WizardModelLocator;
+			[Bindable]
+			private var wizardML:WizardModelLocator = WizardModelLocator.getInstance();
+			
+		]]>
+	</mx:Script>
+	
+	<mx:HBox>
+		<mx:Label text="Dein Dateiname" />
+		<mx:TextInput id="fileName" 
+			change ="{wizardML.fileName = this.fileName.text}"
+			text="{wizardML.fileName}" />
+	</mx:HBox>
+	
+	<mx:HBox>
+		<mx:Label text="Die Autoren" width="100"  fontWeight="bold"/>
+		<mx:TextInput id="authorName" 
+			change ="{wizardML.authorName = this.authorName.text}" 
+			text="{wizardML.authorName}" />
+		<mx:VBox>
+			<mx:Button id="addAuthor" label="+ Autor" click="wizardML.addAuthor()"/>
+			<mx:Button id="delAuthor" label="- Autor" click="wizardML.remAuthor(authorList.selectedIndex)"/>
+		</mx:VBox>
+		<mx:List id="authorList" dataProvider="{wizardML.authors}" height="50"/>
+	</mx:HBox>
+		
+	<mx:VBox width="100%">
+		<mx:Label text="Dein Code" width="100"  fontWeight="bold"/>
+		<mx:TextArea id="kmlCode" 
+			change ="{wizardML.kmlCode = this.kmlCode.text}" 
+			text="{wizardML.kmlCode}"/>
+	</mx:VBox>
+		
+	<mx:Button id="sendCode" label="Code senden" textAlign="right" click="wizardML.kmlToObjects()"  themeColor="#FFBA00" cornerRadius="5"/>
+</mx:VBox>

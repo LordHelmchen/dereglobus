@@ -1,0 +1,1920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Gebirge_Deres.kml</name>
+	<StyleMap id="msn_ylw-square61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square141">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square9">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square600">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square19">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square110">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square01">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square7">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square0">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square101">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square101">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square10">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square150">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square20">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square70">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square41">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square1">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square12">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square200">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square20">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square4">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square6">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square40">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square11">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square10">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square23">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square15">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square4">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square00">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square21">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square110">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square3">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square8">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square22">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square30">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square112">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square100">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square60">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square5">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square5">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square70">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square2">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square15">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square71">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square8">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square16">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square14">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square1">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square18">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square120">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square3">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square21">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square40">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square7">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square120">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square6">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square140">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square11">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square0">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square31">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square111">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square16">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-square8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-square00">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square60">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-square2">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-square13">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-square18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-square00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-square22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-square18">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-square-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Gebirge_Deres</name>
+		<Folder>
+			<name>Gebirge_Ost-Myranors</name>
+			<Placemark>
+				<name>Östliche Wolkenkämme</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-76.0243126547639</longitude>
+					<latitude>-8.131988212642192</latitude>
+					<altitude>0</altitude>
+					<range>3595593.700072062</range>
+					<tilt>0</tilt>
+					<heading>8.339943446466837</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square6</styleUrl>
+				<Point>
+					<coordinates>-68.22138345439642,-14.45887153142126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Myronosch Gebirge</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-54.30727405613582</longitude>
+					<latitude>-20.77888222661914</latitude>
+					<altitude>0</altitude>
+					<range>917006.6612049833</range>
+					<tilt>3.651728505026954</tilt>
+					<heading>2.523693774396591</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square14</styleUrl>
+				<Point>
+					<coordinates>-54.75243860181275,-20.69547422300564,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brilliantsteine</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-51.27157204306173</longitude>
+					<latitude>-14.8754569955101</latitude>
+					<altitude>0</altitude>
+					<range>816776.0402011011</range>
+					<tilt>6.33131726538836</tilt>
+					<heading>0.0805426240443707</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square21</styleUrl>
+				<Point>
+					<coordinates>-51.16041532809073,-14.4898422364763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stahlzinnen</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-41.22832434731561</longitude>
+					<latitude>-27.35702291582663</latitude>
+					<altitude>0</altitude>
+					<range>455589.1867762075</range>
+					<tilt>6.3345890173131</tilt>
+					<heading>-3.731671186361266</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square90</styleUrl>
+				<Point>
+					<coordinates>-41.92351615406858,-27.36363929958384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lamamach(Götterklingen)/Tharamans Rippen</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-58.92010172726349</longitude>
+					<latitude>-5.82059701964373</latitude>
+					<altitude>0</altitude>
+					<range>603780.8773743677</range>
+					<tilt>1.970564383009307</tilt>
+					<heading>1.503775606075124</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square1</styleUrl>
+				<Point>
+					<coordinates>-59.03471268505356,-7.794108101059623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thapagiri/Tharamans Rippen</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-47.8284157973792</longitude>
+					<latitude>-1.443493939167224</latitude>
+					<altitude>0</altitude>
+					<range>491878.7964459551</range>
+					<tilt>6.339171757065498</tilt>
+					<heading>0.589958795930296</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square00</styleUrl>
+				<Point>
+					<coordinates>-48.49861086499984,-0.7506981299839584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Windkämme</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-53.26092956144565</longitude>
+					<latitude>6.88307560175152</latitude>
+					<altitude>0</altitude>
+					<range>191771.4899001727</range>
+					<tilt>6.340481601388719</tilt>
+					<heading>-0.1468616924086829</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square111</styleUrl>
+				<Point>
+					<coordinates>-53.39264536708824,6.930535888548373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lichterhöhen</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-55.14646713251663</longitude>
+					<latitude>9.081400656372709</latitude>
+					<altitude>0</altitude>
+					<range>826825.8937479387</range>
+					<tilt>6.341791663545913</tilt>
+					<heading>-0.4011537792959459</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square40</styleUrl>
+				<Point>
+					<coordinates>-55.38388595287466,9.251404582970848,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sa´Thior Gebirge</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-45.02315097585696</longitude>
+					<latitude>11.46340594221796</latitude>
+					<altitude>0</altitude>
+					<range>354265.2211719133</range>
+					<tilt>6.34375716523083</tilt>
+					<heading>1.047449245259718</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square2</styleUrl>
+				<Point>
+					<coordinates>-44.64098987630747,11.68832445439911,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ost-Apelioten</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-57.87509474269693</longitude>
+					<latitude>10.57098485093482</latitude>
+					<altitude>0</altitude>
+					<range>416204.4406613854</range>
+					<tilt>0.5435635718796095</tilt>
+					<heading>3.813480171587824</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square140</styleUrl>
+				<Point>
+					<coordinates>-57.87027078597239,10.17036728388167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West-Apelioten</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-61.46372780514157</longitude>
+					<latitude>8.616009325150785</latitude>
+					<altitude>0</altitude>
+					<range>584717.2075296524</range>
+					<tilt>0.5436870274322141</tilt>
+					<heading>3.238146645865314</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square8</styleUrl>
+				<Point>
+					<coordinates>-60.76211344782054,8.584204533965039,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Löwenkopfmassiv</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-68.76146055722509</longitude>
+					<latitude>15.18420017259154</latitude>
+					<altitude>0</altitude>
+					<range>618550.6319000115</range>
+					<tilt>9.666075747465461</tilt>
+					<heading>-4.504936662173781</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square141</styleUrl>
+				<Point>
+					<coordinates>-68.28668671949096,14.47730431343605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Xarxaronberge</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-69.48661669076414</longitude>
+					<latitude>7.159000914184424</latitude>
+					<altitude>0</altitude>
+					<range>400887.4034761292</range>
+					<tilt>9.667823147025096</tilt>
+					<heading>-5.225569376723281</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square26</styleUrl>
+				<Point>
+					<coordinates>-69.70493060310423,6.303970270135832,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Frostfeste</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-81.84238224453124</longitude>
+					<latitude>35.12120414896095</latitude>
+					<altitude>0</altitude>
+					<range>325113.5656610636</range>
+					<tilt>5.410144116611779</tilt>
+					<heading>-8.533328213828218</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square19</styleUrl>
+				<Point>
+					<coordinates>-81.84238224453124,35.12120414896095,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nördliche Eisenhügel</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-79.9568616901588</longitude>
+					<latitude>20.73916756284054</latitude>
+					<altitude>0</altitude>
+					<range>2624711.674190123</range>
+					<tilt>5.416459043663634</tilt>
+					<heading>-4.5074206281445</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square13</styleUrl>
+				<Point>
+					<coordinates>-79.45962552865493,26.7603007523656,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eisenhügel</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-79.9568616901588</longitude>
+					<latitude>20.73916756284054</latitude>
+					<altitude>0</altitude>
+					<range>2624711.674190123</range>
+					<tilt>5.416459043663634</tilt>
+					<heading>-4.5074206281445</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square70</styleUrl>
+				<Point>
+					<coordinates>-79.63056341415233,20.76298971021475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chrattac Zähne</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-79.99027158127541</longitude>
+					<latitude>16.4145676604425</latitude>
+					<altitude>0</altitude>
+					<range>350441.1122063227</range>
+					<tilt>5.415884697690603</tilt>
+					<heading>-4.221341204759252</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square210</styleUrl>
+				<Point>
+					<coordinates>-80.12826589554868,16.28895663312605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hügel von Stakala</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-74.67661503300224</longitude>
+					<latitude>28.02533900009421</latitude>
+					<altitude>0</altitude>
+					<range>235803.6388895365</range>
+					<tilt>5.41818239567787</tilt>
+					<heading>-2.275212746909577</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square60</styleUrl>
+				<Point>
+					<coordinates>-74.67661503300224,28.02533900009421,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blutgischtmauer</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-86.45979813437594</longitude>
+					<latitude>0.8011417249653577</latitude>
+					<altitude>0</altitude>
+					<range>196093.4022913869</range>
+					<tilt>5.422205382863491</tilt>
+					<heading>-0.9007465184150564</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square50</styleUrl>
+				<Point>
+					<coordinates>-86.45979813437594,0.8011417249653576,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Westliche Wolkenkämme</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-76.02431265476392</longitude>
+					<latitude>-8.131988212642188</latitude>
+					<altitude>0</altitude>
+					<range>2989433.526571929</range>
+					<tilt>0</tilt>
+					<heading>8.339943446466846</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square0</styleUrl>
+				<Point>
+					<coordinates>-80.75765037559413,-6.525797102348952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Schädelkuppen</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-83.72429962960266</longitude>
+					<latitude>4.52360339062134</latitude>
+					<altitude>0</altitude>
+					<range>451561.5018466114</range>
+					<tilt>6.227416949882912</tilt>
+					<heading>4.316351295192749</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square20</styleUrl>
+				<Point>
+					<coordinates>-83.73737390038903,3.825181432140421,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mondsilberwald</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-93.66849455476203</longitude>
+					<latitude>-4.229123893198792</latitude>
+					<altitude>0</altitude>
+					<range>493168.8002054254</range>
+					<tilt>9.982912307419035</tilt>
+					<heading>-0.5331019014198245</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square15</styleUrl>
+				<Point>
+					<coordinates>-93.66849455476203,-4.229123893198792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silberrücken</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-99.86152843964233</longitude>
+					<latitude>-7.504425606750151</latitude>
+					<altitude>0</altitude>
+					<range>219604.1406769321</range>
+					<tilt>9.985575775230071</tilt>
+					<heading>0.1831520760486259</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square61</styleUrl>
+				<Point>
+					<coordinates>-99.92461161970495,-7.144075476939772,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hügel von Khazzahl</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-103.9898576549017</longitude>
+					<latitude>-7.897025153165506</latitude>
+					<altitude>0</altitude>
+					<range>571813.0918642365</range>
+					<tilt>4.866925151707599</tilt>
+					<heading>-7.742961341233737</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square24</styleUrl>
+				<Point>
+					<coordinates>-104.1367931893943,-6.913063855867393,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tafelberge von Vinshina</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-79.05601990113398</longitude>
+					<latitude>11.63172797552712</latitude>
+					<altitude>0</altitude>
+					<range>1284044.727087872</range>
+					<tilt>3.654947618084621</tilt>
+					<heading>1.740739359574205</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square18</styleUrl>
+				<Point>
+					<coordinates>-77.51729989735223,11.15954138498218,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Berge von Baan Bashur</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-60.99808206760847</longitude>
+					<latitude>20.74071138980813</latitude>
+					<altitude>0</altitude>
+					<range>316032.9263903287</range>
+					<tilt>3.653337729241894</tilt>
+					<heading>1.648187894149517</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square23</styleUrl>
+				<Point>
+					<coordinates>-61.45982749064059,20.73089356213032,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Haehnyrrwald</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-75.0376472881055</longitude>
+					<latitude>14.90867789551033</latitude>
+					<altitude>0</altitude>
+					<range>467185.7492969807</range>
+					<tilt>3.655752811810206</tilt>
+					<heading>-2.737559649235217</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square27</styleUrl>
+				<Point>
+					<coordinates>-75.0376472881055,14.90867789551033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chrysir Pfeiler</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-82.04533319490746</longitude>
+					<latitude>10.44327612221044</latitude>
+					<altitude>0</altitude>
+					<range>334800.3638557067</range>
+					<tilt>3.658169390522537</tilt>
+					<heading>-5.134956357927078</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square9</styleUrl>
+				<Point>
+					<coordinates>-82.35076766030723,10.70929231946728,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Türme des Morgens (imperial) Bergatun (hjaldingisch)</name>
+				<description>Die Türme des Morgens erstrecken sich entlang der Nordwestküste Myranors, vom zentralen Imperium bis nach Hjaldingard. Die Hjaldinger nennen sie Bergatun, was soviel heist wie &quot;Zaun aus Bergen&quot;.
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 277 Erklärung</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-52.73171693052638</longitude>
+					<latitude>23.88494060310789</latitude>
+					<altitude>0</altitude>
+					<range>1166585.189431024</range>
+					<tilt>9.66957070910817</tilt>
+					<heading>0.6364557112852776</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square7</styleUrl>
+				<Point>
+					<coordinates>-53.7586027165077,24.07254706960777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hardun</name>
+				<description>Hardun nennen den Gebirgszug auf der Halbinsel Hjaldingard
+Quelle: DSA Roman &quot;Sturm&quot; von Daniela Knor S. 7 Karte von Hjaldingard u. S. 282 Erklärung</description>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-40.61173001323755</longitude>
+					<latitude>32.50242402929806</latitude>
+					<altitude>0</altitude>
+					<range>524888.4123857117</range>
+					<tilt>9.673940324951547</tilt>
+					<heading>6.456169043595097</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square5</styleUrl>
+				<Point>
+					<coordinates>-40.61173001323755,32.50242402929806,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kamaluks Rücken</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-50.36527938217249</longitude>
+					<latitude>-6.856017689972631</latitude>
+					<altitude>0</altitude>
+					<range>80736.99237657333</range>
+					<tilt>3.654142590570957</tilt>
+					<heading>0.9202904690975958</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square4</styleUrl>
+				<Point>
+					<coordinates>-50.44936332391832,-6.918232859533959,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hügel von Telsun</name>
+				<LookAt>
+					<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+					<longitude>-46.86254598778798</longitude>
+					<latitude>8.248915707534946</latitude>
+					<altitude>0</altitude>
+					<range>134693.8458239312</range>
+					<tilt>0</tilt>
+					<heading>-0.232636720493143</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-square01</styleUrl>
+				<Point>
+					<coordinates>-46.67043414530753,8.283331492005072,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

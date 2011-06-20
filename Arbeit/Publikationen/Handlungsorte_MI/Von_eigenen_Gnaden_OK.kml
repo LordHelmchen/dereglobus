@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>KmlFile</name>
+    <Folder>
+      <name>Von eigenen Gnaden</name>
+      <open>1</open>
+      <description>In "Von eigenen Gnaden" kann eine Heldengruppe in die Rolle von Kriegsfürsten der Wildermark schlüpfen und einen kleinen Landstrich aus eigener Kraft heraus befrieden.<br />
+<p>Komplexität (Meister/Spieler): Hoch/Mittel</p>
+<p>Erfahrung (Helden): Erfahren bis Experte</p>
+<p>Ort und Zeit: Wildermark, 1031-1034 BF</p></description>
+      <Folder>
+        <name>Kapitel I - Ein Licht der Hoffnung</name>
+        <description>(Anfang - Ende Tsa 1031 BF) <br /> Reise durch die Wildermark, eine verzweifelte Familie, ein finsterer Schwarzmagier und ein unerwartetes Ende</description>
+        <Placemark>
+          <name>Die Reise beginnt</name>
+          <description><![CDATA[(Anfang Tsa 1031 BF)<br /><br />
+Die Helden werden von der Peraine-Kirche angeheurt um zusammen mit einer Eskorte Werkzeuge, Saatgut u.A. nach <a href="http://www.wiki-aventurica.de/index.php?title=Wutzenwald">Wutzenwald</a> zum <a href="http://www.wiki-aventurica.de/index.php?title=Pfleger_des_Landes">Pfleger des Landes</a> zu transportieren um den Wiederaufbau voranzutreiben. <br />
+(S.8)]]></description>
+          <LookAt>
+            <longitude>3.585554919071399</longitude>
+            <latitude>29.86096439308339</latitude>
+            <altitude>1000</altitude>
+            <range>94008.42423130573</range>
+            <tilt>0</tilt>
+            <heading>-0.5738082089160247</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+          <Point id="KMLe_153">
+            <coordinates>3.741164608757912,29.81643079567598,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Die Helden in Wehrheim</name>
+          <description><![CDATA[(Anfang - Mitte Tsa 1031 BF) <br />
+<br />
+In <a href="http://www.wiki-aventurica.de/index.php?title=Wehrheim">Wehrheim</a> angekommen, stellen die Helden schnell fest, die sie hier nicht willkommen sind. Die Wucherpreise in der einzigen Taverne mit freien Schlafpl&auml;tzen und die Geister in einer anderen prophezeien den Helden eine unangenehme Nacht. <br />
+(S.9 f.)]]></description>
+          <LookAt>
+            <longitude>4.152931040743024</longitude>
+            <latitude>31.02772322063051</latitude>
+            <altitude>0</altitude>
+            <range>117919.4662919913</range>
+            <tilt>0.4483257332959115</tilt>
+            <heading>-0.4336473225792152</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene2</styleUrl>
+          <Point id="KMLe_152">
+            <coordinates>3.966361172521453,30.98827681274964,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Eine Kaiserliche Patrouille</name>
+          <description><![CDATA[(Anfang - Mitte Tsa 1031 BF)<br />
+<br />
+<a href="http://www.wiki-aventurica.de/index.php?title=Fenn_Weitenberg_von_Dr%C3%B4lenhorst">Oberst Fenn Weitenberg von Dr&ocirc;lenhorst</a>, Offizier in den Diensten von <a href="http://www.wiki-aventurica.de/index.php?title=Ludalf_von_Wertlingen">Marschall Ludalf</a>, fordert, irgendwo zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Wehrheim">Wehrheim</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Talf">Talf</a>, von den Helden einen (unrechtm&auml;&szlig;igen) Zoll ein. An dieser Stelle lernen sie zum ersten Mal einen ihrer zuk&uuml;nftigen Rivalen kennen. <br />
+(S.10)<br />
+<br />
+<i>Anmerkung:<br />
+Die Begegnung findet irgendwo zwischen Wehrheim und Talf statt.</i>]]></description>
+          <LookAt>
+            <longitude>4.596216165671576</longitude>
+            <latitude>30.88327500000038</latitude>
+            <altitude>0</altitude>
+            <range>63903.73760478599</range>
+            <tilt>0</tilt>
+            <heading>2.238940680529287</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene3-X</styleUrl>
+          <Point id="KMLe_151">
+            <coordinates>4.497435704518789,30.95987495895702,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Unter Travias Segen</name>
+          <description><![CDATA[(Anfang - Mitte Tsa 1031 BF) <br />
+<br />
+Der Konvoi findet Unterschlupf auf einem Bauernhof eine Tagesreise von <a href="http://www.wiki-aventurica.de/index.php?title=Wutzenwald">Wutzenwald</a> entfernt. Die Charaktere werden nach anf&auml;nglichem Misstrauen herzlich empfangen. <br />
+(S. 10 f.) <br />
+Bei ihrer R&uuml;ckkehr einige Zeit sp&auml;ter finden die Helden das Geh&ouml;ft niedergebrannt vor und machen sich auf die Suche nach den Schuldigen.]]></description>
+          <LookAt>
+            <longitude>4.73246388523503</longitude>
+            <latitude>31.01121149265016</latitude>
+            <altitude>0</altitude>
+            <range>41384.22762623314</range>
+            <tilt>0</tilt>
+            <heading>-1.786163087904216</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene4-X</styleUrl>
+          <Point id="KMLe_150">
+            <coordinates>4.757613123577238,31.08665394626299,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Am Ziel der Reise</name>
+          <description><![CDATA[(Mitte Tsa 1031 BF) <br />
+<br />
+Angekommen in <a href="http://www.wiki-aventurica.de/index.php?title=Wutzenwlad">Wutzenwald</a> empf&auml;ngt der <a href="http://www.wiki-aventurica.de/index.php?title=Pfleger_des_Landes">Pfleger des Landes</a> die Helden und dankt Ihnen f&uuml;r ihre Hilfe. Er zeigt sich ebenfalls dankbar, insofern die Helden weiterhin anbieten beim Wiederaufbau behilflich zu sein. <i>(Das Abenteuer scheint hier beendet) </i><br />
+(S.11)]]></description>
+          <LookAt>
+            <longitude>4.706478753427057</longitude>
+            <latitude>31.22758953897747</latitude>
+            <altitude>0</altitude>
+            <range>45497.87314979331</range>
+            <tilt>0</tilt>
+            <heading>-1.798828482933428</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene5</styleUrl>
+          <Point id="KMLe_122">
+            <coordinates>4.757089660132667,31.20676938084434,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Zweimühlen, eine Stadt in Angst</name>
+          <description><![CDATA[(Mitte - Ende Tsa 1031 BF) <br />
+<br />
+Ihre Suche f&uuml;hrt die Helden nach <a href="http://www.wiki-aventurica.de/index.php?title=Zweim%C3%BChlen">Zweihm&uuml;hlen</a>. Dort reagiert man ihnen gegen&uuml;ber mit Skepsis und Vorsicht. Hier k&ouml;nnen sie feststellen, dass der Magier Nekorius das Dorf mit seiner Schreckensherrschaft unterdr&uuml;ckt. Sie befreien das Dorf und werden zu neuen Kriegsf&uuml;rsten ernannt. <br />
+(S.14. ff.)]]></description>
+          <LookAt>
+            <longitude>4.685599316198286</longitude>
+            <latitude>30.83592271482896</latitude>
+            <altitude>1000</altitude>
+            <range>33521.13136112587</range>
+            <tilt>0</tilt>
+            <heading>-0.9917991072509655</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene6</styleUrl>
+          <Point id="KMLe_147">
+            <coordinates>4.600956076280605,30.83991288063534,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Von Gareth nach Wehrheim</name>
+          <description><![CDATA[<i>ca. 120 Meilen</i>]]></description>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+          <LineString id="KMLe_124">
+            <tessellate>1</tessellate>
+            <coordinates>
+3.744507705262319,29.80082987387839,0 3.778948554867543,29.87157057805912,0 3.812371730222237,29.94133259619256,0 3.813128633584124,30.04321698977643,0 3.77665286569784,30.1954216614362,0 3.7734579541736,30.26396119327688,0 3.780380595178636,30.29287939916114,0 3.839713635557178,30.38901642332176,0 3.867090136401816,30.4578272559631,0 3.871427716287308,30.53190695156629,0 3.886819973825837,30.68702003758057,0 3.910085181898491,30.77968344006429,0 3.965597088316946,30.88135586025913,0 3.967963578846523,30.96366337045215,0 </coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Von Wehrheim nach Wutzenwald</name>
+          <description><![CDATA[<i>ca. 103 Meilen</i>]]></description>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+          <LineString id="KMLe_154">
+            <tessellate>1</tessellate>
+            <coordinates>
+3.968948906042977,30.96265998458184,0 4.241688302383075,30.96801390719037,0 4.36846369810671,30.9359977108977,0 4.493468259060645,30.93077464786158,0 4.66147540908344,30.89833531278143,0 4.815868985489655,30.90400640508448,0 4.81581067043567,30.96269530730294,0 4.77590197142008,31.0545448843888,0 4.748874706330756,31.08725232948252,0 4.751128261792996,31.13367259910592,0 4.757995964386772,31.18609993301003,0 </coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </LineString>
+          </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Folder>
+      <Folder>
+        <name>Kapitel II - Tödliche Schatten</name>
+        <description>(w&amp;auml;hrend und nach den Namenlosen Tagen 1031/32 BF)<br />Die Namenlosen Tage, gepl&amp;uuml;nderte H&amp;ouml;fe, ein schattenhafter Feind, Kampf um die Stadt</description>
+        <Placemark>
+          <name>Zwischen den Jahren</name>
+          <description><![CDATA[(Die Namenlosen Tage zwischen 1031/32 BF) <br />
+<br />
+Die neuen Kriegsf&uuml;rsten treffen Vorbereitungen f&uuml;r die bevorstehenden <a href="http://www.wiki-aventurica.de/index.php?title=Namenlose_Tage">Namenlosen Tage</a>. Am dritten Namenlosen Tag erhalten die Helden schreckliche Kunde von einem M&auml;dchen, deren ganze Familie von seltsamen Schattenwesen get&ouml;tet wurde. <br />
+(S.33 ff.)]]></description>
+          <LookAt>
+            <longitude>4.683833518177782</longitude>
+            <latitude>30.83239349040126</latitude>
+            <altitude>1000</altitude>
+            <range>26879.37033819577</range>
+            <tilt>0</tilt>
+            <heading>2.28018488456718</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene7</styleUrl>
+          <Point id="KMLe_148">
+            <coordinates>4.606422524844332,30.8388470793892,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Dem Grauen auf der Spur</name>
+          <description><![CDATA[(vierter Namenloser Tag 1031/32 BF)<br />
+<br />
+In den umliegenden Bauernh&ouml;fen finden die Kriegsf&uuml;rsten keine Menschenseele mehr. Lediglich einzelne verstreute (Blut-)Spuren k&ouml;nnen sie ausmachen, die eine grausame Zukunft prophezeien. Des Nachts entdecken sie, wie ein benachbarter Kriegsf&uuml;rst von merkw&uuml;rdigen Schattenwesen &uuml;berfallen wird. <br />
+(S. 34 ff.)<br />
+<br />
+<i>Anmerkung: <br />
+Irgendwo in der Umgebung von Zweim&uuml;hlen</i>]]></description>
+          <LookAt>
+            <longitude>4.538803031790677</longitude>
+            <latitude>30.77498355048493</latitude>
+            <altitude>1000</altitude>
+            <range>93526.19278181852</range>
+            <tilt>0.4483257332999763</tilt>
+            <heading>-0.2341565838641403</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene8-X</styleUrl>
+          <Point id="KMLe_155">
+            <coordinates>4.36749364591096,30.80119448615017,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schattenjäger</name>
+          <description><![CDATA[(f&uuml;nfter Namenloser Tag 1031/32 BF)<br />
+<br />
+Der gerettete Kriegsf&uuml;rst Wulfbrand bittet die Helden Schloss Randolphshall aufzusuchen und den Machenschafften des <a href="http://www.wiki-aventurica.de/index.php?title=Finstermann">Finstermanns</a> (Wulfrat) Einhalt zu gebieten. Das Schloss untersuchend, erhalten die Charaktere am Ende eine illusion&auml;re Botschaft vom Finstermann, die ein brennendes <a href="http://www.wiki-aventurica.de/index.php?title=Zweim%C3%BChlen">Zweim&uuml;hlen</a> zeigt. <br />
+(S.37 ff.)]]></description>
+          <LookAt>
+            <longitude>4.298875373706861</longitude>
+            <latitude>30.87254707973128</latitude>
+            <altitude>1000</altitude>
+            <range>115182.4168094808</range>
+            <tilt>0.4483257333072929</tilt>
+            <heading>-0.3586189893005714</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene9</styleUrl>
+          <Point id="KMLe_159">
+            <coordinates>4.101719731060618,30.91674728345533,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Die Nacht des Schreckens</name>
+          <description><![CDATA[(f&uuml;nfter Namenloser Tag)<br />
+<br />
+Zur&uuml;ck in <a href="http://www.wiki-aventurica.de/index.php?title=Zweim%C3%BChlen">Zweim&uuml;hlen</a> finden die Helden ihr Dorf in einem chaotischen Zustand vor. Die Schattenwesen greifen an und nun ist es an ihnen sie abzuwehren...<br />
+(S.41 ff.)<br />
+<br />
+<i>Anmerkung: <br />
+Laut des Autors ben&ouml;tigt man von Randolphshall bis Zweim&uuml;hlen einen ganzen Tag. Die Distanz zwischen Zweim&uuml;hlen und dem Schloss betr&auml;gt jedoch auf k&uuml;rzestem Wege (nicht Luftlinie !) rund 46 Meilen...</i>]]></description>
+          <LookAt>
+            <longitude>4.577072889641092</longitude>
+            <latitude>30.81145015241233</latitude>
+            <altitude>0</altitude>
+            <range>40670.46024856365</range>
+            <tilt>0.4483257332666452</tilt>
+            <heading>-0.2613635062990551</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene10</styleUrl>
+          <Point id="KMLe_134">
+            <coordinates>4.60358852439128,30.83514825037038,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Folder>
+      <Folder>
+        <name>Kapitel III - Blut für Kor</name>
+        <description>(Praios/Rondra 1032 BF) <br />Suche nach einer (un-)heiligen St&amp;auml;tte von Krieg, Gewalt und Blut; Pr&amp;uuml;fungen und Versuchungen; Kor und Belhalhar</description>
+        <Placemark>
+          <name>Ewige Wunden</name>
+          <description><![CDATA[(Anfang Rondra 1032 BF)<br />
+<br />
+Die Helden erhalten einen Brief vom <a href="http://www.wiki-aventurica.de/index.php?title=Pfleger_des_Landes">Pfleger des Landes</a>, der von Verwundeten berichtet, deren Wunden nicht heilen. Sie h&auml;tten gegen <a href="http://www.wiki-aventurica.de/index.php?title=Blutfaust">Blutfaust</a> gek&auml;mpft, wessen Schl&auml;ge einfach nicht verheilen wollen. Der Pfleger bittet die Helden dieses Problem zu kl&auml;ren. <br />
+(S.49 f.)]]></description>
+          <LookAt>
+            <longitude>4.665668471318785</longitude>
+            <latitude>30.77572810072301</latitude>
+            <altitude>1000</altitude>
+            <range>98455.56007221469</range>
+            <tilt>0</tilt>
+            <heading>-0.03138159340364528</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene11</styleUrl>
+          <Point id="KMLe_133">
+            <coordinates>4.598119718054317,30.83626047681047,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+         </Placemark>
+        <Placemark>
+          <name>Frevler, Ketzer, Heilige</name>
+          <description><![CDATA[(Anfang Rondra 1032)<br />
+<br />
+Blutfausts F&auml;hrte endet im Weiler <a href="http://www.wiki-aventurica.de/index.php?title=Gellborn">Gellborn</a>. Dort haben sich ketzerische <a href="http://www.wiki-aventurica.de/index.php?title=Praios">Praiosgeweihte</a> eingerichtet, die trotz G&ouml;tterfrevelns ihre karmalen Energien nicht verloren haben und fanatisch Recht sprechen. Eine echte Gefahr f&uuml;r die Helden! Im Kerker der Praiosgeweihten finden sie Blutfaust. Nach dessen Befreiung, erfahren die Kriegsf&uuml;rsten vom <a href="http://www.wiki-aventurica.de/index.php?title=Belhalhar">Belhalhar-Unheiligtum</a> &quot;<a href="http://www.wiki-aventurica.de/index.php?title=Blutkerbe">Blutkerbe</a>&quot;. <br />
+(S.51 ff.)<br />
+<br />
+<i>Anmerkung:<br />
+Irgendwo in der Umgebung von Zweim&uuml;hlen</i>]]></description>
+          <LookAt>
+            <longitude>4.644686495375833</longitude>
+            <latitude>30.7861787384099</latitude>
+            <altitude>0</altitude>
+            <range>152674.1436176776</range>
+            <tilt>0</tilt>
+            <heading>-0.04236875076263283</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene12-X</styleUrl>
+          <Point id="KMLe_132">
+            <coordinates>4.714740202071863,30.60301774628612,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Die Blutkerbe</name>
+          <description><![CDATA[(Anfang - Mitte Rondra 1032 BF)<br />
+<br />
+Nachdem die Helden drei Pr&uuml;fungen <a href="http://www.wiki-aventurica.de/index.php?title=Xarfai">Xarfais</a> absolviert haben, werden sie direkt zur <a href="http://www.wiki-aventurica.de/index.php?title=Blutkerbe">Blutkerbe</a> gef&uuml;hrt. Dort angekommen treffen sie auf einige Belhalhar-Seelenpaktierer, die das Unheiligtum verteidigen. Weitere Gefahren &uuml;berwindend, erreichen sie schlie&szlig;lich das Herz der Globule, wo sie eine beseelte Statue bek&auml;mpfen. <br />
+(S.55 ff.)<br />
+<br />
+<i>Anmerkung:<br />
+Irgendwo in der Umgebung von Hallingen im H�gelland</i>]]></description>
+          <LookAt>
+            <longitude>4.975614354656226</longitude>
+            <latitude>31.41649130381493</latitude>
+            <altitude>0</altitude>
+            <range>226501.7305034375</range>
+            <tilt>0</tilt>
+            <heading>0.1251240793566304</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene13-X</styleUrl>
+          <Point id="KMLe_137">
+            <coordinates>4.920430512044611,31.43362671723568,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Vom Weiler Gelborn zur Blutkerbe</name>
+          <description><![CDATA[<i>ca. 92 Meilen (je nach konkreter Positionierung der beiden Orte)</i>]]></description>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+          <LineString id="KMLe_138">
+            <tessellate>1</tessellate>
+            <coordinates>
+4.71299500614593,30.56905097639013,0 4.724810926418748,30.6169471415285,0 4.787250438048165,30.68803252876358,0 4.85312820921878,30.75906024036457,0 4.841392065953203,30.83014191251688,0 4.816486976606016,30.9044332781748,0 </coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </LineString>
+         </Placemark>
+        <Placemark>
+          <name>Vom Unheiligtum Blutkerbe zum Weiler Gelborn</name>
+          <description><![CDATA[<i>ca. 92 Meilen (je nach konkreter Positionierung der beiden Orte)</i>]]></description>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Strecke</styleUrl>
+          <LineString id="KMLe_139">
+            <tessellate>1</tessellate>
+            <coordinates>
+4.758471150591596,31.18620164126681,0 4.818052109786835,31.33116199699678,0 4.909393190657019,31.35799221194116,0 4.921566523821159,31.41748126700914,0 4.922997801965803,31.42294684092865,0 </coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </LineString>
+        </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Folder>
+      <Folder>
+        <name>Kapitel IV - Des Greifen stumpfe Krallen</name>
+        <description>(Mitte Travia 1032 BF)<br /> Korruption in der Reichsarmee, ein toter Gesandter der Kaiserin, die Helden als Opfer einer Intrige, Hilfe f&amp;uuml;r den Marschall</description>
+        <Placemark>
+          <name>Leichenfund</name>
+          <description><![CDATA[(Mitte Travia 1032) <br />
+<br />
+Der Hauptmann/ die Hauptfrau von <a href="http://www.wiki-aventurica.de/index.php?title=Zweim%C3%BChlen">Zweim&uuml;hlen</a> erstattet den Helden Bericht, dass n&ouml;rdlich von Zweim&uuml;hlen eine Leiche, ein kaiserlicher Gesandter, tot aufgefunden wurde. Dort angekommen, k&ouml;nnen die Helden feststellen, dass die Angreifer Richtung <a href="http://www.wiki-aventurica.de/index.php?title=Gallys">Gallys</a> weitergezogen sein m&uuml;ssen. <br />
+(S.66 f.)]]></description>
+          <LookAt>
+            <longitude>4.819563160496752</longitude>
+            <latitude>30.69079982177787</latitude>
+            <altitude>1000</altitude>
+            <range>141969.3234161125</range>
+            <tilt>0</tilt>
+            <heading>-0.07849000184707304</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene14-X</styleUrl>
+          <Point id="KMLe_142">
+            <coordinates>4.677647389317179,30.95024064106773,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Die Unterlagen des Gesandten</name>
+          <description><![CDATA[(Mitte Travia 1032 BF) <br />
+<br />
+Durch Einschleusen in eine &quot;R&auml;uberbande&quot; k&ouml;nnen die Helden die Unterlagen des kaiserlichen Gesandten und einen Brief ergattern, der eine &uuml;berfall auf Marschall Ludalf ank&uuml;ndigt. <br />
+(S.74)]]></description>
+          <LookAt>
+            <longitude>5.196346467617603</longitude>
+            <latitude>30.75784246942319</latitude>
+            <altitude>0</altitude>
+            <range>45686.12655157153</range>
+            <tilt>0</tilt>
+            <heading>0.1142844486066426</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene15</styleUrl>
+          <Point id="KMLe_143">
+            <coordinates>5.152556140997833,30.88232497084108,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Auf zur Rettung</name>
+          <description><![CDATA[(Mitte Travia 1032 BF) <br />
+Im <a href="http://www.wiki-aventurica.de/index.php?title=Randolphsforst">Randolphsforst</a> soll der Marschall &uuml;berfallen werden, welcher von <a href="http://www.wiki-aventurica.de/index.php?title=Gallys">Gallys</a> aus selbst im Gallop eine halbe Tagesreise entfernt ist. Dort angekommen gelingt es den Helden Ludalf zu retten und den Intriganten Oberst Fenn zu stellen und zu erledigen. <br />
+(S.74 ff.)]]></description>
+          <LookAt>
+            <longitude>4.678946178643146</longitude>
+            <latitude>30.74415491707413</latitude>
+            <altitude>0</altitude>
+            <range>105604.5428281869</range>
+            <tilt>0</tilt>
+            <heading>-0.1623878161467441</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene16</styleUrl>
+          <Point id="KMLe_162">
+            <coordinates>4.262158915538992,30.90210303386529,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+         </Placemark>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Folder>
+      <Folder>
+        <name>Kapitel V - Unsterblicher Schmerz</name>
+        <description>(Anfang Hesinde 1032 BF - von 2-3 Wochen bis zu einem Jahr) <br />Hintergr&amp;uuml;nde des Finstermanns, Suche nach einem Weg zu seiner Vernichtung, ein Besuch auf dem Mythraelsfeld, die Reise in eine Albtraumwelt</description>
+        <Placemark>
+          <name>Spuren der Vergangenheit</name>
+          <description><![CDATA[(Anfang Hesinde 1032 BF) <br />
+<br />
+Sp&auml;testens von Wulfbrand darauf aufmerksam gemacht, planen die Helden den&nbsp;<a href="http://www.wiki-aventurica.de/index.php?title=Finstermann">Finstermann</a> entg&uuml;ltig zu vernichten, um seine j&auml;hrliche Wiederkehr zu unterbinden. Dazu begeben sie sich zum <a href="http://www.wiki-aventurica.de/index.php?title=Mythraelsfeld">Mythraelsfeld</a>.<br />
+<br />
+(S.83 ff.)]]></description>
+          <LookAt>
+            <longitude>4.820782402283523</longitude>
+            <latitude>30.84417200125159</latitude>
+            <altitude>1000</altitude>
+            <range>145973.4058970372</range>
+            <tilt>0</tilt>
+            <heading>-0.08981797920146764</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene17</styleUrl>
+          <Point id="KMLe_163">
+            <coordinates>4.601758240933207,30.83658363263149,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Auf dem Schlachtfeld</name>
+          <description><![CDATA[(Anfang Hesinde 1032 BF) <br />
+<br />
+Ihren Recherchen und &Uuml;berlegungen zur Folge m&uuml;ssen die Helden die gepeinigte Seele Wulfrats aus den Klauen eines <a href="http://www.wiki-aventurica.de/index.php?title=Braggu">Braggus</a> befreien um ihn und die <a href="http://www.wiki-aventurica.de/index.php?title=Wildermark">Wildermark</a> von seinem Leid zu erl&ouml;sen. Dazu bereiten sie ein Ritual vor um in die Traumwelt des D&auml;mons hinabzusteigen und den Peiniger zu erlegen. <br />
+<br />
+(S. 85 ff.)]]></description>
+          <LookAt>
+            <longitude>4.239871582317772</longitude>
+            <latitude>30.93567227130616</latitude>
+            <altitude>0</altitude>
+            <range>130065.8753735241</range>
+            <tilt>0</tilt>
+            <heading>-0.3842389184089238</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene18</styleUrl>
+          <Point id="KMLe_164">
+            <coordinates>4.037261222264588,30.98790683156756,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+         </Placemark>
+        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Folder>
+      <Style>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/style/Handlungsorte.kml#Szene1</styleUrl>
+      <Snippet maxLines="0">
+      </Snippet>
+    </Folder>
+    <Style id="Style_108948732">
+      <LineStyle>
+        <width>1</width>
+      </LineStyle>
+      <BalloonStyle>
+        <bgColor>FFFFFFFF</bgColor>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+  </Document>
+</kml>

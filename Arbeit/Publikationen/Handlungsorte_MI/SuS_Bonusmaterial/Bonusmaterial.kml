@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bonusmaterial.kml</name>
+	<Folder>
+		<name>Bonusmaterial</name>
+		<open>0</open>
+			<Region>
+			<LatLonAltBox>
+					<north>25.04092569087171</north>
+					<south>24.85498282094822</south>
+					<east>6.241012814282725</east>
+					<west>5.959775485846956</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>6500</maxLodPixels>
+				<minFadeExtent>512</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Folder>
+			<name>Die Gorische Wüste</name>
+			<GroundOverlay>
+				<name>Gorische Wüste</name>
+				<color>80ffffff</color>
+				<drawOrder>17</drawOrder>
+				<Icon>
+					<href>http://dereglobus.googlecode.com/svn/Release/Publikationen/media/karten/Staub_und_Sterne/Die_Gorische_Wueste_SuS168_sw.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+				<LatLonBox>
+					<north>25.04092569087171</north>
+					<south>24.85498282094822</south>
+					<east>6.241012814282725</east>
+					<west>5.959775485846956</west>
+				</LatLonBox>
+			</GroundOverlay>
+	<Placemark>
+		<name>Die Pforte der Toten</name>
+		<description>Über das Ende einer Klamm, welche als Austieg zum Tafelberg der Gorischen Wüste dienen kann, spannt sich ein 30 Schritt hoher Bogen aus dunklem Basalt.</description>
+		<LookAt>
+			<longitude>6.01376232784969</longitude>
+			<latitude>24.93763208390133</latitude>
+			<altitude>0</altitude>
+			<range>1415.069383243497</range>
+			<tilt>0</tilt>
+			<heading>0.003460817615930402</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<Point>
+			<coordinates>6.012999585440937,24.93669095327444,0</coordinates>
+		</Point>
+	</Placemark>
+			<Placemark>
+				<name>Der Dämonenturm</name>
+				<description>Eine turmartige Felsformation, die sich direkt neben einer tiefen Kluft im Tafelberg der Gorischen Wüste erhebt.</description>
+				<LookAt>
+					<longitude>6.089368659270273</longitude>
+					<latitude>24.92590240718053</latitude>
+					<altitude>0</altitude>
+					<range>16074.49429356408</range>
+					<tilt>0</tilt>
+					<heading>-0.004651101753498445</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+				<Point>
+					<coordinates>6.089368659270253,24.92590240718053,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Die Kralle</name>
+				<description>Eine natürliche Felsformation, deren Form an eine dämonische Kralle erinnert.</description>
+				<LookAt>
+					<longitude>6.10304756897837</longitude>
+					<latitude>24.96626535270385</latitude>
+					<altitude>0</altitude>
+					<range>23058.35582167271</range>
+					<tilt>0</tilt>
+					<heading>0.001070999471868277</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+				<Point>
+					<coordinates>6.102979187045494,24.96612305964234,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Die Schwefelsenke</name>
+				<description>Eine heiße Quelle bringt Schwefeldämpfe aus dem Erdinneren an die Oberfläche, die sich beim Luftkontakt stellenweise entzünden.</description>
+				<LookAt>
+					<longitude>6.195339306257208</longitude>
+					<latitude>24.97362406657006</latitude>
+					<altitude>0</altitude>
+					<range>18275.05726300582</range>
+					<tilt>0</tilt>
+					<heading>0.04004127473921671</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+				<Point>
+					<coordinates>6.198448642874947,24.97707309298759,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Die Faust</name>
+				<description>Eine bizarre Felsformation, die an eine gigantische Faust erinnert.</description>
+				<LookAt>
+					<longitude>6.21708462142395</longitude>
+					<latitude>25.02490037489117</latitude>
+					<altitude>0</altitude>
+					<range>27137.25541112787</range>
+					<tilt>0</tilt>
+					<heading>0.04585963676238842</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+				<Point>
+					<coordinates>6.215486249830409,25.0230379390432,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Der Obeliskenring</name>
+				<description>Der Ring aus Obelisken schützt ein verborgenes Tal vor unerwünschten Besuchern.</description>
+				<LookAt>
+					<longitude>6.191027175156796</longitude>
+					<latitude>24.92218977544611</latitude>
+					<altitude>0</altitude>
+					<range>21792.82251491216</range>
+					<tilt>0</tilt>
+					<heading>-0.005658431800188851</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+				<Point>
+					<coordinates>6.194310295157939,24.92673578122737,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Liscoms Tal</name>
+			<Region>
+				<LatLonAltBox>
+					<north>24.93411637449216</north>
+					<south>24.89709499106064</south>
+					<east>6.231423067008981</east>
+					<west>6.177157832124808</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>256</minLodPixels>
+					<maxLodPixels>6500</maxLodPixels>
+					<minFadeExtent>512</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<GroundOverlay>
+				<name>Liscoms Tal</name>
+				<drawOrder>18</drawOrder>
+				<Icon>
+					<href>http://dereglobus.googlecode.com/svn/Release/Publikationen/media/karten/Staub_und_Sterne/Liscoms_Tal_SuS168_sw.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+				<LatLonBox>
+					<north>24.93411637449216</north>
+					<south>24.89709499106064</south>
+					<east>6.231423067008981</east>
+					<west>6.177157832124808</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Der Große Kran</name>
+				<description>Dieser Aufzug bringt das geschürfte Mindorit ins Tal hinab und Nahrungsmittel für die Minensklaven hinauf.</description>
+				<LookAt>
+					<longitude>6.188837761987553</longitude>
+					<latitude>24.9208872110959</latitude>
+					<altitude>0</altitude>
+					<range>5608.875191996756</range>
+					<tilt>0</tilt>
+					<heading>-0.006509973649632877</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette</styleUrl>
+				<Point>
+					<coordinates>6.188866692757193,24.92083287379177,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hochofen und Schmiede</name>
+				<description>In diesen Werkstätten wird das geschürfte Mindorium-Erz weiterverarbeitet.</description>
+				<LookAt>
+					<longitude>6.187282117302783</longitude>
+					<latitude>24.91848992619176</latitude>
+					<altitude>0</altitude>
+					<range>4241.92713449148</range>
+					<tilt>0</tilt>
+					<heading>-0.007165349510303143</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette</styleUrl>
+				<Point>
+					<coordinates>6.187388866748986,24.91848733980984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Die Hütten der Sklaven</name>
+				<description>In diesen Hütten leben Sklaven, die im Tal die Felder bewirtschaften und für die Verarbeitung des Mindorits zuständig sind.</description>
+				<LookAt>
+					<longitude>6.193541872898256</longitude>
+					<latitude>24.91841430838307</latitude>
+					<altitude>0</altitude>
+					<range>3866.788409268471</range>
+					<tilt>0</tilt>
+					<heading>-0.004528273539159895</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Privathaus</styleUrl>
+				<Point>
+					<coordinates>6.193579209241493,24.91769691184044,0</coordinates>
+				</Point>
+			</Placemark>
+     		<Placemark>
+				<name>Felder</name>
+				<description>Reisfelder, Gemüsebeete und feuchte Wiesen, auf denen magere Rinder weiden, sowie einige umherlaufende Selemferkel dienen der Versorgung Liscoms und seiner Untergebenen.</description>
+				<LookAt>
+					<longitude>6.193851780500078</longitude>
+					<latitude>24.91333162146688</latitude>
+					<altitude>0</altitude>
+					<range>4039.204864085638</range>
+					<tilt>0</tilt>
+					<heading>-0.004398290654971824</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+				<Point>
+					<coordinates>6.193847894627473,24.91332721016746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Urwald</name>
+				<description>Inmitten der lebensfeindlichen Gorischen Wüste gedeiht in diesem abgeschlossenen Ökosystem eine Vielzahl von Pflanzen- und vornehmlich reptilischer Tierarten.</description>
+				<LookAt>
+					<longitude>6.212831347123012</longitude>
+					<latitude>24.91589646418082</latitude>
+					<altitude>0</altitude>
+					<range>4431.004174243214</range>
+					<tilt>0</tilt>
+					<heading>0.003596720287000528</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+				<Point>
+					<coordinates>6.212840109449756,24.91581280812599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>See mit Höhle</name>
+				<description>Über dem bräunlichen Wasser eines kleinen Sees führt ein Tunnel in der Felswand bis zum Rand der Gorischen Wüste und endet dort jäh in einer fast senkrechten, mehrere hundert Schritt hohen Felswand.</description>
+				<LookAt>
+					<longitude>6.209183438459911</longitude>
+					<latitude>24.90630111613609</latitude>
+					<altitude>0</altitude>
+					<range>4227.957805572355</range>
+					<tilt>0</tilt>
+					<heading>0.002060523869381358</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+				<Point>
+					<coordinates>6.210181684922702,24.90312325472637,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

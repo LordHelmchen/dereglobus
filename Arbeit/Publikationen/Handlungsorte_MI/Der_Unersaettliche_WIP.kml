@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Der Unersättliche.kml</name>
+	<open>1</open>
+	<Style id="sn_Szene1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene2-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<bgColor>ffffffff</bgColor>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Szene4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Szene12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene1-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Szene1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene1-n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene1-h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Szene4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene1-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene3-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene1-n0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene3-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene6.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene5-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene1-h0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Szene14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Szene13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="Szene2-h">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Szene16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Szene4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene4.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Szene15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="Szene5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene5-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene5-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Szene2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Szene2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Szene2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Szene16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Szene5-n">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/handlungsorte/Szene5.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Szene16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Szene14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Szene13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Der Unersättliche</name>
+		<open>1</open>
+		<styleUrl>#Szene10</styleUrl>
+		<Style>
+			<LabelStyle>
+				<scale>1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<textColor>ff000000</textColor>
+				<bgColor>ffffffff</bgColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<name>Landung an unsicherer Küste</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[&nbsp;
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td><!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+            <p>(Praios 1029)<br />
+            Die Helden gehen in Feuerhaven an Land um sich auf die Suche nach dem Krug der heiligen Lindegard zu begeben, w&auml;hrend Leatmon mit dem Schiff weiter nach Ilsur f&auml;hrt. Das kleine Dorf wird von Söldlingen geknechtet, es kommt zur Auseinandersetzung mit den Helden.  <br />
+            (S.18-20)<br />
+            &nbsp;</p>
+            <p>&nbsp;</p>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>10.20744750420292</longitude>
+				<latitude>31.76232371374219</latitude>
+				<altitude>1000</altitude>
+				<range>180982.0788105717</range>
+				<tilt>0</tilt>
+				<heading>1.70834971712885</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Szene1</styleUrl>
+			<Point id="KMLe_12">
+				<coordinates>10.337794019353,31.69783654036592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Im Zentrum der Macht</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[&nbsp;
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td><!-- EDIT: KURZBESCHREIBUNG (CODE) -->(Sommer 1029)<br />
+            <br />
+            Auf der Suche nach dem Krug der heiligen Lindegard erreichen die Helden Mendena. Erste Ger&uuml;chte &uuml;ber den Verwahrungsort best&auml;tigen sich nach verdeckter Recherche: In der unermesslichen Schatzkammer. Doch als die Helden diese schlie&szlig;lich betreten zeigt sich: Xeraan hat den Krug der heiligen Lindegard mitgenommen an die Front bei der er Haffax' Truppen gegen&uuml;bersteht.<br />
+            (S. 22-40)&nbsp;&nbsp; <br />
+            <br />
+            <!-- END EDIT --><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>Mehr zu&nbsp;&nbsp;<!-- EDIT: NAME DES ORTES--><a href="http://www.wiki-aventurica.de/index.php?title=Mendena"><!-- END EDIT --><!-- EDIT: NAME DES ORTES -->Mendena<!-- END EDIT --></a> findet ihr auf der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de/" rel="nofollow">Wiki Aventurica</a> ; der Artikel steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" href="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Mendena&amp;action=history">Liste der Autoren</a> <!-- END EDIT -->verf&uuml;gbar, dort kann man den <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Mendena&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>10.11885940324691</longitude>
+				<latitude>31.07435514354232</latitude>
+				<altitude>0</altitude>
+				<range>2250.555039301111</range>
+				<tilt>0</tilt>
+				<heading>0.3900284206481937</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Szene11</styleUrl>
+			<Point id="KMLe_18">
+				<coordinates>10.11273690144734,31.07232849271971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prolog: In Khunchom</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[&nbsp;
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>(Fr&uuml;hsommer 1029 BF)<br />
+            <br />
+Je nach Abenteuereinstieg haben die Helden hier in Khunchom Zwischenstation gemacht als Landgang einer Seereise oder als Endpunkt voriger Erlebnisse.
+Den Helden begegnet in Khunchom der Perainenovize <a href="http://www.wiki-aventurica.de/index.php?title=Leatmon_Phraisop_der_J%C3%BCngere"><!-- EDIT: NAME -->Leatmon Phraisop der J&uuml;ngere<!-- END EDIT --></a>. Er ist&nbsp;aus seinem Heimattempel fortgelaufen um einer g&ouml;ttlichen Vision zu folgen, die ihm sagt dass es eine Gefahr f&uuml;r die heiligen Quellen von Ilsur abzuwenden gilt. Er bittet die Helden um Mithilfe in dieser Sache.
+Alternative: Die Helden befinden sich- als Mannschaft der Seeadler von Beilunk- nur auf Landgang und Leatmon schleicht sich als blinder Passagier an Bord.<br />
+            (S. 8-12)<br />
+            &nbsp;</td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>7.32648557766523</longitude>
+				<latitude>24.98255227675649</latitude>
+				<altitude>1000</altitude>
+				<range>159822.7480492785</range>
+				<tilt>0</tilt>
+				<heading>1.227094669002867</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Szene16</styleUrl>
+			<Point id="KMLe_27">
+				<coordinates>7.464713496065507,25.01716041456887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanktuarium Frühlingsstrand- Prophezeiung der Dryade</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[&nbsp;
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: KURZBESCHREIBUNG (CODE) -->(Sommer 1029 BF)<br />
+            <br />
+            Die Seeadler von Beilunk erreicht mit den Helden und Leatmon Phraisop die Insel Fr&uuml;hlingsstrand, wo die Mission des jungen Novizen eine Richtung bekommt. Die dryadische Wächterin der Insel bestätigt die drohende Gefahr und liefert in einer Prophezeiung einen Hinweis auf Abhilfe: Der Krug der heiligen Lindegard- geraubt von Xeraan<br />
+            (S. 16f)<br />
+            <br />
+            <i>Hinweis: Die genaue Lage des Sanktuariums l&auml;sst sich anhand der vorhandenen Karte nicht festmachen, das Sanktuarium befindet sich jedoch einige Meilen n&ouml;rdlich der bodenlosen Grube bei der Insel Rulat. Dieser Wegpunkt dient also lediglich als ungef&auml;hrer Anhaltspunkt der zweiten Station an die sich die Helden begeben.</i> <!-- END EDIT --><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a></p>
+            <p>&nbsp;</p>
+            <p>Weitere Beschreibungen&nbsp;&nbsp;<!-- EDIT: NAME DES ORTES--><a href="http://www.wiki-aventurica.de/index.php?search=Fr%C3%BChlingsstrand&amp;go=Artikel"><!-- END EDIT --><!-- EDIT: NAME DES ORTES -->der Insel Fr&uuml;hlingsstrand<!-- END EDIT --></a> existieren auf der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> leider noch nicht, der geneigte Autor ist jedoch eingeladen einen entsprechenden Atrikel unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a> zu verfassen.</p>
+            <p>&nbsp;</p>
+            <hr />
+            <div id="wiki">&nbsp;</div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>
+<br />]]></description>
+			<LookAt>
+				<longitude>11.4150632609445</longitude>
+				<latitude>30.88987876627984</latitude>
+				<altitude>1000</altitude>
+				<range>384116.3798617954</range>
+				<tilt>0</tilt>
+				<heading>2.999241805738328</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Szene15</styleUrl>
+			<Point id="KMLe_21">
+				<coordinates>11.09357534097349,30.76412121888914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Die Ratten verlassen das sinkende Schiff</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<br />
+(Sommer 1029)<br />
+<br />
+Nachdem klar ist, dass der Krug der heiligen Lindegard nicht in Mendena sondern bei Xeraan selbst zu suchen ist, erreichen die Helden das Heerlager Xeraans beim Wehrturm Flusswacht. Zun&auml;chst erweist es sich als unm&ouml;glich an den Krug heran zu kommen, aber es ergeben sich einige Gelegenheiten um Xeraans Heer zu sabotieren und ihm somit indirekt zu schaden. Mit Hilfe des Widerstandes gilt es also dieses zu tun und abzuwarten, bis sich eine Gelegenheit bietet Xeraan fort zu locken um an den Krug heran zu kommen.<br />
+(S.40- 50)]]></description>
+			<LookAt>
+				<longitude>9.310330837226914</longitude>
+				<latitude>30.99550758259896</latitude>
+				<altitude>0</altitude>
+				<range>81476.58433599127</range>
+				<tilt>0</tilt>
+				<heading>1.887593588692216</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#Szene10</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_26">
+				<coordinates>9.104878754000056,31.15467984305656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ende eines Unersättlichen &amp; Epilog: Im Garten der Göttin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[&nbsp;
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: KURZBESCHREIBUNG (CODE) -->(<b>Ende eines Uners&auml;ttlichen<br />
+            </b>(Sommer (sp&auml;testens Ende Travia) 1029 BF)<br />
+            <br />
+            Die Helden erreichen mit dem Krug der heiligen Lindegard Ilsur und treffen erneut auf Leatmon Phraisop. Es gilt einen in Xeraans Lager gefundenen Hinweis auf einen Spitzel zu kl&auml;ren- ehe dies jedoch m&ouml;glich ist, kommt es zu einem Mord, den aufzukl&auml;ren ebenfalls Sache der Helden ist. W&auml;hrend sie sich diesem Ziel n&auml;hern, &uuml;berschlagen sich die Ereignisse als Xeraans Truppen Ilsur best&uuml;rmen und der Tempel der Peraine (und somit die heiligen Quellen) durch Sch&auml;ndung f&uuml;r Xeraan zug&auml;ngig wird. In letzter Minute gelingt es den Helden gemeisam mit Leatmon Phraisop und dank des heiligen Kruges der Lindegard das Gebiet der heiligen Quellen neu einzusegnen und Xeraan zu vernichten. <br />
+            (S.51-60) <br />
+            <br />
+            <b><br />
+            Epilog: Im Garten der G&ouml;ttin</b><br />
+            (Travia 1029 BF)<br />
+            <br />
+            Leatmon Phraisop &uuml;bernimmt von Peraine berufen das Amt des Dieners des Lebens und macht Ilsur zum neuen Hauptsitz des Kultes. Dank G&ouml;ttlicher Verst&auml;ndigung erleben Perainegeweihte in ganz Aventurien dies mit. Eine neue &Auml;ra des Perainekultes wird eingeleitet. Xeraanien bricht zusammen, Helme Haffax errichtet in der folgenden Zeit das F&uuml;rtprotektorat Tobimora<br />
+            (S.61f) <!-- END EDIT --><a href="http://www.wiki-aventurica.de/"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" /></a></p>
+            <p>&nbsp;</p>
+            <p>Mehr zu&nbsp;&nbsp;<!-- EDIT: NAME DES ORTES--><a href="http://www.wiki-aventurica.de/index.php?title=Ilsur"><!-- END EDIT --><!-- EDIT: NAME DES ORTES -->Ilsur<!-- END EDIT --></a> und dem &nbsp;&nbsp;<!-- EDIT: NAME DES ORTES--><a href="http://www.wiki-aventurica.de/index.php?title=F%C3%BCrstprotektorat_Tobimora"><!-- END EDIT --><!-- EDIT: NAME DES ORTES -->F&uuml;rstprotektorat Tobimora<!-- END EDIT --></a>findet ihr auf der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> ; der Artikel steht unter der <a title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist f&uuml;r beide Artikel eine Liste der Autoren verf&uuml;gbar: <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Ilsur&amp;action=history">Ilsur</a>, <!-- END EDIT --><!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=F%C3%BCrstprotektorat_Tobimora&amp;action=history">F&uuml;rstprotektorat Tobimora</a> <!-- END EDIT -->; dort kann man beide bearbeiten:<!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=Ilsur&amp;action=edit">Ilsur</a>, <!-- EDIT: NAME DES ORTES --><a href="http://www.wiki-aventurica.de/index.php?title=F%C3%BCrstprotektorat_Tobimora&amp;action=edit">F&uuml;rstprotektorat Tobimora</a>.</p>
+            <p>&nbsp;</p>
+            <hr />
+            <div id="wiki">&nbsp;</div>
+            <!-- END EDIT --></td>
+        </tr>
+    </tbody>
+</table>
+<br />
+&nbsp;
+<p>&nbsp;</p>]]></description>
+			<LookAt>
+				<longitude>9.668942852115389</longitude>
+				<latitude>31.51078215932156</latitude>
+				<altitude>0</altitude>
+				<range>15354.31437309592</range>
+				<tilt>0</tilt>
+				<heading>0.2154758457351859</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#Szene10</styleUrl>
+			<Style>
+				<BalloonStyle>
+					<textColor>ff000000</textColor>
+					<bgColor>ffffffff</bgColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Point id="KMLe_24">
+				<coordinates>9.664894638524684,31.5148050526525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aufbruch ins Blaue</name>
+			<description>(Frühsommer)
+
+Die Helden gehen an Bord der Seeadler von Beilunk- je nach Abenteuereinstieg gemeinsam mit Leatmon oder dieser als blinder Passagier. 
+Nach einem Eidsegen der Crew durch den Bordkaplan erfolgt der Aufbruch in die die unsicheren Gewässer der Blutigen See.
+(S. 12-16)</description>
+			<LookAt>
+				<longitude>7.473312695716256</longitude>
+				<latitude>25.01236169053728</latitude>
+				<altitude>0</altitude>
+				<range>14018.69633605164</range>
+				<tilt>0</tilt>
+				<heading>-0.7697333114935354</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Szene12</styleUrl>
+			<Point>
+				<coordinates>7.477119789864871,25.00961535078841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Nötige Begegnungen- variable Orte</name>
+			<open>1</open>
+			<Placemark>
+				<name>Eine weitere Bitte Leatmons</name>
+				<description>(Frühsommer 1029 BF)
+Da es für Leatmon Phraisop viel zu gefährlich ist, sich auf die Suche nach dem heiligen Krug der Lindegard zu begeben, bittet er erneut die Helden ihm zu helfen, und den Krug zu erobern oder zu bergen und zu ihm zu bringen. Ein Gespräch mit Rateral Sanin eröffnet den Helden sein Wissen um einen möglichen Anlandungspunkt für sie, während Leatmon an Bord der Seeadler weiter nach Ilsur fährt.
+(S.18)
+
+Hinweis: Auch dieser Wegpunkt ist räumlich und auch zeitlich flexibel, es ist jedoch nötig dass er sich ereignet.</description>
+				<LookAt>
+					<longitude>10.29754060505552</longitude>
+					<latitude>31.69076689901023</latitude>
+					<altitude>0</altitude>
+					<range>399902.8208597755</range>
+					<tilt>0</tilt>
+					<heading>0.4833175974908506</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Szene13</styleUrl>
+				<Point>
+					<coordinates>10.97581347708849,31.53703757431039,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nachricht von Haffax</name>
+				<description>(Frühsommer 1029 BF)
+
+Als die Seeadler von Beilunk den Golf von Perricum passiert, trifft sie auf einen Verband schwarzmaraskanischer Schiffe unter der Flagge der Fürstkomturei. Mittels Flaggensignalen verständigt man sich zu einem Informationsaustausch und die Helden müssen entdecken, dass Rateral Sanin Helme Haffax offenbar nicht als seinen Feind betrachtet. Während Haffax Informationen über seine Truppenstärke und sein Vorgehen in Xeraanien preis gibt, sowie um Waffenhilfe gegen Xeraan  bittet, teilt Sanin diesem Neuigkeiten bezüglich der Flotte Admiral Darion Paligans mit und sagt zu, vermehrt xeraanische Piraten zu attackieren.
+
+Hinweis: Diese Begegnung ist räumlich variabel, sie ereignet sich etwa auf der Hälfte der Strecke nachdem die Seeadler die elburische Halbinsel passiert hat, allerdings ehe die tobrische Küste in Sicht kommt.
+(S. 14f)</description>
+				<LookAt>
+					<longitude>6.643687337770534</longitude>
+					<latitude>27.13455404164422</latitude>
+					<altitude>0</altitude>
+					<range>824427.0136105269</range>
+					<tilt>0</tilt>
+					<heading>-1.121071783684318</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Szene10</styleUrl>
+				<Point>
+					<coordinates>10.11406361757956,28.19799942414397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kontakte mit einem Totengräber</name>
+				<description>(Frühsommer 1029 BF)
+
+Durch das Einschreiten der Helden in Feuerhafen gewinnen sie das Vertrauen der Dörfler und bekommen im umliegenden Torfland einen Kontakt zu einer Widerstandsgruppe um einen Mann namens Just der Totengräber.
+Nach Wunsch des Meisters kann dieser erste Vermutungen der Helden bestätigen, dass der wahrscheinlichste Hinweis auf den Verbleib des Kruges Mendena ist. Er kann ebenfalls einen vertrauenswürdigen Kontakt innerhalb Mendenas benennen.
+
+(S.20)
+
+Hinweis: Dieser Wegpunkt ist vom Meister räumlich zu variieren, falls die Helden in Feuerhafen nicht einschreiten, wird die Widerstandsgruppe auf die Fremden aufmerksam und beobachtet sie- zu einem Kontakt kommt es allerdings erst deutlich später.</description>
+				<LookAt>
+					<longitude>10.29754060505552</longitude>
+					<latitude>31.69076689901023</latitude>
+					<altitude>0</altitude>
+					<range>399902.8208597755</range>
+					<tilt>0</tilt>
+					<heading>0.4833175974908506</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_Szene14</styleUrl>
+				<Point>
+					<coordinates>10.2610792542439,31.5759558435087,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Wege Unersättlicher</name>
+	</Folder>
+</Document>
+</kml>

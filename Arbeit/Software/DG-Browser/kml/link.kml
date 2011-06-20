@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document id="GD_Models">
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>Modelle</name>
+    <NetworkLink>
+      <visibility>1</visibility>
+      <name>Hintergrund</name>
+      <Link>
+        <refreshMode />
+        <refreshInterval />
+        <viewRefreshMode />
+        <viewRefreshTime />
+        <href>bg.kml</href>
+      </Link>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Style>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+    </NetworkLink>
+    <NetworkLink>
+      <visibility>1</visibility>
+      <name>Thamorstestgebiet</name>
+      <Link>
+        <refreshMode />
+        <refreshInterval />
+        <viewRefreshMode />
+        <viewRefreshTime />
+        <href>http://www.dereglobus2.orkenspalter.com/download/Netzwerklink.kmz</href>
+      </Link>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Style>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+    </NetworkLink>
+    <Placemark>
+      <visibility>1</visibility>
+      <name>Pereinefurthen</name>
+      <LookAt>
+        <longitude>8.10122067110032</longitude>
+        <latitude>32.8046277759462</latitude>
+        <altitude>1000</altitude>
+        <range>41199.0241541462</range>
+        <tilt>0</tilt>
+        <heading>16.8455985624463</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+            <refreshMode />
+            <refreshInterval />
+            <viewRefreshMode />
+            <viewRefreshTime />
+          </Icon>
+          <hotSpot />
+        </IconStyle>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+      <Point id="KMLe_112">
+        <coordinates>8.09920661112977,32.8058260054687</coordinates>
+        <altitudeMode>clampToGround</altitudeMode>
+      </Point>
+      <description>Hier befindet sich unserer Projektfokus !</description>
+      <Snippet maxLines="0">
+      </Snippet>
+    </Placemark>
+    <NetworkLink id="Muehle">
+      <visibility>1</visibility>
+      <name>Mühle</name>
+      <Link>
+        <refreshMode />
+        <refreshInterval />
+        <viewRefreshMode />
+        <viewRefreshTime />
+        <href>http://www.dereglobus2.orkenspalter.com/modelle/perainefurten/muehle.kmz</href>
+      </Link>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Style>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+    </NetworkLink>
+    <NetworkLink>
+      <visibility>0</visibility>
+      <name>Nebel</name>
+      <Link>
+        <refreshMode />
+        <refreshInterval />
+        <viewRefreshMode />
+        <viewRefreshTime />
+        <href>nebel.kml</href>
+      </Link>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Style>
+        <BalloonStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <textColor>FF000000</textColor>
+        </BalloonStyle>
+      </Style>
+    </NetworkLink>
+    <Style id="Style_-605965307">
+      <BalloonStyle>
+        <bgColor>FFFFFFFF</bgColor>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <LookAt>
+      <longitude>8.07229206205847</longitude>
+      <latitude>32.824888962447</latitude>
+      <altitude>1000</altitude>
+      <range>33356.9402985363</range>
+      <tilt>0</tilt>
+      <heading>-2.77053286998523</heading>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+    <description>Netzwerklinks zu allen Modellen des&amp;nbsp;Dereglobus&amp;nbsp;</description>
+    <Snippet maxLines="0">
+    </Snippet>
+  </Document>
+</kml>

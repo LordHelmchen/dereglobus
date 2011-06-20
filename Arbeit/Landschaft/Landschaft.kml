@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Landschaft</name>
+	<open>0</open>
+	<visibility>0</visibility>
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Landschaftstypen</name>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Landschaft/kml/Landschaftstypen/Landschaftstypen.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Flüsse</name>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.com/svn/DereGlobus/Projekte/Landschaft/Landschaftsmerkmale/Fluesse.kml</href>
+		</Link>
+	</NetworkLink>
+
+</Document>
+</kml>

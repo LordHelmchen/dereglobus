@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Publikationen</name>
+	<open>1</open>
+
+	
+		<Style id="Mysterien">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Publikationen/media/icons/Mysterium.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+<NetworkLink>
+	<name>Romane</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Publikationen/kml/Romane/Romane.kml</href>
+	</Link>
+</NetworkLink>	
+	
+	
+<NetworkLink>
+	<name>Abenteuer</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Publikationen/kml/Abenteuer/Abenteuer.kml</href>
+	</Link>
+</NetworkLink>
+
+
+<NetworkLink>
+	<name>Handlungsorte (MI)</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Publikationen/kml/Abenteuer/Handlungsorte_MI/Handlungsorte.kml</href>
+	</Link>
+</NetworkLink>
+
+<NetworkLink>
+	<name>Mysteria et Arcana (MI)</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Publikationen/kml/Mysterien_MI/Mysterien.kml</href>
+	</Link>
+	<styleUrl>#Mysterien</styleUrl>
+</NetworkLink>
+
+
+</Document>
+</kml>

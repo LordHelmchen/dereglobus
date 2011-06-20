@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:view="de.oldcastle.view.*"
+	layout="absolute">
+	<mx:Script>
+		<![CDATA[
+			
+			import de.oldcastle.model.WizardModelLocator;
+			[Bindable]
+			private var wizardML:WizardModelLocator = WizardModelLocator.getInstance();
+			
+		]]>
+	</mx:Script>
+	
+	<mx:ViewStack id="ContentEditorVS" 
+		width="600" 
+		height="400" 
+		selectedIndex="{wizardML.contentEditor_wfState}">
+		<view:KMLInput/>
+		<view:ObjectEditor/>
+	</mx:ViewStack>
+	<!--
+	<mx:ArrayCollection id="myData">
+		<mx:Object objectclass = "Siedlung" objectname="Andergast" style="Großstadt" author="Frank" />
+		<mx:Object objectclass = "Siedlung" objectname="Nostria" style="Großstadt" author="Frank" />
+		<mx:Object objectclass = "Siedlung" objectname="Festum" style="Metropole" author="Kevin" />
+		<mx:Object objectclass = "Siedlung" objectname="Gareth" style="Dorf" author="Dörte" />
+		<mx:Object objectclass = "Siedlung" objectname="Perricum" style="Stadt" author="Frank" />
+	</mx:ArrayCollection>
+	
+	<mx:DataGrid editable="true" dataProvider="{myData}" width="100%">
+		<mx:columns>
+			<mx:DataGridColumn dataField="objectclass" editable="true" />
+			<mx:DataGridColumn dataField="objectname" editable="true" />
+			<mx:DataGridColumn dataField="style" editable="true">
+				<mx:itemEditor>
+					<mx:Component>
+						<mx:ComboBox>
+							<mx:dataProvider>
+								<mx:ArrayCollection>
+									<mx:String>Metropole</mx:String>
+									<mx:String>Großstadt</mx:String>
+									<mx:String>Stadt</mx:String>
+									<mx:String>Kleinstadt</mx:String>
+									<mx:String>Dorf</mx:String>
+									<mx:String>Festung</mx:String>
+								</mx:ArrayCollection>
+							</mx:dataProvider>
+						</mx:ComboBox>
+					</mx:Component>
+				</mx:itemEditor>
+			</mx:DataGridColumn>
+			<mx:DataGridColumn dataField="author" editable="true" />
+		</mx:columns>
+	</mx:DataGrid>
+	-->
+</mx:Application>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Drachenchronik_Uebersichtskarte_INOFF_WIP.kml</name>
+	<Style id="sn_campground">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Berg">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Landschaft/media/icons/Berg.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff3f7cad</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Gewaesser">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Landschaft/media/icons/Gewaesser.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_Berg">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Landschaft/media/icons/Berg.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff3f7cad</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_Gewaesser">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://dereglobus.orkenspalter.com/svn/Release/DereGlobus/Landschaft/media/icons/Gewaesser.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Berg">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Berg</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Berg</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Gewaesser">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Gewaesser</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Gewaesser</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_campground">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campground</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campground</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_campground">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Übersichtskarte</name>
+		<open>1</open>
+		<Placemark>
+			<name>Ausgrabungsstätte</name>
+			<LookAt>
+				<longitude>2.415952706410616</longitude>
+				<latitude>23.88904539679049</latitude>
+				<altitude>0</altitude>
+				<range>102.6444890394819</range>
+				<tilt>0</tilt>
+				<heading>-1.472897913294012</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campground</styleUrl>
+			<Point>
+				<coordinates>2.415938698084357,23.88888320425434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wasserstelle</name>
+			<LookAt>
+				<longitude>2.403226703494372</longitude>
+				<latitude>23.89241697706423</latitude>
+				<altitude>0</altitude>
+				<range>8.376848110900168</range>
+				<tilt>0</tilt>
+				<heading>-1.478051478777769</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Gewaesser</styleUrl>
+			<Point>
+				<coordinates>2.40321012870653,23.89241119745344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oase Birscha</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+2.279669293724964,23.78681118176927,100 2.283528674472648,23.78614531884545,100 2.28917944069567,23.78596732498039,100 2.294057210969842,23.78601628624367,100 2.298664209635759,23.7872372523882,100 2.30120338948554,23.78961235722932,100 2.303996574382297,23.79222485806994,100 2.306273568360224,23.79506709804854,100 2.307774806737075,23.7983714885007,100 2.310063166014444,23.80027381766829,100 2.315960172478184,23.80103684329994,100 2.3195604092381,23.80060227298843,100 2.32393099891721,23.80017511186242,100 2.331656406935529,23.79837055430122,100 2.33779711706148,23.80030973444616,100 2.341870028749713,23.80340360492108,100 2.344915979235469,23.80648748229526,100 2.347164244978905,23.81191326112777,100 2.348921007343845,23.8154545409563,100 2.350412882992503,23.81969811024538,100 2.351410289055964,23.82229220572869,100 2.356266245064302,23.82445338432408,100 2.36140657882169,23.82426755136603,100 2.36600368987328,23.82666098000811,100 2.367009752624647,23.82855027216743,100 2.366477063468242,23.83018995240221,100 2.362845261144724,23.83320979693657,100 2.358940385446173,23.83763657497288,100 2.354802921782915,23.83994631019638,100 2.349391898014761,23.84130375492382,100 2.342199257695898,23.84123398689216,100 2.335261174588725,23.8414013174408,100 2.331930294648099,23.84066393582284,100 2.327840016229852,23.83897930258,100 2.32426361624499,23.83729964038633,100 2.317862348505355,23.8355920635915,100 2.313259113719586,23.83390205180201,100 2.310191334328506,23.83269700817071,100 2.307145990871877,23.82961269057598,100 2.301312598286862,23.82344642589415,100 2.297782296904896,23.81800770263048,100 2.290132811930148,23.81346721864538,100 2.283005791596091,23.80822663909721,100 2.279484988080198,23.80208228058175,100 2.277002699189601,23.79500824344443,100 2.278106243961224,23.78867516840145,100 2.279669293724964,23.78681118176927,100 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Beni Achawi</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+2.352121833365637,23.85187352546155,100 2.354002004710092,23.85565916605798,100 2.357787347048073,23.85945538725121,100 2.364112917196373,23.86326552222085,100 2.371383553252504,23.86824188426052,100 2.37739939368421,23.87088802725389,100 2.384354793682084,23.87557141985571,100 2.392263095485381,23.88025948893914,100 2.399867153114343,23.88291303477955,100 2.408101091580854,23.88644054101172,100 2.408277715916591,23.88771609583815,100 2.408504086561301,23.89136265882927,100 2.408111784629341,23.89432250516801,100 2.406716980574746,23.89818850513476,100 2.404314502101423,23.90375817962692,100 2.401181161347985,23.90900936494422,100 2.397520964782329,23.91487829202399,100 2.392638492476293,23.92294898520733,100 2.388169707711241,23.92918186488559,100 2.383304865555285,23.93430859318327,100 2.377653449799635,23.93648663348857,100 2.371303617153324,23.93939248108689,100 2.365121765499549,23.94435314886077,100 2.359952931550895,23.95119317039816,100 2.349985960543051,23.96019137153592,100 2.337115686023124,23.96594762771371,100 2.327042159892494,23.96786351469361,100 2.308648034407428,23.97203901849297,100 2.286364977770314,23.97074224529478,100 2.269666616734849,23.96397707313143,100 2.253327658957078,23.95104395990223,100 2.246233107180524,23.93848180658492,100 2.242921885166245,23.92375389590353,100 2.247815287540491,23.91033009123228,100 2.249261858538558,23.90001430555191,100 2.248064077589314,23.88528126417048,100 2.242935059352247,23.87682300029956,100 2.241618439512434,23.8699318232053,100 2.243746376874132,23.85993374106303,100 2.250285707814599,23.85465623609732,100 2.262979080764913,23.84972947919073,100 2.271908998975101,23.84477850495998,100 2.283914359451522,23.84015826919191,100 2.294597028761769,23.83627059128591,100 2.30226311281345,23.83374060824006,100 2.310191334328506,23.83269700817071,100 2.313259113719586,23.83390205180201,100 2.317862348505355,23.8355920635915,100 2.32426361624499,23.83729964038633,100 2.327840016229852,23.83897930258,100 2.331930294648099,23.84066393582284,100 2.335261174588725,23.8414013174408,100 2.342199257695898,23.84123398689216,100 2.349391898014761,23.84130375492382,100 2.350249356738725,23.84692621647994,100 2.352121833365637,23.85187352546155,100 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Beni Schuf</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+2.413292500413991,23.88667559785009,100 2.418731495289674,23.88723152726369,100 2.425035907241779,23.88841932478589,100 2.429513509592274,23.88941821077626,100 2.430664173422792,23.88958386065098,100 2.437377283243805,23.89262233825769,100 2.449063580476181,23.89962421442118,100 2.463479024461086,23.90326934667934,100 2.477447442593057,23.90826733635287,100 2.487168668682367,23.91100114102633,100 2.499083831000906,23.91559156808631,100 2.509897089635746,23.92017565358555,100 2.520342650591563,23.92492505021392,100 2.529873224572092,23.92916583097386,100 2.538123949712854,23.93239287894244,100 2.548207428616789,23.93293209070412,100 2.548206554245034,23.93310075818115,100 2.553313128708601,23.9342159259158,100 2.562576545432393,23.93764827113258,100 2.571397981931107,23.93683724152025,100 2.579757761014425,23.93559966836562,100 2.5839097974661,23.94070621087137,100 2.59316617155176,23.9462577622488,100 2.6005872218407,23.94756024517123,100 2.606620132117943,23.94800860479367,100 2.611699450106273,23.95396705647959,100 2.61306122823997,23.96075915602149,100 2.614880039874972,23.96925001095518,100 2.615319567008421,23.97476626262709,100 2.614824752047955,23.9815515050598,100 2.611551062342996,23.98662873696446,100 2.604107112785075,23.98956766491618,100 2.597586174033759,23.99378274764764,100 2.589679846528048,23.99629487773671,100 2.581305228194541,23.99965309665948,100 2.57525437378308,24.0025967271776,100 2.569195187910738,24.00723705667605,100 2.563131529436227,24.01272575227649,100 2.555720651406601,24.00887516638197,100 2.547852788946239,24.00374990370297,100 2.540452483329998,23.99820255569939,100 2.529803663196153,23.99264068076544,100 2.521936901305326,23.98793946282344,100 2.512209705529871,23.98407788777895,100 2.499688999598859,23.98189954080041,100 2.491824611853712,23.97719748371968,100 2.483039878537792,23.97121848734589,100 2.474700447088831,23.9686341881611,100 2.468684266853181,23.96563657601046,100 2.459886175755799,23.96220115213587,100 2.452001343739036,23.96131442423951,100 2.439493091758136,23.95743553695661,100 2.429777497927286,23.95229737459832,100 2.420518348708722,23.94843322528295,100 2.410328179978654,23.94498773874808,100 2.404768828009578,23.94326227739591,100 2.393180140852265,23.94065645274762,100 2.387623116333741,23.93850611178435,100 2.383304865555285,23.93430859318327,100 2.388169707711241,23.92918186488559,100 2.392638492476293,23.92294898520733,100 2.397520964782329,23.91487829202399,100 2.401181161347985,23.90900936494422,100 2.404314502101423,23.90375817962692,100 2.406716980574746,23.89818850513476,100 2.408111784629341,23.89432250516801,100 2.408504086561301,23.89136265882927,100 2.408277715916591,23.88771609583815,100 2.408101091580854,23.88644054101172,100 2.413292500413991,23.88667559785009,100 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Djurkaram-Massiv</name>
+			<LookAt>
+				<longitude>2.438462306634379</longitude>
+				<latitude>23.91970124005009</latitude>
+				<altitude>0</altitude>
+				<range>70508.98903477761</range>
+				<tilt>0</tilt>
+				<heading>-0.1874862844816408</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Berg</styleUrl>
+			<Point>
+				<coordinates>2.469000586206152,23.8573437873571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beni Schuf</name>
+			<LookAt>
+				<longitude>2.438462306634379</longitude>
+				<latitude>23.91970124005009</latitude>
+				<altitude>0</altitude>
+				<range>70508.98903477761</range>
+				<tilt>0</tilt>
+				<heading>-0.1874862844816408</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>2.486875582113353,23.93719833592886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beni Achawi</name>
+			<LookAt>
+				<longitude>2.387266163853927</longitude>
+				<latitude>23.88580364795275</latitude>
+				<altitude>0</altitude>
+				<range>49212.46401126819</range>
+				<tilt>0</tilt>
+				<heading>-0.1991012829310617</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>2.317376161106755,23.9016617723999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

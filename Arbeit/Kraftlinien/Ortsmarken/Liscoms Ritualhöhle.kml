@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Liscoms Ritualhöhle.kml</name>
+	<StyleMap id="nodix_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="nodix_1-h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="nodix_1-n">
+		<IconStyle>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Kraftlinien/media/icons/Magischer_Ort3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Ritualhöhle</name>
+		<description>In dieser Höhle hält Liscom den entführten Colon gefangen und bereitet die Beschwörung Borbarads vor.</description>
+		<LookAt>
+			<longitude>6.181779441804304</longitude>
+			<latitude>24.9147181990151</latitude>
+			<altitude>0</altitude>
+			<range>4881.732906687618</range>
+			<tilt>0</tilt>
+			<heading>-0.009483441916638776</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#nodix_1</styleUrl>
+		<Point>
+			<coordinates>6.18185475188004,24.91458376357206,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

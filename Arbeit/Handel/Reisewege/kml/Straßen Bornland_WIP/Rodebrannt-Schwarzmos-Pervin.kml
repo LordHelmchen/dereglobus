@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rodebrannt-Schwarzmos-Pervin.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Rodebrannt-Schwarzmos-Pervin</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+9.744845395542717,35.63277493977782,0 9.730395635088724,35.63002647871699,0 9.681182745704662,35.62929754134836,0 9.648688635557214,35.63506745583421,0 9.626319087774656,35.63541869358279,0 9.595918933185594,35.64876884398908,0 9.576620912215049,35.65505271897996,0 9.558640994273507,35.66072981791292,0 9.537950121473386,35.66651147334481,0 9.49524921398752,35.70182724622794,0 9.466992672037293,35.74098658915899,0 9.44439061411857,35.74959020660713,0 9.418395347829282,35.74673800826759,0 9.388127817773178,35.77604711205467,0 9.378734552082706,35.79020676747189,0 9.391066279859592,35.80352926254568,0 9.414298260598301,35.81698104085375,0 9.414731224009685,35.8362894132044,0 9.46190766837737,35.86316723762329,0 9.51710836940215,35.88696471607935,0 9.579207343213982,35.92270905133727,0 9.628396775049842,35.95879447355188,0 9.657277523075656,35.96314566646197,0 9.676919794278883,35.97227657339049,0 9.695686193141953,35.98789423377756,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

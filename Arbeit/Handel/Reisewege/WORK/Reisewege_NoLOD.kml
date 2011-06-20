@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+		
+		<NetworkLink> <!-- Reichsstra�en -->
+			<name>Reichsstra�en</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Reichsstrassen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink> <!-- Reichslandstra�en -->
+			<name>Reichslandstra�en</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Reichslandstrassen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink> <!-- Landstra�en -->
+			<name>Landstra�en</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Landstrassen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink> <!-- Wege -->
+			<name>Wege</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Wege.kml</href>
+			</Link>
+		</NetworkLink>
+		
+	
+</Document>
+</kml>
+

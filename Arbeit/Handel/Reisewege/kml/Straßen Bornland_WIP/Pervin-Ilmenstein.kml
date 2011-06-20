@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pervin-Ilmenstein.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Pervin-Ilmenstein</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+9.702429327115009,35.9925038171345,0 9.69525328871149,36.00213333512866,0 9.63017517716877,36.05748121157544,0 9.614968350875039,36.08265720723621,0 9.588989777778261,36.09464910717089,0 9.566962953224738,36.10061285347234,0 9.555362435363668,36.12205589851135,0 9.542510001402391,36.15425191133789,0 9.508855552385596,36.18134883421436,0 9.486285920392776,36.2031605362794,0 9.452739020968252,36.20802762124647,0 9.421891313107128,36.21205451028607,0 9.396260615547147,36.21110228602021,0 9.387846622806146,36.22466130755221,0 9.389326429729525,36.23529872307328,0 9.389805279140248,36.26145423508107,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

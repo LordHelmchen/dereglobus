@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Usnadamm-Skorpsky.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Usnadamm-Skorpsky</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+9.091494476507984,32.97989679670575,0 9.109478027492653,32.99588464329707,0 9.123781227130362,33.01835040183168,0 9.143447903361025,33.02877596414859,0 9.171131368712278,33.03012842174343,0 9.224538946503802,33.02332157126516,0 9.257173947437467,33.03270727361082,0 9.283554621470433,33.04900212172648,0 9.304299719265188,33.05726864174709,0 9.337958087700573,33.06104014876739,0 9.383424308871058,33.0751132456237,0 9.41195831228239,33.07907169844567,0 9.441233112375024,33.08639529716289,0 9.466260526010728,33.10231520122658,0 9.508075883008257,33.11991612637993,0 9.560648967131094,33.13231622461042,0 9.606365483225066,33.13711099508436,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Feidewaldstra�e</name>
+	<open>1</open>
+		<Placemark> 	<!-- Feidewaldstra�e-->
+			<name>Feidewaldstra�e</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<p>
+									<I>Zeitraum:</I> 
+									<a 	
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:**btime**" 
+										title="Chronik:**btime**"
+									> 
+										**btime**
+									</a> 
+									BF bis  
+									<a 
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:**etime**" 
+										title="Chronik:**etime**"
+									> 
+										**etime**
+									</a> 
+										BF
+								</p>
+								**Beschreibung**
+							</p>
+							<a name="Publikationen" id="Publikationen"></a>
+							<h2>
+								<span class="mw-headline">Publikationen</span>
+							</h2>
+							<a name="Wichtigste_Quellen" id="Wichtigste_Quellen"></a>
+							<h3>
+								<span class="mw-headline">Wichtigste Quellen</span>
+							</h3>
+							<ul>
+								<li>
+									**quelle1**
+								</li>
+							</ul>
+							<a name="Weitere_Quellen" id="Weitere_Quellen"></a>
+							<h3>
+								<span class="mw-headline">Weitere Quellen</span>
+							</h3>
+							<ul>
+								<li>
+									**quelle2**
+								</li>
+							</ul>
+							<a name="Erw.C3.A4hnungen" id="Erw.C3.A4hnungen"></a>
+							<h3>
+								<span class="mw-headline">Erw�hnungen</span>
+							</h3>
+							<ul>
+								<li>
+									**quelle3**
+								</li>
+							</ul>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Feidewaldstra�e">
+											Feidewaldstra�e
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Feidewaldstra�e&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Feidewaldstra�e&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse#Reichslandstrasse#Landstrasse#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.741419032953304,29.78065831410889,0 	<!-- Punkt aus RS 2 --> <!-- <POI>SOE:Reichstra�e 1</POI> --> <!-- <POI>Siedlung:Gareth</POI> -->
+					3.863185725445391,29.79382228790378,0 
+					3.926346460554666,29.78346219044142,0 	<!-- <POI>Kreuzung:</POI> -->
+					3.980022927178191,29.78077640622225,0 
+					3.99832973290835,29.78584930569897,0 
+					4.037278311907468,29.78625325297809,0 
+					4.057304102505917,29.77953431647076,0 
+					4.087992080586238,29.7799481192125,0 
+					4.19966382797366,29.81458903819957,0 
+					4.286249761538052,29.81727196842035,0 
+					4.379919107092105,29.8501864582646,0 	<!-- <POI>Siedlung:Hartsteen</POI> -->
+					4.443395290363172,29.83630955310154,0 	<!-- <POI>AbzweigRechts:</POI> -->
+					4.506064197052297,29.83438208968827,0 
+					4.607176266302759,29.86338511828748,0 
+					4.669050307699239,29.86241005742997,0 
+					4.715183627678536,29.86870553004143,0 
+					4.755577599104582,29.86171332236171,0 	<!-- <POI>Siedlung: Unbekannt</POI> -->
+					4.81095876606032,29.85202126475371,0 
+					4.903088777753375,29.85988515082664,0 
+					4.959481154748877,29.85165705154746,0 	<!-- <POI>AbzweigRechts:Richtung Feste Hohenstein</POI> -->
+					5.080751491892841,29.8335015041584,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					5.123877637438992,29.83558786485802,0 
+					5.15415617613164,29.84702405067068,0 
+					5.204302335309028,29.85412590359555,0 
+					5.247683037179638,29.88177895176255,0 	<!-- <POI>Siedlung:Rommilys</POI> --> <!-- <POI>SOE:Reichstra�e 1</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>**ZEIGERDATUM**</when>
+				</gx:TimeStamp>
+				<longitude>4.4945510350665</longitude>
+				<latitude>29.83065663411667</latitude>
+				<altitude>160000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>**</begin>
+				<end>**</end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

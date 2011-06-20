@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Garbeln-Usipaunen.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Garbeln-Usipaunen</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+10.29935236732636,34.10957336684523,0 10.29908643872788,34.14392797536954,0 10.32628150372661,34.17484511096257,0 10.35733531007701,34.22347095438349,0 10.36720276524596,34.27811958017684,0 10.38821579803377,34.32405091017977,0 10.38083408769787,34.38165871482532,0 10.38795792712738,34.39670798436704,0 10.38810813024527,34.42997859705368,0 10.40792663130246,34.45231318400349,0 10.43616183459423,34.4764109909888,0 10.44723377525315,34.49129421333416,0 10.44798922414084,34.50451248282722,0 10.43799553535075,34.51679088634841,0 10.44095463596665,34.53417569741005,0 10.43444735203129,34.54664550290176,0 10.4350179970529,34.56092646544179,0 10.43246362868226,34.56784411589674,0 10.4340473016818,34.59030862643594,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

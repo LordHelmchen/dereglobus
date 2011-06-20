@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>**NAME**</name>
+	<open>1</open>
+		<Placemark> 	<!-- **NAME**-->
+			<name>**NAME**</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<p>
+									<I>Zeitraum:</I> 
+									<a 	
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:**btime**" 
+										title="Chronik:**btime**"
+									> 
+										**btime**
+									</a> 
+									BF bis  
+									<a 
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:**etime**" 
+										title="Chronik:**etime**"
+									> 
+										**etime**
+									</a> 
+										BF
+								</p>
+								**Beschreibung**
+							</p>
+							<a name="Publikationen" id="Publikationen"></a>
+							<h2>
+								<span class="mw-headline">Publikationen</span>
+							</h2>
+							<a name="Wichtigste_Quellen" id="Wichtigste_Quellen"></a>
+							<h3>
+								<span class="mw-headline">Wichtigste Quellen</span>
+							</h3>
+							<ul>
+								<li>
+									**quelle1**
+								</li>
+							</ul>
+							<a name="Weitere_Quellen" id="Weitere_Quellen"></a>
+							<h3>
+								<span class="mw-headline">Weitere Quellen</span>
+							</h3>
+							<ul>
+								<li>
+									**quelle2**
+								</li>
+							</ul>
+							<a name="Erw.C3.A4hnungen" id="Erw.C3.A4hnungen"></a>
+							<h3>
+								<span class="mw-headline">Erw�hnungen</span>
+							</h3>
+							<ul>
+								<li>
+									**quelle3**
+								</li>
+							</ul>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=**NAME**">
+											**NAME**
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=**NAME**&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=**NAME**&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse#Reichslandstrasse#Landstrasse#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						**Koordinaten**
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<gx:TimeStamp>
+					<when>**ZEIGERDATUM**</when>
+				</gx:TimeStamp>
+				<longitude>**X**</longitude>
+				<latitude>**Y**</latitude>
+				<altitude>**HOHE**</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>**</begin>
+				<end>**</end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

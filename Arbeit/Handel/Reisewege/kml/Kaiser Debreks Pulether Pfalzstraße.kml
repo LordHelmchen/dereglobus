@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Debreks Pulether Pfalzstra�e</name>
+	<open>1</open>
+	<Folder>	<!-- Debreks Pulether Pfalzstra�e (Kaiser Debreks Pulether Pfalzstra�e (Reichsstra�e 2)) -->
+		<name>Debreks Pulether Pfalzstra�e (Kaiser Debreks Pulether Pfalzstra�e (Reichsstra�e 2)</name>
+		<open>0</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark> <!-- Debreks Pulether Pfalzstra�e (Kaiser Debreks Pulether Pfalzstra�e (Reichsstra�e 2)) bis 1025 BF-->
+			<name>Debreks Pulether Pfalzstra�e</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							<p>
+								<I>Zeitraum:</I> 
+								<a 	
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:Vorzeit_bis_1000_v._BF" 
+									title="Chronik:Vorzeit_bis_1000_v._BF"
+								> 
+									Chronik:Vorzeit bis 1000 v. BF
+								</a> 
+								BF bis  
+								<a 
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:1025" 
+									title="Chronik:1025"
+								> 
+									1025
+								</a> 
+									BF
+							</p>
+								*Beschreibung**
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e">
+											Debreks_Pulether_Pfalzstra�e
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					04.923436,  32.868222,  0 	<!-- <POI>Siedlung:Baliho</POI> -->
+					04.950729,  32.836574,  0 
+					04.961531,  32.793437,  0 
+					04.989986,  32.755953,  0 
+					05.017214,  32.717552,  0 
+					05.057039,  32.686336,  0 
+					05.081811,  32.654467,  0 	<!-- <POI>Siedlung:Altnorden</POI> -->
+					05.087376,  32.614449,  0 
+					05.052060,  32.558318,  0 
+					05.008808,  32.502673,  0 
+					04.971807,  32.472189,  0 
+					04.935625,  32.423393,  0 
+					04.897865,  32.400346,  0 
+					04.871355,  32.365757,  0 
+					04.818337,  32.325015,  0 
+					04.774945,  32.286940,  0 
+					04.755654,  32.251580,  0 	<!-- <POI>Siedlung:Menzheim</POI> -->
+					04.729612,  32.205278,  0 
+					04.720044,  32.171974,  0 
+					04.702506,  32.125784,  0 
+					04.658575,  32.085682,  0 
+					04.614702,  32.042194,  0 
+					04.574059,  32.000064,  0 
+					04.552622,  31.958649,  0 
+					04.523925,  31.936186,  0 	<!-- <POI>Kreuzung:Auen-Blauenburg</POI> -->
+					04.494296,  31.913016,  0 
+					04.429173,  31.825923,  0 
+					04.364994,  31.747022,  0 	<!-- <POI>Siedlung:Barken</POI> -->
+					04.311056,  31.618141,  0 	<!-- <POI>SOE:R2-Hallingen</POI> -->
+					04.270714,  31.577237,  0 
+					04.222321,  31.469043,  0 	<!-- <POI>Siedlung:Galbenburg</POI> -->
+					04.097748,  31.249132,  0 
+					04.080219,  31.205155,  0 	<!-- <POI>Siedlung:Walsend</POI> -->
+					04.050484,  31.185432,  0 
+					03.997872,  31.092847,  0 	<!-- <POI>Siedlung:Helmdahl</POI> -->
+					03.979298,  31.063090,  0 
+					03.977474,  31.008523,  0 	<!-- <POI>SOE:R2-Burg Auraleth</POI> -->
+					03.970179,  30.960296,  0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+					03.968174,  30.928797,  0 	<!-- <POI>Fluss:Dergel</POI> -->
+					03.967474,  30.885752,  0 	<!-- <POI>Siedlung:Perz</POI> -->
+					03.910928,  30.774493,  0 	<!-- <POI>Kreuzung:St. Praiodan-Dergel</POI> -->
+					03.890860,  30.685934,  0 	<!-- <POI>Siedlung:Kaiserhain</POI> -->
+					03.872258,  30.532522,  0 	<!-- <POI>Siedlung:Puleth</POI> -->
+					03.863495,  30.437646,  0 
+					03.812792,  30.340256,  0 
+					03.769715,  30.258125,  0 	<!-- <POI>Siedlung:Natzungen</POI> -->
+					03.791216,  30.133112,  0 
+					03.816429,  30.043026,  0 
+					03.816100,  29.975525,  0 
+					03.800347,  29.913566,  0 
+					03.777738,  29.876249,  0 	<!-- <POI>SOE:R2-Rohalsweiler</POI> -->
+					03.742339,  29.780528,  0 	<!-- <POI>Siedlung:Gareth</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>-1600</when>
+				</gx:TimeStamp>
+				<longitude>4.364994128621476</longitude>
+				<latitude>31.269043</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>-1600-01-01</begin>
+				<end>1025-01-01</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> <!-- Kaiser Debreks Pulether Pfalzstra�e (Reichsstra�e 2) ab 1025 BF bis 1027 BF-->
+			<name>Debreks Pulether Pfalzstra�e</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<p>
+									<I>Zeitraum:</I> 
+									<a 	
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:1025" 
+										title="Chronik:1025"
+									> 
+										1025
+									</a> 
+									BF bis  
+									<a 
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" 
+										title="Chronik:1027"
+									> 
+										1027
+									</a> 
+										BF
+								</p>
+								*Beschreibung**
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e">
+											Debreks_Pulether_Pfalzstra�e
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					05.060106,  33.646034,  0 	<!-- <POI>SOE:Reichsstra�e 2</POI> --><!-- <POI>Siedlung:Trallop</POI> -->
+					05.060565,  33.645236,  0 
+					05.060647,  33.645045,  0 	<!-- <POI>SOE:</POI> -->
+					05.060817,  33.644705,  0 
+					05.062104,  33.641289,  0 
+					05.063210,  33.636836,  0 
+					05.063390,  33.631766,  0 
+					05.060244,  33.627283,  0 
+					05.056338,  33.616598,  0 
+					05.048401,  33.559976,  0 
+					05.035966,  33.522687,  0 
+					05.041347,  33.431387,  0 
+					05.052863,  33.417318,  0 	<!-- <POI>Fluss:</POI> -->
+					05.074816,  33.382940,  0 	<!-- <POI>Siedlung:Braunsfurt</POI> -->
+					05.052211,  33.370585,  0 	<!-- <POI>Fluss:Braunwasser</POI> -->
+					05.006100,  33.350569,  0 
+					04.962964,  33.288146,  0 
+					04.953809,  33.236201,  0 
+					04.926322,  33.174243,  0 
+					04.926298,  33.138689,  0 
+					04.936322,  33.090411,  0 
+					04.933773,  33.064434,  0 	<!-- <POI>Siedlung:Anderath</POI> -->
+					04.913901,  33.030022,  0 
+					04.904062,  33.006053,  0 
+					04.873553,  32.959472,  0 
+					04.869540,  32.942015,  0 
+					04.869965,  32.898392,  0 	<!-- <POI>Fluss:Ronrasser</POI> -->
+					04.879075,  32.886847,  0 
+					04.900213,  32.877841,  0 
+					04.923436,  32.868222,  0 	<!-- <POI>Siedlung:Baliho</POI> -->
+					04.950729,  32.836574,  0 
+					04.961531,  32.793437,  0 
+					04.989986,  32.755953,  0 
+					05.017214,  32.717552,  0 
+					05.057039,  32.686336,  0 
+					05.081811,  32.654467,  0 	<!-- <POI>Siedlung:Altnorden</POI> -->
+					05.087376,  32.614449,  0 
+					05.052060,  32.558318,  0 
+					05.008808,  32.502673,  0 
+					04.971807,  32.472189,  0 
+					04.935625,  32.423393,  0 
+					04.897865,  32.400346,  0 
+					04.871355,  32.365757,  0 
+					04.818337,  32.325015,  0 
+					04.774945,  32.286940,  0 
+					04.755654,  32.251580,  0 	<!-- <POI>Siedlung:Menzheim</POI> -->
+					04.729612,  32.205278,  0 
+					04.720044,  32.171974,  0 
+					04.702506,  32.125784,  0 
+					04.658575,  32.085682,  0 
+					04.614702,  32.042194,  0 
+					04.574059,  32.000064,  0 
+					04.552622,  31.958649,  0 
+					04.523925,  31.936186,  0 	<!-- <POI>Kreuzung:Auen-Blauenburg</POI> -->
+					04.494296,  31.913016,  0 
+					04.429173,  31.825923,  0 
+					04.364994,  31.747022,  0 	<!-- <POI>Siedlung:Barken</POI> -->
+					04.311056,  31.618141,  0 	<!-- <POI>SOE:R2-Hallingen</POI> -->
+					04.270714,  31.577237,  0 
+					04.222321,  31.469043,  0 	<!-- <POI>Siedlung:Galbenburg</POI> -->
+					04.097748,  31.249132,  0 
+					04.080219,  31.205155,  0 	<!-- <POI>Siedlung:Walsend</POI> -->
+					04.050484,  31.185432,  0 
+					03.997872,  31.092847,  0 	<!-- <POI>Siedlung:Helmdahl</POI> -->
+					03.979298,  31.063090,  0 
+					03.977474,  31.008523,  0 	<!-- <POI>SOE:R2-Burg Auraleth</POI> -->
+					03.970179,  30.960296,  0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+					03.968174,  30.928797,  0 	<!-- <POI>Fluss:Dergel</POI> -->
+					03.967474,  30.885752,  0 	<!-- <POI>Siedlung:Perz</POI> -->
+					03.910928,  30.774493,  0 	<!-- <POI>Kreuzung:St. Praiodan-Dergel</POI> -->
+					03.890860,  30.685934,  0 	<!-- <POI>Siedlung:Kaiserhain</POI> -->
+					03.872258,  30.532522,  0 	<!-- <POI>Siedlung:Puleth</POI> -->
+					03.863495,  30.437646,  0 
+					03.812792,  30.340256,  0 
+					03.769715,  30.258125,  0 	<!-- <POI>Siedlung:Natzungen</POI> -->
+					03.791216,  30.133112,  0 
+					03.816429,  30.043026,  0 
+					03.816100,  29.975525,  0 
+					03.800347,  29.913566,  0 
+					03.777738,  29.876249,  0 	<!-- <POI>SOE:R2-Rohalsweiler</POI> -->
+					03.742339,  29.780528,  0 	<!-- <POI>Siedlung:Gareth</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1025</when>
+				</gx:TimeStamp>
+				<longitude>4.364994128621476</longitude>
+				<latitude>31.747022</latitude>
+				<altitude>650000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1025-01-01</begin>
+				<end>1027-12-31</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> <!-- Kaiser Debreks Pulether Pfalzstra�e (Reichsstra�e 2) ab 1028 BF (Wehrheim-Trallop)-->
+			<name>Debreks Pulether Pfalzstra�e</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<p>
+									<I>Zeitraum:</I> 
+									<a 	
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" 
+										title="Chronik:1027"
+									> 
+										1027
+									</a> 
+									BF bis  
+									<a 
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:1040" 
+										title="Chronik:1040"
+									> 
+										1040
+									</a> 
+										BF
+								</p>
+								*Beschreibung**
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e">
+											Debreks_Pulether_Pfalzstra�e
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					05.060106,  33.646034,  0 	<!-- <POI>SOE:Reichsstra�e 2</POI> --><!-- <POI>Siedlung:Trallop</POI> -->
+					05.060565,  33.645236,  0 
+					05.060647,  33.645045,  0 	<!-- <POI>SOE:</POI> -->
+					05.060817,  33.644705,  0 
+					05.062104,  33.641289,  0 
+					05.063210,  33.636836,  0 
+					05.063390,  33.631766,  0 
+					05.060244,  33.627283,  0 
+					05.056338,  33.616598,  0 
+					05.048401,  33.559976,  0 
+					05.035966,  33.522687,  0 
+					05.041347,  33.431387,  0 
+					05.052863,  33.417318,  0 	<!-- <POI>Fluss:</POI> -->
+					05.072902,  33.383479,  0 	<!-- <POI>Siedlung:Braunsfurt</POI> -->
+					05.052211,  33.370585,  0 	<!-- <POI>Fluss:Braunwasser</POI> -->
+					05.006100,  33.350569,  0 
+					04.962964,  33.288146,  0 
+					04.953809,  33.236201,  0 
+					04.926322,  33.174243,  0 
+					04.926298,  33.138689,  0 
+					04.936322,  33.090411,  0 
+					04.933773,  33.064434,  0 	<!-- <POI>Siedlung:Anderath</POI> -->
+					04.913901,  33.030022,  0 
+					04.904062,  33.006053,  0 
+					04.873553,  32.959472,  0 
+					04.869540,  32.942015,  0 
+					04.869965,  32.898392,  0 	<!-- <POI>Fluss:Ronrasser</POI> -->
+					04.879075,  32.886847,  0 
+					04.900213,  32.877841,  0 
+					04.923436,  32.868222,  0 	<!-- <POI>Siedlung:Baliho</POI> -->
+					04.950729,  32.836574,  0 
+					04.961531,  32.793437,  0 
+					04.989986,  32.755953,  0 
+					05.017214,  32.717552,  0 
+					05.057039,  32.686336,  0 
+					05.081811,  32.654467,  0 	<!-- <POI>Siedlung:Altnorden</POI> -->
+					05.087376,  32.614449,  0 
+					05.052060,  32.558318,  0 
+					05.008808,  32.502673,  0 
+					04.971807,  32.472189,  0 
+					04.935625,  32.423393,  0 
+					04.897865,  32.400346,  0 
+					04.871355,  32.365757,  0 
+					04.818337,  32.325015,  0 
+					04.774945,  32.286940,  0 
+					04.755654,  32.251580,  0 	<!-- <POI>Siedlung:Menzheim</POI> -->
+					04.729612,  32.205278,  0 
+					04.720044,  32.171974,  0 
+					04.702506,  32.125784,  0 
+					04.658575,  32.085682,  0 
+					04.614702,  32.042194,  0 
+					04.574059,  32.000064,  0 
+					04.552622,  31.958649,  0 
+					04.523925,  31.936186,  0 	<!-- <POI>Kreuzung:Auen-Blauenburg</POI> -->
+					04.494296,  31.913016,  0 
+					04.429173,  31.825923,  0 
+					04.364994,  31.747022,  0 	<!-- <POI>Siedlung:Barken</POI> -->
+					04.311056,  31.618141,  0 	<!-- <POI>SOE:R2-Hallingen</POI> -->
+					04.270714,  31.577237,  0 
+					04.222321,  31.469043,  0 	<!-- <POI>Siedlung:Galbenburg</POI> -->
+					04.097748,  31.249132,  0 
+					04.080219,  31.205155,  0 	<!-- <POI>Siedlung:Walsend</POI> -->
+					04.050484,  31.185432,  0 
+					03.997872,  31.092847,  0 	<!-- <POI>Siedlung:Helmdahl</POI> -->
+					03.979298,  31.063090,  0 
+					03.977474,  31.008523,  0 	<!-- <POI>SOE:R2-Burg Auraleth</POI> -->
+					03.970179,  30.960296,  0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1027-01-02</when>
+				</gx:TimeStamp>
+				<longitude>4.364994128621476</longitude>
+				<latitude>31.747022</latitude>
+				<altitude>650000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1028-01-01</begin>
+				<end>1040-01-01</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> <!-- Kaiser Debreks Pulether Pfalzstra�e (Reichsstra�e 2) ab 1028 BF (Gareth-Wehrheim)-->
+			<name>Debreks Pulether Pfalzstra�e</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<p>
+									<I>Zeitraum:</I> 
+									<a 	
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" 
+										title="Chronik:1027"
+									> 
+										1027
+									</a> 
+									BF bis  
+									<a 
+										href="http://www.wiki-aventurica.de/index.php?title=Chronik:1040" 
+										title="Chronik:1040"
+									> 
+										1040
+									</a> 
+										BF
+								</p>
+								*Beschreibung**
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e">
+											Debreks_Pulether_Pfalzstra�e
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Debreks_Pulether_Pfalzstra�e&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					03.970179,  30.960296,  0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+					03.968174,  30.928797,  0 	<!-- <POI>Fluss:Dergel</POI> -->
+					03.967474,  30.885752,  0 	<!-- <POI>Siedlung:Perz</POI> -->
+					03.910928,  30.774493,  0 	<!-- <POI>Kreuzung:St. Praiodan-Dergel</POI> -->
+					03.890860,  30.685934,  0 	<!-- <POI>Siedlung:Kaiserhain</POI> -->
+					03.872258,  30.532522,  0 	<!-- <POI>Siedlung:Puleth</POI> -->
+					03.863495,  30.437646,  0 
+					03.812792,  30.340256,  0 
+					03.769715,  30.258125,  0 	<!-- <POI>Siedlung:Natzungen</POI> -->
+					03.791216,  30.133112,  0 
+					03.816429,  30.043026,  0 
+					03.816100,  29.975525,  0 
+					03.800347,  29.913566,  0 
+					03.777738,  29.876249,  0 	<!-- <POI>SOE:R2-Rohalsweiler</POI> -->
+					03.742339,  29.780528,  0 	<!-- <POI>Siedlung:Gareth</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1027-01-02</when>
+				</gx:TimeStamp>
+				<longitude>4.364994128621476</longitude>
+				<latitude>31.747022</latitude>
+				<altitude>650000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1028-01-01</begin>
+				<end>1040-01-01</end>
+			</TimeSpan>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

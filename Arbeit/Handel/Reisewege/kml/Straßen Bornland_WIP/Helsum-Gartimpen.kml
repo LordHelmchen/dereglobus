@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Helsum-Gartimpen.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Helsum-Gartimpen</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+9.345497441930817,35.05635371690235,0 9.349215355104406,35.07679624540793,0 9.377117007683602,35.11043065690316,0 9.410939102284292,35.13606620468062,0 9.417809416851085,35.15600836469192,0 9.419016367335063,35.17668886905196,0 9.448723595597127,35.20664256289329,0 9.469519989237691,35.22502427412514,0 9.475136960778421,35.24451381012944,0 9.483312792029333,35.25353574005179,0 9.480812880493993,35.27541945907121,0 9.48255100976886,35.29607498563771,0 9.471548282475737,35.30376341358801,0 9.473588819717154,35.3814282654381,0 9.467695218678136,35.38943154958211,0 9.467162648195423,35.40189305199591,0 9.458695617496515,35.40947657595351,0 9.438207912594582,35.40767149878989,0 9.427169604684224,35.4148322045793,0 9.405423789503333,35.42395437140892,0 9.393841354096058,35.4326870993285,0 9.377904495491805,35.46490971078313,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

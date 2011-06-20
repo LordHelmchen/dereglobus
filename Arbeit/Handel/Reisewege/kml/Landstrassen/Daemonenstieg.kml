@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dämonenstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Dämonenstieg seit 1025 BF-->
+			<name>Dämonenstieg</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Dämonenstieg</b> (auch <b>Sewakweg</b>) ist eine zwischen <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1019" title="Chronik:1019">1019</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:1025" title="Chronik:1025">1025 BF</a> erbaute <a href="http://www.wiki-aventurica.de/index.php?title=Stra%C3%9Fe" title="Straße">Handelsstraße</a>, die von <a href="http://www.wiki-aventurica.de/index.php?title=Veliris" title="Veliris">Veliris</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Sewamund" title="Sewamund">Sewamund</a>&nbsp;führt. Einheimische berichten hier immer wieder von <a href="http://www.wiki-aventurica.de/index.php?title=Geist" title="Geist">Geistern</a> und anderen übernatürlichen Wesen.
+
+
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Dämonenstieg">
+											Dämonenstieg
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz für freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Dämonenstieg&action=history">
+											Liste der Autoren
+										</a>
+										verfügbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Dämonenstieg&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.121585015393048,26.0616224494012,0   <!-- <POI>Siedlung:Sewamund</POI> --> <!-- <POI>SOE:König-Khadan-Straße</POI> --> 
+						-1.064555980596288,26.0630308405615,0 
+						-1.053462648082448,26.0704735384161,0 
+						-1.035510146068385,26.09216629128417,0 
+						-1.020938140108605,26.09840272490107,0 
+						-1.002729965397048,26.10064653907583,0
+						-0.9730529784399344,26.11400052882534,0 
+						-0.9523571382449891,26.1408563286384,0 
+						-0.9347305186623856,26.15533433049593,0 
+						-0.901665745305511,26.16617659421571,0 
+						-0.8909034228514834,26.17852507590365,0 
+						-0.8727397699301009,26.20978373778146,0  <!-- <POI>Abzweig:Herzogstraße</POI> --> 
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>-0.976124</longitude>
+				<latitude>26.166320</latitude>
+				<altitude>65650</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1025</begin>
+				<end></end>
+			</TimeSpan>
+			</Placemark>
+</Document>
+</kml>

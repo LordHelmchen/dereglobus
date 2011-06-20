@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Greifenfurter Reichsweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Greifenfurter Reichsweg (Reichsstrasse 1) bis 1027-->
+			<name>Greifenfurter Reichsweg</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<I>Zeitraum:</I> 
+								<a 	
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:Vorzeit_bis_1000_v._BF" 
+									title="Chronik:Vorzeit_bis_1000_v._BF"
+								> 
+									Chronik:Vorzeit bis 1000 v. BF
+								</a> 
+								BF bis  
+								<a 
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" 
+									title="Chronik:1027"
+								> 
+									1027
+								</a> 
+									BF
+							</p>
+							<p>
+								Die 
+								<b>
+									Greifenfurter Reichsweg
+								</b>
+								f�hrt von 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurt" title="Greifenfurt">
+									Greifenfurt
+								</a>
+								�ber 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Eslamsroden" title="Eslamsroden">
+									Eslamsroden
+								</a>
+								, 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Wehrheim" title="Wehrheim">
+									Wehrheim
+								</a>
+								, 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Gallys" title="Gallys">
+									Gallys
+								</a>
+								und 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Altzoll" title="Altzoll">
+									Altzoll
+								</a>
+								nach 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Warunk" title="Warunk">
+									Warunk
+								</a>
+								. Sie ist �berwiegend als 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Reichsstra�e_1&amp;action=edit&amp;redlink=1" class="new" title="Greifenfurter Reichsweg (Seite nicht vorhanden)">
+									Reichsstra�e 1
+								</a>
+								bekannt, wei�t heute aber an vielen stellen nicht mehr die Standards einer Reichstrasse auf.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg">
+											Greifenfurter Reichsweg
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.272313713807568,31.32637212338513,0 	<!-- <POI>SOE:Reichstra�e 1</POI> -->
+														<!-- <POI>SOE:Warun</POI> -->
+														<!-- <POI>Siedlung:Greifenfurt</POI> -->
+				2.272565826449571,31.3263601764454,0 
+				2.30941418614572,31.32271607027564,0 
+				2.387404431477898,31.30160002437464,0 
+				2.440634750210191,31.30166865299218,0 
+				2.496527261540293,31.28328367836932,0 
+				2.564174049131738,31.27961203990826,0 
+				2.640770628524063,31.25063595175314,0 
+				2.725862093197415,31.24501705294197,0 	<!-- <POI>Siedlung:Orkenwall</POI> -->
+				2.96340714976437,31.24429695054318,0 	<!-- <POI>Siedlung:Eslamsroden</POI> -->
+														<!-- <POI>SOE:Weg von Eslamsroden nach Hundsgrab</POI> -->
+				3.426440367424288,31.27394101890766,0 	<!-- <POI>Siedlung:Reichsweg</POI> -->
+														<!-- <POI>SOE:Weg von Reichsweg nach Dergelstein</POI> -->
+				3.493952998964125,31.2509304563098,0 
+				3.561445341086875,31.19278616075312,0 
+				3.644904326576994,31.20221301727286,0 	<!-- <POI>Fluss:Dergel</POI> -->
+				3.723144987748956,31.15789501238247,0 	<!-- <POI>SOE:Weg von Reichsstra�e 2 nach Burg Lauben</POI> -->
+				3.750550579903715,31.11945740099594,0 
+				3.799363839891243,31.09073875601065,0 
+				3.850595146049085,31.02294969040948,0 
+				3.932638189338855,30.96709819723278,0 
+				3.970179460738719,30.96029615846645,0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+														<!-- <POI>Kreuzung:Reichsstra�e 1 und Reichsstra�e 2</POI> -->
+				4.009541086599871,30.9620619508576,0 	<!-- <POI>Fluss:Gernar</POI> -->
+				4.251223032145184,30.96887457366633,0 	<!-- <POI>Siedlung:Berler</POI> -->
+														<!-- <POI>Kreuzung:Reichsstra�e 1 und Stra�e nach Borg Rabenmund</POI> -->
+				4.367601224652056,30.93976260927478,0 	<!-- <POI>SOE:Stra�e nach Zweim�hlen</POI> -->
+				4.538408893357905,30.92024623372004,0 	<!-- <POI>SOE:Stra�e von Zweim�hlen zur Reichstra�e 1</POI> -->
+				4.660150539128436,30.89676996586475,0 	<!-- <POI>Siedlung:Talf</POI> -->
+														<!-- <POI>SOE:Stra�e von Talf nach Wutzenwald</POI> -->
+				4.818243893258199,30.90424040854619,0 
+				4.97144788997554,30.92396032494426,0 
+				5.049696984328995,30.92255847408774,0 
+				5.110470725317128,30.90127379799343,0 	<!-- <POI>Siedlung:Gallys</POI> -->
+														<!-- <POI>SOE:Weg von Gallys nach Nordenheim</POI> -->
+														<!-- <POI>SOE:Weg von Gallys nach Burg Boronia</POI> -->
+														<!-- <POI>SOE:Stra�e von Gallys nach Auweiler</POI> -->
+				5.155260725152666,30.8725513750012,0 
+				5.274106960723197,30.74826676673615,0 
+				5.308148147479526,30.72779454506856,0 
+				5.555564376415322,30.70154597687688,0 	<!-- <POI>Siedlung:Saneta</POI> -->
+				5.752635183864758,30.65373329296042,0 
+				5.90245375079959,30.61144209695361,0 	<!-- <POI>Siedlung:Alt Bergenbach</POI> -->
+				6.064502725156922,30.49927998543783,0 
+				6.109731189723382,30.47106078075261,0 
+				6.223535548819312,30.3633163618431,0 	<!-- <POI>Siedlung:Altzoll</POI> -->
+														<!-- <POI>Kreuzung:Reichsstra�e 1 und Stra�e von Hagens Hof nach Rommilys</POI> -->
+				6.486940275429003,30.24568592926569,0 
+				6.590308448491435,30.22766704021021,0 
+				6.72939114614743,30.18402870775316,0 
+				6.786182843573734,30.18127700082877,0 
+				6.865244723287485,30.19518075164973,0 	<!-- <POI>Siedlung:Eckelstor</POI> -->
+				6.935905434615632,30.22055203742885,0 	<!-- <POI>Siedlung:Rabenfeld</POI> -->
+				7.147068336211529,30.29137293727511,0 
+				7.332133138120041,30.3369777222656,0 	<!-- <POI>Siedlung:Praiosau</POI> -->
+				7.389190982511511,30.33962626932808,0 
+				7.463460523494689,30.34488093998188,0 
+				7.556296459595792,30.37606330661232,0 
+				7.653090087159149,30.44024183118649,0 	<!-- <POI>SOE:Stra�e von Beilunk nach Warunk</POI> -->
+				7.786209804384394,30.50044581862645,0 
+				7.808467101067178,30.52020865338403,0 	<!-- <POI>Fluss:Radrom</POI> -->
+				7.81303244701502,30.5529818881982,0 
+				7.817810878416964,30.58214055254254,0 
+				7.819445958506488,30.59770462258275,0 
+				7.820135720377389,30.599800881849,0 
+				7.821132567707849,30.60099694314716,0 
+				7.822926350718258,30.60189289571552,0 
+				7.82616352806558,30.60294254716051,0 	<!-- <POI>SOE:Stra�e von Warunk nach Yol-Ghurmak</POI> -->
+				7.826515125958879,30.60318266607454,0 
+				7.826806572057254,30.60332915132746,0 
+				7.827012648421188,30.60331349107426,0 
+				7.827132937011756,30.60315978729953,0 
+				7.827126063158909,30.60294443648219,0 
+				7.827059285942653,30.60261735749825,0 
+				7.827020519078634,30.60218724587347,0 
+				7.827060592233908,30.60187380088628,0 
+				7.827184729087684,30.60164457264476,0 
+				7.827344436630394,30.60154920039344,0 
+				7.82748290485634,30.60157286493928,0 
+				7.827538099675815,30.60173319748461,0 
+				7.827538134342104,30.60212651353676,0 
+				7.827585907350374,30.60264261828972,0 
+				7.8277082940114,30.60294683075347,0 
+				7.827850889264725,30.60309970562409,0 
+				7.827939491248134,30.60312993709603,0 
+				7.828093804814619,30.603061632917,0 	<!-- <POI>SOE:Reichsstra�e 1</POI> -->
+			</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>-1600</when>
+				</gx:TimeStamp>
+				<longitude>5.110470725317128</longitude>
+				<latitude>30.90127379799343</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>-1600</begin>
+				<end>1027-12-31</end>
+			</TimeSpan>
+			</Placemark>
+		<Placemark> 	<!-- Greifenfurter Reichsweg (Reichsstrasse 1) ab 1028-->
+			<name>Greifenfurter Reichsweg</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<I>Zeitraum:</I> 
+								<a 	
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" 
+									title="Chronik:1027"
+								> 
+									1027
+								</a> 
+								BF bis  
+								<a 
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:1040" 
+									title="Chronik:1040"
+								> 
+									1040
+								</a> 
+									BF
+							</p>
+							<p>
+								Die 
+								<b>
+									Greifenfurter Reichsweg
+								</b>
+								f�hrt von 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurt" title="Greifenfurt">
+									Greifenfurt
+								</a>
+								�ber 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Eslamsroden" title="Eslamsroden">
+									Eslamsroden
+								</a>
+								, 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Wehrheim" title="Wehrheim">
+									Wehrheim
+								</a>
+								, 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Gallys" title="Gallys">
+									Gallys
+								</a>
+								und 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Altzoll" title="Altzoll">
+									Altzoll
+								</a>
+								nach 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Warunk" title="Warunk">
+									Warunk
+								</a>
+								. Sie ist �berwiegend als 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Reichsstra�e_1&amp;action=edit&amp;redlink=1" class="new" title="Greifenfurter Reichsweg (Seite nicht vorhanden)">
+									Reichsstra�e 1
+								</a>
+								bekannt, wei�t heute aber an vielen stellen nicht mehr die Standards einer Reichstrasse auf.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg">
+											Greifenfurter Reichsweg
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.272313713807568,31.32637212338513,0 	<!-- <POI>SOE:Reichstra�e 1</POI> -->
+																<!-- <POI>SOE:Warun</POI> -->
+																<!-- <POI>Siedlung:Greifenfurt</POI> -->
+						2.272565826449571,31.3263601764454,0 
+						2.30941418614572,31.32271607027564,0 
+						2.387404431477898,31.30160002437464,0 
+						2.440634750210191,31.30166865299218,0 
+						2.496527261540293,31.28328367836932,0 
+						2.564174049131738,31.27961203990826,0 
+						2.640770628524063,31.25063595175314,0 
+						2.725862093197415,31.24501705294197,0 	<!-- <POI>Siedlung:Orkenwall</POI> -->
+						2.96340714976437,31.24429695054318,0 	<!-- <POI>Siedlung:Eslamsroden</POI> -->
+																<!-- <POI>SOE:Weg von Eslamsroden nach Hundsgrab</POI> -->
+						3.426440367424288,31.27394101890766,0 	<!-- <POI>Siedlung:Reichsweg</POI> -->
+																<!-- <POI>SOE:Weg von Reichsweg nach Dergelstein</POI> -->
+						3.493952998964125,31.2509304563098,0 
+						3.561445341086875,31.19278616075312,0 
+						3.644904326576994,31.20221301727286,0 	<!-- <POI>Fluss:Dergel</POI> -->
+						3.723144987748956,31.15789501238247,0 	<!-- <POI>SOE:Weg von Reichsstra�e 2 nach Burg Lauben</POI> -->
+						3.750550579903715,31.11945740099594,0 
+						3.799363839891243,31.09073875601065,0 
+						3.850595146049085,31.02294969040948,0 
+						3.932638189338855,30.96709819723278,0 
+						3.970179460738719,30.96029615846645,0 	<!-- <POI>Siedlung:Wehrheim</POI> --><!-- <POI>Kreuzung:Reichsstra�e 1 und Reichsstra�e 2</POI> -->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						5.555564376415322,30.70154597687688,0 	<!-- <POI>Siedlung:Sancta Boronia</POI> -->
+						5.752635183864758,30.65373329296042,0 
+						5.90245375079959,30.61144209695361,0 	<!-- <POI>Siedlung:Alt Bergenbach</POI> -->
+						6.064502725156922,30.49927998543783,0 
+						6.109731189723382,30.47106078075261,0 
+						6.223535548819312,30.3633163618431,0 	<!-- <POI>Siedlung:Altzoll</POI> -->
+																<!-- <POI>Kreuzung:Reichsstra�e 1 und Stra�e von Hagens Hof nach Rommilys</POI> -->
+						6.486940275429003,30.24568592926569,0 
+						6.590308448491435,30.22766704021021,0 
+						6.72939114614743,30.18402870775316,0 
+						6.786182843573734,30.18127700082877,0 
+						6.865244723287485,30.19518075164973,0 	<!-- <POI>Siedlung:Eckelstor</POI> -->
+						6.935905434615632,30.22055203742885,0 	<!-- <POI>Siedlung:Rabenfeld</POI> -->
+						7.147068336211529,30.29137293727511,0 
+						7.332133138120041,30.3369777222656,0 	<!-- <POI>Siedlung:Praiosau</POI> -->
+						7.389190982511511,30.33962626932808,0 
+						7.463460523494689,30.34488093998188,0 
+						7.556296459595792,30.37606330661232,0 
+						7.653090087159149,30.44024183118649,0 	<!-- <POI>SOE:Stra�e von Beilunk nach Warunk</POI> -->
+						7.786209804384394,30.50044581862645,0 
+						7.808467101067178,30.52020865338403,0 	<!-- <POI>Fluss:Radrom</POI> -->
+						7.81303244701502,30.5529818881982,0 
+						7.817810878416964,30.58214055254254,0 
+						7.819445958506488,30.59770462258275,0 
+						7.820135720377389,30.599800881849,0 
+						7.821132567707849,30.60099694314716,0 
+						7.822926350718258,30.60189289571552,0 
+						7.82616352806558,30.60294254716051,0 	<!-- <POI>SOE:Stra�e von Warunk nach Yol-Ghurmak</POI> -->
+						7.826515125958879,30.60318266607454,0 
+						7.826806572057254,30.60332915132746,0 
+						7.827012648421188,30.60331349107426,0 
+						7.827132937011756,30.60315978729953,0 
+						7.827126063158909,30.60294443648219,0 
+						7.827059285942653,30.60261735749825,0 
+						7.827020519078634,30.60218724587347,0 
+						7.827060592233908,30.60187380088628,0 
+						7.827184729087684,30.60164457264476,0 
+						7.827344436630394,30.60154920039344,0 
+						7.82748290485634,30.60157286493928,0 
+						7.827538099675815,30.60173319748461,0 
+						7.827538134342104,30.60212651353676,0 
+						7.827585907350374,30.60264261828972,0 
+						7.8277082940114,30.60294683075347,0 
+						7.827850889264725,30.60309970562409,0 
+						7.827939491248134,30.60312993709603,0 
+						7.828093804814619,30.603061632917,0 	<!-- <POI>SOE:Reichsstra�e 1</POI> --><!-- Warunk -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1028-01-01</when>
+				</gx:TimeStamp>
+				<longitude>5.110470725317128</longitude>
+				<latitude>30.90127379799343</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1028-01-01</begin>
+				<end>1040-12-31</end>
+			</TimeSpan>
+			</Placemark>
+		<Placemark> 	<!-- Greifenfurter Reichsweg (Reichsstrasse 1) ab 1028-->
+			<name>Greifenfurter Reichsweg</name>
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<I>Zeitraum:</I> 
+								<a 	
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:1027" 
+									title="Chronik:1027"
+								> 
+									1027
+								</a> 
+								BF bis  
+								<a 
+									href="http://www.wiki-aventurica.de/index.php?title=Chronik:1040" 
+									title="Chronik:1040"
+								> 
+									1040
+								</a> 
+									BF
+							</p>
+							<p>
+								Die 
+								<b>
+									Greifenfurter Reichsweg
+								</b>
+								f�hrt von 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurt" title="Greifenfurt">
+									Greifenfurt
+								</a>
+								�ber 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Eslamsroden" title="Eslamsroden">
+									Eslamsroden
+								</a>
+								, 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Wehrheim" title="Wehrheim">
+									Wehrheim
+								</a>
+								, 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Gallys" title="Gallys">
+									Gallys
+								</a>
+								und 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Altzoll" title="Altzoll">
+									Altzoll
+								</a>
+								nach 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Warunk" title="Warunk">
+									Warunk
+								</a>
+								. Sie ist �berwiegend als 
+								<a href="http://www.wiki-aventurica.de/index.php?title=Reichsstra�e_1&amp;action=edit&amp;redlink=1" class="new" title="Greifenfurter Reichsweg (Seite nicht vorhanden)">
+									Reichsstra�e 1
+								</a>
+								bekannt, wei�t heute aber an vielen stellen nicht mehr die Standards einer Reichstrasse auf.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg">
+											Greifenfurter Reichsweg
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">
+											GNU Lizenz f�r freie Dokumentation
+										</a>
+										.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg&action=history">
+											Liste der Autoren
+										</a>
+										verf�gbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/index.php?title=Greifenfurter_Reichsweg&action=edit">
+											Artikel bearbeiten
+										</a>
+										.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+						3.970179460738719,30.96029615846645,0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+																<!-- <POI>Kreuzung:Reichsstra�e 1 und Reichsstra�e 2</POI> -->
+						4.009541086599871,30.9620619508576,0 	<!-- <POI>Fluss:Gernar</POI> -->
+						4.251223032145184,30.96887457366633,0 	<!-- <POI>Siedlung:Berler</POI> -->
+																<!-- <POI>Kreuzung:Reichsstra�e 1 und Stra�e nach Borg Rabenmund</POI> -->
+						4.367601224652056,30.93976260927478,0 	<!-- <POI>SOE:Stra�e nach Zweim�hlen</POI> -->
+						4.538408893357905,30.92024623372004,0 	<!-- <POI>SOE:Stra�e von Zweim�hlen zur Reichstra�e 1</POI> -->
+						4.660150539128436,30.89676996586475,0 	<!-- <POI>Siedlung:Talf</POI> -->
+																<!-- <POI>SOE:Stra�e von Talf nach Wutzenwald</POI> -->
+						4.818243893258199,30.90424040854619,0 
+						4.97144788997554,30.92396032494426,0 
+						5.049696984328995,30.92255847408774,0 
+						5.110470725317128,30.90127379799343,0 	<!-- <POI>Siedlung:Gallys</POI> -->
+																<!-- <POI>SOE:Weg von Gallys nach Nordenheim</POI> -->
+																<!-- <POI>SOE:Weg von Gallys nach Burg Boronia</POI> -->
+																<!-- <POI>SOE:Stra�e von Gallys nach Auweiler</POI> -->
+						5.155260725152666,30.8725513750012,0 
+						5.274106960723197,30.74826676673615,0 
+						5.308148147479526,30.72779454506856,0 
+						5.555564376415322,30.70154597687688,0 	<!-- <POI>Siedlung:Sancta Boronia</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1028-01-01</when>
+				</gx:TimeStamp>
+				<longitude>5.110470725317128</longitude>
+				<latitude>30.90127379799343</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1028-01-01</begin>
+				<end>1040-12-31</end>
+			</TimeSpan>
+			</Placemark>
+</Document>
+</kml>
+

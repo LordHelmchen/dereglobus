@@ -63,9 +63,9 @@
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-					-1.283215866129633,27.53593405476729,0 	<!--<POI>Siedlung:Elenvina</POI>--> <!--<POI>SOE:Reichsstraße 3</POI>-->
-					-1.281685167238794,27.52035419438779,0 
-					-1.280336578437243,27.51414969846666,0 	<!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					-1.280660664343295,27.51866603608856,0  <!--<POI>Siedlung:Elenvina</POI>-->
+					-1.280237240782771,27.51734043064613,0  <!--Ende Detailkarte Elenvina--> <!--<POI>Flussquerung:Der Große Fluss</POI>-->	
+					-1.278861415023571,27.51184271405838,0 	
 					-1.268511604728375,27.50639097217192,0 
 					-1.250299559949591,27.50188574984081,0 
 					-1.228720180886228,27.49629564371688,0 
@@ -174,8 +174,8 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 			</Camera>
 			<TimeSpan>
-				<begin>1032-03-01</begin>
-				<end></end>
+				<begin></begin>
+				<end>1032-03-01</end>
 			</TimeSpan>
 		</Placemark>
 		<Placemark> 	<!-- Phecadistieg ab Efferd 1032 BF -->
@@ -238,9 +238,9 @@
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-					-1.283215866129633,27.53593405476729,0 	<!--<POI>Siedlung:Elenvina</POI>--> <!--<POI>SOE:Reichsstraße 3</POI>-->
-					-1.281685167238794,27.52035419438779,0 
-					-1.280336578437243,27.51414969846666,0 	<!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					-1.280660664343295,27.51866603608856,0  <!--<POI>Siedlung:Elenvina</POI>-->
+					-1.280237240782771,27.51734043064613,0  <!--Ende Detailkarte Elenvina--> <!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					-1.278861415023571,27.51184271405838,0 	
 					-1.268511604728375,27.50639097217192,0 
 					-1.250299559949591,27.50188574984081,0 
 					-1.228720180886228,27.49629564371688,0 

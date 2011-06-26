@@ -40,7 +40,7 @@
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -71,7 +71,7 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -115,7 +115,7 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -133,7 +133,7 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -186,7 +186,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -268,7 +268,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -295,7 +295,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -336,7 +336,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -412,7 +412,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -499,7 +499,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -545,7 +545,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -566,7 +566,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -647,7 +647,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -750,7 +750,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -787,7 +787,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -808,7 +808,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -829,7 +829,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -846,7 +846,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -873,7 +873,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -894,7 +894,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -954,7 +954,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -972,7 +972,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -990,7 +990,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1125,7 +1125,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1171,7 +1171,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1189,7 +1189,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1220,7 +1220,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1318,7 +1318,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1335,7 +1335,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1356,7 +1356,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1512,7 +1512,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1530,7 +1530,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1599,7 +1599,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1617,7 +1617,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1648,7 +1648,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1702,7 +1702,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1780,7 +1780,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1819,7 +1819,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1893,7 +1893,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -1946,7 +1946,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2034,7 +2034,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2074,7 +2074,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2105,7 +2105,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2175,7 +2175,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2241,7 +2241,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2259,7 +2259,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2354,7 +2354,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2392,7 +2392,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2445,7 +2445,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2462,7 +2462,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2516,7 +2516,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2534,7 +2534,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2608,7 +2608,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2715,7 +2715,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2768,7 +2768,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2818,7 +2818,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -2872,7 +2872,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3005,7 +3005,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3086,7 +3086,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3126,7 +3126,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3157,7 +3157,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3178,7 +3178,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3238,7 +3238,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3297,7 +3297,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3358,7 +3358,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3425,7 +3425,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3456,7 +3456,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3477,7 +3477,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3536,7 +3536,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3660,7 +3660,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3677,7 +3677,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3755,7 +3755,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3773,7 +3773,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3800,7 +3800,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3827,7 +3827,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3864,7 +3864,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3936,7 +3936,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -3957,7 +3957,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4020,7 +4020,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4037,7 +4037,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4075,7 +4075,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4118,7 +4118,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4275,7 +4275,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4325,7 +4325,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4388,7 +4388,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4431,7 +4431,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4452,7 +4452,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4508,7 +4508,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4535,7 +4535,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4585,7 +4585,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4625,7 +4625,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4746,7 +4746,7 @@ $[description]]]></text>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4767,7 +4767,7 @@ $[description]]]></text>
 			<scale>0</scale>
 		</LabelStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4785,7 +4785,7 @@ $[description]]]></text>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a></font>
+			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/$[Link]">$[name]</a></font>
 <br/><br/>
 $[description]]]></text>
 			<bgColor>ffd5fcfd</bgColor>
@@ -4847,7 +4847,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 #wiki { font-size:10px; }
 
---></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Drachenerbe" title="Drachenerbe">A172</a>]]></description>
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/Drachenerbe" title="Drachenerbe">A172</a>]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 				<LookAt>
 					<gx:TimeStamp><when>1036</when>
@@ -5887,7 +5887,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -5904,13 +5904,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -5952,7 +5952,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(9. Rondra 1034 BF, vormittags)</p>
-<p>Vor der letzten Etappe verlässt Krallerwatsch die Helden und reist selbst nach <a href="http://www.wiki-aventurica.de/index.php?title=Graulgatschthor&amp;action=edit">Graulgatschthor</a>, nachdem er ihnen beschrieben hat, wie sie die verborgene Trollfestung <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a> am Fuße des Berges <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a> erreichen können. (S. 98)</p>
+<p>Vor der letzten Etappe verlässt Krallerwatsch die Helden und reist selbst nach <a href="http://www.wiki-aventurica.de/Graulgatschthor&amp;action=edit">Graulgatschthor</a>, nachdem er ihnen beschrieben hat, wie sie die verborgene Trollfestung <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a> am Fuße des Berges <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a> erreichen können. (S. 98)</p>
 
 <!-- END EDIT -->
 
@@ -5962,7 +5962,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -5979,13 +5979,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6025,7 +6025,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(9. - 12. Rondra 1034 BF)</p>
-<p>Auf der Suche nach dem Berg <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a> ziehen die Helden durch die Trollzacken. (4 Tage - ca. 70 Meilen) (S. 99-100)</p>
+<p>Auf der Suche nach dem Berg <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a> ziehen die Helden durch die Trollzacken. (4 Tage - ca. 70 Meilen) (S. 99-100)</p>
 
 <!-- END EDIT -->
 
@@ -6035,7 +6035,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6052,13 +6052,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6100,7 +6100,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(9. Rondra 1034 BF, abends)</p>
-<p>Die Helden erreichen die Ruinen des Dorfes <a href="http://www.wiki-aventurica.de/index.php?title=Trolleth">Trolleth</a>. Verbringen sie hier die Nacht, werden sie von <a href="http://www.wiki-aventurica.de/index.php/Spuk" title="Spuk">Spukerscheinungen</a> und <a href="http://www.wiki-aventurica.de/index.php?title=Gruftnebel">Gruftnebeln</a> heimgesucht. (S. 100-101)</p>
+<p>Die Helden erreichen die Ruinen des Dorfes <a href="http://www.wiki-aventurica.de/Trolleth">Trolleth</a>. Verbringen sie hier die Nacht, werden sie von <a href="http://www.wiki-aventurica.de/index.php/Spuk" title="Spuk">Spukerscheinungen</a> und <a href="http://www.wiki-aventurica.de/Gruftnebel">Gruftnebeln</a> heimgesucht. (S. 100-101)</p>
 
 <!-- END EDIT -->
 
@@ -6110,7 +6110,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6127,13 +6127,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6173,7 +6173,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(10. Rondra 1034 BF, mittags)</p>
-<p>Die Helden erreichen das Dorf <a href="http://www.wiki-aventurica.de/index.php?title=Erlingen">Erlingen</a>. Hier können sie sich nach dem Weg zum Berg <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a> erkundigen, den die Erlinger auch als <a href="http://www.wiki-aventurica.de/index.php?title=Matschagart">Matschagart</a> oder <a href="http://www.wiki-aventurica.de/index.php?title=Strockkopp">Strockkopp</a> kennen. (S. 101-102)</p>
+<p>Die Helden erreichen das Dorf <a href="http://www.wiki-aventurica.de/Erlingen">Erlingen</a>. Hier können sie sich nach dem Weg zum Berg <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a> erkundigen, den die Erlinger auch als <a href="http://www.wiki-aventurica.de/Matschagart">Matschagart</a> oder <a href="http://www.wiki-aventurica.de/Strockkopp">Strockkopp</a> kennen. (S. 101-102)</p>
 
 <!-- END EDIT -->
 
@@ -6183,7 +6183,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6200,13 +6200,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6246,7 +6246,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(11. Rondra 1034 BF, nachmittags)</p>
-<p>Die Helden stoßen auf den Forscher <a href="http://www.wiki-aventurica.de/index.php?title=Burian_Wallgrund">Burian Wallgrund</a>, der sich auf der Flucht vor Menschenjägern aus der <a href="http://www.wiki-aventurica.de/index.php/Warunkei" title="Warunkei">Warunkei</a> befindet, die vor einigen Tagen seine Expedition angegriffen und nahezu ausgelöscht haben. Er kann der Gruppe mit seinem beachtlichen Wissen über die <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trolle</a> und ihre Kultur eine große Hilfe sein. (S. 102-103)</p>
+<p>Die Helden stoßen auf den Forscher <a href="http://www.wiki-aventurica.de/Burian_Wallgrund">Burian Wallgrund</a>, der sich auf der Flucht vor Menschenjägern aus der <a href="http://www.wiki-aventurica.de/index.php/Warunkei" title="Warunkei">Warunkei</a> befindet, die vor einigen Tagen seine Expedition angegriffen und nahezu ausgelöscht haben. Er kann der Gruppe mit seinem beachtlichen Wissen über die <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trolle</a> und ihre Kultur eine große Hilfe sein. (S. 102-103)</p>
 
 <!-- END EDIT -->
 
@@ -6256,7 +6256,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6273,13 +6273,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6319,7 +6319,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(11. Rondra 1034 BF, abends)</p>
-<p>Es kommt zum Zusammenstoß mit den Menschenjägern, die <a href="http://www.wiki-aventurica.de/index.php?title=Burian_Wallgrund">Burian Wallgrund</a> auf der Spur sind. Ein Kampf ist praktisch unvermeidlich. (S. 103)</p>
+<p>Es kommt zum Zusammenstoß mit den Menschenjägern, die <a href="http://www.wiki-aventurica.de/Burian_Wallgrund">Burian Wallgrund</a> auf der Spur sind. Ein Kampf ist praktisch unvermeidlich. (S. 103)</p>
 
 <!-- END EDIT -->
 
@@ -6329,7 +6329,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6346,13 +6346,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6392,7 +6392,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(12. Rondra 1034 BF, nachmittags)</p>
-<p>Kurz bevor die Gruppe den Berg <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a> erreicht, stellt sich ihr die <a href="http://www.wiki-aventurica.de/index.php/Shochzul" title="Shochzul">Shochzula</a> <a href="http://www.wiki-aventurica.de/index.php?title=Greshira">Greshira</a> entgegen. Gemeinsam mit dem Stamm der <a href="http://www.wiki-aventurica.de/index.php?title=Mach%27naht%C3%BBl">Mach'nahtûl</a> bewacht sie das Tal von <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a> und verhindert, dass sie von "<a href="http://www.wiki-aventurica.de/index.php?title=Blutlose">Blutlosen</a>" entdeckt wird. (S. 104-105)</p>
+<p>Kurz bevor die Gruppe den Berg <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a> erreicht, stellt sich ihr die <a href="http://www.wiki-aventurica.de/index.php/Shochzul" title="Shochzul">Shochzula</a> <a href="http://www.wiki-aventurica.de/Greshira">Greshira</a> entgegen. Gemeinsam mit dem Stamm der <a href="http://www.wiki-aventurica.de/Mach%27naht%C3%BBl">Mach'nahtûl</a> bewacht sie das Tal von <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a> und verhindert, dass sie von "<a href="http://www.wiki-aventurica.de/Blutlose">Blutlosen</a>" entdeckt wird. (S. 104-105)</p>
 
 <!-- END EDIT -->
 
@@ -6402,7 +6402,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6419,13 +6419,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6465,7 +6465,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(13. Rondra 1034 BF)</p>
-<p>Je nachdem, wie die Begegnung der Helden mit <a href="http://www.wiki-aventurica.de/index.php?title=Geshira">Geshira</a> verlaufen ist, muss die Gruppe sich nun alleine einen Weg durch das Gebiet der feindseligen <a href="http://www.wiki-aventurica.de/index.php?title=Mach%27naht%C3%BBl">Mach'nahtûl</a> suchen oder sie werden von der <a href="http://www.wiki-aventurica.de/index.php/Shochzul" title="Shochzul">Shochzula</a> geführt. Unter Umständen muss zunächst auch ein blutiger ritueller Kampf gegen den <a href="http://www.wiki-aventurica.de/index.php?title=Hoiraz">Hoiraz</a> der <a href="http://www.wiki-aventurica.de/index.php?title=Mach%27naht%C3%BBl">Mach'nahtûl</a>, den <a href="http://www.wiki-aventurica.de/index.php?title=Rochschaz">Rochschaz</a> <a href="http://www.wiki-aventurica.de/index.php?title=Drechan">Drechan</a>, bestanden werden. (1 Tag - ca. 10 Meilen) (S. 105-106)</p>
+<p>Je nachdem, wie die Begegnung der Helden mit <a href="http://www.wiki-aventurica.de/Geshira">Geshira</a> verlaufen ist, muss die Gruppe sich nun alleine einen Weg durch das Gebiet der feindseligen <a href="http://www.wiki-aventurica.de/Mach%27naht%C3%BBl">Mach'nahtûl</a> suchen oder sie werden von der <a href="http://www.wiki-aventurica.de/index.php/Shochzul" title="Shochzul">Shochzula</a> geführt. Unter Umständen muss zunächst auch ein blutiger ritueller Kampf gegen den <a href="http://www.wiki-aventurica.de/Hoiraz">Hoiraz</a> der <a href="http://www.wiki-aventurica.de/Mach%27naht%C3%BBl">Mach'nahtûl</a>, den <a href="http://www.wiki-aventurica.de/Rochschaz">Rochschaz</a> <a href="http://www.wiki-aventurica.de/Drechan">Drechan</a>, bestanden werden. (1 Tag - ca. 10 Meilen) (S. 105-106)</p>
 
 <!-- END EDIT -->
 
@@ -6475,7 +6475,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6492,13 +6492,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6540,7 +6540,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(13. Rondra 1034 BF)</p>
-<p>Die Helden erreichen die Tore von <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a>. Dort werden sie von <a href="http://www.wiki-aventurica.de/index.php?title=Tromprancke_Tochter_des_Troddsch">Tromprancke Tochter des Troddsch</a>, einer angehenden <a href="http://www.wiki-aventurica.de/index.php?title=Waeggagatsch">Waeggagatsch</a> vom Stamm der <a href="http://www.wiki-aventurica.de/index.php?title=Tragatsch">Tragatsch</a>, in Empfang genommen, die in einem magischen Ritual, das die ganze Nacht in Anspruch nimmt, ihre Gesinnung prüft. Nach erfolgreichem Bestehen der Prüfung wird der Gruppe Einlass gewährt. (S. 106-109)</p>
+<p>Die Helden erreichen die Tore von <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a>. Dort werden sie von <a href="http://www.wiki-aventurica.de/Tromprancke_Tochter_des_Troddsch">Tromprancke Tochter des Troddsch</a>, einer angehenden <a href="http://www.wiki-aventurica.de/Waeggagatsch">Waeggagatsch</a> vom Stamm der <a href="http://www.wiki-aventurica.de/Tragatsch">Tragatsch</a>, in Empfang genommen, die in einem magischen Ritual, das die ganze Nacht in Anspruch nimmt, ihre Gesinnung prüft. Nach erfolgreichem Bestehen der Prüfung wird der Gruppe Einlass gewährt. (S. 106-109)</p>
 
 <!-- END EDIT -->
 
@@ -6550,7 +6550,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6567,13 +6567,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6613,7 +6613,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(14. bis 15. Rondra 1034 BF)</p>
-<p>Wenn die Helden das Vertrauen der <a href="http://www.wiki-aventurica.de/index.php?title=Tragatsch">Tragatsch</a> gewonnen haben, können sie sich frei in <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a> bewegen und in der riesigen Festungsanlage auf Entdeckungstour gehen und/oder sich mit den trollischen Bewohnern unterhalten. Unter anderem können sie den versteinerten Leichnam des <a href="http://www.wiki-aventurica.de/index.php/Kaiserdrache" title="Kaiserdrache">Kaiserdrachen</a> <a href="http://www.wiki-aventurica.de/index.php/Brakanor" title="Brakanor">Brakanor</a>, eine <a href="http://www.wiki-aventurica.de/index.php?title=Mondmilch">Mondmilch</a>-Quelle, die <a href="http://www.wiki-aventurica.de/index.php/Trollische_Raumbilderschrift" title="Trollische Raumbilderschrift">Raumschrift</a>-Chronik der <a href="http://www.wiki-aventurica.de/index.php?title=Tragatsch">Tragatsch</a> und die Ahnenhalle, in der die <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trolle</a> Zwiesprache mit ihren Vorfahren halten, entdecken. (S. 109-115)</p>
+<p>Wenn die Helden das Vertrauen der <a href="http://www.wiki-aventurica.de/Tragatsch">Tragatsch</a> gewonnen haben, können sie sich frei in <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a> bewegen und in der riesigen Festungsanlage auf Entdeckungstour gehen und/oder sich mit den trollischen Bewohnern unterhalten. Unter anderem können sie den versteinerten Leichnam des <a href="http://www.wiki-aventurica.de/index.php/Kaiserdrache" title="Kaiserdrache">Kaiserdrachen</a> <a href="http://www.wiki-aventurica.de/index.php/Brakanor" title="Brakanor">Brakanor</a>, eine <a href="http://www.wiki-aventurica.de/Mondmilch">Mondmilch</a>-Quelle, die <a href="http://www.wiki-aventurica.de/index.php/Trollische_Raumbilderschrift" title="Trollische Raumbilderschrift">Raumschrift</a>-Chronik der <a href="http://www.wiki-aventurica.de/Tragatsch">Tragatsch</a> und die Ahnenhalle, in der die <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trolle</a> Zwiesprache mit ihren Vorfahren halten, entdecken. (S. 109-115)</p>
 
 <!-- END EDIT -->
 
@@ -6623,7 +6623,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6640,13 +6640,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6686,7 +6686,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(15. Rondra 1034 BF)</p>
-<p>Von <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a> verführte <a href="http://www.wiki-aventurica.de/index.php/Kurga" title="Kurga" class="mw-redirect">Kurga</a> dringen in den Wald um <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a> ein. Die <a href="http://www.wiki-aventurica.de/index.php?title=Mach%27naht%C3%BBl">Mach'nahtûl</a> erstatten den <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trollen</a> Bericht, die wiederum von den Helden erwarten, dass sie beim Zurückschlagen der Eindringlinge behilflich sind. (S. 116)</p>
+<p>Von <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a> verführte <a href="http://www.wiki-aventurica.de/index.php/Kurga" title="Kurga" class="mw-redirect">Kurga</a> dringen in den Wald um <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a> ein. Die <a href="http://www.wiki-aventurica.de/Mach%27naht%C3%BBl">Mach'nahtûl</a> erstatten den <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trollen</a> Bericht, die wiederum von den Helden erwarten, dass sie beim Zurückschlagen der Eindringlinge behilflich sind. (S. 116)</p>
 
 <!-- END EDIT -->
 
@@ -6696,7 +6696,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6713,13 +6713,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6759,7 +6759,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(16. Rondra 1034 BF, nachmittags)</p>
-<p>Zwei <a href="http://www.wiki-aventurica.de/index.php/Kurga" title="Kurga" class="mw-redirect">Kurga</a> der <a href="http://www.wiki-aventurica.de/index.php?title=Mach%27naht%C3%BBl">Mach'nahtûl</a> bringen einen verletzten <a href="http://www.wiki-aventurica.de/index.php/Zwerg" title="Zwerg">Zwerg</a> nach <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a>. Dieser kann berichten, dass <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a> ihn gefangen genommen und auf den Gipfel des <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a> gebracht hat. Dort verhörte sie ihn, um die Lage und Verteidigungsstärke der Zwergenfestung <a href="http://www.wiki-aventurica.de/index.php/Okdr%C3%A2gosch" title="Okdrâgosch">Okdrâgosch</a> in Erfahrung zu bringen. <a href="http://www.wiki-aventurica.de/index.php?title=Tromprancke_Tochter_des_Troddsch">Tromprancke Tochter des Troddsch</a> beschließt mit den Helden aufzubrechen, um vor Ort nach Spuren <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> zu suchen. (S. 116-117)</p>
+<p>Zwei <a href="http://www.wiki-aventurica.de/index.php/Kurga" title="Kurga" class="mw-redirect">Kurga</a> der <a href="http://www.wiki-aventurica.de/Mach%27naht%C3%BBl">Mach'nahtûl</a> bringen einen verletzten <a href="http://www.wiki-aventurica.de/index.php/Zwerg" title="Zwerg">Zwerg</a> nach <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a>. Dieser kann berichten, dass <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a> ihn gefangen genommen und auf den Gipfel des <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a> gebracht hat. Dort verhörte sie ihn, um die Lage und Verteidigungsstärke der Zwergenfestung <a href="http://www.wiki-aventurica.de/index.php/Okdr%C3%A2gosch" title="Okdrâgosch">Okdrâgosch</a> in Erfahrung zu bringen. <a href="http://www.wiki-aventurica.de/Tromprancke_Tochter_des_Troddsch">Tromprancke Tochter des Troddsch</a> beschließt mit den Helden aufzubrechen, um vor Ort nach Spuren <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> zu suchen. (S. 116-117)</p>
 
 <!-- END EDIT -->
 
@@ -6769,7 +6769,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6786,13 +6786,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6832,7 +6832,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(16. Rondra 1034 BF, nachmittags)</p>
-<p>Über einen <a href="http://www.wiki-aventurica.de/index.php/Trollpfad" title="Trollpfad">Trollpfad</a> führt <a href="http://www.wiki-aventurica.de/index.php?title=Tromprancke_Tochter_des_Troddsch">Tromprancke</a> die Helden zu <a href="http://www.wiki-aventurica.de/index.php?title=Strocks_H%C3%B6hle">Strocks Höhle</a> auf dem <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a>. Diese befindet sich nahe eines vulkanisch erhitzten und von <a href="http://www.wiki-aventurica.de/index.php/Elementargeist" title="Elementargeist">Elementargeistern</a> heimgesuchten Kratersees, der die Umgebung in dichte Nebelschwaden hüllt. (1 Stunde - ca. 20 Meilen) (S. 117-119)</p>
+<p>Über einen <a href="http://www.wiki-aventurica.de/index.php/Trollpfad" title="Trollpfad">Trollpfad</a> führt <a href="http://www.wiki-aventurica.de/Tromprancke_Tochter_des_Troddsch">Tromprancke</a> die Helden zu <a href="http://www.wiki-aventurica.de/Strocks_H%C3%B6hle">Strocks Höhle</a> auf dem <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a>. Diese befindet sich nahe eines vulkanisch erhitzten und von <a href="http://www.wiki-aventurica.de/index.php/Elementargeist" title="Elementargeist">Elementargeistern</a> heimgesuchten Kratersees, der die Umgebung in dichte Nebelschwaden hüllt. (1 Stunde - ca. 20 Meilen) (S. 117-119)</p>
 
 <!-- END EDIT -->
 
@@ -6842,7 +6842,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6859,13 +6859,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6907,7 +6907,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(16. Rondra 1034 BF, abends)</p>
-<p>In der Höhle des legendären <a href="http://www.wiki-aventurica.de/index.php?title=Troll-Schamane">Troll-Schamanen</a> <a href="http://www.wiki-aventurica.de/index.php?title=Strock_Sohn_des_Kerbhold">Strock Sohn des Kerbhold</a> führt <a href="http://www.wiki-aventurica.de/index.php?title=Tromprancke_Tochter_des_Troddsch">Tromprancke</a> die Helden in eine mysteriöse <a href="http://www.wiki-aventurica.de/index.php?title=Klangh%C3%B6hle">Klanghöhle</a>. Nachdem es ihnen gelungen ist, diese zu aktivieren, sehen sie Bilder des <a href="http://www.wiki-aventurica.de/index.php?title=Tantraschtasch">Tantraschtasch</a> und seiner Umgebung aus der Zeit des <a href="http://www.wiki-aventurica.de/index.php/Zweiter_Drachenkrieg" title="Zweiter Drachenkrieg">Zweiten Drachenkrieges</a> vor sich, die auch die Position <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgors</a> verraten. An diese Visionen schließt sich eine <a href="http://www.wiki-aventurica.de/index.php/Illusion" title="Illusion">Illusion</a> <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> an, die den Untergang der Trollfestung durch die Macht <a href="http://www.wiki-aventurica.de/index.php/Pyrdacor" title="Pyrdacor">Pyrdacors</a> zeigt. (S. 119-122)</p>
+<p>In der Höhle des legendären <a href="http://www.wiki-aventurica.de/Troll-Schamane">Troll-Schamanen</a> <a href="http://www.wiki-aventurica.de/Strock_Sohn_des_Kerbhold">Strock Sohn des Kerbhold</a> führt <a href="http://www.wiki-aventurica.de/Tromprancke_Tochter_des_Troddsch">Tromprancke</a> die Helden in eine mysteriöse <a href="http://www.wiki-aventurica.de/Klangh%C3%B6hle">Klanghöhle</a>. Nachdem es ihnen gelungen ist, diese zu aktivieren, sehen sie Bilder des <a href="http://www.wiki-aventurica.de/Tantraschtasch">Tantraschtasch</a> und seiner Umgebung aus der Zeit des <a href="http://www.wiki-aventurica.de/index.php/Zweiter_Drachenkrieg" title="Zweiter Drachenkrieg">Zweiten Drachenkrieges</a> vor sich, die auch die Position <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgors</a> verraten. An diese Visionen schließt sich eine <a href="http://www.wiki-aventurica.de/index.php/Illusion" title="Illusion">Illusion</a> <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> an, die den Untergang der Trollfestung durch die Macht <a href="http://www.wiki-aventurica.de/index.php/Pyrdacor" title="Pyrdacor">Pyrdacors</a> zeigt. (S. 119-122)</p>
 
 <!-- END EDIT -->
 
@@ -6917,7 +6917,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -6934,13 +6934,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -6980,7 +6980,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(16. Rondra 1034 BF, spätabends)</p>
-<p>Der halbwüchsige <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Troll</a> Bagsch erreicht <a href="http://www.wiki-aventurica.de/index.php?title=Strocks_H%C3%B6hle">Strocks Höhle</a> und berichtet von einem Angriff auf <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a>. Die Gruppe macht sich daraufhin eiligst auf den Rückweg, um bei der Verteidigung zu helfen. (45 Minuten - ca. 20 Meilen) (S. 122)</p>
+<p>Der halbwüchsige <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Troll</a> Bagsch erreicht <a href="http://www.wiki-aventurica.de/Strocks_H%C3%B6hle">Strocks Höhle</a> und berichtet von einem Angriff auf <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a>. Die Gruppe macht sich daraufhin eiligst auf den Rückweg, um bei der Verteidigung zu helfen. (45 Minuten - ca. 20 Meilen) (S. 122)</p>
 
 <!-- END EDIT -->
 
@@ -6990,7 +6990,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -7007,13 +7007,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -7055,7 +7055,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(16. Rondra 1034 BF, nachts)</p>
-<p>Gemeinsam mit Kriegern der <a href="http://www.wiki-aventurica.de/index.php?title=Mach%27naht%C3%BBl">Mach'nahtûl</a> und <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trollen</a> stürzen sich die Helden in den Kampf gegen die Menschenjäger des <a href="http://www.wiki-aventurica.de/index.php/Warunk" title="Warunk">Warunker</a> <a href="http://www.wiki-aventurica.de/index.php/Nekromantenrat" title="Nekromantenrat">Nekromantenrates</a>, denen sie unbeabsichtigterweise den Weg nach <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a> gewiesen haben. (S. 122-124)</p>
+<p>Gemeinsam mit Kriegern der <a href="http://www.wiki-aventurica.de/Mach%27naht%C3%BBl">Mach'nahtûl</a> und <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trollen</a> stürzen sich die Helden in den Kampf gegen die Menschenjäger des <a href="http://www.wiki-aventurica.de/index.php/Warunk" title="Warunk">Warunker</a> <a href="http://www.wiki-aventurica.de/index.php/Nekromantenrat" title="Nekromantenrat">Nekromantenrates</a>, denen sie unbeabsichtigterweise den Weg nach <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a> gewiesen haben. (S. 122-124)</p>
 
 <!-- END EDIT -->
 
@@ -7065,7 +7065,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -7082,13 +7082,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -7138,7 +7138,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -7155,13 +7155,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -7201,7 +7201,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(16. Rondra 1034 BF, nachts)</p>
-<p>Die Helden stürmen in die Ahnenhalle und werden Zeuge, wie <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a>, geschützt durch eine magische Kuppel, den Widerstand des <a href="http://www.wiki-aventurica.de/index.php/Geist" title="Geist">Geistes</a> von <a href="http://www.wiki-aventurica.de/index.php?title=Strock_Sohn_des_Kerbhold">Strock Sohn des Kerbhold</a> bricht und von ihm die Namen der <a href="http://www.wiki-aventurica.de/index.php?title=Ousiaph%C3%B4r">Ousiaphôr</a> <a href="http://www.wiki-aventurica.de/index.php/Pyrdacor" title="Pyrdacor">Pyrdacors</a> in Erfahrung bringt. Anschließend verschwindet sie mittels <a href="http://www.wiki-aventurica.de/index.php/Transversalis_Teleport" title="Transversalis Teleport">TRANSVERSALIS</a>. (S. 126-127)</p>
+<p>Die Helden stürmen in die Ahnenhalle und werden Zeuge, wie <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardona</a>, geschützt durch eine magische Kuppel, den Widerstand des <a href="http://www.wiki-aventurica.de/index.php/Geist" title="Geist">Geistes</a> von <a href="http://www.wiki-aventurica.de/Strock_Sohn_des_Kerbhold">Strock Sohn des Kerbhold</a> bricht und von ihm die Namen der <a href="http://www.wiki-aventurica.de/Ousiaph%C3%B4r">Ousiaphôr</a> <a href="http://www.wiki-aventurica.de/index.php/Pyrdacor" title="Pyrdacor">Pyrdacors</a> in Erfahrung bringt. Anschließend verschwindet sie mittels <a href="http://www.wiki-aventurica.de/index.php/Transversalis_Teleport" title="Transversalis Teleport">TRANSVERSALIS</a>. (S. 126-127)</p>
 
 <!-- END EDIT -->
 
@@ -7211,7 +7211,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -7228,13 +7228,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>
@@ -7274,7 +7274,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <!-- EDIT: HANDLUNGSABRISS (HTML-CODE) -->
 <p>(17. Rondra 1034 BF)</p>
-<p>Nach dem Kampf um <a href="http://www.wiki-aventurica.de/index.php?title=Traschmalgor">Traschmalgor</a> bitten die siegreichen <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trolle</a> die Helden in die Versammlungshalle, um mit ihnen über das Geschehene und <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> Pläne zu beraten. Abschließend findet ein großes Fest anlässlich der Erhebung <a href="http://www.wiki-aventurica.de/index.php?title=Tromprancke_Tochter_des_Troddsch">Trompranckes</a> zur <a href="http://www.wiki-aventurica.de/index.php?title=Waeggagatsch">Waeggagatsch</a> statt, zu dem auch die Helden herzlich eingeladen sind. (S. 127-129)</p>
+<p>Nach dem Kampf um <a href="http://www.wiki-aventurica.de/Traschmalgor">Traschmalgor</a> bitten die siegreichen <a href="http://www.wiki-aventurica.de/index.php/Troll" title="Troll">Trolle</a> die Helden in die Versammlungshalle, um mit ihnen über das Geschehene und <a href="http://www.wiki-aventurica.de/index.php/Pardona" title="Pardona">Pardonas</a> Pläne zu beraten. Abschließend findet ein großes Fest anlässlich der Erhebung <a href="http://www.wiki-aventurica.de/Tromprancke_Tochter_des_Troddsch">Trompranckes</a> zur <a href="http://www.wiki-aventurica.de/Waeggagatsch">Waeggagatsch</a> statt, zu dem auch die Helden herzlich eingeladen sind. (S. 127-129)</p>
 
 <!-- END EDIT -->
 
@@ -7284,7 +7284,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>Dieser Text basiert auf der Zeitleiste von
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste">
 <!-- END EDIT -->
 
 <!-- EDIT: NAME DES ABENTEUERS -->
@@ -7301,13 +7301,13 @@ und steht unter der
 Im Wiki Aventurica ist eine
 
 <!-- EDIT: NAME DES ABENTEUERS-->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=history">Liste der Autoren</a>
 <!-- END EDIT -->
 
 verfügbar, dort kann man den
 
 <!-- EDIT: NAME DES ABENTEUERS -->
-<a href="http://www.wiki-aventurica.de/index.php?title=Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
+<a href="http://www.wiki-aventurica.de/Vermächtnis_im_Mondschein/Meisterinformationen/Zeitleiste&action=edit">Artikel bearbeiten</a>.</div>
 <!-- END EDIT -->
 
 </td>

@@ -35,7 +35,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -43,7 +43,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -69,7 +69,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -77,7 +77,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -103,7 +103,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -111,7 +111,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -137,7 +137,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -145,7 +145,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -171,7 +171,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -179,7 +179,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -205,7 +205,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -213,7 +213,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -239,7 +239,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -247,7 +247,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -273,7 +273,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -281,7 +281,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -307,7 +307,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -315,7 +315,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -341,7 +341,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -349,7 +349,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -375,7 +375,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -383,7 +383,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -409,7 +409,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -417,7 +417,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -443,7 +443,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -451,7 +451,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -477,7 +477,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -485,7 +485,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -511,7 +511,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -519,7 +519,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -545,7 +545,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -553,7 +553,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -579,7 +579,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -587,7 +587,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -613,7 +613,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -621,7 +621,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -647,7 +647,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -655,7 +655,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -681,7 +681,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -689,7 +689,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -715,7 +715,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -723,7 +723,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -749,7 +749,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -757,7 +757,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -783,7 +783,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -791,7 +791,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -817,7 +817,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -825,7 +825,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -851,7 +851,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -859,7 +859,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -885,7 +885,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -893,7 +893,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -919,7 +919,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -927,7 +927,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -953,7 +953,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -961,7 +961,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -987,7 +987,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 								Die Straße <B>$[name]</B> ...		
 								<!-- END EDIT -->
@@ -995,7 +995,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>
@@ -1021,7 +1021,7 @@
 				<table cellpadding="10" cellspacing="0" align="center">
 					<tr>
 						<td>
-							<p><a href="http://www.wiki-aventurica.de/index.php?title=$[name]"></a>
+							<p><a href="http://www.wiki-aventurica.de/$[name]"></a>
 								--><!-- EDIT: KURZBESCHREIBUNG (CODE) --><!--
 								Die Straße <B>$[name]</B> ...		
 								--><!-- END EDIT --><!--
@@ -1029,7 +1029,7 @@
 								<hr><div id="wiki">
 									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de/">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://www.gnu.org/licenses/fdl.txt">GNU Lizenz f&uuml;r freie Dokumentation</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
 								</div>
 						</td>
 					</tr>

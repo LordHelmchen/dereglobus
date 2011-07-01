@@ -718,7 +718,7 @@ verfügbar, dort kann man den
 	</Placemark>
 	<Placemark>
 		<name>Weilwasser</name>
-		ExtendedData>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -771,7 +771,7 @@ verfügbar, dort kann man den
 	</Placemark>
 	<Placemark>
 		<name>Windhaege</name>
-		ExtendedData>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>

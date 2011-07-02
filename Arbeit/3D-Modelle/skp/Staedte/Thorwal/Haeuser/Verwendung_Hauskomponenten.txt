@@ -1,0 +1,17 @@
+Allgemeine Verwendung
+---------------------
+Einfügen der einzelnen Hauskoponenten durch "Importieren". 
+Plazierung an der richtigen Stelle.
+Rotation in die richtige Richtung.
+Skalierung auf die richtige Größe.
+
+Veränderung der Dachwinkel
+--------------------------
+Hauskomponente rechts anklicken, "edit component"/"Komponente bearbeiten". Innerhalb der bearbeiteten Komponete die Dachkomponente anklicken und wieder "edit component"/"Komponente Bearbeiten". Nun die Linie des Dachfirsten anklicken (bei mehrteiligen Häusern alle Linien markieren (SHIFT+Klick)). Verschieben-Werkzeug wählen, mit der Pfeil-nach-Oben-Taste auf die vertikale (blaue) Achse beschränken und Firstlinie auf die gewünsche Höhe ziehen.
+Diese Methode verändert alle idetischen Hauskomponenten im gesamten Modell. Wenn Häuser mit verschiedenen Dachneigungen im gleichen Modell gewünscht werden, muß für jede Neigung eine einzelne Komponente erstellt werden: Dazu Hauskomponente teilen und wie oben verfahren und am Ende der Prozedur eine Komponente mit neuem Namen (!) erstellen.
+
+Veränderung der Etagenzahl/höhe:
+--------------------------------
+Wie beim Dachwinkel die Komponente editieren. Die Dachkomponente nach oben verschieben und die Quarderkomponente nach oben hin zum Dach skalieren.
+Auch hier muß für jede "verschiedene Haushöhe" eine einzlene Komponete im Modell erstellt werden.
+Für kleinere Höhenvariationen reicht es allerdings aus die gesamte Hauskoponente zu skalieren. Die dabei auftretenden kleiner Veränderungen des Winkels der Dachschräge sind Normalerweise so klein, daß sie kaum auffallen und etwas steilere Dächer passen oft auch zu höheren Häusern.

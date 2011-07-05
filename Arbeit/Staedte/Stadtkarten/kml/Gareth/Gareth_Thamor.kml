@@ -24,7 +24,7 @@
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 		<drawOrder>20</drawOrder>
 		<Icon>
-			<href>Gareth_SSDG_farbe.jpg</href>
+			<href>https://content.wuala.com/contents/DereGlobus/Teamserver/Kartenzimmer/Stadtkarten/Gareth/Gareth_SSDG_farbe.jpg?key=OM7nYrQJtsSM</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -55,7 +55,7 @@
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 		<drawOrder>19</drawOrder>
 		<Icon>
-			<href>Gareth_Umgebung01.jpg</href>
+			<href>https://content.wuala.com/contents/DereGlobus/Teamserver/Kartenzimmer/Stadtkarten/Gareth/Gareth_Umgebung01.jpg?key=OM7nYrQJtsSM</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<gx:LatLonQuad>
@@ -85,7 +85,7 @@
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 		<drawOrder>18</drawOrder>
 		<Icon>
-			<href>Gareth_Umgebung02.jpg</href>
+			<href>https://content.wuala.com/contents/DereGlobus/Teamserver/Kartenzimmer/Stadtkarten/Gareth/Gareth_Umgebung02.jpg?key=OM7nYrQJtsSM</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<gx:LatLonQuad>
@@ -97,25 +97,25 @@
 	<GroundOverlay>
 		<name>Alt-Gareth</name>
 		<Region>
-			<LatLonAltBox>
-				<north>29.7686044049037</north>
-				<south>29.7660956929347</south>
-				<east>3.734923141037005</east>
-				<west>3.730558760530589</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-			<Lod>
-				<minLodPixels>100</minLodPixels>
-				<maxLodPixels>-1</maxLodPixels>
-				<minFadeExtent>250</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
+		<LatLonAltBox>
+			<north>29.77361141132298</north>
+			<south>29.76089333211599</south>
+			<east>3.743541915099975</east>
+			<west>3.721977028746464</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>64</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
 		</Region>
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 		<drawOrder>30</drawOrder>
 		<Icon>
-			<href>Alt-Gareth_LdSA_farbe.jpg</href>
+			<href>https://content.wuala.com/contents/DereGlobus/Teamserver/Kartenzimmer/Stadtkarten/Gareth/Alt-Gareth_LdSA_farbe.jpg?key=OM7nYrQJtsSM</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<gx:LatLonQuad>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Gareth Stadtkarte</name>
+	<open>1</open>
+	<NetworkLink>
+		<name>Gareth.kml</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Arbeit/Staedte/Stadtkarten/kml/Gareth/Gareth.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Gareth_Thamor.kml</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Arbeit/Staedte/Stadtkarten/kml/Gareth/Gareth_Thamor.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Gareth_Thamor_Wulf.kml</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Arbeit/Staedte/Stadtkarten/kml/Gareth/Gareth_Thamor_Wulf.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Gareth Umgebung_nicht_zerschnitten_Thamor.kml</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Arbeit/Staedte/Stadtkarten/kml/Gareth/Gareth%20Umgebung_nicht_zerschnitten_Thamor.kml</href>
+		</Link>
+	</NetworkLink>
+</Folder>
+</kml>

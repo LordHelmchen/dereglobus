@@ -2323,6 +2323,20 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 <GroundOverlay id="Havena-Plan">
 	<name>Havena</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>29.06572891215429</north>
+		<south>29.05595236559286</south>
+		<east>-3.157933754779839</east>
+		<west>-3.172997625522446</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
 	<description><![CDATA[<style type="text/css"><!--
 
 a:link, a:visited { text-decoration: none; color: #B21C19; }

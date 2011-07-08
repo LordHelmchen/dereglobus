@@ -399,24 +399,24 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<heading>179</heading>
 		<altitudeMode>relativeToGround</altitudeMode>
 	</LookAt>
-	<!--
+
 	<Region>
         <LatLonAltBox>
-		<north>27.03818</north>
-		<south>27.05625</south>
-		<east>2.66239</east>
-		<west>2.64749</west>
-            <minAltitude>0</minAltitude>
-            <maxAltitude>400</maxAltitude>
+		<north>27.04693373867157</north>
+		<south>27.04646881115222</south>
+		<east>2.657072374750493</east>
+		<west>2.656519555964065</west>
+        <minAltitude>0</minAltitude>
+        <maxAltitude>400</maxAltitude>
          </LatLonAltBox>
          <Lod>
-            <minLodPixels>512</minLodPixels>
+            <minLodPixels>256</minLodPixels>
             <maxLodPixels>-1</maxLodPixels>
             <minFadeExtent>0</minFadeExtent>
             <maxFadeExtent>0</maxFadeExtent>
           </Lod>
     </Region>
-	-->
+
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
 	<Link>
 		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kml/Magierakademien/Akademie_Punin.kml</href>

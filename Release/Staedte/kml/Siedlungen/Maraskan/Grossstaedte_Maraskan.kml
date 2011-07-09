@@ -143,10 +143,10 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Grossstadt</styleUrl>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Grossstadt_Karte</styleUrl>
         <Camera> 
-              <longitude> 10.498711</longitude>
-              <latitude> 24.782103</latitude>
+              <longitude> 10.531945</longitude>
+              <latitude> 24.799199</latitude>
               <altitude>200000</altitude>
               <altitudeMode>relativeToGround</altitudeMode>
               <gx:TimeStamp>
@@ -157,7 +157,7 @@ verfügbar, dort kann man den
           <begin> 163</begin>
         </TimeSpan>
         <Point>
-             <coordinates> 10.498711, 24.782103,0</coordinates>
+             <coordinates> 10.531945, 24.799199,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
@@ -218,8 +218,8 @@ verfügbar, dort kann man den
 </table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Grossstadt_Karte</styleUrl>
         <Camera> 
-              <longitude> 10.796176</longitude>
-              <latitude> 27.394405</latitude>
+              <longitude> 10.844603</longitude>
+              <latitude> 27.354372</latitude>
               <altitude>200000</altitude>
               <altitudeMode>relativeToGround</altitudeMode>
               <gx:TimeStamp>
@@ -230,7 +230,7 @@ verfügbar, dort kann man den
           <begin> 163</begin>
         </TimeSpan>
         <Point>
-             <coordinates> 10.796176, 27.394405,0</coordinates>
+             <coordinates> 10.844603, 27.354372,0</coordinates>
         </Point>
     </Placemark>
 	</Folder>

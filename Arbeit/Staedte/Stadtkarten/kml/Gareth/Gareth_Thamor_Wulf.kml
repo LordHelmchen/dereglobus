@@ -5,6 +5,12 @@
 	<open>1</open>
 	<GroundOverlay>
 		<name>Gareth</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Stolze_Schlösser,_Dunkle_Gassen" title="Stolze Schlösser, Dunkle Gassen">Stolze Schlösser, Dunkle Gassen</a>]]></description>
 		<Region>
 			<LatLonAltBox>
 				<north>29.79109682564791</north>
@@ -39,6 +45,12 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Gareth Umgebung01</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Abenteuer_Basis-Spiel_(DSA3)" title="Abenteuer Basis-Spiel (DSA3)">Abenteuer Basis-Spiel (DSA3)</a>]]></description>
 		<Region>
 			<LatLonAltBox>
 				<north>29.801275</north>
@@ -72,6 +84,12 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Gareth_Umgebung02</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Abenteuer_Basis-Spiel_(DSA3)" title="Abenteuer Basis-Spiel (DSA3)">Abenteuer Basis-Spiel (DSA3)</a>]]></description>
 		<Region>
 			<LatLonAltBox>
 				<north>29.71248103638076</north>
@@ -105,6 +123,12 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Alt-Gareth</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Das_Land_des_Schwarzen_Auges" title="Das Land des Schwarzen Auges">Das Land des Schwarzen Auges</a>]]></description>
 		<Region>
 		<LatLonAltBox>
 			<north>29.77361141132298</north>
@@ -138,6 +162,12 @@
 	</GroundOverlay>
 	<GroundOverlay>
 	<name>Gareth Dunkle Zeit</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Die_Dunklen_Zeiten" title="Die Dunklen Zeiten">DDZ</a>]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 	<TimeSpan>
 		<end>-1-12</end>
@@ -156,6 +186,16 @@
 </GroundOverlay>
 <GroundOverlay>
 	<name>Provinz Garetia</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+
+<p>Vielen Dank an <a href="http://www.dsa4forum.de/memberlist.php?mode=viewprofile&u=4224">Pagol Ehrwald</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+
+</div>]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<TimeSpan>
 		<end>-1-12</end>

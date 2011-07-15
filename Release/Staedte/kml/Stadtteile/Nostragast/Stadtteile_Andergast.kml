@@ -2,10 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Stadtteile_Andergast.kml</name>
-	<open>1</open>	
-	<Folder>
-		<name>Stadtteile_Andergast</name>
-		<open>0</open>
+	<open>1</open>
 	<Placemark>
 		<name>Burg und Gehöfte</name>
 		<!--<ExtendedData>
@@ -228,6 +225,5 @@
 		</Point>
 		</MultiGeometry>
 	</Placemark>
-	</Folder>
 </Document>
 </kml>

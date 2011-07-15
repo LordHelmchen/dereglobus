@@ -5,6 +5,31 @@
 	<open>0</open>
 	
 		<NetworkLink>
+			<name>Andergast</name>
+			<visibility>1</visibility>
+		<Region>
+			<LatLonAltBox>
+				<north>32.09349042191085</north>
+				<south>32.08926338322076</south>
+				<east>-1.142785239921934</east>
+				<west>-1.146054851986406</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>5</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Bornland/Stadtteile_Andergast.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
 			<name>Festum</name>
 			<visibility>1</visibility>
 		<Region>

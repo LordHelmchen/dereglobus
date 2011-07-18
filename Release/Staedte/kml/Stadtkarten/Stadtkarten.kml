@@ -1289,6 +1289,44 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<west>-4.704454714879941</west>
 		</LatLonBox>
 	</GroundOverlay>	
+
+<GroundOverlay id="Devensberg-Plan">
+	<name>Devensberg</name>
+    <Region>
+          <LatLonAltBox>
+		<north>30.70369152838019</north>
+		<south>30.70090907200427</south>
+		<east>5.743210360175445</east>
+		<west>5.739158868184402</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style>Diese Karte wurde im Rahmen des DereGlobus-Projekts von <a href="http://dereglobus.orkenspalter.de/memberlist.php?mode=viewprofile&u=14" title="Kontakt zu Richius">Richius</a> gezeichnet.
+<br><br>
+<a href="http://www.dereglobus.org/download/bonusmaterial#TOC-Devensberg">Download</a>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Devensberg_Richius_klein.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>30.70369152838019</north>
+		<south>30.70090907200427</south>
+		<east>5.743210360175445</east>
+		<west>5.739158868184402</west>
+	</LatLonBox>
+</GroundOverlay>
 	
 <GroundOverlay id="Drakensteen-Plan">
 	<name>Drakensteen</name>
@@ -2309,7 +2347,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<drawOrder>21</drawOrder>
 	<Icon>
-		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Harben_Anshelm_farbe.jpg</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Harben_Anshelm_farbe_klein.jpg</href>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>

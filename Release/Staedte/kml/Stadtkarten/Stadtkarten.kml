@@ -5500,51 +5500,159 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
     </Folder>
 
-<GroundOverlay id="Warunk-Plan">	
-      <name>Warunk</name>
-      <description><![CDATA[<style type="text/css"><!--
-		a:link, a:visited { text-decoration: none; color: #B21C19; }
-		a:hover { text-decoration: underline; color: #B21C19; }
-		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-		#wiki { font-size:10px; }
-		--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Rückkehr_des_Kaisers" title="Rückkehr des Kaisers">A133</a>]]></description>
-      <LookAt>
-        <longitude>7.831132184494894</longitude>
-        <latitude>30.6025888959797</latitude>
-        <altitude>0</altitude>
-        <range>1522.018222074351</range>
-        <tilt>0</tilt>
-        <heading>-5.009373623305038e-014</heading>
-        <altitudeMode>relativeToGround</altitudeMode>
-      </LookAt>
-      <Region>
-        <LatLonAltBox>
-          <north>30.60591082531525</north>
-          <south>30.59926696664408</south>
-          <east>7.836497298339849</east>
-          <west>7.825767070649937</west>
-          <minAltitude>0</minAltitude>
-          <maxAltitude>0</maxAltitude>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>16</minLodPixels>
-          <maxLodPixels>-1</maxLodPixels>
-          <minFadeExtent>128</minFadeExtent>
-          <maxFadeExtent>0</maxFadeExtent>
-        </Lod>
-      </Region>
-      <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
-      <drawOrder>21</drawOrder>
-      <Icon>
-        <href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Warunk_KdV_sw.png</href>
-        <viewBoundScale>0.75</viewBoundScale>
-      </Icon>
-      <LatLonBox>
-        <north>30.60591082531525</north>
-        <south>30.59926696664408</south>
-        <east>7.836497298339849</east>
-        <west>7.825767070649937</west>
-      </LatLonBox>
+<GroundOverlay id="Warunk-Plan">
+	<name>Warunk nach 1032 BF</name>
+    <Region>
+          <LatLonAltBox>
+		<north>30.58543445663378</north>
+		<south>30.5765099690328</south>
+		<east>7.829395075788515</east>
+		<west>7.822116773671876</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Schattenlande" title="Schattenlande">G14</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+		  <LookAt>
+			<gx:TimeStamp>
+				<when>1036</when>
+			</gx:TimeStamp>
+			<longitude>7.8257559247301955</longitude>
+			<latitude>30.58097221283325</latitude>
+			<altitude>0</altitude>
+			<range>1250</range>
+			<tilt>0</tilt>
+			<heading>-3.180554681463516e-015</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		  </LookAt>
+		<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Warunk_SL_sw_252.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>30.58543445663378</north>
+		<south>30.5765099690328</south>
+		<east>7.829395075788515</east>
+		<west>7.822116773671876</west>
+		<rotation>-90</rotation>
+	</LatLonBox>
+	<TimeSpan id="ID">
+		<begin>1032</begin>
+	</TimeSpan>
+</GroundOverlay>
+
+<GroundOverlay>
+	<name>Warunk 1020-1032 BF</name>
+    <Region>
+          <LatLonAltBox>
+		<north>30.58419174999028</north>
+		<south>30.57787205390444</south>
+		<east>7.831587387103167</east>
+		<west>7.82138021420881</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Kreise_der_Verdammnis" title="Kreise der Verdammnis">A116</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+		  <LookAt>
+			<gx:TimeStamp>
+				<when>1036</when>
+			</gx:TimeStamp>
+			<longitude>7.831255751762132</longitude>
+			<latitude>30.6023654510359,5</latitude>
+			<altitude>0</altitude>
+			<range>1250</range>
+			<tilt>0</tilt>
+			<heading>-3.180554681463516e-015</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		  </LookAt>
+		<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Warunk_KdV_sw_92.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>30.58419174999028</north>
+		<south>30.57787205390444</south>
+		<east>7.831587387103167</east>
+		<west>7.82138021420881</west>
+	</LatLonBox>
+	<TimeSpan id="ID">
+		<end>1032</end>
+		<begin>1020</begin>
+	</TimeSpan>
+</GroundOverlay>
+
+<GroundOverlay>
+	<name>Warunk vor 1020 BF</name>
+    <Region>
+          <LatLonAltBox>
+		<north>30.58433341619082</north>
+		<south>30.5768439068258</south>
+		<east>7.832721959033087</east>
+		<west>7.820451599192094</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Wunderwelten_Nr._9" title="Wunderwelten Nr. 9">WW9</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+		  <LookAt>
+			<gx:TimeStamp>
+				<when>1036</when>
+			</gx:TimeStamp>
+			<longitude>7.831255751762132</longitude>
+			<latitude>30.6023654510359,5</latitude>
+			<altitude>0</altitude>
+			<range>1250</range>
+			<tilt>0</tilt>
+			<heading>-3.180554681463516e-015</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		  </LookAt>
+		<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Warunk_WW9_sw_88.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>30.58433341619082</north>
+		<south>30.5768439068258</south>
+		<east>7.832721959033087</east>
+		<west>7.820451599192094</west>
+	</LatLonBox>
+	<TimeSpan id="ID">
+		<end>1020</end>
+	</TimeSpan>
 </GroundOverlay>
 
 <GroundOverlay id="Wolfsversteck-Plan">

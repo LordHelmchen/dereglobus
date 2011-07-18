@@ -639,6 +639,46 @@
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Beilunk-Plan">
+	<name>Beilunk</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.82850090136448</north>
+		<south>29.81607404268558</south>
+		<east>7.894976202442131</east>
+		<west>7.884152111693959</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style>Vielen Dank an <a href="http://www.wiki-aventurica.de/wiki/Martin_Lorber" title="Martin Lorber">Martin Lorber</a>, der uns die colorierte Karte zur Verfügung gestellt hat.
+	<br><br>
+	<a href="http://www.wiki-aventurica.de/images/9/9f/BeilunkStadtplan.gif">Download</a> der colorierten Karte
+	<br>
+	<a href="http://www.dasschwarzeauge.de/fileadmin/downloads/handouts/Pilgerpfade_Handout2.pdf">Download</a> der offiziellen schwarzweiß-Karte]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Beilunk_Farbe_wiki.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.82850090136448</north>
+		<south>29.81607404268558</south>
+		<east>7.894976202442131</east>
+		<west>7.884152111693959</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Belhanka-Plan">
 	<name>Belhanka</name>
     <Region>

@@ -2390,7 +2390,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<name>H&#244;t-Alem</name>
 	<Region>
       <LatLonAltBox>
-         <north>16.40593866511323</north>
+        <north>16.40593866511323</north>
 		<south>16.40042647767344</south>
 		<east>-0.1490680961838435</east>
 		<west>-0.1572203420604919</west>
@@ -2410,7 +2410,18 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
     --></style>Diese Karte wurde von <a href="http://dereglobus.orkenspalter.de/memberlist.php?mode=viewprofile&u=657" title="Kontakt zu Anshelm">Anshelm</a> im Rahmen des DereGlobus-Projekts gezeichnet und im <a href="http://www.wiki-aventurica.de/wiki/Aventurischer_Bote_Nr._143" title="Aventurischer Bote Nr. 143">Aventurischen Boten Nr. 143</a> veröffentlicht.
 	]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
-	<drawOrder>23</drawOrder>
+      <LookAt>
+		<gx:TimeStamp>
+			<when>1036</when>
+		</gx:TimeStamp>
+		<longitude>-0.1531442191221677</longitude>
+        <latitude>16.403182571393335</latitude>
+        <altitude>0</altitude>
+        <range>950</range>
+        <tilt>0</tilt>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+	  <drawOrder>22</drawOrder>
 	<Icon>
 		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Hot_Alem_Anshelm_Farbe_234.jpg</href>
 		<viewBoundScale>0.75</viewBoundScale>
@@ -2450,7 +2461,18 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
     --></style>Diese Karte wurde von <a href="http://dereglobus.orkenspalter.de/memberlist.php?mode=viewprofile&u=657" title="Kontakt zu Anshelm">Anshelm</a> im Rahmen des DereGlobus-Projekts gezeichnet und im <a href="http://www.wiki-aventurica.de/wiki/Aventurischer_Bote_Nr._143" title="Aventurischer Bote Nr. 143">Aventurischen Boten Nr. 143</a> veröffentlicht.
 	]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
-	<drawOrder>22</drawOrder>
+      <LookAt>
+		<gx:TimeStamp>
+			<when>-107</when>
+		</gx:TimeStamp>
+		<longitude>-0.1531442191221677</longitude>
+        <latitude>16.403182571393335</latitude>
+        <altitude>0</altitude>
+        <range>950</range>
+        <tilt>0</tilt>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+	  <drawOrder>23</drawOrder>
 	<Icon>
 		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Hot_Elem_Anshelm_Farbe_236.jpg</href>
 		<viewBoundScale>0.75</viewBoundScale>
@@ -2539,6 +2561,53 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
         <east>9.683694417326247</east>
         <west>9.669644105513561</west>
       </LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay id="Jergan-Plan">
+	<name>Jergan</name>
+    <Region>
+          <LatLonAltBox>
+		<north>27.36543129021943</north>
+		<south>27.35479432466968</south>
+		<east>10.83401191677638</east>
+		<west>10.8256114684059</west>
+		<rotation>-19.9956144367387</rotation>
+		</LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Schattenlande" title="Schattenlande">G14</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <LookAt>
+        <longitude>10.8298116925911</longitude>
+        <latitude>27.360112807444555</latitude>
+        <altitude>0</altitude>
+        <range>1900</range>
+        <tilt>0</tilt>
+        <heading>19.9956144367387</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+	  <drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Jergan_SL_sw_253.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>27.36543129021943</north>
+		<south>27.35479432466968</south>
+		<east>10.83401191677638</east>
+		<west>10.8256114684059</west>
+		<rotation>-19.9956144367387</rotation>
+	</LatLonBox>
 </GroundOverlay>
 
 <GroundOverlay id="Kannemuende-Plan">
@@ -3044,7 +3113,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 		  <LookAt>
 			<gx:TimeStamp>
-				<when>1036</when>
+				<when>1031</when>
 			</gx:TimeStamp>
 			<longitude>10.1192588359504</longitude>
 			<latitude>31.06940846456502</latitude>
@@ -4983,7 +5052,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 </GroundOverlay>
 
 <GroundOverlay id="Thorwal-Plan">
-		<name>Thorwal - nach 1023 BF</name>
+		<name>Thorwal nach 1023 BF</name>
    <Region>
       <LatLonAltBox>
          <north>32.72658691739555</north>
@@ -5034,7 +5103,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 </GroundOverlay>
 
 <GroundOverlay>
-		<name>Thorwal - bis 1023 BF</name>
+		<name>Thorwal bis 1023 BF</name>
    <Region>
       <LatLonAltBox>
          <north>32.726255</north>
@@ -5057,7 +5126,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Thorwal_und_die_Seefahrt_des_Schwarzen_Auges" title="Thorwal und die Seefahrt des Schwarzen Auges">Thorwal-Box</a>]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 	<LookAt>
-			<gx:TimeStamp><when>1036</when>
+			<gx:TimeStamp><when>1022</when>
 			</gx:TimeStamp>
 			<longitude>-4.13420549999999</longitude>
 			<latitude>32.72006750000001</latitude>
@@ -5535,7 +5604,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		  </LookAt>
-		<drawOrder>22</drawOrder>
+		<drawOrder>21</drawOrder>
 	<Icon>
 		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Warunk_SL_sw_252.jpg</href>
 		<viewBoundScale>0.75</viewBoundScale>
@@ -5577,10 +5646,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 		  <LookAt>
 			<gx:TimeStamp>
-				<when>1036</when>
+				<when>1021</when>
 			</gx:TimeStamp>
-			<longitude>7.831255751762132</longitude>
-			<latitude>30.6023654510359,5</latitude>
+			<longitude>7.8257559247301955</longitude>
+			<latitude>30.58097221283325</latitude>
 			<altitude>0</altitude>
 			<range>1250</range>
 			<tilt>0</tilt>
@@ -5629,17 +5698,17 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 		  <LookAt>
 			<gx:TimeStamp>
-				<when>1036</when>
+				<when>1020</when>
 			</gx:TimeStamp>
-			<longitude>7.831255751762132</longitude>
-			<latitude>30.6023654510359,5</latitude>
+			<longitude>7.8257559247301955</longitude>
+			<latitude>30.58097221283325</latitude>
 			<altitude>0</altitude>
 			<range>1250</range>
 			<tilt>0</tilt>
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		  </LookAt>
-		<drawOrder>22</drawOrder>
+		<drawOrder>23</drawOrder>
 	<Icon>
 		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Warunk_WW9_sw_88.jpg</href>
 		<viewBoundScale>0.75</viewBoundScale>
@@ -5727,6 +5796,56 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Yol-Ghurmak-Plan">
+	<name>Yol-Ghurmak</name>
+    <Region>
+          <LatLonAltBox>
+		<north>32.25943960828712</north>
+		<south>32.22776337768062</south>
+		<east>7.700396910018829</east>
+		<west>7.674024283951511</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Schattenlande" title="Schattenlande">G14</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+      <LookAt>
+		<gx:TimeStamp>
+			<when>1036</when>
+		</gx:TimeStamp>
+		<longitude>7.687210596985170</longitude>
+        <latitude>32.24360149298387</latitude>
+        <altitude>0</altitude>
+        <range>5000</range>
+        <tilt>0</tilt>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+	  <drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Yol-Ghurmak_SL_farbe_249.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.25943960828712</north>
+		<south>32.22776337768062</south>
+		<east>7.700396910018829</east>
+		<west>7.674024283951511</west>
+	</LatLonBox>
+	<TimeSpan id="ID">
+		<begin>1020</begin>
+	</TimeSpan>
+</GroundOverlay>
+
 <GroundOverlay id="Ysilia-Plan">
       <name>Ysilia</name>
       <description><![CDATA[<style type="text/css"><!--
@@ -5735,21 +5854,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 		#wiki { font-size:10px; }
 		--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Invasion_der_Verdammten" title="Invasion der Verdammten">SG3</a>]]></description>
-      <LookAt>
-        <longitude>7.669963195394725</longitude>
-        <latitude>32.25923012367616</latitude>
-        <altitude>0</altitude>
-        <range>604.7749095628243</range>
-        <tilt>0</tilt>
-        <heading>16.05100439362058</heading>
-        <altitudeMode>relativeToGround</altitudeMode>
-      </LookAt>
       <Region>
         <LatLonAltBox>
-          <north>32.2612452558373</north>
-          <south>32.25739459232509</south>
-          <east>7.671340686063831</east>
-          <west>7.668385039260214</west>
+		<north>32.23528434794155</north>
+		<south>32.23152469164966</south>
+		<east>7.689163439139321</east>
+		<west>7.686278449669149</west>
           <minAltitude>0</minAltitude>
           <maxAltitude>0</maxAltitude>
         </LatLonAltBox>
@@ -5761,19 +5871,34 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
         </Lod>
       </Region>
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
-      <drawOrder>21</drawOrder>
+      <LookAt>
+		<gx:TimeStamp>
+			<when>1019</when>
+		</gx:TimeStamp>
+		<longitude>7.687720944404235</longitude>
+        <latitude>32.233404519795605</latitude>
+        <altitude>0</altitude>
+        <range>604.7749095628243</range>
+        <tilt>0</tilt>
+        <heading>15.09730670742361</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+	  <drawOrder>22</drawOrder>
       <Icon>
         <href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Ysilia_IdV_sw.jpg</href>
         <viewBoundScale>0.75</viewBoundScale>
       </Icon>
       <LatLonBox>
-        <north>32.2612452558373</north>
-        <south>32.25739459232509</south>
-        <east>7.671340686063831</east>
-        <west>7.668385039260214</west>
-        <rotation>-15.95096424045932</rotation>
+		<north>32.23528434794155</north>
+		<south>32.23152469164966</south>
+		<east>7.689163439139321</east>
+		<west>7.686278449669149</west>
+		<rotation>-15.09730670742361</rotation>
       </LatLonBox>
-    </GroundOverlay>
+	<TimeSpan id="ID">
+		<end>1020</end>
+	</TimeSpan>
+</GroundOverlay>
 
 <GroundOverlay id="Zorgan-Plan">
       <name>Zorgan</name>

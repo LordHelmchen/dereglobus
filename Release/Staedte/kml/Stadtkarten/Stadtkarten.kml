@@ -792,6 +792,43 @@
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Boran-Plan">
+	<name>Boran</name>
+    <Region>
+          <LatLonAltBox>
+		<north>24.81722081106146</north>
+		<south>24.79892181106146</south>
+		<east>10.54353212817382</east>
+		<west>10.52931812817382</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Schattenlande" title="Schattenlande">G14</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Boran_SL_sw_255.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>24.81722081106146</north>
+		<south>24.79892181106146</south>
+		<east>10.54353212817382</east>
+		<west>10.52931812817382</west>
+		<rotation>-90</rotation>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Borbra-Plan">
 	<name>Borbra (InOff)</name>
 	    <Region>

@@ -643,10 +643,10 @@
 	<name>Beilunk</name>
     <Region>
           <LatLonAltBox>
-		<north>29.82850090136448</north>
-		<south>29.81607404268558</south>
-		<east>7.894976202442131</east>
-		<west>7.884152111693959</west>
+		<north>29.80672921498307</north>
+		<south>29.79430235630417</south>
+		<east>7.896905333454186</east>
+		<west>7.886081242706014</west>
           </LatLonAltBox>
           <Lod>
              <minLodPixels>16</minLodPixels>
@@ -672,10 +672,10 @@
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>29.82850090136448</north>
-		<south>29.81607404268558</south>
-		<east>7.894976202442131</east>
-		<west>7.884152111693959</west>
+		<north>29.80672921498307</north>
+		<south>29.79430235630417</south>
+		<east>7.896905333454186</east>
+		<west>7.886081242706014</west>
 	</LatLonBox>
 </GroundOverlay>
 
@@ -3075,10 +3075,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<name>Mendena nach 1032 BF</name>
     <Region>
           <LatLonAltBox>
-		<north>31.07690574272804</north>
-		<south>31.06214874272804</south>
-		<east>10.12515679031939</east>
-		<west>10.11305479031939</west>
+		<north>31.05728081569908</north>
+		<south>31.04252381569908</south>
+		<east>10.13553945348371</east>
+		<west>10.12343745348371</west>
           </LatLonAltBox>
           <Lod>
              <minLodPixels>16</minLodPixels>
@@ -3098,10 +3098,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<gx:TimeStamp>
 				<when>1036</when>
 			</gx:TimeStamp>
-			<longitude>10.1192588359504</longitude>
-			<latitude>31.06940846456502</latitude>
+			<longitude>10.1296055</longitude>
+			<latitude>31.049860</latitude>
 			<altitude>0</altitude>
-			<range>1545.560016533676</range>
+			<range>1860</range>
 			<tilt>0</tilt>
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
@@ -3112,10 +3112,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>31.07690574272804</north>
-		<south>31.06214874272804</south>
-		<east>10.12515679031939</east>
-		<west>10.11305479031939</west>
+		<north>31.05728081569908</north>
+		<south>31.04252381569908</south>
+		<east>10.13553945348371</east>
+		<west>10.12343745348371</west>
 		<rotation>-90</rotation>
 	</LatLonBox>
 	<TimeSpan id="ID">
@@ -3133,10 +3133,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Der_Unersättliche" title="Der Unersättliche">A146</a>]]></description>
       <Region>
         <LatLonAltBox>
-        <north>31.07459915238921</north>
-        <south>31.06436447333516</south>
-        <east>10.1280211053892</east>
-        <west>10.1104617948032</west>
+		<north>31.05496760295257</north>
+		<south>31.04475159964449</south>
+		<east>10.13836742644354</east>
+		<west>10.1208437454969</west>
           <minAltitude>0</minAltitude>
           <maxAltitude>0</maxAltitude>
         </LatLonAltBox>
@@ -3152,10 +3152,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<gx:TimeStamp>
 				<when>1031</when>
 			</gx:TimeStamp>
-			<longitude>10.1192588359504</longitude>
-			<latitude>31.06940846456502</latitude>
+			<longitude>10.1296055</longitude>
+			<latitude>31.049860</latitude>
 			<altitude>0</altitude>
-			<range>1545.560016533676</range>
+			<range>1860</range>
 			<tilt>0</tilt>
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
@@ -3166,10 +3166,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
         <viewBoundScale>0.75</viewBoundScale>
       </Icon>
       <LatLonBox>
-        <north>31.07459915238921</north>
-        <south>31.06436447333516</south>
-        <east>10.1280211053892</east>
-        <west>10.1104617948032</west>
+		<north>31.05496760295257</north>
+		<south>31.04475159964449</south>
+		<east>10.13836742644354</east>
+		<west>10.1208437454969</west>
       </LatLonBox>
 	<TimeSpan id="ID">
 		<end>1032</end>
@@ -5610,10 +5610,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<name>Warunk nach 1032 BF</name>
     <Region>
           <LatLonAltBox>
-		<north>30.58543445663378</north>
-		<south>30.5765099690328</south>
-		<east>7.829395075788515</east>
-		<west>7.822116773671876</west>
+		<north>30.562263388815</north>
+		<south>30.553294388815</south>
+		<east>7.810401791779652</east>
+		<west>7.803089791779652</west>
           </LatLonAltBox>
           <Lod>
              <minLodPixels>16</minLodPixels>
@@ -5633,10 +5633,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<gx:TimeStamp>
 				<when>1036</when>
 			</gx:TimeStamp>
-			<longitude>7.8257559247301955</longitude>
-			<latitude>30.58097221283325</latitude>
+			<longitude>7.807114</longitude>
+			<latitude>30.557592</latitude>
 			<altitude>0</altitude>
-			<range>1250</range>
+			<range>1160</range>
 			<tilt>0</tilt>
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
@@ -5647,10 +5647,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>30.58543445663378</north>
-		<south>30.5765099690328</south>
-		<east>7.829395075788515</east>
-		<west>7.822116773671876</west>
+		<north>30.562263388815</north>
+		<south>30.553294388815</south>
+		<east>7.810401791779652</east>
+		<west>7.803089791779652</west>
 		<rotation>-90</rotation>
 	</LatLonBox>
 	<TimeSpan id="ID">
@@ -5662,10 +5662,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<name>Warunk 1020-1032 BF</name>
     <Region>
           <LatLonAltBox>
-		<north>30.58419174999028</north>
-		<south>30.57787205390444</south>
-		<east>7.831587387103167</east>
-		<west>7.82138021420881</west>
+		<north>30.56099275387222</north>
+		<south>30.55461901836145</south>
+		<east>7.812542182661213</east>
+		<west>7.802249965028842</west>
           </LatLonAltBox>
           <Lod>
              <minLodPixels>16</minLodPixels>
@@ -5685,10 +5685,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<gx:TimeStamp>
 				<when>1021</when>
 			</gx:TimeStamp>
-			<longitude>7.8257559247301955</longitude>
-			<latitude>30.58097221283325</latitude>
+			<longitude>7.807114</longitude>
+			<latitude>30.557592</latitude>
 			<altitude>0</altitude>
-			<range>1250</range>
+			<range>1160</range>
 			<tilt>0</tilt>
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
@@ -5699,10 +5699,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>30.58419174999028</north>
-		<south>30.57787205390444</south>
-		<east>7.831587387103167</east>
-		<west>7.82138021420881</west>
+		<north>30.56099275387222</north>
+		<south>30.55461901836145</south>
+		<east>7.812542182661213</east>
+		<west>7.802249965028842</west>
 	</LatLonBox>
 	<TimeSpan id="ID">
 		<end>1032</end>
@@ -5714,10 +5714,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	<name>Warunk vor 1020 BF</name>
     <Region>
           <LatLonAltBox>
-		<north>30.58433341619082</north>
-		<south>30.5768439068258</south>
-		<east>7.832721959033087</east>
-		<west>7.820451599192094</west>
+		<north>30.56111720765034</north>
+		<south>30.55359746985563</south>
+		<east>7.813633983386595</east>
+		<west>7.801367529424847</west>
           </LatLonAltBox>
           <Lod>
              <minLodPixels>16</minLodPixels>
@@ -5737,10 +5737,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 			<gx:TimeStamp>
 				<when>1020</when>
 			</gx:TimeStamp>
-			<longitude>7.8257559247301955</longitude>
-			<latitude>30.58097221283325</latitude>
+			<longitude>7.807114</longitude>
+			<latitude>30.557592</latitude>
 			<altitude>0</altitude>
-			<range>1250</range>
+			<range>1160</range>
 			<tilt>0</tilt>
 			<heading>-3.180554681463516e-015</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
@@ -5751,10 +5751,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>30.58433341619082</north>
-		<south>30.5768439068258</south>
-		<east>7.832721959033087</east>
-		<west>7.820451599192094</west>
+		<north>30.56111720765034</north>
+		<south>30.55359746985563</south>
+		<east>7.813633983386595</east>
+		<west>7.801367529424847</west>
 	</LatLonBox>
 	<TimeSpan id="ID">
 		<end>1020</end>

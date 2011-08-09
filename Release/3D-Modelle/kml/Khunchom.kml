@@ -63,29 +63,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</Link>
 	</NetworkLink>
 	
-	     
-	<!-- Drachenei Akademie -->
-            <NetworkLink>
-              <name>Drachenei-Akademie</name>
-              <open>0</open>
-              <visibility>1</visibility>
-              <description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #814F21; }
-a:hover { text-decoration: underline; color: #814F21; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-	<ul>
-                                   
-                                  <li>K&uuml;nstler: Thethan</li>
-                                  </ul>]]>
-              </description>
-			  <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
-              <Link>
-                <href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kmz/Khunchom/Drachenei-Akademie.kmz</href>
-               <refreshMode>onInterval</refreshMode>
-              </Link>
-             </NetworkLink>
 
 			 <NetworkLink>
 			<name>Altstadt</name>

@@ -104,6 +104,15 @@
 		</Link>	
 	</NetworkLink>
 
+	<NetworkLink> <!-- Herzogenstraße -->
+		<name>Herzogenstraße</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Herzogenstrasse.kml</href>
+		</Link>	
+	</NetworkLink>
+	
 	<NetworkLink> <!-- Kanopenstraße -->
 		<name>Kanopenstraße</name>
 		<visibility>1</visibility>
@@ -113,6 +122,15 @@
 		</Link>	
 	</NetworkLink>
 
+	<NetworkLink> <!-- Klingenstieg -->
+		<name>Klingenstieg</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Klingenstieg.kml</href>
+		</Link>	
+	</NetworkLink>
+	
 	<NetworkLink> <!-- Klippenstraße -->
 		<name>Klippenstraße</name>
 		<visibility>1</visibility>
@@ -146,6 +164,15 @@
 		<Snippet maxLines="0"></Snippet>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Magistrala_Askania.kml</href>
+		</Link>	
+	</NetworkLink>
+
+	<NetworkLink> <!-- Misamunder Straße -->
+		<name>Misamunder Straße</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Misamunder_Strasse.kml</href>
 		</Link>	
 	</NetworkLink>
 	
@@ -283,6 +310,15 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Strasse_von_Selicum_nach_Samra.kml</href>
 		</Link>	
 	</NetworkLink>
+
+	<NetworkLink> <!-- Straße von Sinoda nach Tuzak -->
+		<name>Straße von Sinoda nach Tuzak</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Strasse_von_Sinoda_nach_Tuzak.kml</href>
+		</Link>	
+	</NetworkLink>
 	
 	<NetworkLink> <!-- Straße von Theniran nach Winneb -->
 		<name>Straße von Theniran nach Winneb</name>
@@ -329,6 +365,15 @@
 		</Link>	
 	</NetworkLink>
 
+	<NetworkLink> <!-- Tobimora-Straße -->
+		<name>Tobimora-Straße</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Tobimora-Strasse.kml</href>
+		</Link>	
+	</NetworkLink>
+	
 	<NetworkLink> <!-- Tobrische Straße -->
 		<name>Tobrische Straße</name>
 		<visibility>1</visibility>

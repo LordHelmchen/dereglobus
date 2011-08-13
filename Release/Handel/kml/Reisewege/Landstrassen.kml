@@ -94,15 +94,6 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Heidestieg.kml</href>
 		</Link>	
 	</NetworkLink>
-	
-	<NetworkLink> <!-- Herzogstraße -->
-		<name>Herzogstraße</name>
-		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
-		<Link>
-			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Herzogstrasse.kml</href>
-		</Link>	
-	</NetworkLink>
 
 	<NetworkLink> <!-- Herzogenstraße -->
 		<name>Herzogenstraße</name>
@@ -110,6 +101,15 @@
 		<Snippet maxLines="0"></Snippet>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Herzogenstrasse.kml</href>
+		</Link>	
+	</NetworkLink>
+	
+	<NetworkLink> <!-- Herzogstraße -->
+		<name>Herzogstraße</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Landstrassen/Herzogstrasse.kml</href>
 		</Link>	
 	</NetworkLink>
 	

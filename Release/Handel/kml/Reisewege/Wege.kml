@@ -23,6 +23,15 @@
 		</Link>
 	</NetworkLink>
 			
+	<NetworkLink> <!-- Gauweg -->
+		<name>Gauweg</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Wege/Gauweg.kml</href>
+		</Link>
+	</NetworkLink>
+
 	<NetworkLink> <!-- Goldener Pass -->
 		<name>Goldener Pass</name>
 		<visibility>1</visibility>
@@ -212,6 +221,15 @@
 		</Link>
 	</NetworkLink>	
 	
+	<NetworkLink> <!-- Löwenpass -->
+		<name>Löwenpass</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Wege/Loewenpass.kml</href>
+		</Link>
+	</NetworkLink>	
+
 	<NetworkLink> <!-- Molgard-Pass -->
 		<name>Molgard-Pass</name>
 		<visibility>1</visibility>
@@ -275,12 +293,30 @@
 		</Link>
 	</NetworkLink>
 	
+	<NetworkLink> <!-- Passstraße von Tuzak nach Boran -->
+		<name>Passstraße von Tuzak nach Boran</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Wege/Passstrasse_von_Tuzak_nach_Boran.kml</href>
+		</Link>
+	</NetworkLink>
+
 	<NetworkLink> <!-- Rabensteig -->
 		<name>Rabensteig</name>
 		<visibility>1</visibility>
 		<Snippet maxLines="0"></Snippet>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Wege/Rabensteig.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink> <!-- Radrompfad -->
+		<name>Radrompfad</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Wege/Radrompfad.kml</href>
 		</Link>
 	</NetworkLink>
 

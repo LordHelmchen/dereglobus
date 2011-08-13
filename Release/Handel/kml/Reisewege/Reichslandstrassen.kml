@@ -140,6 +140,15 @@
 		</Link>	
 	</NetworkLink>
 	
+	<NetworkLink> <!-- Reichslandstraße von Eslamsbrück nach Mendena -->
+		<name>Reichslandstraße von Eslamsbrück nach Mendena</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichslandstrassen/Reichslandstrasse_von_Eslamsbrueck_nach_Mendena.kml</href>
+		</Link>	
+	</NetworkLink>
+	
 	<NetworkLink> <!-- Reichslandstraße von Havena nach Abilacht -->
 		<name>Reichslandstraße von Havena nach Abilacht</name>
 		<visibility>1</visibility>
@@ -148,7 +157,16 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichslandstrassen/Reichslandstrasse_von_Havena_nach_Abilacht.kml</href>
 		</Link>	
 	</NetworkLink>
-	
+
+	<NetworkLink> <!-- Reichslandstraße von Warunk nach Vallusa -->
+		<name>Reichslandstraße von Warunk nach Vallusa</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichslandstrassen/Reichslandstrasse_von_Warunk_nach_Vallusa.kml</href>
+		</Link>	
+	</NetworkLink>
+
 	<NetworkLink> <!-- Silem-Horas-Straße -->
 		<name>Silem-Horas-Straße</name>
 		<visibility>1</visibility>

@@ -2,6 +2,14 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Folder>
 	<name>Abenteuer</name> 
+
+<NetworkLink>
+	<name>Orkenspalter-Abenteuer</name>
+	<open>0</open>
+	<Link>
+		<href>https://spreadsheets.google.com/a/dereglobus.org/pub?hl=de&amp;hl=de&amp;key=0ApSSGF7wh5V6dGhvZXVDY01QczZrMGtVMGhnVndIT3c&amp;single=true&amp;gid=1&amp;range=A1%3AA500&amp;output=txt</href>
+	</Link>
+</NetworkLink>
 	
 	<NetworkLink>
 	<name>Wizard: Abenteuer</name>

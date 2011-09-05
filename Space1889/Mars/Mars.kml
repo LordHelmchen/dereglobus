@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
-<Folder>
+<NetworkLink>
 	<name>Mars</name>
 	<open>1</open>
-	<NetworkLink>
-		<name>Siedlungen</name>
-		<Link>
-		</Link>
-	</NetworkLink>
-	<NetworkLink>
-		<name>Gebäude</name>
-		<Link>
-		</Link>
-	</NetworkLink>
-	<NetworkLink>
-		<name>Reisewege</name>
-		<Link>
-		</Link>
-	</NetworkLink>
-	<NetworkLink>
-		<name>Landschaft</name>
-		<Link>
-		</Link>
-	</NetworkLink>
-	<NetworkLink>
-		<name>Karten</name>
-		<Link>
-		</Link>
-	</NetworkLink>
-</Folder>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Mars.kml</href>
+	</Link>
+</NetworkLink>
 </kml>

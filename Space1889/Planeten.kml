@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Folder>
-	<name>Space1889</name>
+	<name>Planeten</name>
 	<open>1</open>
 	<NetworkLink>
-		<name>Menü</name>
-		<Link>http://dereglobus.googlecode.com/svn/Space1889/Menue.kml</Link>
-	</NetworkLink>
-	<NetworkLink>
-		<name>Planeten</name>
-		<Link>http://dereglobus.googlecode.com/svn/Space1889/Planeten.kml</Link>
+		<name>Mars</name>
+		<open>1</open>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Mars.kml</href>
+		</Link>
 	</NetworkLink>
 </Folder>
 </kml>

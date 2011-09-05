@@ -5,11 +5,15 @@
 	<open>1</open>
 	<NetworkLink>
 		<name>Menü</name>
-		<Link>http://dereglobus.googlecode.com/svn/Space1889/Menue.kml</Link>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Space1889/Menue.kml</href>
+		</Link>
 	</NetworkLink>
 	<NetworkLink>
 		<name>Planeten</name>
-		<Link>http://dereglobus.googlecode.com/svn/Space1889/Planeten.kml</Link>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Space1889/Planeten.kml</href>
+		</Link>
 	</NetworkLink>
 </Folder>
 </kml>

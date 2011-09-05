@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
+<Folder>
+	<name>Karten</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Mars</name>
+		<LookAt>
+			<longitude>-128.7275217297644</longitude>
+			<latitude>4.738829900487597</latitude>
+			<altitude>0</altitude>
+			<heading>1.192708005548819e-015</heading>
+			<tilt>0</tilt>
+			<range>7380977.738005869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Kontinente/media/Mars.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>90</north>
+			<south>-90</south>
+			<east>146.5637773997925</east>
+			<west>-213.4362226002063</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

@@ -2,118 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Aubochon.kml</name>
-	<Style id="sh_wht-pushpin17">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_wht-pushpin7">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_wht-pushpin9">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin10</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin14</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_wht-pushpin17">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_wht-pushpin14">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin15</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_wht-pushpin15">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_wht-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_wht-pushpin11">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
 	<Style id="sh_wht-pushpin">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -122,80 +10,10 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_wht-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin17</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_wht-pushpin5">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin16</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin15</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="sh_wht-pushpin0">
 		<IconStyle>
 			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_wht-pushpin13">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_wht-pushpin16">
-		<IconStyle>
-			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -205,171 +23,35 @@
 	<StyleMap id="msn_wht-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_wht-pushpin2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_wht-pushpin9">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_wht-pushpin1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin13">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin12</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_wht-pushpin15">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_wht-pushpin13">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_wht-pushpin3">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_wht-pushpin4">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin1">
-		<Pair>
-			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_wht-pushpin3">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_wht-pushpin10">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_wht-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_wht-pushpin10">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin10">
+	<StyleMap id="msn_wht-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin1</styleUrl>
+			<styleUrl>#sn_wht-pushpin7</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin9</styleUrl>
+			<styleUrl>#sh_wht-pushpin16</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_wht-pushpin8">
+	<Style id="sh_wht-pushpin1">
 		<IconStyle>
 			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -387,45 +69,54 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_wht-pushpin12">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin6">
+	<StyleMap id="msn_wht-pushpin1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin7</styleUrl>
+			<styleUrl>#sn_wht-pushpin15</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin5</styleUrl>
+			<styleUrl>#sh_wht-pushpin10</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_wht-pushpin00">
+	<Style id="sh_wht-pushpin2">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_wht-pushpin8">
+	<Style id="sh_wht-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin60</styleUrl>
+			<styleUrl>#sn_wht-pushpin17</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin14</styleUrl>
+			<styleUrl>#sh_wht-pushpin4</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_wht-pushpin14">
+	<Style id="sh_wht-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -434,14 +125,14 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_wht-pushpin30">
+	<StyleMap id="msn_wht-pushpin3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin5</styleUrl>
+			<styleUrl>#sn_wht-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin12</styleUrl>
+			<styleUrl>#sh_wht-pushpin11</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sh_wht-pushpin5">
@@ -453,14 +144,53 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_wht-pushpin15">
+	<StyleMap id="msn_wht-pushpin4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin00</styleUrl>
+			<styleUrl>#sn_wht-pushpin5</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_wht-pushpin4">
@@ -483,7 +213,17 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="sh_wht-pushpin40">
+	<StyleMap id="msn_wht-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin8">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -491,34 +231,75 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<StyleMap id="msn_wht-pushpin9">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
+			<styleUrl>#sn_wht-pushpin10</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_wht-pushpin12">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_wht-pushpin16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin11</styleUrl>
+			<styleUrl>#sh_wht-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_wht-pushpin6">
@@ -529,19 +310,8 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_wht-pushpin20">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_wht-pushpin60">
+	<Style id="sn_wht-pushpin7">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -550,27 +320,241 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
+	<Style id="sn_wht-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Folder>
 		<name>Aubochon</name>
+		<open>1</open>
 		<Placemark>
-			<name>1</name>
-			<LookAt>
-				<longitude>30.14654711427277</longitude>
-				<latitude>19.74301821979568</latitude>
-				<altitude>0</altitude>
-				<heading>0.07016978191439606</heading>
-				<tilt>0.7822839123309805</tilt>
-				<range>887.2017538263281</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_wht-pushpin12</styleUrl>
-			<Point>
-				<coordinates>30.14212731009793,19.74402067931348,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2</name>
+			<name>Guards</name>
 			<LookAt>
 				<longitude>30.14654711427277</longitude>
 				<latitude>19.74301821979568</latitude>
@@ -583,11 +567,28 @@
 			</LookAt>
 			<styleUrl>#msn_wht-pushpin9</styleUrl>
 			<Point>
+				<coordinates>30.14212731009793,19.74402067931348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merchant District</name>
+			<LookAt>
+				<longitude>30.14654711427277</longitude>
+				<latitude>19.74301821979568</latitude>
+				<altitude>0</altitude>
+				<heading>0.07016978191439606</heading>
+				<tilt>0.7822839123309805</tilt>
+				<range>887.2017538263281</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<Point>
 				<coordinates>30.1432598877364,19.74408824256246,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>3</name>
+			<name>Dwellings</name>
 			<LookAt>
 				<longitude>30.14638553758789</longitude>
 				<latitude>19.7473214006903</latitude>
@@ -598,13 +599,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin17</styleUrl>
+			<styleUrl>#msn_wht-pushpin13</styleUrl>
 			<Point>
 				<coordinates>30.14300637559866,19.74866702289722,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>4</name>
+			<name>Warehouses</name>
 			<LookAt>
 				<longitude>30.15171713367165</longitude>
 				<latitude>19.74187683231695</latitude>
@@ -615,13 +616,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin5</styleUrl>
+			<styleUrl>#msn_wht-pushpin11</styleUrl>
 			<Point>
 				<coordinates>30.14883570998144,19.74001066420727,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>5</name>
+			<name>Open Theater</name>
 			<LookAt>
 				<longitude>30.15032833783348</longitude>
 				<latitude>19.7455824122381</latitude>
@@ -632,13 +633,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<coordinates>30.14746050468271,19.74727207879229,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>6</name>
+			<name>Bridge</name>
 			<LookAt>
 				<longitude>30.15150170495578</longitude>
 				<latitude>19.74473317096103</latitude>
@@ -649,13 +650,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin11</styleUrl>
+			<styleUrl>#msn_wht-pushpin4</styleUrl>
 			<Point>
 				<coordinates>30.15046146269433,19.7451125086477,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>7</name>
+			<name>Fairgrounds</name>
 			<LookAt>
 				<longitude>30.15350581304926</longitude>
 				<latitude>19.74481639125467</latitude>
@@ -666,13 +667,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin4</styleUrl>
+			<styleUrl>#msn_wht-pushpin10</styleUrl>
 			<Point>
 				<coordinates>30.15237427044724,19.74516146464239,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>8</name>
+			<name>Temple Grounds</name>
 			<LookAt>
 				<longitude>30.15350581304926</longitude>
 				<latitude>19.74481639125467</latitude>
@@ -683,13 +684,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin6</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<coordinates>30.15299268917887,19.74248533030997,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>9</name>
+			<name>Palace</name>
 			<LookAt>
 				<longitude>30.1567875421387</longitude>
 				<latitude>19.74198230646591</latitude>
@@ -700,13 +701,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin7</styleUrl>
+			<styleUrl>#msn_wht-pushpin14</styleUrl>
 			<Point>
 				<coordinates>30.15519961344734,19.74191550499815,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>10</name>
+			<name>Militia</name>
 			<LookAt>
 				<longitude>30.15972705623495</longitude>
 				<latitude>19.74419835037515</latitude>
@@ -717,13 +718,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin30</styleUrl>
+			<styleUrl>#msn_wht-pushpin16</styleUrl>
 			<Point>
 				<coordinates>30.15870497879981,19.74431988279287,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>11</name>
+			<name>Open Market</name>
 			<LookAt>
 				<longitude>30.15628398439674</longitude>
 				<latitude>19.74695904290566</latitude>
@@ -734,13 +735,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin13</styleUrl>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
 			<Point>
 				<coordinates>30.15509704062323,19.74512517014748,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>12</name>
+			<name>Sacred Well</name>
 			<LookAt>
 				<longitude>30.15628398439674</longitude>
 				<latitude>19.74695904290566</latitude>
@@ -757,7 +758,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>13</name>
+			<name>Tavern Row</name>
 			<LookAt>
 				<longitude>30.14817257926119</longitude>
 				<latitude>19.74473433391078</latitude>
@@ -768,13 +769,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin15</styleUrl>
+			<styleUrl>#msn_wht-pushpin12</styleUrl>
 			<Point>
 				<coordinates>30.1464723097061,19.74507426964048,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>14</name>
+			<name>Nobles&apos; Quarter</name>
 			<LookAt>
 				<longitude>30.15339268107995</longitude>
 				<latitude>19.75240776316348</latitude>
@@ -785,13 +786,30 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin16</styleUrl>
+			<styleUrl>#msn_wht-pushpin15</styleUrl>
 			<Point>
 				<coordinates>30.15252393500537,19.75290691735636,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>15</name>
+			<name>Jail</name>
+			<LookAt>
+				<longitude>30.15964245692761</longitude>
+				<latitude>19.74462962357799</latitude>
+				<altitude>0</altitude>
+				<heading>0.07463564059769072</heading>
+				<tilt>0.7825576468916105</tilt>
+				<range>918.2497707939542</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
+			<Point>
+				<coordinates>30.15780997575007,19.74479192915322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guild Halls</name>
 			<LookAt>
 				<longitude>30.15964245692761</longitude>
 				<latitude>19.74462962357799</latitude>
@@ -804,28 +822,11 @@
 			</LookAt>
 			<styleUrl>#msn_wht-pushpin8</styleUrl>
 			<Point>
-				<coordinates>30.15780997575007,19.74479192915322,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>The Guild Halls</name>
-			<LookAt>
-				<longitude>30.15964245692761</longitude>
-				<latitude>19.74462962357799</latitude>
-				<altitude>0</altitude>
-				<heading>0.07463564059769072</heading>
-				<tilt>0.7825576468916105</tilt>
-				<range>918.2497707939542</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_wht-pushpin3</styleUrl>
-			<Point>
 				<coordinates>30.15604945973115,19.74668264563559,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>The Shipyard</name>
+			<name>Shipyard</name>
 			<LookAt>
 				<longitude>30.15432094692632</longitude>
 				<latitude>19.74817026096554</latitude>
@@ -836,13 +837,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin17</styleUrl>
 			<Point>
 				<coordinates>30.15284742013489,19.74849219205103,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>The Halls of Education</name>
+			<name>Halls of Education</name>
 			<LookAt>
 				<longitude>30.14798116604225</longitude>
 				<latitude>19.74278011150976</latitude>
@@ -853,13 +854,13 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<styleUrl>#msn_wht-pushpin3</styleUrl>
 			<Point>
 				<coordinates>30.14830339223554,19.74345585950978,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>The Sewers</name>
+			<name>Sewers</name>
 			<LookAt>
 				<longitude>30.15767804512774</longitude>
 				<latitude>19.75269901908325</latitude>
@@ -870,7 +871,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin6</styleUrl>
 			<Point>
 				<coordinates>30.15737458178743,19.75225753944955,0</coordinates>
 			</Point>

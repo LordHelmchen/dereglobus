@@ -12,6 +12,7 @@
 	<NetworkLink>
 		<name>Gebäude</name>
 		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Gebaeude/Gebaeude.kml</href>
 		</Link>
 	</NetworkLink>
 	<NetworkLink>
@@ -26,7 +27,13 @@
 		</Link>
 	</NetworkLink>
 	<NetworkLink>
-		<name>Karten</name>
+		<name>Stadtkarten</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Karten/Stadtkarten.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Mars-Karte</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Karten/Karten.kml</href>
 		</Link>

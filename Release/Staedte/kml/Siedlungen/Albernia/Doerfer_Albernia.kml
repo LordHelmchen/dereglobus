@@ -105,7 +105,8 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Die Ortschaft <b>Jannendoch</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Albernia" title="Albernia">albernischen</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Abagund" title="Grafschaft Abagund">Grafschaft Abagund</a> und befindet sich im Augenblick unter <a href="http://www.wiki-aventurica.de/wiki/Nordmarken" title="Nordmarken" class="mw-redirect">Nordmärker</a> Herrschaft.
+Die Ortschaft <b>Jannendoch</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Albernia" title="Albernia">albernischen</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Abagund" title="Grafschaft Abagund">Grafschaft Abagund</a>.
+
 
 
 <!-- END EDIT -->
@@ -723,7 +724,8 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Wallersrain ist eine Ortschaft in der gleichnamigen Baronie der <a href="http://www.wiki-aventurica.de/wiki/Albernia" title="Albernia">albernischen</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Bredenhag" title="Grafschaft Bredenhag">Grafschaft Bredenhag</a>, gelegen am Wallersee. 
+<b>Wallersrain</b> ist eine Ortschaft in der gleichnamigen Baronie der <a href="http://www.wiki-aventurica.de/wiki/Albernia" title="Albernia">albernischen</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Bredenhag" title="Grafschaft Bredenhag">Grafschaft Bredenhag</a>, gelegen am <a href="http://www.wiki-aventurica.de/wiki/Waller" title="Waller">Wallersee</a>. Die Ortschaft liegt sowohl auf dem Festland, als auch auf einer Felseninsel im See. Diese Insel kann man über einen Damm erreichen. Auf ihr liegt auch die Burg <a href="http://www.wiki-aventurica.de/index.php?title=Crann_Feyaras&amp;action=edit&amp;redlink=1" class="new" title="Crann Feyaras (Seite nicht vorhanden)">Crann Feyaras</a>.
+
 
 
 <!-- END EDIT -->
@@ -832,7 +834,50 @@ verfügbar, dort kann man den
             <value>$[name]</value>
          </Data>
       </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  200<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 59<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Tommeldomm</b> liegt an der Mündung des <a href="http://www.wiki-aventurica.de/wiki/Gemhar" title="Gemhar">Gemhar</a> in den <a href="http://www.wiki-aventurica.de/wiki/Tommel" title="Tommel">Tommel</a>. Der <a href="http://www.wiki-aventurica.de/wiki/Albernia" title="Albernia">albernische</a> Hafen mitsamt Werft ist auch für das <a href="http://www.wiki-aventurica.de/wiki/Peraine" title="Peraine">Peraine</a>-Kloster <a href="http://www.wiki-aventurica.de/index.php?title=Albanshall&amp;action=edit&amp;redlink=1" class="new" title="Albanshall (Seite nicht vorhanden)">Albanshall</a> bekannt.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf</styleUrl>
         <Camera> 
               <longitude>-1.905598</longitude>

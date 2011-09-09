@@ -86,10 +86,53 @@ verfügbar, dort kann man den
         <name>Pfalz Albengau</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Albengau</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  50<TR><TD><TR><TD><i>Herrschaft:</i> Niam Feenwasser von Albengau (Pfalzgräfin von Albengau)<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Herz des Reiches, S. 52<TR><TD>Ritterburgen und Spelunken, S. 62<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Albengau</b> ist eine <a href="http://www.wiki-aventurica.de/wiki/Kaiserpfalz" title="Kaiserpfalz">Kaiserpfalz</a> in den südlichen <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Nordmarken" title="Herzogtum Nordmarken">Nordmarken</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
         <Camera> 
               <longitude> 1.330327</longitude>
@@ -108,7 +151,50 @@ verfügbar, dort kann man den
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>Golgaritenburg<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 121<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Wann und von wem <b>Burg Boronia</b> erbaut wurde ist unbekannt. Erste Erwähnungen stammen aus der Zeit des <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">bornischen</a> Unabhängigkeitskrieges (ca. <a href="http://www.wiki-aventurica.de/wiki/Chronik:601_bis_700_BF" title="Chronik:601 bis 700 BF">700 BF</a>), damals hieß die Burg noch <b>Rabenstein</b>. Unter Kaiser <a href="http://www.wiki-aventurica.de/wiki/Hal_von_Gareth" title="Hal von Gareth">Hal</a> wurde sie aufgegeben (ca. <a href="http://www.wiki-aventurica.de/wiki/Chronik:995" title="Chronik:995" class="mw-redirect">995 BF</a>) und später dem Orden der <a href="http://www.wiki-aventurica.de/wiki/Golgariten" title="Golgariten" class="mw-redirect">Golgariten</a> geschenkt. Das Heiligtum <a href="http://www.wiki-aventurica.de/wiki/Sancta_Boronia" title="Sancta Boronia">Sancta Boronia</a> sollte von hier aus Schutz durch Ordenskrieger erhalten. Im <a href="http://www.wiki-aventurica.de/wiki/Jahr_des_Feuers" title="Jahr des Feuers" class="mw-redirect">Jahr des Feuers</a> wurde sie von <a href="http://www.wiki-aventurica.de/wiki/Lucardus_von_Kemet" title="Lucardus von Kemet" class="mw-redirect">Lucardus von Kemet</a> erobert und teilweise niedergebrannt. Später wurde die Burg befreit, dabei aber beinahe vollständig zerstört. Seitdem soll es in der Ruine <a href="http://www.wiki-aventurica.de/wiki/Spuk" title="Spuk">spuken</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.com/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de/" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://www.gnu.org/licenses/fdl.txt" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">GNU Lizenz für freie Dokumentation</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
         <Camera> 
               <longitude>-.528982</longitude>
@@ -519,7 +605,8 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Das Wirtshaus zum Schwarzen Keiler ist eine Schenke östlich von <a href="http://www.wiki-aventurica.de/wiki/Gratenfels" title="Gratenfels">Gratenfels</a> an der <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_3" title="Reichsstraße 3">Reichsstraße 3</a>. An den Keller schließt sich eine alte Silbermine an, die zeitweise von Graf <a href="http://www.wiki-aventurica.de/wiki/Baldur_Greifax_von_Gratenfels" title="Baldur Greifax von Gratenfels" class="mw-redirect">Baldur Greifax von Gratenfels</a> wieder in Betrieb genommen wurde.
+Das Wirtshaus zum Schwarzen Keiler ist eine Schenke östlich von <a href="http://www.wiki-aventurica.de/wiki/Gratenfels" title="Gratenfels">Gratenfels</a> an der <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_3" title="Reichsstraße 3">Reichsstraße 3</a>. An den Keller schließt sich ein unterirdisches Labyrinth an, in dem noch eines von ehemals sieben <a href="http://www.wiki-aventurica.de/wiki/Rohals_Gef%C3%A4%C3%9Fe" title="Rohals Gefäße">Rohalsgefäßen</a> lagert. Der damalige Graf <a href="http://www.wiki-aventurica.de/wiki/Baldur_Greifax_von_Gratenfels" title="Baldur Greifax von Gratenfels" class="mw-redirect">Baldur Greifax von Gratenfels</a> entdeckte zu seiner Zeit eine Silberader und funktionierte das Gewöbe zu einer Mine und Münzprägerei um, bis sie <a href="http://www.wiki-aventurica.de/wiki/Diskussion:Im_Wirtshaus_zum_Schwarzen_Keiler/Meisterinformationen#Datierung" title="Diskussion:Im Wirtshaus zum Schwarzen Keiler/Meisterinformationen">einige Jahre später</a> von einer Heldengruppe entdeckt und von <a href="http://www.wiki-aventurica.de/wiki/Kaiser" title="Kaiser">kaiserlichen</a> Truppen verschüttet wurde.
+
 
 
 <!-- END EDIT -->

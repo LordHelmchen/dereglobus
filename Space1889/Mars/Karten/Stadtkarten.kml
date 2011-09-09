@@ -15,6 +15,7 @@
 			<altitudeMode>relativeToGround</altitudeMode>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
+		<drawOrder>1</drawOrder>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Stadtkarten/media/Aubochon.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
@@ -38,6 +39,7 @@
 			<altitudeMode>relativeToGround</altitudeMode>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
+		<drawOrder>1</drawOrder>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Stadtkarten/media/Dioscuria.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
@@ -47,6 +49,20 @@
 			<south>51.96073590070731</south>
 			<east>-52.13204167176637</east>
 			<west>-52.2206752571303</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Karkarham</name>
+		<drawOrder>1</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Stadtkarten/media/Karkarham.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>0.1598580804097951</north>
+			<south>0.127349250925805</south>
+			<east>8.103950894712179</east>
+			<west>8.051498716822746</west>
 		</LatLonBox>
 	</GroundOverlay>
 </Folder>

@@ -78,5 +78,30 @@
 			<west>-21.43277659240919</west>
 		</LatLonBox>
 	</GroundOverlay>
+	<GroundOverlay>
+		<name>Thymiamata</name>
+		<LookAt>
+			<longitude>-106.2863994614411</longitude>
+			<latitude>8.683661321576377</latitude>
+			<altitude>0</altitude>
+			<heading>-89.99365222285547</heading>
+			<tilt>0.1915332624619878</tilt>
+			<range>4972.421547685169</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<drawOrder>1</drawOrder>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Stadtkarten/media/Thymiamata.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>8.715160615558933</north>
+			<south>8.653960615558932</south>
+			<east>-106.2625182233391</east>
+			<west>-106.3118472233391</west>
+			<rotation>90.00000250447816</rotation>
+		</LatLonBox>
+	</GroundOverlay>
 </Folder>
 </kml>

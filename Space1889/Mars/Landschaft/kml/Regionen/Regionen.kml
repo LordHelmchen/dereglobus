@@ -3,7 +3,7 @@
 <Document>
 	<name>Regionen.kml</name>
 	<open>1</open>
-	<Style id="sn_target17">
+	<Style id="sn_target">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -11,7 +11,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sh_target24">
+	<Style id="sh_target22">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -19,7 +19,17 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sh_target60">
+	<StyleMap id="msn_target">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target10">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -27,15 +37,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sh_target220">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target20">
+	<Style id="sn_target220">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -43,61 +45,47 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sh_target110">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target60">
+	<StyleMap id="msn_target18">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_target0</styleUrl>
+			<styleUrl>#sn_target80</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_target90</styleUrl>
+			<styleUrl>#sh_target13</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_target200">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target21">
+	<StyleMap id="msn_target0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_target10</styleUrl>
+			<styleUrl>#sn_target100</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_target50</styleUrl>
+			<styleUrl>#sh_target40</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_target8">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target30">
+	<StyleMap id="msn_target1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_target220</styleUrl>
+			<styleUrl>#sn_target110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_target22</styleUrl>
+			<styleUrl>#sh_target21</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_target10">
+	<StyleMap id="msn_target24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target90">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -113,7 +101,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sn_target16">
+	<Style id="sn_target22">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -121,7 +109,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sn_target3">
+	<Style id="sn_target21">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -129,311 +117,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_target00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target11">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target40">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target23">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target16</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target16</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target6">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target20</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target220">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target0">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target3">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target13">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target60">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target40">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target15">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target70</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target70">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target50">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_target100">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_target19">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target23</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target19</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target12">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target4">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target10">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target11">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target9">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target0">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target5">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target00">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target14</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target150</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target30">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target24</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target17</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_target">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target110</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target21</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target7">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target15">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target80">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target30</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target8">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target30">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target110</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target4">
+	<Style id="sh_target70">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -449,6 +133,258 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="sn_target200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target00">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target40">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target3">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target80">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target16">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target50">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target60">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target11">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target12">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target6">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target50">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target18">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target8">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target100">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target30">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target18</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_target90">
 		<Pair>
 			<key>normal</key>
@@ -459,7 +395,7 @@
 			<styleUrl>#sh_target6</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_target100">
+	<Style id="sn_target70">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -467,7 +403,83 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_target10">
+	<Style id="sh_target11">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target21">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target00">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target2">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target17">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target8">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target220">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target100">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_target7</styleUrl>
@@ -475,6 +487,90 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_target24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target9">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target3">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target10">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target150">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target110">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target2">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target20">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target60</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_target22">
@@ -495,227 +591,49 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_target130">
+	<Style id="sh_target24">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target50">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_target19</styleUrl>
+			<styleUrl>#sn_target4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_target</styleUrl>
+			<styleUrl>#sh_target7</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_target40">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target18</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target23</styleUrl>
-		</Pair>
-	</StyleMap>
+	<Style id="sn_target7">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target12">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target40">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<Style id="sn_target1">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target22">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target100">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target80</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target17">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target21</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_target0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target15">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target14">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target25">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target70</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target70">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target18">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target13">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target60</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target00</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_target9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target18</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target2">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target19">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target50">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target00">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target13">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target19">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target60</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target22">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -733,7 +651,7 @@
 			<styleUrl>#sh_target220</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_target6">
+	<Style id="sh_target200">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -741,6 +659,100 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<StyleMap id="msn_target130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target13">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target14">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target15">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target30">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target20">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target01">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target13">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target16</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_target2">
 		<Pair>
 			<key>normal</key>
@@ -751,14 +763,34 @@
 			<styleUrl>#sh_target10</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_target110">
+	<StyleMap id="msn_target40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target90">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
+	<StyleMap id="msn_target19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target19</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sn_target24">
 		<IconStyle>
 			<scale>1.2</scale>
@@ -767,7 +799,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sn_target2">
+	<Style id="sn_target23">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -775,6 +807,84 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="sn_target19">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target14">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target15">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target6">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target5">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_target6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target01</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_target12">
 		<Pair>
 			<key>normal</key>
@@ -785,7 +895,43 @@
 			<styleUrl>#sh_target9</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_target14">
+	<StyleMap id="msn_target61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_target18">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target16">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target19">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -801,7 +947,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sn_target21">
+	<Style id="sn_target140">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -809,7 +955,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sh_target50">
+	<Style id="sh_target110">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -817,15 +963,57 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sh_target1">
+	<Style id="sh_target41">
 		<IconStyle>
 			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target17">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target51">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target60">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target160">
+		<IconStyle>
+			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
 	<StyleMap id="msn_target7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target70">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_target200</styleUrl>
@@ -835,51 +1023,27 @@
 			<styleUrl>#sh_target14</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_target18">
+	<StyleMap id="msn_target11">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_target80</styleUrl>
+			<styleUrl>#sn_target21</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_target13</styleUrl>
+			<styleUrl>#sh_target200</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_target23">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target01">
+	<StyleMap id="msn_target8">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_target90</styleUrl>
+			<styleUrl>#sn_target24</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_target2</styleUrl>
+			<styleUrl>#sh_target17</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_target23">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target16">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target70">
+	<StyleMap id="msn_target700">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_target30</styleUrl>
@@ -889,72 +1053,6 @@
 			<styleUrl>#sh_target15</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_target21">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target20">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target18">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_target90">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target12">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_target150">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_target24">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_target90">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
 	<Style id="sh_target80">
 		<IconStyle>
 			<scale>1.4</scale>
@@ -963,29 +1061,9 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_target14">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target12</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_target3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_target11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_target11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_target80">
+	<Style id="sh_target23">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
 			</Icon>
@@ -1022,7 +1100,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_target6</styleUrl>
+			<styleUrl>#msn_target61</styleUrl>
 			<Point>
 				<coordinates>-164.6721233563495,55.83959620259523,0</coordinates>
 			</Point>
@@ -1107,7 +1185,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_target10</styleUrl>
+			<styleUrl>#msn_target100</styleUrl>
 			<Point>
 				<coordinates>91.31963692084311,5.501882014450692,0</coordinates>
 			</Point>
@@ -1124,7 +1202,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_target</styleUrl>
+			<styleUrl>#msn_target1</styleUrl>
 			<Point>
 				<coordinates>111.9094035199285,31.03289891814884,0</coordinates>
 			</Point>
@@ -1260,7 +1338,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-			<styleUrl>#msn_target1</styleUrl>
+			<styleUrl>#msn_target10</styleUrl>
 			<Point>
 				<coordinates>19.3349089464156,18.11113607698081,0</coordinates>
 			</Point>
@@ -1277,7 +1355,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-			<styleUrl>#msn_target7</styleUrl>
+			<styleUrl>#msn_target70</styleUrl>
 			<Point>
 				<coordinates>-26.27020067195877,44.05460098456711,0</coordinates>
 			</Point>
@@ -1435,6 +1513,40 @@
 				<coordinates>-133.3804603129418,9.289878597087411,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>Sümpfe von Gorklimsk</name>
+			<LookAt>
+				<longitude>-0.6606288751748923</longitude>
+				<latitude>-12.42066749448021</latitude>
+				<altitude>0</altitude>
+				<heading>8.65982990564833</heading>
+				<tilt>0</tilt>
+				<range>1973662.085906983</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_target7</styleUrl>
+			<Point>
+				<coordinates>-5.309491012919082,-12.02354121049772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coprates-Tiefebene</name>
+			<LookAt>
+				<longitude>-169.4495865567285</longitude>
+				<latitude>-4.929556865066608</latitude>
+				<altitude>0</altitude>
+				<heading>0.9994650381225047</heading>
+				<tilt>0.1866921791525383</tilt>
+				<range>1307782.526617655</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_target6</styleUrl>
+			<Point>
+				<coordinates>-164.978884856834,-6.107026483616445,0</coordinates>
+			</Point>
+		</Placemark>
 	</Folder>
 	<Folder>
 		<name>Meeresbecken</name>
@@ -1484,7 +1596,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_target100</styleUrl>
+			<styleUrl>#msn_target1000</styleUrl>
 			<Point>
 				<coordinates>-52.59370020124393,-38.40733136825547,0</coordinates>
 			</Point>
@@ -1501,7 +1613,7 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_target70</styleUrl>
+			<styleUrl>#msn_target</styleUrl>
 			<Point>
 				<coordinates>3.040443366295029,-19.56056354927585,0</coordinates>
 			</Point>
@@ -1558,23 +1670,6 @@
 			<styleUrl>#msn_target90</styleUrl>
 			<Point>
 				<coordinates>-152.9899515465454,-42.86377128137963,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Coprates</name>
-			<LookAt>
-				<longitude>-169.4495865567285</longitude>
-				<latitude>-4.929556865066608</latitude>
-				<altitude>0</altitude>
-				<heading>0.9994650381225047</heading>
-				<tilt>0.1866921791525383</tilt>
-				<range>1307782.526617655</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_target50</styleUrl>
-			<Point>
-				<coordinates>-164.978884856834,-6.107026483616445,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

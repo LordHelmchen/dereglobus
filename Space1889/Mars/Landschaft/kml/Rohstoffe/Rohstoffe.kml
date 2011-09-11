@@ -2,176 +2,24 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Rohstoffe.kml</name>
-	<StyleMap id="msn_open-diamond">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond47</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond17</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond">
+	<Style id="sh_open-diamond23">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond0">
+	<StyleMap id="msn_open-diamond59">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond56</styleUrl>
+			<styleUrl>#sn_open-diamond13</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond12</styleUrl>
+			<styleUrl>#sh_open-diamond40</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond37</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond44</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond33</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond50</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond18</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond64</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond0">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond14</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond39</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond0">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond1">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond2">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond1">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond54</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond46</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond65</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond3">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond2">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<StyleMap id="msn_open-diamond7">
 		<Pair>
 			<key>normal</key>
@@ -182,165 +30,21 @@
 			<styleUrl>#sh_open-diamond46</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond4">
+	<Style id="sn_open-diamond10">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond3">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond5">
+	<Style id="sn_open-diamond29">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond4">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond5">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond42</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond42</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond32</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond36</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond28</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond6">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond7">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond6">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond7">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond8">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond59</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond14</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond26</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond57</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond8">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="msn_open-diamond13">
 		<Pair>
@@ -352,75 +56,57 @@
 			<styleUrl>#sh_open-diamond26</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond9">
+	<Style id="sn_open-diamond57">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond10">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond9">
+	<Style id="sh_open-diamond15">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond14">
+	<Style id="sn_open-diamond41">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond43">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond41</styleUrl>
+			<styleUrl>#sn_open-diamond62</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond48</styleUrl>
+			<styleUrl>#sh_open-diamond15</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond11">
+	<StyleMap id="msn_open-diamond66">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond12">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond12">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond13">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="msn_open-diamond15">
 		<Pair>
@@ -432,85 +118,21 @@
 			<styleUrl>#sh_open-diamond33</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond14">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond10">
+	<Style id="sh_open-diamond35">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond11">
+	<Style id="sh_open-diamond41">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond12">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond15">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond49</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond29</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond16">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="msn_open-diamond18">
 		<Pair>
@@ -522,159 +144,175 @@
 			<styleUrl>#sh_open-diamond53</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_open-diamond19">
+	<StyleMap id="msn_open-diamond">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond11</styleUrl>
+			<styleUrl>#sn_open-diamond47</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond9</styleUrl>
+			<styleUrl>#sh_open-diamond17</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_open-diamond20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond65</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond21</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond13">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond17">
+	<Style id="sn_open-diamond34">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond14">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond18">
+	<Style id="sn_open-diamond28">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond19">
+	<Style id="sh_open-diamond58">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond11">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond51">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond21">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond32</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond55</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond22">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond30</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond49</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond23">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond34</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond63</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond15">
+	<Style id="sn_open-diamond27">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond2">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond16">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond17">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond24">
+	<StyleMap id="msn_open-diamond26">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond35</styleUrl>
+			<styleUrl>#sn_open-diamond6</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond5</styleUrl>
+			<styleUrl>#sh_open-diamond45</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_open-diamond18">
+	<Style id="sn_open-diamond46">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond65">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond19">
+	<Style id="sn_open-diamond23">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond6">
 		<IconStyle>
 			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond62">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
@@ -689,698 +327,14 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond21">
+	<Style id="sh_open-diamond14">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond25">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond61</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond37</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond22">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond23">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond26">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond45</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond27">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond48</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond20">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond21">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond24">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond28">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond62</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond22">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond23">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond25">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond26">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond24">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond29">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond15</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond66</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond66</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond34</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond31">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond38</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond10</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond27">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond32">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond36</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond33">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond23</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond16</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond25">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond26">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond28">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond27">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond29">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond30">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond31">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond28">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond32">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond33">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond34">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond29">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond30">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond35">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond34">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond53</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond25</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond31">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond36">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond32">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond37">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond33">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond34">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond35">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond47</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond38">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond36">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond16</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond41</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond39">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond40">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond37">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond12</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond18</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond38">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond35">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond36">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond39">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond43</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond38</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond40">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond39</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond30</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond37">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond38">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond41">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond41">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond42">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond39">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond40">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond43">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond42">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond40</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond52</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond43">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond62</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond15</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond44">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond45">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond44">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond60</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond46">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond41">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond47">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="msn_open-diamond45">
 		<Pair>
@@ -1392,285 +346,29 @@
 			<styleUrl>#sh_open-diamond19</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond42">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond46">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond23</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond47">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond50</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond67</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond48">
+	<Style id="sh_open-diamond44">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond48">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond57</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond61</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond43">
+	<Style id="sn_open-diamond36">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond49">
+	<Style id="sh_open-diamond34">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond44">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond49">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond52</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond50">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond51">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond45">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond52">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond50">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond27</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond46">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond47">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond48">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond49">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond50">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond53">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond51">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond31</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond52">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond24</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond56</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond54">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond55">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond51">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond53">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond43</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond52">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond56">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="msn_open-diamond54">
 		<Pair>
@@ -1682,26 +380,16 @@
 			<styleUrl>#sh_open-diamond20</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond53">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond54">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
+	<StyleMap id="msn_open-diamond10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond28</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sh_open-diamond57">
 		<IconStyle>
 			<scale>1.4</scale>
@@ -1709,48 +397,204 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond55">
+	<Style id="sn_open-diamond32">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond56">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond55">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond44</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond58">
+	<Style id="sh_open-diamond32">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
+	</Style>
+	<Style id="sh_open-diamond53">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond25">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond5">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond51">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond63">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond21">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond8">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond59">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond17">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond42">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond16">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond39">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond60">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond39">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
 	</Style>
 	<StyleMap id="msn_open-diamond56">
 		<Pair>
@@ -1762,154 +606,80 @@
 			<styleUrl>#sh_open-diamond58</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_open-diamond57">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond58</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond59</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond59">
+	<Style id="sh_open-diamond0">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond58">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond25</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond51</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_open-diamond59">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_open-diamond60">
+	<Style id="sn_open-diamond13">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond56">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond57">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond58">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond59">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond60">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_open-diamond61">
+	<Style id="sh_open-diamond30">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond62">
+	<Style id="sh_open-diamond1">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond60">
+	<StyleMap id="msn_open-diamond00">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond55</styleUrl>
+			<styleUrl>#sn_open-diamond56</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond29</styleUrl>
+			<styleUrl>#sh_open-diamond12</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_open-diamond61">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond20</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond60</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond61">
+	<Style id="sh_open-diamond66">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond48">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond62">
+	<StyleMap id="msn_open-diamond40">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond67</styleUrl>
+			<styleUrl>#sn_open-diamond39</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond24</styleUrl>
+			<styleUrl>#sh_open-diamond30</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_open-diamond63">
@@ -1922,6 +692,32 @@
 			<styleUrl>#sh_open-diamond2</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sh_open-diamond26">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond6">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<Style id="sh_open-diamond63">
 		<IconStyle>
 			<scale>1.4</scale>
@@ -1929,20 +725,16 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond62">
+	<Style id="sh_open-diamond49">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond64">
+	<Style id="sh_open-diamond">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -1952,16 +744,136 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond64">
+	<Style id="sh_open-diamond22">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond54</styleUrl>
+			<styleUrl>#sn_open-diamond18</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond22</styleUrl>
+			<styleUrl>#sh_open-diamond64</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_open-diamond32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond19">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond46">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond38">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond33">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond56">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond55">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond28">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<StyleMap id="msn_open-diamond65">
 		<Pair>
 			<key>normal</key>
@@ -1969,39 +881,9 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond3</styleUrl>
+			<styleUrl>#sh_open-diamond31</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_open-diamond63">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond66">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond7</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond35</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_open-diamond64">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<Style id="sn_open-diamond65">
 		<IconStyle>
 			<scale>1.2</scale>
@@ -2009,39 +891,171 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond65">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_open-diamond66">
+	<Style id="sn_open-diamond22">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond66">
+	<Style id="sh_open-diamond7">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
+	<StyleMap id="msn_open-diamond17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond61">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond19">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond43">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond17">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond43">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond35">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond31">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond11">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond54">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond36">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond8</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_open-diamond67">
 		<Pair>
 			<key>normal</key>
@@ -2052,7 +1066,501 @@
 			<styleUrl>#sh_open-diamond0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_open-diamond67">
+	<StyleMap id="msn_open-diamond27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond50">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond33">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond67">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond27">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond50">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond64">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond20">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond9">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond58">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond16">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond47">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond9">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond15">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond42">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond38">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond59">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond14">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond3">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond52">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond29">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond3">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond47">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond66">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond25">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond7">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond61">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond21">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond18">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond45">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond62">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond37">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond55">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond37">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond10">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond54">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond26">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond31">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond45">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond5">
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
@@ -2062,7 +1570,49 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_open-diamond67">
+	<Style id="sn_open-diamond64">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond24">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond8">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond60">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond2">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
@@ -2072,8 +1622,217 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<Style id="sh_open-diamond18">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond48">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond13">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond40">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond12">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond120">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond30">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond53">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_open-diamond310">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond24">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond49">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond67">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond240">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond52">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond62">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond44">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<Folder>
 		<name>Rohstoffe</name>
+		<open>1</open>
 		<Folder>
 			<name>Auftriebholz</name>
 			<Placemark>
@@ -2224,7 +1983,7 @@
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#msn_open-diamond1</styleUrl>
+				<styleUrl>#msn_open-diamond12</styleUrl>
 				<Point>
 					<coordinates>162.3665467012326,-2.205142414462741,0</coordinates>
 				</Point>
@@ -2447,7 +2206,7 @@
 				</LookAt>
 				<styleUrl>#msn_open-diamond</styleUrl>
 				<Point>
-					<coordinates>174.253883958054,-54.14631233600733,0</coordinates>
+					<coordinates>174.253883958054,-54.14631233600732,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -2632,7 +2391,7 @@
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#msn_open-diamond12</styleUrl>
+				<styleUrl>#msn_open-diamond120</styleUrl>
 				<Point>
 					<coordinates>-104.1461836497551,-7.626123965415632,0</coordinates>
 				</Point>
@@ -2930,7 +2689,7 @@
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#msn_open-diamond42</styleUrl>
+				<styleUrl>#msn_open-diamond1</styleUrl>
 				<Point>
 					<coordinates>111.6314176553445,34.03121353665039,0</coordinates>
 				</Point>
@@ -2966,7 +2725,7 @@
 				</LookAt>
 				<styleUrl>#msn_open-diamond3</styleUrl>
 				<Point>
-					<coordinates>52.6895169589294,3.657717591250327,0</coordinates>
+					<coordinates>52.68951695892941,3.657717591250327,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3069,6 +2828,24 @@
 				<styleUrl>#msn_open-diamond55</styleUrl>
 				<Point>
 					<coordinates>-35.35611626826963,-13.1110656166158,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruinen von Bordobaar</name>
+				<description><![CDATA[Die <b>Ruinen von Bordobaar</b> gelten als verflucht und Plagen bringend. Die örtlichen Sagen berichten, dass der einst mächtige Stadtstaat von einer bösartigen Plage heimgesucht wurde, die groteske körperliche Verformungen und eine mörderische, unkontrollierbare Wut zur Folge hatte. Fliehende wurden von den Bewohnern der benachbarten Städte aus Angst vor einer Ausbreitung der Krankheit angegriffen und getötet, aber es gibt keine Berichte über Fälle außerhalb der Stadt. Alle Versuche die Stadt zu erforschen oder zu besiedeln sind gescheitert, und obwohl es Berichte von Überfällen durch verwachsene tierhafte Kreaturen gibt, locken die Sagen von der gut gefüllten königlichen Schatzkammer immer wieder Entdecker und Achäologen an.]]></description>
+				<LookAt>
+					<longitude>-12.17883405550107</longitude>
+					<latitude>-13.86380364655751</latitude>
+					<altitude>0</altitude>
+					<heading>0.9579347515429336</heading>
+					<tilt>0</tilt>
+					<range>1077154.429670986</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_open-diamond0</styleUrl>
+				<Point>
+					<coordinates>-14.66476884922963,-16.70227773917059,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
@@ -3227,7 +3004,7 @@
 				</LookAt>
 				<styleUrl>#msn_open-diamond32</styleUrl>
 				<Point>
-					<coordinates>-159.5407560844395,-53.54533369149986,0</coordinates>
+					<coordinates>-159.5407560844395,-53.54533369149987,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3259,7 +3036,7 @@
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#msn_open-diamond0</styleUrl>
+				<styleUrl>#msn_open-diamond00</styleUrl>
 				<Point>
 					<coordinates>-15.8168147157031,54.83694222159522,0</coordinates>
 				</Point>

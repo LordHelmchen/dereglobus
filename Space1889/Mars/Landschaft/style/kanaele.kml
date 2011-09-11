@@ -41,10 +41,10 @@
 		</LabelStyle>
 		<LineStyle>
 			<color>7f7f5500</color>
-			<width>4</width>
+			<width>3</width>
 		</LineStyle>
 <BalloonStyle>
-<text><![CDATA[<font color="#CC0000" size="+3"></font>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
 </BalloonStyle>
@@ -56,14 +56,14 @@ $[description]]]></text>
      		</ListStyle>
 		<LineStyle>
 			<color>b27f5500</color>
-			<width>4</width>
+			<width>3</width>
 		</LineStyle>
 		<LabelStyle>
 			<scale>1</scale>
 			<color>ffffffff</color>
 		</LabelStyle>
 		<BalloonStyle>
-<text><![CDATA[<font color="#CC0000" size="+3"></font>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
 </BalloonStyle>
@@ -80,10 +80,10 @@ $[description]]]></text>
 		</LabelStyle>
 		<LineStyle>
 			<color>33000000</color>
-			<width>4</width>
+			<width>3</width>
 		</LineStyle>
 <BalloonStyle>
-<text><![CDATA[<font color="#CC0000" size="+3"></font>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
 </BalloonStyle>
@@ -95,14 +95,14 @@ $[description]]]></text>
      		</ListStyle>
 		<LineStyle>
 			<color>66000000</color>
-			<width>4</width>
+			<width>3</width>
 		</LineStyle>
 		<LabelStyle>
 			<scale>1</scale>
 			<color>ffffffff</color>
 		</LabelStyle>
 		<BalloonStyle>
-<text><![CDATA[<font color="#CC0000" size="+3"></font>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
 </BalloonStyle>

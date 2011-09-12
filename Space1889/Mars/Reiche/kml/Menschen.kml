@@ -1,295 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
-	<name>Kolonien.kml</name>
-	<Style id="sn_ylw-pushpin5">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin0">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin10">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin00">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin4">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin4">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin6">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin3">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin1">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c0000ff</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
+	<name>Menschen.kml</name>
 	<Folder>
 		<name>Kolonien</name>
 		<Placemark>
@@ -323,7 +35,7 @@ $[description]]]></text>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Französisch</name>
+			<name>Französisches Einflussgebiet</name>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
@@ -338,7 +50,7 @@ $[description]]]></text>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Deutsch</name>
+			<name>Deutsches Einflussgebiet</name>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
@@ -352,7 +64,7 @@ $[description]]]></text>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Russisch</name>
+			<name>Russisches Einflussgebiet</name>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
@@ -367,7 +79,7 @@ $[description]]]></text>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Japanisch</name>
+			<name>Japanisches Einflussgebiet</name>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>

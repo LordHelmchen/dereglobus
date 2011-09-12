@@ -2,67 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Marsianer.kml</name>
-	<Style id="sn_ylw-pushpin">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c7f00aa</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>ff7f00aa</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c7f00aa</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>ff7f00aa</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin1">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>4c7f00aa</color>
-			<width>5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>ff7f00aa</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Folder>
 		<name>Marsianer</name>
 		<Placemark>
-			<name>Tossianisches Reich</name>
+			<name>Tossianisches Kaiserreich</name>
+			<description><![CDATA[<p>Zum <b>Tossianischen Kaiserreich</b> zählen die Städte Hyoraotes, Thymiamata, Aramis, Duecalionis, Pandora, Noachis, Pyrrhae, Tobansoor, Erythria und Protei, es dominiert zudem die meisten benachbarten Städte. Auf Grund wachsender Sorge wegen des Expansionismus der AIP aus den <i>Coprates</i> hat das Kaiserreich vor kurzem (und vorübergehend) seine Differenzen mit dem hartnäckig unabhängigen Prinzen <i>Sitaani von Nectar</i> beigelegt und Verteidigungsabkommen mit ihm getroffen.</p>
+]]></description>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#reich</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
@@ -78,6 +23,8 @@ $[description]]]></text>
 		</Placemark>
 		<Placemark>
 			<name>Boreosyrtis-Liga</name>
+			<description><![CDATA[<p>Die <b>Boreosyrtis-Liga</b> ist eine lockere Handelskonföderation (Konföderation der ehrwürdigen Vorväter von <i>Sguuhl</i>), bestehend aus den Großstädten Umbra, Meroe, Coloe und Saardaar. Sie ähnelt der Deutschen Hanse der Erde. Das Hauptquartier der Liga befindet sich gegenwärtig in der Großstadt Umbra, wohin die großen Handelshäuser und Prinzen der Städte der Liga ihre Repräsentanten zum Großkonzil entsenden.</p>
+]]></description>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#reich</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
@@ -93,7 +40,8 @@ $[description]]]></text>
 		</Placemark>
 		<Placemark>
 			<name>Oenotrisches Kaiserreich</name>
-			<description>Liga der sechs Städte</description>
+			<description><![CDATA[<p>Der formelle Name des Reiches lautet <b>Liga der Sechs Städte</b> (Das Reich von <i>Shashmaghaal</i>). Nominell handelt es sich um eine Föderation der sechs Stadtstaaten Oenotria, Astrapsk, Crocea, Deltoton, Iapygia und Skorosia. In der Realität werden das Führungskonzil und hohe Verwaltungsposten jedoch vollkommen von oenotrischen Adligen dominiert und die Liga wird fast überall als <b>Oenotrisches Kaiserreich</b> bezeichnet. Alle Dörfer dieser Städte-Liga werden zentral verwaltet, was ihr militärische Stärke erhöht und Piraten und Räuber abschreckt. Allerdings haben die oenotrischen Ambitionen im Norden das Kaiserreich in Konflikt mit Großbritannien gebracht.</p>
+]]></description>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#reich</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>

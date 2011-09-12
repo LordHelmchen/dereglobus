@@ -83,14 +83,14 @@
 		</Pair>
 	</StyleMap>
 
-<StyleMap id="Privathaus">
+<StyleMap id="Bauwerk">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#Privathaus-n</styleUrl>
+			<styleUrl>#Bauwerk-n</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#Privathaus-h</styleUrl>
+			<styleUrl>#Bauwerk-h</styleUrl>
 		</Pair>
 	</StyleMap>
 
@@ -170,14 +170,14 @@
 		</Pair>
 	</StyleMap>
 
-<StyleMap id="Privathaus-X">
+<StyleMap id="Bauwerk-X">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#Privathaus-X-n</styleUrl>
+			<styleUrl>#Bauwerk-X-n</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#Privathaus-X-h</styleUrl>
+			<styleUrl>#Bauwerk-X-h</styleUrl>
 		</Pair>
 	</StyleMap>
 
@@ -257,14 +257,14 @@
 		</Pair>
 	</StyleMap>
 
-<StyleMap id="Privathaus-InOff">
+<StyleMap id="Bauwerk-InOff">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#Privathaus-InOff-n</styleUrl>
+			<styleUrl>#Bauwerk-InOff-n</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#Privathaus-InOff-h</styleUrl>
+			<styleUrl>#Bauwerk-InOff-h</styleUrl>
 		</Pair>
 	</StyleMap>
 
@@ -283,7 +283,7 @@
 
 
 
-<Style id="Privathaus-n">
+<Style id="Bauwerk-n">
 		<ListStyle>
 			<maxSnippetLines>0</maxSnippetLines>
 		</ListStyle>
@@ -297,7 +297,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Bauwerk.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -316,7 +316,7 @@
 
 
 
-<Style id="Privathaus-h">
+<Style id="Bauwerk-h">
 		<ListStyle>
 			<maxSnippetLines>0</maxSnippetLines>
 		</ListStyle>
@@ -325,7 +325,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Bauwerk.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -752,7 +752,7 @@
 
 
 
-<Style id="Privathaus-X-n">
+<Style id="Bauwerk-X-n">
 		<ListStyle>
 			<maxSnippetLines>0</maxSnippetLines>
 		</ListStyle>
@@ -766,7 +766,7 @@
 			<color>b2ffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Bauwerk.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -785,7 +785,7 @@
 
 
 
-<Style id="Privathaus-X-h">
+<Style id="Bauwerk-X-h">
 		<ListStyle>
 			<maxSnippetLines>0</maxSnippetLines>
 		</ListStyle>
@@ -794,7 +794,7 @@
 			<color>b2ffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Bauwerk.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1220,7 +1220,7 @@
 
 
 
-<Style id="Privathaus-InOff-n">
+<Style id="Bauwerk-InOff-n">
 		<ListStyle>
 			<maxSnippetLines>0</maxSnippetLines>
 		</ListStyle>
@@ -1234,7 +1234,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Bauwerk.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1255,7 +1255,7 @@
 
 
 
-<Style id="Privathaus-InOff-h">
+<Style id="Bauwerk-InOff-h">
 		<ListStyle>
 			<maxSnippetLines>0</maxSnippetLines>
 		</ListStyle>
@@ -1264,7 +1264,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Bauwerk.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>

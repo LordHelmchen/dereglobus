@@ -12,7 +12,7 @@
 			<west>30.1370743265225</west>
       </LatLonAltBox>
       <Lod>
-         <minLodPixels>16</minLodPixels>
+         <minLodPixels>128</minLodPixels>
          <maxLodPixels>-1</maxLodPixels>
          <minFadeExtent>128</minFadeExtent>
          <maxFadeExtent>0</maxFadeExtent>
@@ -42,6 +42,20 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Dioscuria</name>
+	<Region>
+      <LatLonAltBox>
+			<north>52.00043683479783</north>
+			<south>51.96073590070731</south>
+			<east>-52.13204167176637</east>
+			<west>-52.2206752571303</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 		<LookAt>
 			<longitude>-52.17556405687545</longitude>
 			<latitude>51.97988937689767</latitude>
@@ -66,6 +80,20 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Karkarham</name>
+	<Region>
+      <LatLonAltBox>
+			<north>0.1598580804097951</north>
+			<south>0.127349250925805</south>
+			<east>8.103950894712179</east>
+			<west>8.051498716822746</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 		<drawOrder>1</drawOrder>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Stadtkarten/media/Karkarham.jpg</href>
@@ -80,6 +108,20 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Syrtis Major</name>
+	<Region>
+      <LatLonAltBox>
+			<north>6.768454504658417</north>
+			<south>6.658962333751585</south>
+			<east>-21.2463854892491</east>
+			<west>-21.43277659240919</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 		<drawOrder>1</drawOrder>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Stadtkarten/media/Syrtis_Major.jpg</href>
@@ -94,6 +136,20 @@
 	</GroundOverlay>
 	<GroundOverlay>
 		<name>Thymiamata</name>
+	<Region>
+      <LatLonAltBox>
+			<north>8.715160615558933</north>
+			<south>8.653960615558932</south>
+			<east>-106.2625182233391</east>
+			<west>-106.3118472233391</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 		<LookAt>
 			<longitude>-106.2863994614411</longitude>
 			<latitude>8.683661321576377</latitude>

@@ -2,6 +2,20 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Thymiamata.kml</name>
+	<Region>
+      <LatLonAltBox>
+			<north>8.715160615558933</north>
+			<south>8.653960615558932</south>
+			<east>-106.2625182233391</east>
+			<west>-106.3118472233391</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 	<Folder>
 		<name>Thymiamata</name>
 		<Placemark>

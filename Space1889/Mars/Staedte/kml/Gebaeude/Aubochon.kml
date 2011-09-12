@@ -2,9 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Aubochon.kml</name>
-	<Folder>
-		<name>Aubochon</name>
-		<open>1</open>
 	<Region>
       <LatLonAltBox>
 			<north>19.75940059140074</north>
@@ -13,12 +10,15 @@
 			<west>30.1370743265225</west>
       </LatLonAltBox>
       <Lod>
-         <minLodPixels>16</minLodPixels>
+         <minLodPixels>128</minLodPixels>
          <maxLodPixels>-1</maxLodPixels>
          <minFadeExtent>128</minFadeExtent>
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
-   </Region>	
+   </Region>
+	<Folder>
+		<name>Aubochon</name>
+		<open>0</open>
 		<Placemark>
 			<name>Guards</name>
 			<LookAt>

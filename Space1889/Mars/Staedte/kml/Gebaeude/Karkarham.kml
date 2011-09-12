@@ -2,6 +2,20 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Folder>
 	<name>Karkarham</name>
+	<Region>
+      <LatLonAltBox>
+			<north>0.1598580804097951</north>
+			<south>0.127349250925805</south>
+			<east>8.103950894712179</east>
+			<west>8.051498716822746</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 	<Placemark>
 		<name>Fist of Balakhaat</name>
 		<LookAt>

@@ -4,6 +4,20 @@
 	<name>Stadtkarten</name>
 	<GroundOverlay>
 		<name>Aubochon</name>
+	<Region>
+      <LatLonAltBox>
+			<north>19.75940059140074</north>
+			<south>19.73331560463951</south>
+			<east>30.16577365026922</east>
+			<west>30.1370743265225</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 		<LookAt>
 			<longitude>30.1530816449432</longitude>
 			<latitude>19.74644593814891</latitude>

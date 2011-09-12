@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Folder>
 	<name>Stadtkarten</name>
-	<GroundOverlay>
+	<GroundOverlay id="aubochon">
 		<name>Aubochon</name>
 	<Region>
       <LatLonAltBox>
@@ -40,7 +40,7 @@
 			<west>30.1370743265225</west>
 		</LatLonBox>
 	</GroundOverlay>
-	<GroundOverlay>
+	<GroundOverlay id="dioscuria">
 		<name>Dioscuria</name>
 	<Region>
       <LatLonAltBox>
@@ -78,7 +78,7 @@
 			<west>-52.2206752571303</west>
 		</LatLonBox>
 	</GroundOverlay>
-	<GroundOverlay>
+	<GroundOverlay id="karkarham">
 		<name>Karkarham</name>
 	<Region>
       <LatLonAltBox>
@@ -106,7 +106,7 @@
 			<west>8.051498716822746</west>
 		</LatLonBox>
 	</GroundOverlay>
-	<GroundOverlay>
+	<GroundOverlay id="syrtis_major">
 		<name>Syrtis Major</name>
 	<Region>
       <LatLonAltBox>
@@ -134,7 +134,7 @@
 			<west>-21.43277659240919</west>
 		</LatLonBox>
 	</GroundOverlay>
-	<GroundOverlay>
+	<GroundOverlay id="thymiamata">
 		<name>Thymiamata</name>
 	<Region>
       <LatLonAltBox>

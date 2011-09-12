@@ -2,6 +2,20 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Syrtis_Major.kml</name>
+	<Region>
+      <LatLonAltBox>
+			<north>6.768454504658417</north>
+			<south>6.658962333751585</south>
+			<east>-21.2463854892491</east>
+			<west>-21.43277659240919</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 	<Folder>
 		<name>Syrtis Major</name>
 		<Placemark>

@@ -2,6 +2,20 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<name>Dioscuria.kml</name>
+	<Region>
+      <LatLonAltBox>
+			<north>52.00043683479783</north>
+			<south>51.96073590070731</south>
+			<east>-52.13204167176637</east>
+			<west>-52.2206752571303</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>128</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 	<Folder>
 		<name>Dioscuria</name>
 		<open>1</open>

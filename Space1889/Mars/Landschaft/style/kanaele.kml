@@ -44,6 +44,7 @@
 			<width>3</width>
 		</LineStyle>
 <BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
 <text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
@@ -63,6 +64,7 @@ $[description]]]></text>
 			<color>ffffffff</color>
 		</LabelStyle>
 		<BalloonStyle>
+		<bgColor>FFD5FCFD</bgColor>
 <text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
@@ -83,6 +85,7 @@ $[description]]]></text>
 			<width>3</width>
 		</LineStyle>
 <BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
 <text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>
@@ -102,6 +105,7 @@ $[description]]]></text>
 			<color>ffffffff</color>
 		</LabelStyle>
 		<BalloonStyle>
+		        <bgColor>FFD5FCFD</bgColor>
 <text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
 <br/><br/>
 $[description]]]></text>

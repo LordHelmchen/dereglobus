@@ -1066,7 +1066,7 @@
         <bgColor>FFD5FCFD</bgColor>
         <!-- styling of the balloon text -->
         <text><![CDATA[
-      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <font color="#CC0000" size="+3">$[name]</font>
       <br/><br/>
       $[description]
       ]]></text>
@@ -1092,7 +1092,7 @@
         <bgColor>FFD5FCFD</bgColor>
         <!-- styling of the balloon text -->
         <text><![CDATA[
-      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <font color="#CC0000" size="+3">$[name]</font>
       <br/><br/>
       $[description]
       ]]></text>
@@ -1127,7 +1127,7 @@
         <bgColor>FFD5FCFD</bgColor>
         <!-- styling of the balloon text -->
         <text><![CDATA[
-      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <font color="#CC0000" size="+3">$[name]</font>
       <br/><br/>
       $[description]
       ]]></text>
@@ -1153,7 +1153,7 @@
         <bgColor>FFD5FCFD</bgColor>
         <!-- styling of the balloon text -->
         <text><![CDATA[
-      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <font color="#CC0000" size="+3">$[name]</font>
       <br/><br/>
       $[description]
       ]]></text>

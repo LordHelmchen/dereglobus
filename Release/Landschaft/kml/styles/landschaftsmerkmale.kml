@@ -160,6 +160,7 @@
 			<styleUrl>#gewaesser-X-h</styleUrl>
 		</Pair>
 	</StyleMap>	
+
 	
 
 	<StyleMap id="steppe">
@@ -184,6 +185,118 @@
 			<styleUrl>#wueste-h</styleUrl>
 		</Pair>
 	</StyleMap>	
+
+	
+	
+<!-- STYLEMAPS FUER RAKSHAZAR -->	
+
+	<StyleMap id="fluss_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#fluss_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#fluss_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+	<StyleMap id="see_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#see_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#see_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+	<StyleMap id="gebirge_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gebirge_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gebirge_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+	<StyleMap id="insel_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#insel_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#insel_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="gewaesser_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gewaesser_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gewaesser_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+		
+	<StyleMap id="vegetation_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#vegetation_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#vegetation_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="berg_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#berg_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#berg_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+		
+	<StyleMap id="steppe_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#steppe_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#steppe_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="wueste_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wueste_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wueste_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>	
+	
+	
 	
 	
 				<!-- So, ab hier werden die einzelnen Styles definiert -->
@@ -938,6 +1051,501 @@ $[description]]]></text>
 	</Style>
 	
 
+	
+	
+<!-- STYLES FUER RAKSHAZAR -->	
+	
+	
+<Style id="fluss_Rakshazar-n">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>4cff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="fluss_Rakshazar-h">
+    		<ListStyle>
+       			  <maxSnippetLines>0</maxSnippetLines>
+     		</ListStyle>
+		<LineStyle>
+			<color>ccff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	
+	
+	
+	
+	<Style id="see_Rakshazar-n">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccff0000</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cff0000</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="see_Rakshazar-h">
+    		<ListStyle>
+       			  <maxSnippetLines>0</maxSnippetLines>
+     		</ListStyle>
+		<LineStyle>
+			<color>ccff0000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cff0000</color>
+		</PolyStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+
+	
+	<Style id="gebirge_Rakshazar-n">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>99000000</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="gebirge_Rakshazar-h">
+    		<ListStyle>
+       			  <maxSnippetLines>0</maxSnippetLines>
+     		</ListStyle>
+		<LineStyle>
+			<color>99000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc000000</color>
+		</PolyStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+
+
+	
+	
+	<Style id="insel_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Insel.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="insel_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Insel.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="vegetation_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wald.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="vegetation_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wald.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>	
+	
+	<Style id="berg_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Berg.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="berg_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Berg.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	
+	
+	<Style id="gewaesser_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Gewaesser.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="gewaesser_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Gewaesser.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="steppe_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Steppe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="steppe_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Steppe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>	
+
+
+	
+	<Style id="wueste_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wueste.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="wueste_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wueste.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	
+	
 
 	
 </Document>

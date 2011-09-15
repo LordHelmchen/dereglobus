@@ -53,11 +53,6 @@
 		<NetworkLink>
 			<name>Inseln</name>
 			<visibility>1</visibility>
-			<Style>
-				<ListStyle>
-					<listItemType>checkHideChildren</listItemType>
-				</ListStyle>
-			</Style>
 			<Link>
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln.kml</href>
 			</Link>

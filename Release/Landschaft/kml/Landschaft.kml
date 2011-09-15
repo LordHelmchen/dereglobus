@@ -40,7 +40,7 @@
 		</NetworkLink>
 		<NetworkLink>
 			<name>Gewässer</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<Style>
 				<ListStyle>
 					<listItemType>checkHideChildren</listItemType>
@@ -58,32 +58,15 @@
 			</Link>
 		</NetworkLink>
 		<NetworkLink>
-			<name>Gewässer</name>
+			<name>Gebirge</name>
 			<visibility>0</visibility>
-			<Style>
-				<ListStyle>
-					<listItemType>checkHideChildren</listItemType>
-				</ListStyle>
-			</Style>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser.kml</href>
-			</Link>
-		</NetworkLink>
-		<NetworkLink>
-			<name>Berge</name>
-			<visibility>0</visibility>
-			<Style>
-				<ListStyle>
-					<listItemType>checkHideChildren</listItemType>
-				</ListStyle>
-			</Style>
-			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Berge.kml</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge.kml</href>
 			</Link>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Wälder</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<Style>
 				<ListStyle>
 					<listItemType>checkHideChildren</listItemType>
@@ -95,7 +78,7 @@
 		</NetworkLink>
 		<NetworkLink>
 			<name>Steppen</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<Style>
 				<ListStyle>
 					<listItemType>checkHideChildren</listItemType>
@@ -107,7 +90,7 @@
 		</NetworkLink>
 		<NetworkLink>
 			<name>Wüsten</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<Style>
 				<ListStyle>
 					<listItemType>checkHideChildren</listItemType>

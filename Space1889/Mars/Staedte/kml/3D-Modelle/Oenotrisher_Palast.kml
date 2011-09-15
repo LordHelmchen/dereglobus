@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
-	<name>Oenotrischer_Palast.kmz</name>
+	<Placemark>
+		<name>Oenotrischer Palast</name>
 	<Region>
       <LatLonAltBox>
          <north>33.15429097546328</north>
@@ -16,8 +17,6 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
    </Region>
-	<Placemark>
-		<name>Oenotrischer Palast</name>
 		<description>Der Palast gehört einem reichen kanalmarsianischen Adeligen und dient ihm als &quot;kleines Landhaus&quot; auf seiner Plantage außerhalb Oenotrias. Er lies ihn vor einigen Jahren im Stil des &quot;Oenotrischen Runismus&quot; erbauen um seine Geschäftspartner die er dort zu empfangen geruht zu beeindrucken.</description>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/style/Siedlungen.kml#Stadt</styleUrl>
 		<Model id="Oenotrischer_Palast">
@@ -38,7 +37,7 @@
 				<z>1</z>
 			</Scale>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/modelle/Oenotrisher_Palast.dae</href>
+				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/modelle/Oenotrischer_Palast.dae</href>
 			</Link>
 			<ResourceMap>
 				<Alias>

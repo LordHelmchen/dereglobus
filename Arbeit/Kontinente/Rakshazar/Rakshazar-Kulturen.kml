@@ -2,565 +2,30 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Rakshazar-Kulturen.kml</name>
-	<Style id="sn_ylw-pushpin3">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin2">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin9</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin1">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin0">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin7">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin4">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin4">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin3">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin1">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin60</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin7</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin5">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin6">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin7">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin50">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin5">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin10">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin8">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin9">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>66ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>7fffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin8">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin50</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin60">
-		<BalloonStyle>
-			<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-			<bgColor>ffd5fcfd</bgColor>
-		</BalloonStyle>
-		<ListStyle>
-			<maxSnippetLines>0</maxSnippetLines>
-		</ListStyle>
-		<LineStyle>
-			<color>33ffffaa</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>66ffffaa</color>
-		</PolyStyle>
-	</Style>
 	<Folder>
-		<name>Polygone</name>
+		<name>Rakshazarische Kulturen</name>
+		<open>1</open>
 		<Placemark>
 			<name>Agrim</name>
-			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>Agrim</b> gelten als eines der verdorbensten Völker Rakshazars. Egal ob sie in den Städten der Menschen als Boten dämonischer Mächte auftreten, als Konstrukteure erschreckender Maschinen und Erschaffer blutsaufender Artefakte in den Tiefen der Drachenberge ihr Unwesen treiben, oder als Erlösungssuchende die Weiten des rakshazarischen Kontinents durchstreifen. Alles Streben der Faulzwerge dient nur einem Zweck: Sich eines Tages gänzlich von der Last ihres göttlichen Fluches zu befreien.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Volk_Rakshazar</styleUrl>
+			<MultiGeometry>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -571,12 +36,7 @@ $[description]]]></text>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Agrim</name>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -587,24 +47,7 @@ $[description]]]></text>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Agrim</name>
-			<LookAt>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-				<longitude>27.46286837017792</longitude>
-				<latitude>43.06529661224695</latitude>
-				<altitude>0</altitude>
-				<heading>-2.655703004546368</heading>
-				<tilt>0</tilt>
-				<range>1895205.19856512</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -615,24 +58,7 @@ $[description]]]></text>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Agrim</name>
-			<LookAt>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-				<longitude>36.53486974637492</longitude>
-				<latitude>40.52628818694529</latitude>
-				<altitude>0</altitude>
-				<heading>-0.6832967087695234</heading>
-				<tilt>0</tilt>
-				<range>1520829.368287669</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -643,24 +69,7 @@ $[description]]]></text>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Agrim</name>
-			<LookAt>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-				<longitude>39.61638942089639</longitude>
-				<latitude>36.40336213624288</latitude>
-				<altitude>0</altitude>
-				<heading>0.7358364521460937</heading>
-				<tilt>0</tilt>
-				<range>1798553.660282055</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin6</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -671,12 +80,7 @@ $[description]]]></text>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Agrim</name>
-			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -687,9 +91,26 @@ $[description]]]></text>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
+			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>Amhas</name>
+			<name>Amhasim</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Für unzählige Stämme und Völker des Rieslandes sind sie Dämonen aus den tiefsten Tiefen der ewigen Verdammnis, doch ihre Heerscharen von Sklaven verehren sie als erhabene, gottgleiche, höhere Wesen: Die Rede ist vom Volk der ruchlosen und arroganten <b>Amhasim</b>, dass eine der am höchsten entwickelten Zivilisationen des Rieslandes begründet hat. Eine Kultur, deren beeindruckende Errungenschaften jedoch auf der grausamen Versklavung unzähliger Unschuldiger basieren, und deren brutaler in schwarzes, stachelbewehrtes Eisen gehüllter Arm auch noch bis in den letzten Winkel des Kontinents zu reichen vermag – zum stummen Entsetzen all ihrer Opfer.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
 			<LookAt>
 				<gx:TimeStamp><when>1036</when>
 </gx:TimeStamp>
@@ -702,9 +123,8 @@ $[description]]]></text>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Volk_Rakshazar</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -718,9 +138,24 @@ $[description]]]></text>
 		</Placemark>
 		<Placemark>
 			<name>Angurianer</name>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Einst waren ihre Vorfahren Sklaven der <a href="/wiki/index.php?title=Amhasim" title="Amhasim">Amhasim</a>. Nach der großen Flucht aus <a href="/wiki/index.php?title=Amhas" title="Amhas">Amhas</a> vereinigten sich die überlebenden Menschen, <a href="/wiki/index.php?title=Brokthar" title="Brokthar">Brokthar</a>, <a href="/wiki/index.php?title=Orks" title="Orks">Orks</a> und Mitglieder anderer Rassen zu einem äußerst kriegerischen Stammesverband. Auf ihren grausamen Raubzügen stürzen sie sich in wilder Blutgier brandschatzend und plündernd auf schwächere Völker - und doch sind sie auch die heimliche Hoffnung vieler Sklaven des Kontinents. Immer wieder führen die <b>Angurianer</b> waghalsige Befreiungsaktionen durch, um neue Kämpfer zu rekrutieren. Nur die Abgebrühtesten und Stärksten überstehen die grausamen Aufnahmerituale, doch die Überlebenden erwartet ein Leben in zügelloser Freiheit innerhalb einer verschworenen Gemeinschaft.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Volk_Rakshazar</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -734,9 +169,24 @@ $[description]]]></text>
 		</Placemark>
 		<Placemark>
 			<name>Brachtao</name>
-			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Schon seit Jahrhunderten leben die <b>Brachtão</b> in direkter Nachbarschaft zu den Sanskitaren Teruldans und der Vielvölkerregion Kurotan. Sie stützen ihren beachtlichen Einfluss in der Region, vor allem auf die Kontrolle der umliegenden Handelswege. Die Brachtão sind bekannt für ihre Kraft und Ausdauer, wirklich berühmt wurden sie aber durch ihre Geschäftstüchtigkeit.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Volk_Rakshazar</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
@@ -750,59 +200,74 @@ $[description]]]></text>
 		</Placemark>
 		<Placemark>
 			<name>Broktharstämme</name>
-			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Hünenhafte, muskelbepackte Barbarenkrieger die - in Felle und martialisch anmutende Rüstungen gehüllt - raubend, brandschatzend und vergewaltigend über das Land ziehen, grausame, unerbittliche Götzen verehren, und bei ihren wilden Orgien Met aus den Schädeln ihrer erschlagenen Feinde saufen. Dies ist das Bild, das die meisten Bewohner Rakshazars von den Angehörigen der zahlreichen Brokthargemeinschaften unterschiedlichster Größe haben, die keiner der drei großen Kulturen <a href="/wiki/index.php?title=Ronthar" title="Ronthar">Ronthar</a>, <a href="/wiki/index.php?title=Cromor" title="Cromor">Cromor</a> oder <a href="/wiki/index.php?title=Amhas" title="Amhas">Amhas</a> angehören. Und in diesem speziellen Fall ist ihre Vorstellung gar nicht mal so weit von der Wirklichkeit entfernt.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Volk_Rakshazar</styleUrl>
+			<MultiGeometry>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>absolute</altitudeMode>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							28.54105150846228,47.72564531441295,10000 28.62309032383348,47.6522845065305,10000 28.90148551322677,47.24289121594301,10000 29.24899105592457,46.90707631190445,10000 29.67437726685977,46.65764788633616,10000 30.13278305352938,46.64310625285577,10000 30.42812842880507,46.63630932768924,10000 30.80889306736182,46.63405191768327,10000 30.93252038551884,46.61851589794151,10000 31.1240783939195,46.54265441306887,10000 31.27260106180414,46.43897838097684,10000 31.43101696344928,46.29559490351758,10000 31.92902440395228,45.53809393407612,10000 32.30117488032109,44.75184071317671,10000 32.32736760414705,44.64020728069388,10000 32.32941576116536,44.49106942998241,10000 32.27317534577947,44.06002369936881,10000 32.15683541320063,43.6985804701872,10000 32.02299214960502,43.42340398730048,10000 31.92706826471489,43.06638513580381,10000 31.86932385488334,42.82773651305186,10000 31.85301059664163,42.67866910560119,10000 31.85227181731611,42.61760333162192,10000 31.89082447504088,42.56994978582505,10000 32.00199855364315,42.54765609466687,10000 32.0796409455192,42.59270219902192,10000 32.17781388081968,42.73103619503981,10000 32.33092502513294,42.86252223034577,10000 32.5370228582752,43.00986203170866,10000 32.77552084579442,43.1449060944713,10000 33.08082499175202,43.34988656947915,10000 33.2580388091796,43.53448364860282,10000 33.28378905713113,43.68583461006183,10000 33.27340352335818,43.83716552121104,10000 33.29607350417098,43.96257076695189,10000 33.34918851585699,44.14906719761336,10000 33.35426033861823,44.28035012400358,10000 33.33164260487956,44.35475524255617,10000 33.23413788347678,44.42784029572805,10000 33.09366563513089,44.5680392611663,10000 33.04589661018741,44.66405460669001,10000 33.00889540810722,44.78847358361068,10000 33.03228841618653,44.89824382310739,10000 33.11440162401821,44.96665370782247,10000 33.21184592938405,45.0053891287011,10000 33.33110222831477,45.01327648217308,10000 33.44502942788725,45.0012521226228,10000 33.54955315305507,44.94527119712359,10000 33.66725639903552,44.8782843870222,10000 33.75246652951687,44.83749277611614,10000 33.87348434169913,44.82012649080208,10000 34.03719638018873,44.84348390869693,10000 34.17963005949089,44.89247073886192,10000 34.35932618532608,44.90936444399765,10000 34.46706733369508,44.89352316867733,10000 34.56273360539438,44.9001715073493,10000 34.73561048583762,44.9507637530186,10000 34.83641973948899,44.96742057305121,10000 35.05855197712063,44.96164934254725,10000 35.28635139281538,44.96556275395685,10000 35.45151967046679,44.96889089458053,10000 35.66593844392897,44.95634015759698,10000 35.82214797437929,44.94868293380891,10000 36.00444037296643,44.94768206465636,10000 36.13633495659674,44.95757220074606,10000 36.22177207847076,45.0074727286116,10000 36.24937018793453,45.08688212351908,10000 36.21962383229001,45.13846981344543,10000 36.1448590753584,45.17884629486498,10000 35.87546973782929,45.21807513142682,10000 35.61769683806553,45.26383633263812,10000 35.40750947754378,45.32671107876577,10000 35.29093521478403,45.30943942975555,10000 35.27819028191232,45.24237408389809,10000 35.17799541880292,45.17647693152651,10000 34.99972034427398,45.1770553615038,10000 34.84318591687784,45.17290032187697,10000 34.72407641657577,45.14306188734466,10000 34.54069818376654,45.10894997056539,10000 34.40027256338189,45.11344879340642,10000 34.17941668736013,45.1792157657232,10000 33.89318478246339,45.23865669699054,10000 33.65305319735015,45.32455166936186,10000 33.43882317784003,45.37277981672894,10000 33.16959584647447,45.38078668852359,10000 33.05633407915869,45.37901293523902,10000 32.81603540366078,45.36445552879418,10000 32.59154466849365,45.37481780848093,10000 32.48586145162834,45.39537139454274,10000 32.35634956103246,45.5257492448663,10000 32.31388955993795,45.62047252062842,10000 32.26219296875041,46.02563717936302,10000 32.22439938120482,46.72836597068378,10000 32.18659284460126,47.29595101447654,10000 32.23533158379301,47.39684412031468,10000 32.30837541592164,47.48181147217429,10000 32.40635956470212,47.7444139356675,10000 32.4987037276836,48.01234770125613,10000 32.50969639209953,48.3558874613646,10000 32.55149796341161,48.66573467450737,10000 32.57962129206756,48.75484279349967,10000 32.66165078588196,48.85048245112094,10000 32.7682504295304,48.96241934322794,10000 32.9328018492927,49.04961330743719,10000 33.20091361091334,49.10810532971834,10000 33.53968123039931,49.16225363335965,10000 33.93697475423255,49.23595560569899,10000 34.11031451183216,49.26757034416433,10000 34.24054099048588,49.32926389506486,10000 34.43152159621759,49.46990730809694,10000 34.62253597796621,49.5636085982951,10000 34.7177000443055,49.62956898341597,10000 34.74556897060905,49.72291507842378,10000 34.75916743211855,49.8661823793108,10000 34.72489369146732,49.98470652978104,10000 34.63295418919396,50.0934512864355,10000 34.51548913984613,50.23506536757618,10000 34.48470225386687,50.35480687449065,10000 34.48835554130685,50.88932956677187,10000 34.43400072361475,51.00205217428094,10000 34.31790215017654,51.11411478657905,10000 34.18874679790721,51.18278242041349,10000 34.02008717939675,51.21116113348184,10000 33.68960305439406,51.22623005728783,10000 33.09112115726598,51.21291034631144,10000 32.88288817746791,51.23002486627429,10000 32.7488863854575,51.27926199877658,10000 32.63765471821446,51.43215817111603,10000 31.84607514038895,52.51438553299585,10000 31.80204212900579,52.5586156475967,10000 31.70225573999801,52.61868915531708,10000 30.95950890872606,53.03729537553999,10000 30.87073333573877,53.06199915971365,10000 30.8228419412528,53.05521364556543,10000 30.71700056201613,53.02193499914674,10000 30.42326956687015,52.97541507984889,10000 30.0958298078629,52.95680747616733,10000 29.55359542249047,52.94144986245294,10000 29.24521771303578,52.9271418998719,10000 29.12705691671753,52.90171990195888,10000 29.01219403698929,52.85636043993168,10000 28.08327720473955,52.34738778247995,10000 27.85701499081247,52.19983832265687,10000 27.64068323123371,52.0329827999762,10000 27.53182744493849,51.94577861209319,10000 27.43061564197105,51.84121470044099,10000 27.40133376702889,51.75068810021691,10000 27.39685337167732,51.59299188939489,10000 27.41091894309503,51.44364319439767,10000 27.4401963166018,51.32528557495245,10000 27.51060786996845,51.18192273793022,10000 27.56621811534372,51.07498929762813,10000 27.62453790848897,50.89899291914843,10000 27.64465394166796,50.77609360479212,10000 27.66791311494615,50.67576096309576,10000 27.6473107012142,50.61392789356209,10000 26.882084377121,50.13022278129451,10000 26.77215373144133,50.07003806738184,10000 26.63492501051165,50.01912299221507,10000 26.35284829679185,49.94949626500241,10000 25.99777577383052,49.85460845262524,10000 25.81385275120521,49.78808684921464,10000 25.613307316076,49.70786117540441,10000 25.56414571788589,49.63814598513007,10000 25.59571536492835,49.57487330945679,10000 25.66597205717181,49.46256048414358,10000 25.80472008274737,49.26187811977152,10000 25.89757247959134,49.07203076192663,10000 25.93873303431791,48.8773312907515,10000 25.90707871445255,48.79199940624451,10000 25.85045509961785,48.70001291405785,10000 25.78277531070278,48.63974275512597,10000 25.82924716679062,48.57315141862289,10000 26.0141022981683,48.54115414150968,10000 26.28705137560652,48.49322902949661,10000 26.62850072922335,48.47740088171244,10000 26.97324505827286,48.45906845837223,10000 27.29090251214552,48.43946725193649,10000 27.5280792654829,48.36186317443447,10000 27.78791815899306,48.16285381374625,10000 28.2628854348052,47.93227483639192,10000 28.35151081186317,47.87563812763271,10000 28.54105150846228,47.72564531441295,10000 
+							28.54105150846228,47.72564531441295,10000 28.62309032383348,47.6522845065305,10000 28.90148551322677,47.24289121594301,10000 29.24899105592457,46.90707631190445,10000 29.67437726685978,46.65764788633616,10000 30.13278305352938,46.64310625285577,10000 30.42812842880507,46.63630932768924,10000 30.80889306736182,46.63405191768327,10000 30.93252038551884,46.61851589794151,10000 31.1240783939195,46.54265441306887,10000 31.27260106180414,46.43897838097684,10000 31.43101696344928,46.29559490351758,10000 31.92902440395228,45.53809393407612,10000 32.30117488032109,44.75184071317671,10000 32.32736760414705,44.64020728069388,10000 32.32941576116536,44.49106942998241,10000 32.27317534577947,44.06002369936881,10000 32.15683541320063,43.6985804701872,10000 32.02299214960502,43.42340398730048,10000 31.92706826471489,43.06638513580381,10000 31.86932385488334,42.82773651305186,10000 31.85301059664163,42.67866910560119,10000 31.85227181731611,42.61760333162192,10000 31.89082447504088,42.56994978582505,10000 32.00199855364315,42.54765609466687,10000 32.0796409455192,42.59270219902192,10000 32.17781388081968,42.73103619503981,10000 32.33092502513294,42.86252223034577,10000 32.5370228582752,43.00986203170866,10000 32.77552084579442,43.1449060944713,10000 33.08082499175202,43.34988656947915,10000 33.2580388091796,43.53448364860282,10000 33.28378905713113,43.68583461006183,10000 33.27340352335818,43.83716552121104,10000 33.29607350417098,43.96257076695189,10000 33.34918851585699,44.14906719761336,10000 33.35426033861823,44.28035012400358,10000 33.33164260487956,44.35475524255617,10000 33.23413788347678,44.42784029572805,10000 33.09366563513089,44.5680392611663,10000 33.04589661018741,44.66405460669001,10000 33.00889540810722,44.78847358361068,10000 33.03228841618653,44.89824382310739,10000 33.11440162401821,44.96665370782247,10000 33.21184592938405,45.0053891287011,10000 33.33110222831477,45.01327648217308,10000 33.44502942788725,45.00125212262281,10000 33.54955315305507,44.94527119712359,10000 33.66725639903552,44.8782843870222,10000 33.75246652951687,44.83749277611614,10000 33.87348434169913,44.82012649080208,10000 34.03719638018873,44.84348390869693,10000 34.17963005949089,44.89247073886192,10000 34.35932618532608,44.90936444399765,10000 34.46706733369508,44.89352316867733,10000 34.56273360539438,44.9001715073493,10000 34.73561048583762,44.9507637530186,10000 34.83641973948899,44.96742057305121,10000 35.05855197712063,44.96164934254725,10000 35.28635139281538,44.96556275395685,10000 35.45151967046679,44.96889089458053,10000 35.66593844392897,44.95634015759698,10000 35.82214797437929,44.94868293380891,10000 36.00444037296643,44.94768206465636,10000 36.13633495659674,44.95757220074606,10000 36.22177207847076,45.0074727286116,10000 36.24937018793453,45.08688212351908,10000 36.21962383229001,45.13846981344543,10000 36.1448590753584,45.17884629486498,10000 35.87546973782929,45.21807513142682,10000 35.61769683806553,45.26383633263812,10000 35.40750947754378,45.32671107876577,10000 35.29093521478403,45.30943942975555,10000 35.27819028191232,45.24237408389809,10000 35.17799541880292,45.17647693152651,10000 34.99972034427398,45.1770553615038,10000 34.84318591687784,45.17290032187697,10000 34.72407641657577,45.14306188734466,10000 34.54069818376654,45.10894997056539,10000 34.40027256338189,45.11344879340642,10000 34.17941668736013,45.1792157657232,10000 33.89318478246339,45.23865669699054,10000 33.65305319735015,45.32455166936186,10000 33.43882317784003,45.37277981672894,10000 33.16959584647447,45.38078668852359,10000 33.05633407915869,45.37901293523902,10000 32.81603540366078,45.36445552879418,10000 32.59154466849365,45.37481780848093,10000 32.48586145162834,45.39537139454274,10000 32.35634956103246,45.5257492448663,10000 32.31388955993795,45.62047252062842,10000 32.26219296875041,46.02563717936301,10000 32.22439938120482,46.72836597068379,10000 32.18659284460126,47.29595101447654,10000 32.23533158379301,47.39684412031469,10000 32.30837541592164,47.48181147217429,10000 32.40635956470212,47.7444139356675,10000 32.4987037276836,48.01234770125613,10000 32.50969639209953,48.3558874613646,10000 32.55149796341161,48.66573467450737,10000 32.57962129206756,48.75484279349967,10000 32.66165078588196,48.85048245112094,10000 32.7682504295304,48.96241934322794,10000 32.9328018492927,49.04961330743719,10000 33.20091361091334,49.10810532971834,10000 33.53968123039931,49.16225363335964,10000 33.93697475423255,49.23595560569899,10000 34.11031451183216,49.26757034416433,10000 34.24054099048588,49.32926389506486,10000 34.43152159621759,49.46990730809694,10000 34.62253597796621,49.5636085982951,10000 34.7177000443055,49.62956898341597,10000 34.74556897060905,49.72291507842378,10000 34.75916743211855,49.8661823793108,10000 34.72489369146732,49.98470652978105,10000 34.63295418919396,50.0934512864355,10000 34.51548913984613,50.23506536757618,10000 34.48470225386687,50.35480687449065,10000 34.48835554130685,50.88932956677187,10000 34.43400072361475,51.00205217428094,10000 34.31790215017654,51.11411478657905,10000 34.18874679790721,51.18278242041349,10000 34.02008717939675,51.21116113348184,10000 33.68960305439406,51.22623005728783,10000 33.09112115726598,51.21291034631144,10000 32.88288817746791,51.2300248662743,10000 32.7488863854575,51.27926199877658,10000 32.63765471821446,51.43215817111603,10000 31.84607514038895,52.51438553299585,10000 31.80204212900579,52.5586156475967,10000 31.70225573999801,52.61868915531708,10000 30.95950890872606,53.03729537553999,10000 30.87073333573877,53.06199915971365,10000 30.8228419412528,53.05521364556543,10000 30.71700056201613,53.02193499914674,10000 30.42326956687015,52.97541507984889,10000 30.0958298078629,52.95680747616732,10000 29.55359542249047,52.94144986245294,10000 29.24521771303578,52.9271418998719,10000 29.12705691671754,52.90171990195888,10000 29.01219403698929,52.85636043993168,10000 28.08327720473955,52.34738778247995,10000 27.85701499081247,52.19983832265687,10000 27.64068323123371,52.0329827999762,10000 27.53182744493849,51.94577861209319,10000 27.43061564197105,51.84121470044099,10000 27.4013337670289,51.75068810021691,10000 27.39685337167732,51.59299188939489,10000 27.41091894309503,51.44364319439767,10000 27.4401963166018,51.32528557495245,10000 27.51060786996845,51.18192273793022,10000 27.56621811534372,51.07498929762813,10000 27.62453790848897,50.89899291914843,10000 27.64465394166796,50.77609360479213,10000 27.66791311494615,50.67576096309576,10000 27.6473107012142,50.61392789356209,10000 26.882084377121,50.13022278129451,10000 26.77215373144133,50.07003806738184,10000 26.63492501051165,50.01912299221507,10000 26.35284829679185,49.94949626500241,10000 25.99777577383052,49.85460845262524,10000 25.81385275120521,49.78808684921464,10000 25.613307316076,49.70786117540441,10000 25.56414571788589,49.63814598513007,10000 25.59571536492835,49.57487330945679,10000 25.66597205717181,49.46256048414358,10000 25.80472008274737,49.26187811977152,10000 25.89757247959134,49.07203076192663,10000 25.93873303431791,48.8773312907515,10000 25.90707871445255,48.79199940624451,10000 25.85045509961785,48.70001291405785,10000 25.78277531070278,48.63974275512597,10000 25.82924716679062,48.5731514186229,10000 26.0141022981683,48.54115414150968,10000 26.28705137560652,48.49322902949661,10000 26.62850072922335,48.47740088171244,10000 26.97324505827286,48.45906845837223,10000 27.29090251214552,48.43946725193649,10000 27.5280792654829,48.36186317443447,10000 27.78791815899307,48.16285381374625,10000 28.2628854348052,47.93227483639192,10000 28.35151081186317,47.87563812763271,10000 28.54105150846228,47.72564531441295,10000 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Broktharstämme</name>
-			<LookAt>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-				<longitude>36.53486974637492</longitude>
-				<latitude>40.52628818694529</latitude>
-				<altitude>0</altitude>
-				<heading>-0.6832967087695234</heading>
-				<tilt>0</tilt>
-				<range>1520829.368287669</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin8</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							40.29585888692999,40.40121312878014,10000 40.81740848166399,40.61352337578932,10000 41.26727344146332,40.71304314584028,10000 41.6094301942853,40.76618690859436,10000 42.0002470676416,40.76674916617812,10000 42.51610189777281,40.66997301848902,10000 42.82560022932029,40.55802051356336,10000 43.0364444252862,40.40213940142449,10000 43.16006149073542,40.28351791770069,10000 43.35130182503076,40.20814207898978,10000 43.50470937403894,40.18433669410751,10000 43.62848508995509,40.13134389743437,10000 43.87368874761807,39.95886268836111,10000 44.12464703071041,39.69744310899534,10000 44.23485834315199,39.55566569873224,10000 44.33981989390927,39.33160104855449,10000 44.44198985901669,39.22632252494333,10000 44.61934500362171,39.09730571357339,10000 44.75964919195847,39.02052448223985,10000 44.91112634703393,38.99490470384805,10000 45.17628959397929,38.96616750000322,10000 45.31086906504928,38.99935814217517,10000 45.6494695943734,39.12195262992525,10000 45.9378078073137,39.35544403524047,10000 46.22601437257523,39.72065743758998,10000 46.57080929968506,40.1719071601707,10000 46.69485025482685,40.58811837212426,10000 46.79866263275458,40.82843237718084,10000 46.88020157656548,41.01816378642269,10000 46.91072986982224,41.16540551796324,10000 46.91239119010533,41.59982135791268,10000 46.82351692015935,41.73611915751002,10000 46.59480759097431,42.15871999284956,10000 46.42850854054812,42.52075633835536,10000 46.44642877320398,42.64642263764394,10000 46.50023479633431,42.86035334594561,10000 46.67701454143651,43.20315937142156,10000 46.70521912690442,43.32006299583371,10000 46.71473175045561,43.45989476732166,10000 46.57579869409083,43.82738664116597,10000 46.42531740515676,44.04790518986808,10000 46.17110549667415,44.29482724959171,10000 45.57140809177663,44.99818685285582,10000 44.77662954658631,45.84591841505915,10000 44.70362294974213,45.92921354125856,10000 44.67363300276326,46.01904683904829,10000 44.74195577726296,47.54738276568021,10000 44.74624065477291,47.70317617567403,10000 44.77132177037722,47.80666926160983,10000 44.80700793805257,47.88768813754055,10000 44.77539834028578,47.9627824674797,10000 44.71048164515918,48.0610103445463,10000 44.62215966135808,48.13745799828794,10000 44.56740275582985,48.22071328540169,10000 44.5351036831761,48.31105264997996,10000 44.55903733742396,48.38532904915797,10000 44.62825694796579,48.45117174695584,10000 44.78870200732816,48.52987552811874,10000 44.82469408851457,48.61895472733279,10000 44.88518100185787,48.78262062683593,10000 44.97954406557128,48.91560923751037,10000 45.11975682109269,49.03243719463139,10000 45.4458485407307,49.20435564569145,10000 45.95257129445778,49.74396453114624,10000 46.03021755835442,49.88987944916771,10000 46.03554628722754,49.98600767364222,10000 46.0291812256924,50.08251848911237,10000 45.98964125655262,50.21712688566878,10000 45.85511164143316,50.33968352348961,10000 44.86723936184401,50.90024035729883,10000 44.13849357750154,51.34824253683969,10000 43.37064463130505,51.87066094598095,10000 42.98629433787819,52.15857407344279,10000 42.82844666683618,52.31770080689059,10000 42.66428997747828,52.57554737298405,10000 42.36492900497732,52.94310864043422,10000 42.10707149277863,53.18592059170253,10000 41.8882190745955,53.30295127971786,10000 41.29380516408109,53.4902021809252,10000 40.63585674775564,53.68991238230312,10000 40.26275813375623,53.78834035288066,10000 40.05363888355178,53.78431121090294,10000 39.78297545384818,53.73349908710933,10000 39.44709887695126,53.5524664570537,10000 39.1370620089,53.26550304175712,10000 38.89114029722568,53.0018720344758,10000 38.85330814424022,52.87260918043739,10000 38.84630300326785,52.69923580108272,10000 38.80437533709348,52.55342389345762,10000 38.67624845812262,52.33909265682923,10000 38.5471393290546,52.24453091808859,10000 38.26481407463827,52.15142973187896,10000 37.98918647724348,52.10286459942593,10000 37.72862568248522,52.03159329859713,10000 37.59890103826445,51.94288558209962,10000 37.43232242911748,51.74644664616883,10000 37.26694775867151,51.54185068988368,10000 37.18796263022888,51.36380694409753,10000 37.19785700555126,51.28865450271258,10000 37.27994898537832,51.24759484980231,10000 37.40581991409297,51.26170507100182,10000 37.64868332016495,51.3569147924265,10000 38.02546058915215,51.49501201813239,10000 38.43760646016336,51.64770814297597,10000 38.61603199816528,51.74467809896635,10000 38.77809860683512,51.87803934665307,10000 39.00621511452643,51.98327993994096,10000 39.19245816511625,52.00435130907147,10000 39.39704728383607,51.95849460505158,10000 39.50258437104753,51.8945576225432,10000 39.57553400372041,51.77000477004416,10000 39.63728326682345,51.62282387533504,10000 39.78583389903147,51.45599479368552,10000 39.92690140583521,51.37084564166577,10000 40.08994428775477,51.30856766306044,10000 40.26058306447521,51.30580691716042,10000 40.46673940220062,51.31111384483182,10000 40.6744150431365,51.27899361311332,10000 40.78827543738505,51.17776284069578,10000 40.92673634086271,51.04736852877286,10000 41.05243631415023,50.90920625280533,10000 41.11846951089383,50.74745205196768,10000 41.135045159571,50.62165727662919,10000 41.16243632081663,50.51830322390251,10000 41.22477533605766,50.42308683499846,10000 41.31711038910529,50.32807755299158,10000 41.48116590488108,50.22007864396026,10000 41.68041745313815,50.15856153555696,10000 41.94347876680486,50.11566817324486,10000 42.18921127697622,50.12544012129505,10000 42.57029850620413,50.19059321682818,10000 43.00473681741566,50.17799429268638,10000 43.3045145016043,50.19404874551915,10000 43.84217313794991,50.13296572025898,10000 44.18164244177685,50.08289574185805,10000 44.45907779431357,50.01165800736965,10000 44.63886722218825,49.8514652500691,10000 44.66455430993301,49.69796528031157,10000 44.60453591806967,49.49595853464587,10000 44.51735268610855,49.38805352171639,10000 44.3238298484404,49.29930277755642,10000 44.0578006552516,49.15414529743399,10000 43.72404904593621,49.0180914820526,10000 43.26348906470786,48.87281038879318,10000 43.02864088076345,48.78900485438653,10000 42.84057546654707,48.71194864135378,10000 42.75246272044009,48.62042693883686,10000 42.61166312604843,48.39571498173273,10000 42.59526414353346,48.2262160392693,10000 42.44436844056744,48.03941249950266,10000 42.28311776773691,47.90265866684302,10000 42.05641999641478,47.80018259977047,10000 41.86542163868463,47.70008980951909,10000 41.78532914740227,47.5448602510031,10000 41.61211471963888,47.3641893886444,10000 41.30369631113005,47.23811034246186,10000 41.03444784216477,47.09145723403742,10000 40.73505650905008,46.92307666142555,10000 40.4607848082733,46.73861592758161,10000 40.22912515366277,46.56572786173831,10000 40.08454949048173,46.41563814915693,10000 39.98875291266679,46.22825425763255,10000 39.89051051439486,46.11003489239957,10000 39.85414051892256,45.98926440107596,10000 39.90574954187484,45.8598994916792,10000 40.05527227888448,45.78205277978073,10000 42.89551270108996,44.94680414799997,10000 43.10614171336047,44.86293767228318,10000 43.27520687810144,44.75020999184627,10000 43.53107860708187,44.53086047062599,10000 43.80363032177645,44.28208724848066,10000 43.9367681936623,44.08239918253741,10000 44.47887256484923,43.0747917256296,10000 44.56826503785559,42.86192399827046,10000 44.76301856740728,42.65450755424098,10000 45.21289380467361,42.09533144835762,10000 45.292003255578,41.94596141220455,10000 45.35373681893738,41.64160169958667,10000 45.38192080681802,41.25220278613342,10000 45.32386304985568,41.03336317647679,10000 45.24158146605399,40.89254629974775,10000 45.07349988155579,40.72400673623116,10000 44.83676061027263,40.49083364314839,10000 44.69882718576412,40.35574418641912,10000 44.56494354917354,40.30636120932518,10000 44.45272233023719,40.32136569370687,10000 44.33278034342584,40.37941719566429,10000 44.24999110751883,40.43000901382336,10000 44.17825603169412,40.52358191035111,10000 44.18236412612051,40.62401320307806,10000 44.17605670943285,40.70284471242368,10000 44.13143130898693,40.77455023667942,10000 43.95472320786949,40.88217394435007,10000 43.51248277057428,41.08975712961708,10000 42.86506276004618,41.25200501781882,10000 42.30567861434947,41.33343588377537,10000 41.51090035654402,41.33747044823858,10000 41.04850309727129,41.22898087435796,10000 40.30238916299165,40.91628633349737,10000 39.92388450757216,40.77567070502771,10000 39.42153269793693,40.60185436355714,10000 38.9361605109879,40.46839492243104,10000 38.70586865461531,40.42585804994766,10000 38.34244867685791,40.41331565575614,10000 37.83485204276909,40.42223446901374,10000 37.55235613342196,40.53082512616041,10000 37.22193225548914,40.67467093875621,10000 36.97888289200167,40.77578997200541,10000 36.71333227050212,40.79794650785485,10000 36.40036910674439,40.81004313491437,10000 36.15650858544441,40.78277944245369,10000 35.93176132678679,40.65696478682185,10000 35.62998174633379,40.44781045147224,10000 35.39720004406993,40.30553266105932,10000 35.1215581285348,40.20219931941399,10000 34.9501153578565,40.19059396513676,10000 34.68288383175771,40.25047850995698,10000 33.73004462833342,40.69812346644233,10000 33.38494401216076,40.91170666036008,10000 33.11588448139814,41.03882518967517,10000 32.84766320862146,41.14443458922371,10000 32.59588024650603,41.1297945909638,10000 32.32319379551206,40.99098802655512,10000 32.03900638626126,40.84962595309065,10000 31.80423679757879,40.79973911869557,10000 31.50360577395243,40.78609302877342,10000 31.22661387513566,40.79558652822743,10000 31.03303788411531,40.82715477221766,10000 30.81578901008431,40.82019889184558,10000 30.71483646260076,40.77408385775169,10000 30.67790510462416,40.7054416666719,10000 30.68273334581977,40.6265727750578,10000 30.77265968922794,40.46267424376865,10000 30.89242081117869,40.40285836858939,10000 31.08402142459876,40.3790948396968,10000 31.39376201151829,40.34528763606957,10000 31.5602356570726,40.28272543532723,10000 31.77920191752498,40.1893772521115,10000 31.96028878683201,40.02079894309073,10000 32.09164402480707,39.79027620013205,10000 32.22351122435912,39.6098709771804,10000 32.41155561778604,39.49206149262026,10000 32.69529201349739,39.35455358935073,10000 33.04510851625724,39.26551192732994,10000 33.40816203315999,39.19813701121596,10000 33.80960527057073,39.17563142588171,10000 34.21834251422249,39.30841189676754,10000 34.69125581538717,39.37606650993272,10000 34.91814577069152,39.512382352468,10000 35.26461221146699,39.7037551162219,10000 35.47025907860884,39.83646310709317,10000 35.5622642075579,39.91477822680444,10000 35.58729994437231,40.03144275072697,10000 35.78668016969854,40.14010776419738,10000 36.09653926498721,40.25783673155173,10000 36.5617934954479,40.24214892698969,10000 37.18015911187477,40.14072533505136,10000 37.85593571332456,39.98416930137559,10000 39.11282519242461,39.92354620539307,10000 39.3810863657564,39.97995385569077,10000 39.68608134085733,40.08268225396053,10000 40.29585888692999,40.40121312878014,10000 
+							40.29585888692999,40.40121312878014,10000 40.81740848166399,40.61352337578932,10000 41.26727344146332,40.71304314584028,10000 41.6094301942853,40.76618690859436,10000 42.0002470676416,40.76674916617812,10000 42.51610189777281,40.66997301848902,10000 42.82560022932029,40.55802051356336,10000 43.0364444252862,40.40213940142449,10000 43.16006149073542,40.28351791770069,10000 43.35130182503076,40.20814207898978,10000 43.50470937403894,40.18433669410751,10000 43.62848508995509,40.13134389743437,10000 43.87368874761807,39.95886268836111,10000 44.12464703071041,39.69744310899534,10000 44.23485834315199,39.55566569873224,10000 44.33981989390927,39.33160104855449,10000 44.44198985901669,39.22632252494333,10000 44.61934500362171,39.09730571357339,10000 44.75964919195847,39.02052448223985,10000 44.91112634703393,38.99490470384805,10000 45.17628959397929,38.96616750000322,10000 45.31086906504928,38.99935814217517,10000 45.6494695943734,39.12195262992525,10000 45.9378078073137,39.35544403524047,10000 46.22601437257523,39.72065743758998,10000 46.57080929968506,40.1719071601707,10000 46.69485025482684,40.58811837212426,10000 46.79866263275458,40.82843237718084,10000 46.88020157656548,41.01816378642269,10000 46.91072986982224,41.16540551796324,10000 46.91239119010533,41.59982135791268,10000 46.82351692015935,41.73611915751002,10000 46.59480759097431,42.15871999284956,10000 46.42850854054812,42.52075633835536,10000 46.44642877320397,42.64642263764394,10000 46.50023479633431,42.86035334594561,10000 46.67701454143651,43.20315937142156,10000 46.70521912690442,43.32006299583371,10000 46.71473175045562,43.45989476732166,10000 46.57579869409083,43.82738664116597,10000 46.42531740515676,44.04790518986808,10000 46.17110549667415,44.29482724959171,10000 45.57140809177663,44.99818685285582,10000 44.77662954658631,45.84591841505915,10000 44.70362294974213,45.92921354125857,10000 44.67363300276326,46.01904683904829,10000 44.74195577726296,47.54738276568021,10000 44.74624065477291,47.70317617567403,10000 44.77132177037722,47.80666926160983,10000 44.80700793805257,47.88768813754055,10000 44.77539834028578,47.9627824674797,10000 44.71048164515918,48.0610103445463,10000 44.62215966135808,48.13745799828794,10000 44.56740275582985,48.22071328540169,10000 44.5351036831761,48.31105264997996,10000 44.55903733742396,48.38532904915797,10000 44.62825694796579,48.45117174695584,10000 44.78870200732816,48.52987552811873,10000 44.82469408851457,48.61895472733279,10000 44.88518100185787,48.78262062683593,10000 44.97954406557128,48.91560923751037,10000 45.11975682109269,49.03243719463139,10000 45.4458485407307,49.20435564569145,10000 45.95257129445778,49.74396453114624,10000 46.03021755835442,49.88987944916771,10000 46.03554628722754,49.98600767364222,10000 46.0291812256924,50.08251848911237,10000 45.98964125655262,50.21712688566879,10000 45.85511164143316,50.33968352348961,10000 44.86723936184401,50.90024035729883,10000 44.13849357750154,51.34824253683969,10000 43.37064463130505,51.87066094598095,10000 42.98629433787819,52.15857407344279,10000 42.82844666683618,52.31770080689059,10000 42.66428997747828,52.57554737298405,10000 42.36492900497732,52.94310864043422,10000 42.10707149277863,53.18592059170253,10000 41.8882190745955,53.30295127971786,10000 41.29380516408109,53.49020218092521,10000 40.63585674775564,53.68991238230312,10000 40.26275813375623,53.78834035288066,10000 40.05363888355178,53.78431121090294,10000 39.78297545384818,53.73349908710933,10000 39.44709887695126,53.5524664570537,10000 39.1370620089,53.26550304175712,10000 38.89114029722568,53.0018720344758,10000 38.85330814424022,52.87260918043739,10000 38.84630300326785,52.69923580108272,10000 38.80437533709348,52.55342389345762,10000 38.67624845812262,52.33909265682923,10000 38.5471393290546,52.2445309180886,10000 38.26481407463827,52.15142973187896,10000 37.98918647724348,52.10286459942593,10000 37.72862568248522,52.03159329859713,10000 37.59890103826445,51.94288558209962,10000 37.43232242911748,51.74644664616883,10000 37.26694775867151,51.54185068988368,10000 37.18796263022888,51.36380694409753,10000 37.19785700555126,51.28865450271258,10000 37.27994898537832,51.24759484980231,10000 37.40581991409297,51.26170507100182,10000 37.64868332016495,51.3569147924265,10000 38.02546058915215,51.49501201813239,10000 38.43760646016336,51.64770814297597,10000 38.61603199816528,51.74467809896635,10000 38.77809860683512,51.87803934665307,10000 39.00621511452643,51.98327993994095,10000 39.19245816511625,52.00435130907147,10000 39.39704728383607,51.95849460505158,10000 39.50258437104753,51.8945576225432,10000 39.57553400372041,51.77000477004416,10000 39.63728326682345,51.62282387533504,10000 39.78583389903147,51.45599479368552,10000 39.92690140583521,51.37084564166577,10000 40.08994428775477,51.30856766306044,10000 40.26058306447521,51.30580691716042,10000 40.46673940220062,51.31111384483182,10000 40.6744150431365,51.27899361311332,10000 40.78827543738505,51.17776284069578,10000 40.92673634086271,51.04736852877286,10000 41.05243631415023,50.90920625280533,10000 41.11846951089383,50.74745205196768,10000 41.135045159571,50.6216572766292,10000 41.16243632081663,50.51830322390251,10000 41.22477533605766,50.42308683499846,10000 41.31711038910529,50.32807755299158,10000 41.48116590488108,50.22007864396026,10000 41.68041745313815,50.15856153555696,10000 41.94347876680486,50.11566817324486,10000 42.18921127697622,50.12544012129505,10000 42.57029850620413,50.19059321682818,10000 43.00473681741566,50.17799429268638,10000 43.3045145016043,50.19404874551915,10000 43.84217313794991,50.13296572025898,10000 44.18164244177685,50.08289574185806,10000 44.45907779431357,50.01165800736965,10000 44.63886722218825,49.8514652500691,10000 44.66455430993301,49.69796528031157,10000 44.60453591806967,49.49595853464587,10000 44.51735268610855,49.38805352171639,10000 44.3238298484404,49.29930277755642,10000 44.0578006552516,49.15414529743399,10000 43.72404904593621,49.0180914820526,10000 43.26348906470786,48.87281038879318,10000 43.02864088076345,48.78900485438653,10000 42.84057546654707,48.71194864135378,10000 42.75246272044009,48.62042693883686,10000 42.61166312604843,48.39571498173273,10000 42.59526414353346,48.2262160392693,10000 42.44436844056744,48.03941249950266,10000 42.28311776773691,47.90265866684302,10000 42.05641999641478,47.80018259977047,10000 41.86542163868463,47.70008980951909,10000 41.78532914740227,47.5448602510031,10000 41.61211471963888,47.3641893886444,10000 41.30369631113005,47.23811034246186,10000 41.03444784216477,47.09145723403742,10000 40.73505650905008,46.92307666142555,10000 40.4607848082733,46.73861592758161,10000 40.22912515366277,46.56572786173831,10000 40.08454949048173,46.41563814915693,10000 39.98875291266679,46.22825425763255,10000 39.89051051439486,46.11003489239957,10000 39.85414051892256,45.98926440107596,10000 39.90574954187484,45.8598994916792,10000 40.05527227888448,45.78205277978072,10000 42.89551270108996,44.94680414799997,10000 43.10614171336047,44.86293767228318,10000 43.27520687810144,44.75020999184627,10000 43.53107860708187,44.53086047062599,10000 43.80363032177645,44.28208724848066,10000 43.9367681936623,44.08239918253741,10000 44.47887256484923,43.0747917256296,10000 44.56826503785559,42.86192399827046,10000 44.76301856740728,42.65450755424098,10000 45.21289380467361,42.09533144835762,10000 45.292003255578,41.94596141220455,10000 45.35373681893738,41.64160169958667,10000 45.38192080681802,41.25220278613342,10000 45.32386304985568,41.03336317647679,10000 45.24158146605399,40.89254629974775,10000 45.07349988155579,40.72400673623116,10000 44.83676061027263,40.49083364314839,10000 44.69882718576412,40.35574418641912,10000 44.56494354917354,40.30636120932518,10000 44.45272233023719,40.32136569370687,10000 44.33278034342584,40.37941719566429,10000 44.24999110751883,40.43000901382336,10000 44.17825603169412,40.52358191035111,10000 44.18236412612051,40.62401320307806,10000 44.17605670943285,40.70284471242368,10000 44.13143130898693,40.77455023667942,10000 43.95472320786949,40.88217394435007,10000 43.51248277057428,41.08975712961708,10000 42.86506276004618,41.25200501781882,10000 42.30567861434947,41.33343588377537,10000 41.51090035654402,41.33747044823858,10000 41.04850309727129,41.22898087435796,10000 40.30238916299165,40.91628633349737,10000 39.92388450757216,40.77567070502771,10000 39.42153269793693,40.60185436355714,10000 38.9361605109879,40.46839492243104,10000 38.70586865461531,40.42585804994766,10000 38.34244867685791,40.41331565575614,10000 37.83485204276909,40.42223446901374,10000 37.55235613342196,40.53082512616041,10000 37.22193225548914,40.67467093875621,10000 36.97888289200167,40.77578997200541,10000 36.71333227050212,40.79794650785485,10000 36.40036910674439,40.81004313491437,10000 36.15650858544441,40.78277944245369,10000 35.93176132678679,40.65696478682185,10000 35.62998174633379,40.44781045147224,10000 35.39720004406993,40.30553266105932,10000 35.1215581285348,40.20219931941399,10000 34.9501153578565,40.19059396513676,10000 34.68288383175771,40.25047850995698,10000 33.73004462833342,40.69812346644233,10000 33.38494401216076,40.91170666036008,10000 33.11588448139814,41.03882518967517,10000 32.84766320862146,41.14443458922371,10000 32.59588024650603,41.1297945909638,10000 32.32319379551206,40.99098802655512,10000 32.03900638626126,40.84962595309065,10000 31.80423679757879,40.79973911869557,10000 31.50360577395243,40.78609302877342,10000 31.22661387513566,40.79558652822743,10000 31.03303788411531,40.82715477221766,10000 30.81578901008431,40.82019889184558,10000 30.71483646260077,40.77408385775169,10000 30.67790510462416,40.7054416666719,10000 30.68273334581977,40.6265727750578,10000 30.77265968922794,40.46267424376865,10000 30.89242081117869,40.40285836858939,10000 31.08402142459876,40.3790948396968,10000 31.39376201151829,40.34528763606957,10000 31.5602356570726,40.28272543532723,10000 31.77920191752498,40.1893772521115,10000 31.96028878683201,40.02079894309073,10000 32.09164402480707,39.79027620013205,10000 32.22351122435912,39.6098709771804,10000 32.41155561778604,39.49206149262026,10000 32.69529201349739,39.35455358935073,10000 33.04510851625724,39.26551192732994,10000 33.40816203315999,39.19813701121596,10000 33.80960527057073,39.17563142588171,10000 34.21834251422249,39.30841189676754,10000 34.69125581538717,39.37606650993272,10000 34.91814577069152,39.512382352468,10000 35.26461221146699,39.7037551162219,10000 35.47025907860884,39.83646310709317,10000 35.5622642075579,39.91477822680444,10000 35.58729994437231,40.03144275072697,10000 35.78668016969854,40.14010776419738,10000 36.09653926498721,40.25783673155173,10000 36.5617934954479,40.24214892698969,10000 37.18015911187477,40.14072533505136,10000 37.85593571332456,39.98416930137559,10000 39.11282519242461,39.92354620539307,10000 39.3810863657564,39.97995385569077,10000 39.68608134085733,40.08268225396053,10000 40.29585888692999,40.40121312878014,10000 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
+			</MultiGeometry>
 		</Placemark>
 		<Placemark>
 			<name>Cromor</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im Süden des Kontinents erzählt man sich düstere Legenden über ein wildes Volk, das im fernen Nordwesten Rakshazars lebt. Ein Volk von brutalen und gnadenlosen Mannweibern, die Blut trinken und ihre männlichen Gefangenen in wüsten Orgien langsam zu Tode foltern und denen man nachsagt, dass sie im Besitz dunkler und weltverändernder Geheimnisse seien, die von jenseits der <a href="/wiki/index.php?title=Drachenberge" class="mw-redirect" title="Drachenberge">Drachenberge</a> stammen sollen: Die <b>Cromor</b>! Zumindest berichten dies die Geschichtenerzähler der <a href="/wiki/index.php?title=Sanskitaren" title="Sanskitaren">Sanskitaren</a> in ihren beliebten Gruselgeschichten. Die Wahrheit sieht indes nicht ganz so düster aus. Die Cromor, die sich schon vor vielen Jahrtausenden in den nordwestlichen Firnwäldern ansiedelten, sind ein stolzes, hartnäckiges <a href="/wiki/index.php?title=Broktharst%C3%A4mme" title="Broktharstämme">Broktharenvolk</a>, mit einer übermäßigen Anzahl an tapferen und hünenhaften Weibern.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Volk_Rakshazar</styleUrl>
 			<Polygon>
-				<extrude>1</extrude>
 				<tessellate>1</tessellate>
 				<altitudeMode>absolute</altitudeMode>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							25.27370681791452,50.04803962913042,10000 25.05053746835724,50.39557000287538,10000 24.94073215325176,50.7884084040493,10000 24.90480248796125,51.13906661914249,10000 24.92791962462522,51.49155724423382,10000 24.95571768926391,51.80749650531143,10000 25.1876522846335,52.07293994220107,10000 25.36010345748477,52.23426059867176,10000 25.58341957530321,52.41999370587302,10000 25.88395778165921,52.5887339088872,10000 26.10177148422284,52.77366642444721,10000 26.13904003518467,52.99163292664495,10000 26.10096828723694,53.22686867136206,10000 25.99137712043595,53.40909966070895,10000 25.86333937823107,53.53963587255312,10000 25.68483573665236,53.61720703832077,10000 25.57411060892493,53.65199111156303,10000 25.45968891515736,53.60315654163924,10000 25.33721677810559,53.52833442872146,10000 24.9942379180182,53.41325683233365,10000 24.65644632337981,53.27207116876645,10000 24.27985230842278,53.12210916173864,10000 23.92246392797642,53.01035602238243,10000 23.43784340338254,52.89440369283499,10000 22.98271565889387,52.76352952723591,10000 22.62523270395173,52.65070362890515,10000 22.10009686111822,52.3448125454613,10000 21.66690315375865,52.10906367163835,10000 21.39938050256184,51.96801172743069,10000 20.70621096709349,51.8405447520521,10000 19.94207973957579,51.62651561198708,10000 19.28159497812223,51.43623585446949,10000 18.97842183145801,51.3195757683758,10000 18.50409991316714,51.06384322951591,10000 18.12277194319115,50.86005832525571,10000 17.86922365860919,50.72555330813964,10000 17.79689927959233,50.64732869679649,10000 17.84717172077361,50.49096166498246,10000 17.94391525575727,50.39096018322232,10000 18.04748459071316,50.34323978185494,10000 18.3886169139083,50.31866241564524,10000 18.82045621498712,50.28886271270019,10000 19.44350991281115,50.24897335264653,10000 20.23129456757923,50.21953369204784,10000 20.50163831238017,50.17483338412827,10000 20.96725748127735,50.11703286942727,10000 21.23055190156424,50.06560207707128,10000 21.37223070966997,49.96114898482831,10000 21.55493222689569,49.81122361650829,10000 21.87170782088462,49.5783285438255,10000 22.06689387329386,49.45547849397948,10000 22.14452347550837,49.34664463625374,10000 22.16804877787176,49.19481548640961,10000 22.13850305629071,49.03949448267192,10000 22.1103727059642,48.91929565256012,10000 22.02447126495182,48.78638138232928,10000 21.89852336586236,48.61544037399703,10000 21.75034391860062,48.38103329459653,10000 21.68633145520325,48.24448783050176,10000 21.64968004170511,48.10894870638118,10000 21.6293478292355,47.95317372321627,10000 21.6573029566695,47.82066963654514,10000 21.76613237032245,47.73882012414521,10000 22.02008667095594,47.7219668799261,10000 22.26306564076089,47.77848429935103,10000 22.43167973058856,47.88137914825121,10000 22.57922759534463,47.94821494624597,10000 22.83572910465233,48.08310223203725,10000 23.22577566650318,48.264327635031,10000 23.48330984701621,48.36644767208626,10000 23.89678361423042,48.45378677073399,10000 24.18327368962528,48.50720201415778,10000 24.5273044319965,48.53598115782044,10000 24.9297433100506,48.53512821384366,10000 25.38970399123063,48.53080178968686,10000 25.63299242854296,48.55271145578266,10000 25.78277531070278,48.63974275512597,10000 25.85045509961785,48.70001291405785,10000 25.90707871445255,48.79199940624451,10000 25.93873303431791,48.8773312907515,10000 25.89757247959134,49.07203076192663,10000 25.80472008274737,49.26187811977152,10000 25.66597205717181,49.46256048414358,10000 25.59571536492835,49.57487330945679,10000 25.56414571788589,49.63814598513007,10000 25.36859355162565,49.89072332271934,10000 25.27370681791452,50.04803962913042,10000 
+							25.27370681791452,50.04803962913042,10000 25.05053746835724,50.39557000287538,10000 24.94073215325176,50.7884084040493,10000 24.90480248796125,51.13906661914249,10000 24.92791962462522,51.49155724423382,10000 24.95571768926391,51.80749650531143,10000 25.1876522846335,52.07293994220107,10000 25.36010345748477,52.23426059867176,10000 25.58341957530321,52.41999370587302,10000 25.88395778165921,52.5887339088872,10000 26.10177148422284,52.77366642444721,10000 26.13904003518467,52.99163292664495,10000 26.10096828723695,53.22686867136206,10000 25.99137712043595,53.40909966070895,10000 25.86333937823107,53.53963587255312,10000 25.68483573665236,53.61720703832077,10000 25.57411060892493,53.65199111156303,10000 25.45968891515736,53.60315654163924,10000 25.33721677810559,53.52833442872146,10000 24.9942379180182,53.41325683233365,10000 24.65644632337981,53.27207116876645,10000 24.27985230842278,53.12210916173864,10000 23.92246392797642,53.01035602238243,10000 23.43784340338254,52.89440369283499,10000 22.98271565889387,52.76352952723591,10000 22.62523270395173,52.65070362890515,10000 22.10009686111822,52.34481254546131,10000 21.66690315375865,52.10906367163835,10000 21.39938050256184,51.96801172743069,10000 20.70621096709349,51.8405447520521,10000 19.94207973957579,51.62651561198708,10000 19.28159497812223,51.43623585446949,10000 18.97842183145801,51.3195757683758,10000 18.50409991316714,51.06384322951591,10000 18.12277194319115,50.86005832525571,10000 17.86922365860919,50.72555330813964,10000 17.79689927959233,50.64732869679649,10000 17.84717172077361,50.49096166498246,10000 17.94391525575727,50.39096018322232,10000 18.04748459071316,50.34323978185494,10000 18.3886169139083,50.31866241564524,10000 18.82045621498712,50.28886271270019,10000 19.44350991281115,50.24897335264653,10000 20.23129456757923,50.21953369204784,10000 20.50163831238017,50.17483338412827,10000 20.96725748127735,50.11703286942727,10000 21.23055190156424,50.06560207707129,10000 21.37223070966997,49.96114898482831,10000 21.55493222689569,49.81122361650829,10000 21.87170782088462,49.5783285438255,10000 22.06689387329386,49.45547849397948,10000 22.14452347550837,49.34664463625374,10000 22.16804877787176,49.19481548640961,10000 22.13850305629071,49.03949448267192,10000 22.1103727059642,48.91929565256012,10000 22.02447126495182,48.78638138232928,10000 21.89852336586236,48.61544037399703,10000 21.75034391860062,48.38103329459653,10000 21.68633145520325,48.24448783050176,10000 21.64968004170511,48.10894870638118,10000 21.6293478292355,47.95317372321627,10000 21.6573029566695,47.82066963654514,10000 21.76613237032245,47.73882012414521,10000 22.02008667095594,47.7219668799261,10000 22.26306564076089,47.77848429935103,10000 22.43167973058856,47.88137914825121,10000 22.57922759534463,47.94821494624597,10000 22.83572910465233,48.08310223203725,10000 23.22577566650318,48.26432763503101,10000 23.48330984701621,48.36644767208626,10000 23.89678361423042,48.45378677073399,10000 24.18327368962528,48.50720201415778,10000 24.5273044319965,48.53598115782044,10000 24.9297433100506,48.53512821384366,10000 25.38970399123063,48.53080178968686,10000 25.63299242854296,48.55271145578266,10000 25.78277531070278,48.63974275512597,10000 25.85045509961785,48.70001291405785,10000 25.90707871445255,48.79199940624451,10000 25.93873303431791,48.8773312907515,10000 25.89757247959134,49.07203076192663,10000 25.80472008274737,49.26187811977152,10000 25.66597205717181,49.46256048414358,10000 25.59571536492835,49.57487330945679,10000 25.56414571788589,49.63814598513007,10000 25.36859355162565,49.89072332271934,10000 25.27370681791452,50.04803962913042,10000 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>

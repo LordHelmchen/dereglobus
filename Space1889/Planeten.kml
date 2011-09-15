@@ -3,6 +3,13 @@
 <Folder>
 	<name>Planeten</name>
 	<open>1</open>
+		<Style>
+		<ListStyle>
+			<listItemType>radioFolder</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
 	<NetworkLink>
 		<name>Mars</name>
 		<open>1</open>

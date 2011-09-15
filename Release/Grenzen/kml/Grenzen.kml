@@ -281,6 +281,20 @@
           <maxSnippetLines>2</maxSnippetLines>
         </ListStyle>
       </Style>
+	  <NetworkLink>
+        <name>Völker Rakshazars</name>
+        <Link>
+          <href>http://dereglobus.googlecode.com/svn/Release/Grenzen/kml/Voelker/Rakshazar/Rakshazar-Voelker.kml</href>
+        </Link>
+        <refreshVisibility>0</refreshVisibility>
+        <flyToView>0</flyToView>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+      </NetworkLink>
 <!--      <NetworkLink>
         <name>Völker</name>
         <Link>

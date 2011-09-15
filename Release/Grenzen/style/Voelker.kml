@@ -79,6 +79,27 @@
 			<styleUrl>#Frei-h</styleUrl>
 		</Pair>
 	</StyleMap>
+	
+	
+	
+	<!-- Rakshazar -->
+	
+	
+
+<StyleMap id="Volk_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Volk_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Volk_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	
+	
 
 	
 <Style id="Niemandsland">
@@ -333,6 +354,57 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
+	
+	
+	
+	<!-- Rakshazar -->
+	
+<Style id="Volk_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0055ff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="Volk_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	
+	
+	
 
 </Document>
 </kml>

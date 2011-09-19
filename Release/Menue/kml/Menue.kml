@@ -89,7 +89,7 @@ Dein DereGlobus-Team</p>
 	
 	
 	
-	<ScreenOverlay>
+	<Folder>
 		<name id="Neuigkeiten">Neuigkeiten</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #d5ac00; }
@@ -137,7 +137,11 @@ new TWTR.Widget({
 </td>
 </tr>
 </table>]]></description>
-		<Region>
+
+		<styleUrl>#menue</styleUrl>
+		<gx:balloonVisibility>0</gx:balloonVisibility>
+
+<!--		<Region>
 			<LatLonAltBox>
 				<north>76.85423041350332</north>
 				<south>-39.22581132241628</south>
@@ -153,16 +157,16 @@ new TWTR.Widget({
 				<maxFadeExtent>300</maxFadeExtent>
 			</Lod>
 		</Region>
-		<styleUrl>#menue</styleUrl>
-		<gx:balloonVisibility>1</gx:balloonVisibility>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Twitterbird.png</href>
 		</Icon>
 		<overlayXY x="0" y="-119" xunits="fraction" yunits="pixels"/>
 		<screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
 		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/>
-	</ScreenOverlay>
+		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/> -->
+				
+	</Folder>
+	
 	<Folder>
 		<name>&lt;a href=&quot;http://www.dereglobus.org/download/suche&quot;&gt;Suche&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
@@ -183,7 +187,7 @@ new TWTR.Widget({
 		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/posting.php?mode=reply&amp;f=4&amp;t=238&quot;&gt;Hilfe?&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
 	</Folder>
-	<ScreenOverlay id="Feedback">
+	<Folder>
 		<name>Feedback</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #d5ac00; }
@@ -206,7 +210,9 @@ Damit auch zukünftige Versionen möglichst fehlerfrei sind, brauchen wir weiter
 
 <p>Vielen Dank für Deine Mithilfe!<br />
   Dein DereGlobus-Team</p></center>]]></description>
-		<Region>
+		<styleUrl>#menue</styleUrl>
+		
+	<!--	<Region>
 			<LatLonAltBox>
 				<north>76.85423041350332</north>
 				<south>-39.22581132241628</south>
@@ -222,15 +228,16 @@ Damit auch zukünftige Versionen möglichst fehlerfrei sind, brauchen wir weiter
 				<maxFadeExtent>300</maxFadeExtent>
 			</Lod>
 		</Region>
-		<styleUrl>#menue</styleUrl>
+
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Feedback-DG.png</href>
 		</Icon>
 		<overlayXY x="0" y="360" xunits="fraction" yunits="pixels"/>
 		<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
 		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
-	</ScreenOverlay>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/> 				-->
+		
+	</Folder>
 	<Folder>
 		<name>&lt;a href=&quot;http://www.dereglobus.org/team&quot;&gt;Team&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
@@ -262,10 +269,10 @@ a:hover { text-decoration: underline; color: #d5ac00; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 #footnote { font-size:10px; }
 --></style>
-<p>Verwendung der Marke und Inhalten von DAS SCHWARZE AUGE mit freundlicher Genehmigung der <a href="http://www.ulisses-spiele.de">Ulisses Medien & Spiel Distribution GmbH</a>. Copyright © 2007 by Significant GbR für die Marke DAS SCHWARZE AUGE in Wort und Bild, by Alpers, Fuchs, Kramer, Neigel für die Inhalte.</p>
+<p>DAS SCHWARZE AUGE, AVENTURIEN und DERE sind eingetragene Marken in Schrift und Bild der <a href="http://www.ulisses-spiele.de">Ulisses Medien & Spiel Distribution GmbH</a> oder deren Partner. Ohne vorherige schriftliche Genehmigung der Ulisses Medien und Spiel Distribution GmbH ist eine Verwendung der Ulisses-Spiele-Markenzeichen nicht gestattet.</p>
 <p><img src="http://www.dereglobus.org/_/rsrc/1220953831653/Home/UlissesLogo.png?height=37&amp;width=119" alt="Ulisses Spiele"  /></p>
 <hr><div id="footnote">
-<p>Das Erweiterungsset DereGlobus für Google Earth, enhällt nichtoffizielle Informationen zum Rollenspiel 'Das Schwarze Auge' und zur Welt 'Aventurien'. Diese Informationen können im Widerspruch zu offiziell publizierten stehen.</p>]]></description>
+<p>Das Erweiterungsset DereGlobus für Google Earth, enhällt nichtoffizielle Informationen zum Rollenspiel DAS SCHWARZE AUGE und zur Welt DERE. Diese Informationen können im Widerspruch zu offiziell publizierten stehen.</p>]]></description>
 		<styleUrl>#menue</styleUrl>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Inhalte-Ulisses.png</href>

@@ -235,10 +235,17 @@ Damit auch zukünftige Versionen möglichst fehlerfrei sind, brauchen wir weiter
 		<name>&lt;a href=&quot;http://www.dereglobus.org/team&quot;&gt;Team&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
 	</Folder>
-	<Folder>
+	<ScreenOverlay id="MachMit">
 		<name>&lt;a href=&quot;http://www.dereglobus.org/mach-mit-1&quot;&gt;Mach mit!&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
-	</Folder>
+		<Icon>
+			<href>http://dereglobus.orkenspalter.de/public/Medien/Menue/media/Fan-Projekt-Logo.png</href>
+		</Icon>
+		<overlayXY x="0.5" y="62" xunits="fraction" yunits="pixels"/>
+		<screenXY x="0.5" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
 	<Folder>
 		<name>&lt;a href=&quot;http://www.dereglobus.org/mach-mit-1/add-ons&quot;&gt;Add-Ons&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>

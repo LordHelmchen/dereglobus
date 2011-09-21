@@ -21,6 +21,10 @@
 
   <NetworkLink>
     <name>Aventurien</name>
+	<description><![CDATA[
+						<p>Die dargestellten Karten Aventuriens stehen unter <a href="http://www.dasschwarzeauge.de/index.php?id=1021">Lizenzvereinbarung</a> für das Aventurien-Kartenpaket.</p>
+				 ]]>
+	</description>
     <open>0</open>
     <Region>
 	<LatLonAltBox>
@@ -95,7 +99,7 @@
 <description><![CDATA[<p><a href="http://www.derische-sphaeren.de/index.php?bereich=riesland">Rakshazar - Das Riesland</a></p>
   <p>Willkommen im Land der <strong>Barbaren</strong>, <strong>Ungeheuer</strong> und <strong>Bestien</strong>. Einem Kontinent, fest im finstern Griff des g�ldenen Unheils. Beherrscht von <strong>Riesen</strong>, <strong>Trollen</strong> und <strong>Broktharen</strong>. Sei Teil dieser klassischen Welt aus <strong>Sword &amp; Sorcery</strong>. Rakshazar erwartet dich.<br />
     <br />
-  Ein Projekt der <a href="http://www.derische-sphaeren.de">Derischen Sph�ren</a></p>]]></description>
+  Ein Projekt der <a href="http://www.derische-sphaeren.de">Derischen Sphären</a></p>]]></description>
 	<Link>
 		<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/kml/Rakshazar.kml</href>
 	</Link>

@@ -3,8 +3,15 @@
 <Document>
 	<name>Wälder</name>
 
-
-<NetworkLink>
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Wälder Weidens</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Waelder/Waelder_Weidens.kml</href>
+		</Link>
+	</NetworkLink>
+	
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Wälder Rakshazars</name>
 		<Link>

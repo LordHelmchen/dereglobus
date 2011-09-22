@@ -981,7 +981,44 @@ verfügbar, dort kann man den
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  300<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweikarte: Weiden<TR><TD><TR><TD>Gassengeschichten, S. 375<TR><TD>Schild des Reiches, S. 66<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufgen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der Marktort <b>Ulmenau</b> liegt im Süden der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Heldentrutz" title="Grafschaft Heldentrutz">Grafschaft Heldentrutz</a>. In der Nähe liegt <a href="http://www.wiki-aventurica.de/wiki/Burg_Wei%C3%9Fenstein" title="Burg Weißenstein">Burg Weißenstein</a>.
+
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf</styleUrl>
         <Camera> 
               <longitude> 3.5925632020014</longitude>
@@ -1765,7 +1802,51 @@ verfügbar, dort kann man den
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweikarte: Weiden<TR><TD><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufgen.</TR></TABLE>]]></description>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Wolfspfort</b> ist ein Dorf in <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf</styleUrl>
         <Camera> 
               <longitude> 3.62549846198552</longitude>
@@ -2171,13 +2252,57 @@ verfügbar, dort kann man den
 			<coordinates>5.227559060382319,34.18490407672822,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Maillath</name>
+    <Placemark>        <name>Mallaith</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Herzogtum Weiden, S. 34<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufgen.</TR></TABLE>]]></description>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Mallaith</b> ist eine Ortschaft im nördlichen <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a>. Sie ist <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">elfisch</a> geprägt, so ist der Name elfischen Ursprungs. Auch befinden sich die für <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfen</a> wichtigen Wälder <a href="http://www.wiki-aventurica.de/wiki/Ifirnstann" title="Ifirnstann">Ifirnstann</a> und <a href="http://www.wiki-aventurica.de/wiki/Tauberwald" title="Tauberwald">Tauberwald</a> in der Nähe.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
         <Camera> 
               <longitude> 4.21275487817196</longitude>

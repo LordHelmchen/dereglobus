@@ -48,7 +48,24 @@
 	<visibility>0</visibility>
 	<open>1</open>
 		
-		
+	<NetworkLink>
+		<name>Uthuria - Ymras Seiten</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Thamor</Snippet>
+		<description><![CDATA[			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style><iframe src="https://docs.google.com/document/pub?id=1auUfvoYFsGG18I_ko__oobyOz9jMX05YEBeo2f3V3HQ&amp;embedded=true" width="850" height="420">Dokument wird geladen...</iframe>]]></description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Uthuria_der_Workshops.kmz</href>
+		</Link>
+	</NetworkLink>		
 		
 		
 	<NetworkLink>

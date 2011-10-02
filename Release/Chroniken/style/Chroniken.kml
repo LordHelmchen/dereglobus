@@ -26,7 +26,16 @@
 		</Pair>
 	</StyleMap>
 
-
+<StyleMap id="Schlachten">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Schlachten-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Schlachten-h</styleUrl>
+		</Pair>
+	</StyleMap>
 
 
 
@@ -115,6 +124,66 @@ $[description]]]></text>
 	</Style>
 
 
+<Style id="Schlachten-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/media/icons/Schlachten.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/Chronik:$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Schlachten-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/media/icons/Schlachten.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/Chronik:$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+	
 
 </Document>
 </kml>

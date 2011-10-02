@@ -109,7 +109,7 @@ Ansieldungen von der Großstadtmetropole bis zur kleinen Schäferhütte
 im Wiki Aventurica</a>). 
 Diese sind unterteilt nach Größe in Metropolen (mehr als 20.000 Einwohner), 
 Großstädte (bis 20.000 Einwohner), Städte (bis 5000 Einwohner), Kleinstädte (bis 1000 Einwoher), 
-Dörfer (unter 500 Einwohner) und Sonstige Ansiedlungen. Dabei stellen die "Sonstigen Ansiedlungen" 
+Dörfer (unter 500 Einwohner) und Weitere Ansiedlungen. Dabei stellen die "Weiteren Ansiedlungen" 
 eine besondere Klasse dar: Hier sind alle Siedlungen zusammengefaßt, die entweder 
 weniger als 20 Einwohner haben (also meist 
 alleinstehende Gebäude) oder die ausschließlich einen bestimmten Zweck 
@@ -121,7 +121,7 @@ werden auf der Karte durch folgende Symbole dargestellt:
 <br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Grossstadt.png" width="24" height="24" alt="Großstadt">
  Großstädte - bis 20.000 Einwohner
 <br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png" width="24" height="24" alt="Stadt">
- Städte - bis 5.000 Einwohner
+ Städte - bis 5000 Einwohner
 <br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Kleinstadt.png" width="24" height="24" alt="Kleinstadt">
  Kleinstädte - bis 1000 Einwohner
 <br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Dorf.png" width="24" height="24" alt="Dorf">
@@ -130,6 +130,8 @@ werden auf der Karte durch folgende Symbole dargestellt:
  Weitere Ansiedlungen
 <br /><br />
 Wird hinter dem entsprechenden Symbol ein zusammengerolltes Pergament angezeigt, so verdeutlicht das, dass ein Stadtplan existiert. Falls der Link "Stadtplan betrachten" im Beschreibungstext vorhanden ist, ist dieser in DereGlobus integriert oder soll in Zukunft eingefügt werden. In ersterem Fall führt der Link direkt auf die Stadtplanebene hinab.
+<br />
+Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen herauszulesen und seine Lage geschätzt.
 			]]>
 		</description>
 		<styleUrl>#Siedlungen</styleUrl>

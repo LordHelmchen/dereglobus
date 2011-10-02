@@ -29,7 +29,11 @@ Im <b>Vierten Orkensturm</b> fiel der <a href="http://www.wiki-aventurica.de/wik
 </tr>
 </table>]]></description>
         <LookAt>
-          <longitude>0.56</longitude>
+			<gx:TimeSpan>
+				<begin>1025</begin>
+				<end>1026</end>
+			</gx:TimeSpan>
+			<longitude>0.56</longitude>
           <latitude>32.27</latitude>
           <altitude>10000</altitude>
           <range>1000000.0</range>

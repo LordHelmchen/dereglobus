@@ -2,8 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Waelder_Weidens.kml</name>
-	<Folder>
-		<name>Wälder</name>
 		<Placemark>
 			<name>Runhager Forst</name>
 		<description><![CDATA[<style type="text/css"><!--
@@ -52,6 +50,5 @@ verfügbar, dort kann man den
 				<coordinates>6.10846472572539,33.3778136175918</coordinates>
 			</Point>
 		</Placemark>
-	</Folder>
 </Document>
 </kml>

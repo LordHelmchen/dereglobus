@@ -5,6 +5,11 @@
 
 		<Placemark> 	<!-- Reichsstraße 3 (Angbarer Reichsstraße)  bis 1025-->
 			<name>Reichsstraße 3</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
 			<description>
 			<![CDATA[
 				<style type="text/css">
@@ -28,26 +33,26 @@
 											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
 										</a>
 									</p>
-									<p>
-										Dieser Text basiert auf dem Artikel
-										<a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3">
-											Reichsstraße 3
-										</a>
-										aus der freien Website
-										<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
-											Wiki Aventurica
-										</a>
-										und steht unter der
-										<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
-											CC-BY-SA 3.0</a>.
-										Im Wiki Aventurica ist eine
-										<a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3&action=history">
-											Liste der Autoren
-										</a>
-										verfügbar, dort kann man den
-										<a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3&action=edit">
-											Artikel bearbeiten</a>.
-									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
 								</div>
 							</hr>
 						</td>
@@ -242,6 +247,11 @@
 		</Placemark>
 		<Placemark> 	<!-- Reichsstraße 3 (Angbarer Reichsstraße)  ab 1026-->
 			<name>Reichsstraße 3</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
 			<description>
 			<![CDATA[
 				<style type="text/css">
@@ -265,26 +275,26 @@
 											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
 										</a>
 									</p>
-									<p>
-										Dieser Text basiert auf dem Artikel
-										<a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3">
-											Reichsstraße 3
-										</a>
-										aus der freien Website
-										<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
-											Wiki Aventurica
-										</a>
-										und steht unter der
-										<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
-											CC-BY-SA 3.0</a>.
-										Im Wiki Aventurica ist eine
-										<a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3&action=history">
-											Liste der Autoren
-										</a>
-										verfügbar, dort kann man den
-										<a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3&action=edit">
-											Artikel bearbeiten</a>.
-									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
 								</div>
 							</hr>
 						</td>

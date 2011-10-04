@@ -73,12 +73,7 @@
 		</NetworkLink>
 		<NetworkLink>
 			<name>Steppen</name>
-			<visibility>1</visibility>
-			<Style>
-				<ListStyle>
-					<listItemType>checkHideChildren</listItemType>
-				</ListStyle>
-			</Style>
+			<visibility>0</visibility>
 			<Link>
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Steppen.kml</href>
 			</Link>

@@ -58,6 +58,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Altnordener Forst</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Altnordener Forst</b> östlich von <a href="http://www.wiki-aventurica.de/wiki/Altnorden" title="Altnorden">Altnorden</a> ist für seinen <a href="http://www.wiki-aventurica.de/wiki/Waldschrat" title="Waldschrat">Waldschrat</a> bekannt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>5.042141</longitude>
+              <latitude>32.907965</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+			<Point>
+				<coordinates>5.042141,32.907965</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
 		<name>Bärnwald</name>
 	<ExtendedData>
 <Data name="Link">
@@ -74,10 +128,10 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Bärnwald</b> (<a href="/wiki/Isdira" title="Isdira">isd.</a> <i>Silfûrn</i>) ist ein <a href="/wiki/Wald" title="Wald">Wald</a> im Süden der <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="/wiki/Grafschaft_B%C3%A4rwalde" title="Grafschaft Bärwalde">Grafschaft Bärwalde</a>, die nach ihm benannt ist. Er liegt zwischen <a href="/wiki/Baliho" title="Baliho">Baliho</a> im Norden, <a href="/wiki/Menzheim" title="Menzheim">Menzheim</a> im Osten, Burg <a href="/index.php?title=Biberstein&amp;action=edit&amp;redlink=1" class="new" title="Biberstein (Seite nicht vorhanden)">Biberstein</a> im Süden und <a href="/wiki/Ulmenau" title="Ulmenau">Ulmenau</a> im Westen.
+Der <b>Bärnwald</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> <i>Silfûrn</i>) ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Wald</a> im Süden der <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_B%C3%A4rwalde" title="Grafschaft Bärwalde">Grafschaft Bärwalde</a>, die nach ihm benannt ist. Er liegt zwischen <a href="http://www.wiki-aventurica.de/wiki/Baliho" title="Baliho">Baliho</a> im Norden, <a href="http://www.wiki-aventurica.de/wiki/Menzheim" title="Menzheim">Menzheim</a> im Osten, Burg <a href="/index.php?title=Biberstein&amp;action=edit&amp;redlink=1" class="new" title="Biberstein (Seite nicht vorhanden)">Biberstein</a> im Süden und <a href="http://www.wiki-aventurica.de/wiki/Ulmenau" title="Ulmenau">Ulmenau</a> im Westen.
 
 </p><p>Der Bewuchs besteht hauptsächlich aus alten Eichen und Rotbuchen, aber auch Erlen und Espen sind zu finden. Die Bäume haben sehr verwachsenen und knorrigen Wuchs, sodass der Eindruck einer verwunschenen Landschaft entsteht.
-</p><p>Mit dem <a href="/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> und dem <a href="/wiki/Pandlaril" title="Pandlaril">Pandlaril</a> entspringen zwei der großen <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="/wiki/Fluss" title="Fluss">Flüsse</a> im Bärnwald. An letzterem liegt das <a href="/wiki/Auenherz" title="Auenherz">Auenherz</a>.
+</p><p>Mit dem <a href="http://www.wiki-aventurica.de/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Pandlaril" title="Pandlaril">Pandlaril</a> entspringen zwei der großen <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Flüsse</a> im Bärnwald. An letzterem liegt das <a href="http://www.wiki-aventurica.de/wiki/Auenherz" title="Auenherz">Auenherz</a>.
 </p>
 </p>
 
@@ -132,9 +186,9 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Blautann</b> oder <b>Fialgrala</b> (<a href="/wiki/Isdira" title="Isdira">isd.</a> "Tannicht-wo-die-Orken-hausen") ist ein <a href="/wiki/Wald" title="Wald">Wald</a> in den <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="/wiki/Grafschaft" title="Grafschaft">Grafschaften</a> <a href="/wiki/Grafschaft_B%C3%A4rwalde" title="Grafschaft Bärwalde">Bärwalde</a> und <a href="/wiki/Grafschaft_Heldentrutz" title="Grafschaft Heldentrutz">Heldentrutz</a> (in den <a href="/wiki/Baronie" title="Baronie">Baronien</a> <a href="/wiki/Baronie_Schneehag" title="Baronie Schneehag">Schneehag</a>, <a href="/wiki/Baronie_Herzoglich_Waldleuen" title="Baronie Herzoglich Waldleuen">Herzoglich Waldleuen</a> und <a href="/wiki/Baronie_Urkentrutz" title="Baronie Urkentrutz">Urkentrutz</a>), südlich der <a href="/wiki/Burg_Rhodenstein" title="Burg Rhodenstein" class="mw-redirect">Burg Rhodenstein</a>. Der <a href="/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> durchfließt ihn. Der Bewuchs besteht hauptsächlich aus Blautannen, dazwischen einzelne Schwarztannen, Fichten, Lärchen, Ahorn und <a href="/wiki/Steineiche" title="Steineiche">Steineichen</a>.
+Der <b>Blautann</b> oder <b>Fialgrala</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> "Tannicht-wo-die-Orken-hausen") ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Wald</a> in den <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft" title="Grafschaft">Grafschaften</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_B%C3%A4rwalde" title="Grafschaft Bärwalde">Bärwalde</a> und <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Heldentrutz" title="Grafschaft Heldentrutz">Heldentrutz</a> (in den <a href="http://www.wiki-aventurica.de/wiki/Baronie" title="Baronie">Baronien</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Schneehag" title="Baronie Schneehag">Schneehag</a>, <a href="http://www.wiki-aventurica.de/wiki/Baronie_Herzoglich_Waldleuen" title="Baronie Herzoglich Waldleuen">Herzoglich Waldleuen</a> und <a href="http://www.wiki-aventurica.de/wiki/Baronie_Urkentrutz" title="Baronie Urkentrutz">Urkentrutz</a>), südlich der <a href="http://www.wiki-aventurica.de/wiki/Burg_Rhodenstein" title="Burg Rhodenstein" class="mw-redirect">Burg Rhodenstein</a>. Der <a href="http://www.wiki-aventurica.de/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> durchfließt ihn. Der Bewuchs besteht hauptsächlich aus Blautannen, dazwischen einzelne Schwarztannen, Fichten, Lärchen, Ahorn und <a href="http://www.wiki-aventurica.de/wiki/Steineiche" title="Steineiche">Steineichen</a>.
 
-</p><p>Den sagenumwobenen Wald meiden die Menschen. Das <a href="/wiki/Aventurische_Sprichw%C3%B6rter" title="Aventurische Sprichwörter">Sprichwort</a> <i>In den Blautann gehen</i> steht in <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> für <i>sterben</i>. Im Blautann liegt <a href="/wiki/Luzelins_Grotte" title="Luzelins Grotte">Luzelins Grotte</a>, der Treffpunkt des <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="/index.php?title=Hexenzirkel_vom_Blautann&amp;action=edit&amp;redlink=1" class="new" title="Hexenzirkel vom Blautann (Seite nicht vorhanden)">Blautannzirkels</a> der <a href="/wiki/Hexe" title="Hexe">Hexen</a>.
+</p><p>Den sagenumwobenen Wald meiden die Menschen. Das <a href="http://www.wiki-aventurica.de/wiki/Aventurische_Sprichw%C3%B6rter" title="Aventurische Sprichwörter">Sprichwort</a> <i>In den Blautann gehen</i> steht in <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> für <i>sterben</i>. Im Blautann liegt <a href="http://www.wiki-aventurica.de/wiki/Luzelins_Grotte" title="Luzelins Grotte">Luzelins Grotte</a>, der Treffpunkt des <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="/index.php?title=Hexenzirkel_vom_Blautann&amp;action=edit&amp;redlink=1" class="new" title="Hexenzirkel vom Blautann (Seite nicht vorhanden)">Blautannzirkels</a> der <a href="http://www.wiki-aventurica.de/wiki/Hexe" title="Hexe">Hexen</a>.
 
 </p>
 </p>
@@ -190,7 +244,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Dûrenwald</b> ist ein <a href="/wiki/Wald" title="Wald">Waldstück</a> südlich des <a href="/wiki/B%C3%A4rnwald" title="Bärnwald">Bärnwaldes</a>.
+Der <b>Dûrenwald</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Waldstück</a> südlich des <a href="http://www.wiki-aventurica.de/wiki/B%C3%A4rnwald" title="Bärnwald">Bärnwaldes</a>.
 </p>
 
 <hr><div id="wiki">
@@ -244,7 +298,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Hexenhain</b> ist ein <a href="/wiki/Wald" title="Wald">Waldgebiet</a> im westlichen <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a>.
+Der <b>Hexenhain</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Waldgebiet</a> im westlichen <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a>.
 </p>
 
 <hr><div id="wiki">
@@ -514,7 +568,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Wulfenhain</b> ist ein <a href="/wiki/Wald" title="Wald">Waldstück</a> südlich des <a href="/wiki/B%C3%A4rnwald" title="Bärnwald">Bärnwaldes</a>.
+Der <b>Wulfenhain</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Waldstück</a> südlich des <a href="http://www.wiki-aventurica.de/wiki/B%C3%A4rnwald" title="Bärnwald">Bärnwaldes</a>.
 </p>
 
 <hr><div id="wiki">

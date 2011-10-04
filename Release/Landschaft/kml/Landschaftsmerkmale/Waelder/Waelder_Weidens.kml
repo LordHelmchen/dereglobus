@@ -58,6 +58,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Altenforst</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Altenforst</b> stellt das letzte zusammenhängende <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Waldgebiet</a> in der <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roten Sichel</a> dar. Er ist größtenteils unerforscht.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>7.296417</longitude>
+              <latitude>34.227152</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+			<Point>
+				<coordinates>7.296417,34.227152</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
 		<name>Altnordener Forst</name>
 	<ExtendedData>
 <Data name="Link">
@@ -213,7 +267,7 @@ verfügbar, dort kann man den
 </table>]]></description>
 			<LookAt>
               <longitude>3.839984</longitude>
-              <latitude>32.786701</latitude>
+              <latitude>32.776701</latitude>
 				<altitude>0</altitude>
 				<range>500000</range>
 				<tilt>0</tilt>
@@ -223,7 +277,7 @@ verfügbar, dort kann man den
 			</LookAt>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
 			<Point>
-				<coordinates>3.839984,32.786701</coordinates>
+				<coordinates>3.839984,32.776701</coordinates>
 			</Point>
 </Placemark>
 
@@ -320,8 +374,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 			<LookAt>
-              <longitude>4.298349</longitude>
-              <latitude>32.589620</latitude>
+              <longitude>4.294135</longitude>
+              <latitude>32.578151</latitude>
 				<altitude>0</altitude>
 				<range>500000</range>
 				<tilt>0</tilt>
@@ -331,7 +385,7 @@ verfügbar, dort kann man den
 			</LookAt>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
 			<Point>
-				<coordinates>4.298349,32.589620</coordinates>
+				<coordinates>4.294135,32.578151</coordinates>
 			</Point>
 </Placemark>
 
@@ -444,6 +498,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Moosgrunder Tann</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Zwischen <a href="http://www.wiki-aventurica.de/wiki/Pandlaril" title="Pandlaril">Pandlaril</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Nebelwasser" title="Nebelwasser">Nebelwasser</a> liegt der <b>Moosgrunder Tann</b>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>4.799613</longitude>
+              <latitude>32.881067</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+			<Point>
+				<coordinates>4.799613,32.881067</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
 		<name>Runhager Forst</name>
 	<ExtendedData>
 <Data name="Link">
@@ -494,6 +602,114 @@ verfügbar, dort kann man den
 			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
 			<Point>
 				<coordinates>6.10846472572539,33.3778136175918</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
+		<name>Schratenholz</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Schratenholz</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei von Dragenfeld</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>6.865990</longitude>
+              <latitude>33.751693</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+			<Point>
+				<coordinates>6.865990,33.751693</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
+		<name>Sichelbogenwald</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Sichelbogenwald</b> liegt bei <a href="http://www.wiki-aventurica.de/wiki/Wolffsrath" title="Wolffsrath">Wolffsrath</a> im östlichen <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a>. Am <a href="http://www.wiki-aventurica.de/wiki/Tag_der_Jagd_%28Feiertag%29" title="Tag der Jagd (Feiertag)">Tag der Jagd</a> findet hier eine jährliche <a href="http://www.wiki-aventurica.de/wiki/Wolf" title="Wolf">Wolfshatz</a> statt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>5.768082</longitude>
+              <latitude>33.077951</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+			<Point>
+				<coordinates>5.768082,33.077951</coordinates>
 			</Point>
 </Placemark>
 

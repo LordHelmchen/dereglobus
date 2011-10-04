@@ -22,8 +22,7 @@
 		</Pair>
 	</StyleMap>
 
-
-
+	
 	<StyleMap id="see">
 		<Pair>
 			<key>normal</key>
@@ -35,21 +34,7 @@
 		</Pair>
 	</StyleMap>
 
-
-
-	<StyleMap id="gebirge">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#gebirge-n</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#gebirge-h</styleUrl>
-		</Pair>
-	</StyleMap>
-
-
-
+	
 	<StyleMap id="insel">
 		<Pair>
 			<key>normal</key>
@@ -116,6 +101,29 @@
 		</Pair>
 	</StyleMap>
 
+
+	<StyleMap id="gebirge">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gebirge-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gebirge-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="gebirge-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gebirge-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gebirge-X-h</styleUrl>
+		</Pair>
+	</StyleMap>		
+	
 	
 	<StyleMap id="berg">
 		<Pair>
@@ -138,6 +146,30 @@
 			<styleUrl>#berg-X-h</styleUrl>
 		</Pair>
 	</StyleMap>	
+
+
+	<StyleMap id="vulkan">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#vulkan-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#vulkan-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="vulkan-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#vulkan-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#vulkan-X-h</styleUrl>
+		</Pair>
+	</StyleMap>		
+	
 	
 	<StyleMap id="gewaesser">
 		<Pair>
@@ -174,7 +206,18 @@
 		</Pair>
 	</StyleMap>
 
+	<StyleMap id="steppe-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#steppe-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#steppe-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
 
+	
 	<StyleMap id="wueste">
 		<Pair>
 			<key>normal</key>
@@ -186,6 +229,16 @@
 		</Pair>
 	</StyleMap>	
 
+	<StyleMap id="wueste-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wueste-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wueste-X-h</styleUrl>
+		</Pair>
+	</StyleMap>	
 	
 	
 <!-- STYLEMAPS FUER RAKSHAZAR -->	
@@ -404,60 +457,6 @@ $[description]]]></text>
 <bgColor>ffd5fcfd</bgColor>
 </BalloonStyle>
 	</Style>
-	
-	
-
-	
-	<Style id="gebirge-n">
-      <ListStyle>
-         <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-		<LabelStyle>
-			<scale>0</scale>
-			<color>00ffffff</color>
-		</LabelStyle>
-		<LineStyle>
-			<color>ffffffff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>99000000</color>
-		</PolyStyle>
-		<BalloonStyle>
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-<bgColor>ffd5fcfd</bgColor>
-</BalloonStyle>
-	</Style>
-	
-	<Style id="gebirge-h">
-    		<ListStyle>
-       			  <maxSnippetLines>0</maxSnippetLines>
-     		</ListStyle>
-		<LineStyle>
-			<color>99000000</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>cc000000</color>
-		</PolyStyle>
-		<LabelStyle>
-			<scale>1</scale>
-			<color>ffffffff</color>
-		</LabelStyle>
-		<BalloonStyle>
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-<bgColor>ffd5fcfd</bgColor>
-</BalloonStyle>
-	</Style>
-	
-	
-	
-
-
 	
 	
 	<Style id="insel-n">
@@ -755,6 +754,53 @@ $[description]]]></text>
 		</LabelStyle>
 	</Style>
 	
+
+	<Style id="gebirge-n">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>99000000</color>
+		</PolyStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+	
+	<Style id="gebirge-h">
+    		<ListStyle>
+       			  <maxSnippetLines>0</maxSnippetLines>
+     		</ListStyle>
+		<LineStyle>
+			<color>99000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc000000</color>
+		</PolyStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+
 	
 	
 	<Style id="berg-n">
@@ -854,7 +900,104 @@ $[description]]]></text>
 		</LabelStyle>
 	</Style>
 	
+
+	<Style id="vulkan-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Vulkan.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+
+	<Style id="vulkan-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Vulkan.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
 	
+	
+	
+	<Style id="vulkan-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Vulkan.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+	
+
+	<Style id="vulkan-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Vulkan.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
 	
 	<Style id="gewaesser-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
@@ -1001,8 +1144,55 @@ $[description]]]></text>
 		</LabelStyle>
 	</Style>	
 
+	<Style id="steppe-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
 
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Steppe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
 	
+
+	<Style id="steppe-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Steppe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+		
 	<Style id="wueste-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
@@ -1050,7 +1240,53 @@ $[description]]]></text>
 		</LabelStyle>
 	</Style>
 	
+	<Style id="wueste-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
 
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wueste.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+	
+
+	<Style id="wueste-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wueste.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
 	
 	
 <!-- STYLES FUER RAKSHAZAR -->	

@@ -66,12 +66,7 @@
 		</NetworkLink>
 		<NetworkLink>
 			<name>Wälder</name>
-			<visibility>1</visibility>
-			<Style>
-				<ListStyle>
-					<listItemType>checkHideChildren</listItemType>
-				</ListStyle>
-			</Style>
+			<visibility>0</visibility>
 			<Link>
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Waelder.kml</href>
 			</Link>

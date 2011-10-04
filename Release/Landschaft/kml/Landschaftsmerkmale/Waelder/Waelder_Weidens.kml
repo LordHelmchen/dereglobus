@@ -2,8 +2,161 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Waelder_Weidens.kml</name>
-		<Placemark>
-			<name>Runhager Forst</name>
+
+<Placemark>
+		<name>Aelderwald</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>Aelderwald (Wald)</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Aelderwald</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Waldgebiet</a> nahe des <a href="http://www.wiki-aventurica.de/wiki/Aelderwald" title="Aelderwald">gleichnamigen</a> Dorfes.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[Link]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>5.239756</longitude>
+              <latitude>33.252256</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+			<Point>
+				<coordinates>5.239756,33.252256</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
+		<name>Ifirnstann</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Ifirnstann</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> <i>Lidarila'e</i>) liegt zwischen <a href="http://www.wiki-aventurica.de/wiki/Beonfirn" title="Beonfirn" class="mw-redirect">Beonfirn</a> und <a href="http://www.wiki-aventurica.de/wiki/Balsaith" title="Balsaith">Balsaith</a> und wird von den <a href="http://www.wiki-aventurica.de/wiki/Auelf" title="Auelf">auelfischen</a> <a href="http://www.wiki-aventurica.de/wiki/Elfensippe" title="Elfensippe">Sippen</a> der <a href="http://www.wiki-aventurica.de/wiki/Schwanenh%C3%BCter-Sippe" title="Schwanenhüter-Sippe">Schwanenhüter</a> und <a href="http://www.wiki-aventurica.de/wiki/Lilienbringer-Sippe" title="Lilienbringer-Sippe">Lilienbringer</a> bewohnt. Der Ifirnstann scheint eine Art Gegensatz zum finsteren <a href="http://www.wiki-aventurica.de/wiki/Tauberwald" title="Tauberwald">Tauberwald</a> darzustellen.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>4.197784</longitude>
+              <latitude>33.459369</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+			<Point>
+				<coordinates>4.197784,33.459369</coordinates>
+			</Point>
+</Placemark>
+	
+<Placemark>
+		<name>Lawaralîr</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Lawaralîr</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Waldgebiet</a> östlich des <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensees</a> nahe <a href="http://www.wiki-aventurica.de/wiki/Mandelihr" title="Mandelihr">Mandelihr</a>. Er ist von <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfen</a> bewohnt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>5.332575</longitude>
+              <latitude>33.908562</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+			<Point>
+				<coordinates>5.332575,33.908562</coordinates>
+			</Point>
+</Placemark>
+
+<Placemark>
+		<name>Runhager Forst</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -49,6 +202,63 @@ verfügbar, dort kann man den
 			<Point>
 				<coordinates>6.10846472572539,33.3778136175918</coordinates>
 			</Point>
-		</Placemark>
+</Placemark>
+
+<Placemark>
+		<name>Tauberwald</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Tauberwald</b>, in der Nähe von <a href="http://www.wiki-aventurica.de/wiki/Beonf%C3%AErn" title="Beonfîrn">Beonfîrn</a> gelegen, stellt einen dunklen Gegenpol zum <a href="http://www.wiki-aventurica.de/wiki/Ifirnstann" title="Ifirnstann">Ifirnstann</a> dar und wird weitestgehend gemieden. Im <a href="http://www.wiki-aventurica.de/wiki/Wald" title="Wald">Wald</a> befindet sich <a href="http://www.wiki-aventurica.de/wiki/Der_Kreis_der_Macht" title="Der Kreis der Macht">der Kreis der Macht</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+              <longitude>4.000169</longitude>
+              <latitude>33.741796</latitude>
+				<altitude>0</altitude>
+				<range>500000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+			<Point>
+				<coordinates>4.000169,33.741796</coordinates>
+			</Point>
+</Placemark>
+
+
+
+
+
+
+
+
 </Document>
 </kml>

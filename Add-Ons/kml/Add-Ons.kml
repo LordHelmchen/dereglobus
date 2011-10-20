@@ -43,12 +43,11 @@
 	</Style>
 
 
-
 	<name>DereGlobus Add-Ons</name>
 	<visibility>0</visibility>
 	<open>1</open>
 		
-	<NetworkLink>
+	<!-- <NetworkLink>
 		<name>Uthuria - Ymras Seiten</name>
 		<visibility>0</visibility>
 		<Snippet maxLines="1">von Thamor</Snippet>
@@ -60,13 +59,36 @@
 					font-size: x-large;
 					font-weight: bold;
 				}
-			--></style><iframe src="https://docs.google.com/document/pub?id=1auUfvoYFsGG18I_ko__oobyOz9jMX05YEBeo2f3V3HQ&amp;embedded=true" width="850" height="420">Dokument wird geladen...</iframe>]]></description>
+			--><!--</style><iframe src="https://docs.google.com/document/pub?id=1auUfvoYFsGG18I_ko__oobyOz9jMX05YEBeo2f3V3HQ&amp;embedded=true" width="850" height="420">Dokument wird geladen...</iframe>]]></description>
 		<styleUrl>#Add-On</styleUrl>
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Uthuria_der_Workshops.kmz</href>
 		</Link>
-	</NetworkLink>		
+	</NetworkLink>		-->
+
 		
+	<NetworkLink>
+		<name>Fehlende Grenzen und Regionen</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Enabran</Snippet>
+		<description><![CDATA[			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>
+			Ich habe mal grob die Grenzen des Horas- und Mittelreiches (bis auf Grafschaftsebene herunter) eingetragen, die bisher noch fehlen. Als Grundlage habe ich Karten von etwa 1022 BF genommen. Es sind auch nur die Grenzlinien, ganz einfach ohne Polygone. Aber ich denke man kann es nutzen bis die offiziellen Grenzen fertig sind.<br><br>
+			Desweiteren habe ich die Regionen im Norden und Süden, so wie sie aus der Wiki Aventurica rekonstruierbar waren, als Polygone eingezeichnet.]]></description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Grenzen_und_Regionen_1022BF_von_Enabran.kmz</href>
+		</Link>
+	</NetworkLink>
+
+	
 		
 	<NetworkLink>
 		<name>Myranor - Landmarken und Städte</name>

@@ -65,6 +65,7 @@
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Uthuria_der_Workshops.kmz</href>
 		</Link>
 	</NetworkLink>	
+	
 
 	<NetworkLink>
 		<name>Der Grautannzyklus</name>
@@ -107,6 +108,28 @@ verfügbar, dort kann man den
 		</Link>
 	</NetworkLink>	
 
+
+	<NetworkLink>
+		<name>Die Phileasson-Saga</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="1">von Swit</Snippet>
+		<description><![CDATA[			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>
+			Ich werde das ganze noch umgestalten zu einem persönlichen Reisetagebuch mit Täglichen Einträgen der Helden sowie mit NSC-Männchen die dann auf der Karte stehen werden. Dies wird jedoch noch ziemlich lange dauern. Aber ich kann dann bei Bedarf gerne das komplette Tagebuch hier reinstellen. Ich würde mich im übrigen freuen wenn mir jemand eventuelle Fehler sagt, dann kann ich dies ändern. <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=1&t=1806">Zum Thread</a>]]></description>
+		<styleUrl>#Add-On</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Philleasson_Saga_von_Swit.kml</href>
+		</Link>
+	</NetworkLink>
+
+	
 		
 	<NetworkLink>
 		<name>Fehlende Grenzen und Regionen</name>

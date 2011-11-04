@@ -47,7 +47,7 @@
 	<visibility>0</visibility>
 	<open>1</open>
 	
-		<NetworkLink>
+	<NetworkLink>
 		<name>Uthuria - Ymras Seiten</name>
 		<visibility>0</visibility>
 		<Snippet maxLines="1">von Thamor</Snippet>
@@ -85,7 +85,7 @@ Der Zyklus beleuchtet vor allem drei Haupthandlungsstränge:
 </p>
 <ol><li> Die Erweckung und das Erstarken des <a href="/wiki/Schwarzmagier" title="Schwarzmagier" class="mw-redirect">Schwarzmagiers</a> Nebain von Havena, der schon in der Zeit der <a href="/wiki/Priesterkaiser" title="Priesterkaiser">Priesterkaiser</a> die Region heimsuchte und nun erneut versucht, die Region unter seine Herrschaft zu zwingen.
 </li><li> Die Ergründung der alten Geheimnisse um das vergessene Volk der Ophideer, die einst von ihrer Stadt Orphalon aus die Region beherrschten und vor ca. 3000 Jahren einen Krieg gegen die <a href="/wiki/Hochelfen" title="Hochelfen" class="mw-redirect">Hochelfen</a> verloren und nachfolgend aus der Geschichte verschwanden.
-</li><li> Die politischen Verwicklungen des Herrschaftshauses Grautanns, des Zwergenfürstentums <a href="/index.php?title=Bagnador&amp;action=edit&amp;redlink=1" class="new" title="Bagnador (Seite nicht vorhanden)">Bagnador</a> und der Elfensippe der <a href="/index.php?title=Kelchh%C3%BCter&amp;action=edit&amp;redlink=1" class="new" title="Kelchhüter (Seite nicht vorhanden)">Kelchhüter</a>.</li></ol>
+</li><li> Die politischen Verwicklungen des Herrschaftshauses Grautanns, des Zwergenfürstentums <a href="/index.php?title=Bagnador&amp;action=edit&amp;redlink=1" class="new" title="Bagnador (Seite nicht vorhanden)">Bagnador</a> und der Elfensippe der <a href="/index.php?title=Kelchh%C3%BCter&amp;action=edit&amp;redlink=1" class="new" title="Kelchhüter (Seite nicht vorhanden)">Kelchhüter</a>.</li></ol> <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=80&t=1504">Zum Thread im Forum</a>
 
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
@@ -122,7 +122,7 @@ verfügbar, dort kann man den
 					font-weight: bold;
 				}
 			--></style>
-			Ich werde das ganze noch umgestalten zu einem persönlichen Reisetagebuch mit Täglichen Einträgen der Helden sowie mit NSC-Männchen die dann auf der Karte stehen werden. Dies wird jedoch noch ziemlich lange dauern. Aber ich kann dann bei Bedarf gerne das komplette Tagebuch hier reinstellen. Ich würde mich im übrigen freuen wenn mir jemand eventuelle Fehler sagt, dann kann ich dies ändern. <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=1&t=1806">Zum Thread</a>]]></description>
+			Ich werde das ganze noch umgestalten zu einem persönlichen Reisetagebuch mit Täglichen Einträgen der Helden sowie mit NSC-Männchen die dann auf der Karte stehen werden. Dies wird jedoch noch ziemlich lange dauern. Aber ich kann dann bei Bedarf gerne das komplette Tagebuch hier reinstellen. Ich würde mich im übrigen freuen wenn mir jemand eventuelle Fehler sagt, dann kann ich dies ändern. <br><br><a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=1&t=1806">Zum Thread im Forum</a>]]></description>
 		<styleUrl>#Add-On</styleUrl>
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Philleasson_Saga_von_Swit.kml</href>
@@ -145,7 +145,7 @@ verfügbar, dort kann man den
 				}
 			--></style>
 			Ich habe mal grob die Grenzen des Horas- und Mittelreiches (bis auf Grafschaftsebene herunter) eingetragen, die bisher noch fehlen. Als Grundlage habe ich Karten von etwa 1022 BF genommen. Vorsicht ist bei den Grenzen des Horasreiches geboten, da die rückwirkenden Änderungen aus "Reich des Horas" nicht berücksichtigt wurden. Es sind auch nur die Grenzlinien, ganz einfach ohne Polygone. Aber ich denke man kann es nutzen bis die offiziellen Grenzen fertig sind.<br><br>
-			Desweiteren habe ich die Regionen im Norden und Süden, so wie sie aus der Wiki Aventurica rekonstruierbar waren, als Polygone eingezeichnet.]]></description>
+			Desweiteren habe ich die Regionen im Norden und Süden, so wie sie aus der Wiki Aventurica rekonstruierbar waren, als Polygone eingezeichnet. <br><br><a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=80&t=1813">Zum Thread im Forum</a>]]></description>
 		<styleUrl>#Add-On</styleUrl>
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Grenzen_und_Regionen_1022BF_von_Enabran.kmz</href>
@@ -158,12 +158,22 @@ verfügbar, dort kann man den
 		<name>Myranor - Landmarken und Städte</name>
 		<visibility>0</visibility>
 		<Snippet maxLines="1">von Geofax Steinhauer</Snippet>
-		<description>Gebirge, Flüsse, mystischen und besondere Orte, Reisewege, Gletschergebiete, Wüsten Seen, Reiche, Halbinseln, Seegebiete, Landschftsmarken, Täler und zusätzliche Siedlungen Myranors.</description>
+		<description><![CDATA[			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style> Gebirge, Flüsse, mystische und besondere Orte, Reisewege, Gletschergebiete, Wüsten, Seen, Reiche, Halbinseln, Seegebiete, Landschaftsmarken, Täler und zusätzliche Siedlungen Myranors. <br><br><a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=80&t=1004">Zum Thread im Forum</a>]]></description>
 		<styleUrl>#Add-On</styleUrl>
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Myranor_GeofaxSteinhauer.kml</href>
 		</Link>
 	</NetworkLink>		
+	
+	
 	<NetworkLink>
 		<name>Klimazonen und Windgürtel</name>
 		<visibility>0</visibility>
@@ -197,7 +207,7 @@ verfügbar, dort kann man den
 		<name>Gebäude verschiedener Städte</name>
 		<visibility>0</visibility>
 		<Snippet maxLines="1">von Chris1303</Snippet>
-		<description>Gebäudemarken und teils Stadtteile und Straßen der Städte Andergast, Nostria, Greifenfurt, Punin, Selem und Khunchom</description>
+		<description>Gebäudemarken und teils Stadtteile und Straßen der Städte Andergast, Nostria, Greifenfurt, Selem und Khunchom</description>
 		<styleUrl>#Add-On</styleUrl>
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Gebaeude_Chris1303.kml</href>
@@ -208,7 +218,14 @@ verfügbar, dort kann man den
 		<name>Talf - Stadtkarte</name>
 		<visibility>0</visibility>
 		<Snippet maxLines="1">von Salex</Snippet>
-		<description>Stadtplan von Talf für das Abenteuer "Von eigenen Gnaden".</description>
+		<description><![CDATA[			<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				.style1 {
+					font-size: x-large;
+					font-weight: bold;
+				}
+			--></style>Stadtplan von Talf für das Abenteuer "Von eigenen Gnaden". <br><br><a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=80&t=1817">Zum Thread im Forum</a>]]></description>
 		<styleUrl>#Add-On</styleUrl>
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/Add-Ons/Talf_Stadtkarte_von_Salex.kmz</href>

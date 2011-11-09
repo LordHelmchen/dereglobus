@@ -208,20 +208,14 @@
         <name>Darpatien</name>
         <Link>
           <href>http://dereglobus.googlecode.com/svn/Release/Grenzen/kml/Reiche/Darpatien/Baronien_Darpatien.kml</href>
-          <refreshMode />
-          <refreshInterval />
-          <viewRefreshMode />
-          <viewRefreshTime />
         </Link>
-        <refreshVisibility>0</refreshVisibility>
-        <flyToView>0</flyToView>
-        <Style>
-          <BalloonStyle>
-            <bgColor>FFFFFFFF</bgColor>
-            <textColor>FF000000</textColor>
-          </BalloonStyle>
-        </Style>
       </NetworkLink>
+      <NetworkLink>
+        <name>Garetien</name>
+        <Link>
+          <href>http://dereglobus.googlecode.com/svn/Release/Grenzen/kml/Reiche/Garetien/Baronien_Garetien.kml</href>
+		</Link>  
+      </NetworkLink>	  
     </Folder>
     <Style>
       <LabelStyle>

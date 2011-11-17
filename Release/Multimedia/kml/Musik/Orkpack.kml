@@ -168,60 +168,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Winter</name>
-			<description><![CDATA[<style type="text/css"><!--
-			a:link, a:visited { text-decoration: none; color: #B21C19; }
-			a:hover { text-decoration: underline; color: #B21C19; }
-			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-			#wiki { font-size:10px; }
-			--></style>
-
-			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
-		
-<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
-			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
-
-			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Die_Erben_von_Theb_Nor/Winter%20-%20Die%20Erben%20von%20Theb%20Nor%20-%20von%20Orkpack.mp3
-
-			&#038;
-
-			txt=Winter%20-%20Die%20Erben%20von%20Theb%20Nor%20-%20von%20Orkpack
-
-			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
-			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
-			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-			
-			<hr><div id="wiki">
-			
-<!-- EDIT Homepage-URL und Bild-URL -->
-			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
-			alt="Orkpack.de" align="left"></a></p>
-
-<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
-			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
-			Musikstück koponiert hat. <a href="http://www.orkpack.de/" title="Klicken und dann oben rechts 
-			<Open in Externem Browser> wählen">Download >></a></p>
-			</div>
-			
-			</td></tr></table>]]></description>
-			<LookAt>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-				<longitude>11.12458607493068</longitude>
-				<latitude>36.65952631967842</latitude>
-				<altitude>0</altitude>
-				<heading>-9.064580842171023e-014</heading>
-				<tilt>0</tilt>
-				<range>275399.3214826202</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
-			<Point>
-				<coordinates>11.77826933167474,36.67008474197282,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Theb Nor</name>
 			<description><![CDATA[<style type="text/css"><!--
 			a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -273,6 +219,60 @@
 			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
 			<Point>
 				<coordinates>6.586969044615431,34.68409442604688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winter</name>
+			<description><![CDATA[<style type="text/css"><!--
+			a:link, a:visited { text-decoration: none; color: #B21C19; }
+			a:hover { text-decoration: underline; color: #B21C19; }
+			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+			#wiki { font-size:10px; }
+			--></style>
+
+			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
+		
+<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
+			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
+
+			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Die_Erben_von_Theb_Nor/Winter%20-%20Die%20Erben%20von%20Theb%20Nor%20-%20von%20Orkpack.mp3
+
+			&#038;
+
+			txt=Winter%20-%20Die%20Erben%20von%20Theb%20Nor%20-%20von%20Orkpack
+
+			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
+			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
+			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+			
+			<hr><div id="wiki">
+			
+<!-- EDIT Homepage-URL und Bild-URL -->
+			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
+			alt="Orkpack.de" align="left"></a></p>
+
+<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
+			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
+			Musikstück koponiert hat. <a href="http://www.orkpack.de/" title="Klicken und dann oben rechts 
+			<Open in Externem Browser> wählen">Download >></a></p>
+			</div>
+			
+			</td></tr></table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>11.12458607493068</longitude>
+				<latitude>36.65952631967842</latitude>
+				<altitude>0</altitude>
+				<heading>-9.064580842171023e-014</heading>
+				<tilt>0</tilt>
+				<range>275399.3214826202</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
+			<Point>
+				<coordinates>11.77826933167474,36.67008474197282,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
@@ -721,103 +721,6 @@
 	<Folder>
 		<name>Regionalmusik</name>
 
-		<Placemark>
-			<name>Echsensümpfe</name>
-			<description><![CDATA[<style type="text/css"><!--
-			a:link, a:visited { text-decoration: none; color: #B21C19; }
-			a:hover { text-decoration: underline; color: #B21C19; }
-			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-			#wiki { font-size:10px; }
-			--></style>
-
-			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
-		
-<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
-			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
-
-			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Regionalmusik/Echsensuempfe%20von%20Orkpack.mp3
-
-			&#038;
-
-			txt=Echsensuempfe%20von%20Orkpack
-
-			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
-			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
-			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-			
-			<hr><div id="wiki">
-			
-<!-- EDIT Homepage-URL und Bild-URL -->
-			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
-			alt="Orkpack.de" align="left"></a></p>
-
-<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
-			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
-			Musikstück für DereGlobus koponiert hat. <a href="http://www.orkpack.de/audio/Orkpack_Echsig%20.mp3" title="Klicken und dann oben rechts 
-			<Open in Externem Browser> wählen">Download >></a></p>
-			</div>
-			
-			</td></tr></table>]]></description>
-			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
-			<Point>
-				<coordinates>4.077146,21.194279,0</coordinates>
-			</Point>
-		</Placemark>
-		
-		<Placemark>
-			<name>Tulamidenlande</name>
-			<description><![CDATA[<style type="text/css"><!--
-			a:link, a:visited { text-decoration: none; color: #B21C19; }
-			a:hover { text-decoration: underline; color: #B21C19; }
-			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-			#wiki { font-size:10px; }
-			--></style>
-
-			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
-		
-<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
-			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
-
-			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Regionalmusik/Tulamidenlande%20von%20Orkpack.mp3
-
-			&#038;
-
-			txt=Tulamidenlande%20von%20Orkpack
-
-			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
-			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
-			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-			
-			<hr><div id="wiki">
-			
-<!-- EDIT Homepage-URL und Bild-URL -->
-			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
-			alt="Orkpack.de" align="left"></a></p>
-
-<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
-			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
-			Musikstück für DereGlobus koponiert hat. <a href="http://www.orkpack.de/?page_id=110" title="Klicken und dann oben rechts 
-			<Open in Externem Browser> wählen">Download >></a></p>
-			</div>
-			
-			</td></tr></table>]]></description>
-			<LookAt>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
-				<longitude>5.878643756350466</longitude>
-				<latitude>25.49374909650792</latitude>
-				<altitude>0</altitude>
-				<heading>2.788769808165255</heading>
-				<tilt>0</tilt>
-				<range>540537.8105244235</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
-			<Point>
-				<coordinates>5.221115018978133,25.56708237426784,0</coordinates>
-			</Point>
-		</Placemark>
 	<Placemark>
 		<name>Donnerbach Sinfonie - 1. Satz</name>
 		<description><![CDATA[<style type="text/css"><!--
@@ -927,6 +830,159 @@
 		</Point>
 	</Placemark>
 
+		<Placemark>
+			<name>Echsensümpfe</name>
+			<description><![CDATA[<style type="text/css"><!--
+			a:link, a:visited { text-decoration: none; color: #B21C19; }
+			a:hover { text-decoration: underline; color: #B21C19; }
+			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+			#wiki { font-size:10px; }
+			--></style>
+
+			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
+		
+<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
+			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
+
+			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Regionalmusik/Echsensuempfe%20von%20Orkpack.mp3
+
+			&#038;
+
+			txt=Echsensuempfe%20von%20Orkpack
+
+			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
+			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
+			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+			
+			<hr><div id="wiki">
+			
+<!-- EDIT Homepage-URL und Bild-URL -->
+			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
+			alt="Orkpack.de" align="left"></a></p>
+
+<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
+			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
+			Musikstück für DereGlobus koponiert hat. <a href="http://www.orkpack.de/audio/Orkpack_Echsig%20.mp3" title="Klicken und dann oben rechts 
+			<Open in Externem Browser> wählen">Download >></a></p>
+			</div>
+			
+			</td></tr></table>]]></description>
+			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
+			<Point>
+				<coordinates>4.077146,21.194279,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Riva Mortis</name>
+			<description><![CDATA[<style type="text/css"><!--
+			a:link, a:visited { text-decoration: none; color: #B21C19; }
+			a:hover { text-decoration: underline; color: #B21C19; }
+			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+			#wiki { font-size:10px; }
+			--></style>
+
+			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
+		
+<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
+			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
+
+			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Regionalmusik/Riva%20Mortis%20von%20Orkpack.mp3
+
+			&#038;
+
+			txt=Riva Mortis%20von%20Orkpack
+
+			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
+			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
+			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+			
+			<hr><div id="wiki">
+			
+<!-- EDIT Homepage-URL und Bild-URL -->
+			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
+			alt="Orkpack.de" align="left"></a></p>
+
+<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
+			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
+			Musikstück koponiert und an <a href="http://www.krzywikgross.de" title="www.krzywikgross.de">Mike Krzywik-Groß</a>, der es DereGlobus zur Verfügung gestellt hat. <a href="http://www.orkpack.de/?page_id=110" title="Klicken und dann oben rechts 
+			<Open in Externem Browser> wählen">Download >></a></p>
+			</div>
+			
+			</td></tr></table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>2.80306719921553</longitude>
+				<latitude>37.46415133061083</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000442673948948126</heading>
+				<tilt>0</tilt>
+				<range>963.9097314981879</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
+			<Point>
+				<coordinates>2.80306719921553,37.46415133061083,0</coordinates>
+			</Point>
+		</Placemark>	
+		
+		<Placemark>
+			<name>Tulamidenlande</name>
+			<description><![CDATA[<style type="text/css"><!--
+			a:link, a:visited { text-decoration: none; color: #B21C19; }
+			a:hover { text-decoration: underline; color: #B21C19; }
+			hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+			#wiki { font-size:10px; }
+			--></style>
+
+			<table cellpadding="10" cellspacing="0" align="center"><tr><td>
+		
+<!-- EDIT MP3-URL (mp3url=) und Namen des Stueckes (txt=) -->
+			<embed src="http://www.dereglobus.orkenspalter.de/public/Medien/Multimedia/player/mp3.swf?
+
+			mp3url=http://dereglobus.orkenspalter.de/public/Medien/Multimedia/media/mp3/Orkpack/Regionalmusik/Tulamidenlande%20von%20Orkpack.mp3
+
+			&#038;
+
+			txt=Tulamidenlande%20von%20Orkpack
+
+			&barbgcolor=#c89959&loadbar=#7a7979&posbar=#b21c19
+			&#038; quality="high" bgcolor="#c89959" width="300" height="25" name="mp3" align="middle" allowScriptAccess="sameDomain" 
+			type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+			
+			<hr><div id="wiki">
+			
+<!-- EDIT Homepage-URL und Bild-URL -->
+			<a href="http://www.orkpack.de"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Orkpack_Icon.png" 
+			alt="Orkpack.de" align="left"></a></p>
+
+<!-- EDIT Name des Interpreten und Homepage-URL und Download-URL-->
+			<p>Vielen Dank an Ralf Kurtsiefer von <a href="http://www.orkpack.de" title="www.orkpack.de">Orkpack.de</a>, der dieses 
+			Musikstück für DereGlobus koponiert hat. <a href="http://www.orkpack.de/?page_id=110" title="Klicken und dann oben rechts 
+			<Open in Externem Browser> wählen">Download >></a></p>
+			</div>
+			
+			</td></tr></table>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>5.878643756350466</longitude>
+				<latitude>25.49374909650792</latitude>
+				<altitude>0</altitude>
+				<heading>2.788769808165255</heading>
+				<tilt>0</tilt>
+				<range>540537.8105244235</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/style/Multimedia.kml#Musik</styleUrl>
+			<Point>
+				<coordinates>5.221115018978133,25.56708237426784,0</coordinates>
+			</Point>
+		</Placemark>	
+	
 	</Folder>
 </Document>
 </kml>

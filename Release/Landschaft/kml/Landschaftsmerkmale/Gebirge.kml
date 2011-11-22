@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Gebirge</name>
-	
+
 <NetworkLink>
 		<visibility>1</visibility>
 		<name>Drachensteine</name>
@@ -10,7 +10,15 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Drachensteine.kml</href>
 		</Link>
 	</NetworkLink>
-	
+
+<NetworkLink>
+		<visibility>1</visibility>
+		<name>Finsterkamm</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Finsterkamm.kml</href>
+		</Link>
+	</NetworkLink>
+
 <NetworkLink>
 		<visibility>1</visibility>
 		<name>Rote Sichel</name>

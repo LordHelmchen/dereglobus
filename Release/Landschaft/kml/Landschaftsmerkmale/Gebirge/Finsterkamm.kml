@@ -48,11 +48,117 @@ verfügbar, dort kann man den
 			<longitude>2.140649378469688</longitude>
 			<latitude>32.4798011439157</latitude>
 			<altitude>0</altitude>
-			<range>250000</range>
+			<range>400000</range>
 			<tilt>0</tilt>
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
+
+		<Placemark>
+			<name>Finsterkopp</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Finsterkopp</b> ist ein <a href="/wiki/Berg" title="Berg">Berg</a> im nördlichen <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>. In seiner Nähe liegen <a href="/wiki/Hiltorp" title="Hiltorp">Hiltorp</a> und <a href="/wiki/Finsterkoppen" title="Finsterkoppen">Finsterkoppen</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>3.075287228138495</longitude>
+				<latitude>33.4834282737701</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>3.07157652879811,33.4657141474873,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Orkenmaul</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Orkenmaul</b> ist ein <a href="/wiki/Berg" title="Berg">Berg</a> im <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>3.114548462226772</longitude>
+				<latitude>33.43658809489821</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>3.11349494536365,33.4361265942542,0</coordinates>
+			</Point>
+		</Placemark>
 
 		<Placemark>
 			<name>Schwarzkuppe</name>

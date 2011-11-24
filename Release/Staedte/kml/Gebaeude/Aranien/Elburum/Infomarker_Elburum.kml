@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-  <Document>
-     <Folder>
-        <name>Öffentliche Gebäude Elburum</name>
-		<Region>
-      <LatLonAltBox>
-        <north>27.17400259285891</north>
-			<south>27.15639751251483</south>
-			<east>8.729148607844442</east>
-			<west>8.701006082339301</west>
-			<rotation>-115.8833663642675</rotation>
-
-      </LatLonAltBox>
-      <Lod>
-         <minLodPixels>256</minLodPixels>
-         <maxLodPixels>-1</maxLodPixels>
-         <minFadeExtent>0</minFadeExtent>
-         <maxFadeExtent>0</maxFadeExtent>
-      </Lod>
-   </Region>
-   <Placemark>
+<Document>
+<Folder>
+	<name>Öffentliche Gebäude Elburum</name>
+	<Region>
+	<LatLonAltBox>
+		<north>27.17400259285891</north>
+		<south>27.15639751251483</south>
+		<east>8.729148607844442</east>
+		<west>8.701006082339301</west>
+		<rotation>-115.8833663642675</rotation>
+	</LatLonAltBox>
+	<Lod>
+		<minLodPixels>256</minLodPixels>
+		<maxLodPixels>-1</maxLodPixels>
+		<minFadeExtent>0</minFadeExtent>
+		<maxFadeExtent>0</maxFadeExtent>
+	</Lod>
+	</Region>
+	<Placemark>
 			<name>Infomarker</name>
 			<description><![CDATA[<style type="text/css"><!--
 				a:link, a:visited { text-decoration: none; color: #d5ac00; }
@@ -29,20 +28,20 @@
 				--></style>
 				<p><table>
 					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
-					Gasthaus "Shebaoth"
-					Hotel "Elburischer Hof"<br/>
-					Pension "Haus Yulmin"<br/>
-					Hotel "Al-Barun"<br/>
-					Gasthof "Sultanshof"<br/>
-					Schänke "Haiflosse"<br/>
+					Gasthaus Shebaoth
+					Hotel Elburischer Hof<br/>
+					Pension Haus Yulmin<br/>
+					Hotel Al-Barun<br/>
+					Gasthof Sultanshof<br/>
+					Schänke Haiflosse<br/>
 					Waffenschmied<br/>
 					Basar<br/>
-					"Perlenhaus"<br/>
+					Perlenhaus<br/>
 					Traviatempels<br/>
 					Rur und Gror-Tempel<br/>
 					Schwertmeisterin<br/>
-					Ordenshaus "Schlange der Erkenntnis"<br/>
-					Wohnhaus "Rashan Babek"<br/>
+					Ordenshaus Schlange der Erkenntnis<br/>
+					Wohnhaus Rashan Babek<br/>
 					Wohnhaus<br/>
 					Stadtwache<br/>
 					Lagerhaus<br/>
@@ -75,8 +74,7 @@
 			<Point>
 				<coordinates>8.727190,27.175542,0</coordinates>
 			</Point>
-		</Placemark>
-         </Folder>
-
-    </Document>
+	</Placemark>
+</Folder>
+</Document>
 </kml>

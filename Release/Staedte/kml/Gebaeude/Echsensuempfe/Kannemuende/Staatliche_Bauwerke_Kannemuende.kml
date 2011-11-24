@@ -18,9 +18,7 @@
 			<minFadeExtent>0</minFadeExtent>
 			<maxFadeExtent>0</maxFadeExtent>
 		</Lod>
-	</Region>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk-InOff</styleUrl>
-	
+	</Region>	
 	      <Placemark>
 		<name>Die Stadt Kannemünde</name>
       <description><![CDATA[<style type="text/css"><!--
@@ -74,7 +72,6 @@ auf
 			<coordinates>3.884766833878561,22.19122945193362,0</coordinates>
 		</Point>
 	</Placemark>
-
 	
         <Placemark>
           <name>Hafenmeisterei</name>
@@ -165,15 +162,7 @@ auf
           <Point>
             <coordinates>3.884426684003375,22.19215839222521,0</coordinates>
           </Point>
-          <Snippet maxLines="0">
-          </Snippet>
         </Placemark>
-        <Style>
-          <BalloonStyle>
-            <bgColor>FFFFFFFF</bgColor>
-            <textColor>FF000000</textColor>
-          </BalloonStyle>
-        </Style>
       </Folder>
     </Document>
 </kml>

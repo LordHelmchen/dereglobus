@@ -19,17 +19,8 @@
 			<maxFadeExtent>0</maxFadeExtent>
 		</Lod>
 	</Region>
-	
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-InOff</styleUrl>
-        <Style>
-          <BalloonStyle>
-            <textColor>ff000000</textColor>
-            <bgColor>ffffffff</bgColor>
-            <displayMode>default</displayMode>
-          </BalloonStyle>
-        </Style>
         <Placemark>
-          <name>Schänke "Zum Rostigen Anker"</name>
+          <name>Schänke Zum Rostigen Anker</name>
           <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #814F21; }
 a:hover { text-decoration: underline; color: #814F21; }
@@ -68,14 +59,12 @@ auf
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-InOff</styleUrl>
-          <Point id="KMLe_45">
+          <Point>
             <coordinates>3.88602182923246,22.19270480774753,0</coordinates>
           </Point>
-          <Snippet maxLines="0">
-          </Snippet>
         </Placemark>
         <Placemark>
-          <name>Gasthaus "Zur Krone"</name>
+          <name>Gasthaus Zur Krone</name>
           <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #814F21; }
 a:hover { text-decoration: underline; color: #814F21; }
@@ -117,8 +106,6 @@ auf
           <Point>
             <coordinates>3.885472421928629,22.19237590674651,0</coordinates>
           </Point>
-          <Snippet maxLines="0">
-          </Snippet>
         </Placemark>
         <Placemark>
           <name>Karawanserei</name>
@@ -162,8 +149,6 @@ auf
           <Point>
             <coordinates>3.884018740835988,22.19230436143703,0</coordinates>
           </Point>
-          <Snippet maxLines="0">
-          </Snippet>
         </Placemark>
       </Folder>
     </Document>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-  <Document>
-               <Folder>
+<Document>
+<Folder>
         <name>Öffentliche Gebäude Baburin</name>
 		<Region>
       <LatLonAltBox>
@@ -29,17 +29,16 @@
             <longitude>5.765112559749639</longitude>
             <latitude>28.07300054950301</latitude>
             <altitude>0</altitude>
-            <range>1087.542994473141</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.001496136282834569</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
-          <Point id="KMLe_57">
+          <Point>
             <coordinates>5.762648847704963,28.07243437383561,0</coordinates>
           </Point>
         </Placemark>
-		      </Folder>
-
-    </Document>
+</Folder>
+</Document>
 </kml>

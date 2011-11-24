@@ -17,19 +17,11 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
    </Region>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Style>
-          <BalloonStyle>
-            <textColor>ff000000</textColor>
-            <bgColor>ffffffff</bgColor>
-            <displayMode>default</displayMode>
-          </BalloonStyle>
-        </Style>
         <Placemark>
           <name>Dreitempel der Rondra</name>
 		  		  <ExtendedData>
 <Data name="Link">
- <value>Dreitempel der Rondra</value>
+ <value>$[name]</value>
 </Data>
 </ExtendedData> 
 <description><![CDATA[<style type="text/css"><!--
@@ -96,9 +88,9 @@ verfügbar, dort kann man den
             <longitude>5.762553159599624</longitude>
             <latitude>28.08057943640257</latitude>
             <altitude>0</altitude>
-            <range>926.1623161968219</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.0002909346897750504</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
@@ -118,9 +110,9 @@ verfügbar, dort kann man den
             <longitude>5.762245129944062</longitude>
             <latitude>28.07910351254312</latitude>
             <altitude>0</altitude>
-            <range>768.6200839221972</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.0001457605442448298</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
@@ -177,9 +169,9 @@ verfügbar, dort kann man den
             <longitude>5.759474488325848</longitude>
             <latitude>28.07943099287533</latitude>
             <altitude>0</altitude>
-            <range>429.3889739316886</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>-0.001158210058038792</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
@@ -199,9 +191,9 @@ verfügbar, dort kann man den
             <longitude>5.761005040524129</longitude>
             <latitude>28.07745313130183</latitude>
             <altitude>0</altitude>
-            <range>332.2408789727776</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>-0.0004380597511970531</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
@@ -220,16 +212,16 @@ verfügbar, dort kann man den
         <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Ingerimm-Kirche<TR><TD><I>Stadtteil: Dersehalam<TR><TD><I>Besitzer/Vorsteher:</I> Wompertin<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 73<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 33<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Das Land der ersten Sonne, S. 132<TR><TD>Der Schwur des letzten Sultans, S. 19<TR><TD>Donner und Sturm, S. 10<TR><TD>Wege der Helden, S. 103<TR><TD>Rondra-Vademecum, S. 120<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
         <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
         <LookAt> 
-              <longitude> 5.763142</longitude>
-              <latitude> 28.079054</latitude>
+              <longitude>5.763142</longitude>
+              <latitude>28.079054</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
         </LookAt>
         <Point>
-             <coordinates> 5.763142, 28.079054,0</coordinates>
+             <coordinates>5.763142,28.079054,0</coordinates>
         </Point>
     </Placemark>
 	    <Placemark>
@@ -242,16 +234,16 @@ verfügbar, dort kann man den
         <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Phex-Kirche<TR><TD><I>Stadtteil: Dersehalam<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 73<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 33<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Das Land der ersten Sonne, S. 132<TR><TD>Der Schwur des letzten Sultans, S. 19<TR><TD>Donner und Sturm, S. 10<TR><TD>Wege der Helden, S. 103<TR><TD>Rondra-Vademecum, S. 120<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
         <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
         <LookAt> 
-              <longitude> 5.763416</longitude>
-              <latitude> 28.077073</latitude>
+              <longitude>5.763416</longitude>
+              <latitude>28.077073</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
         </LookAt>
         <Point>
-             <coordinates> 5.763416, 28.077073,0</coordinates>
+             <coordinates>5.763416,28.077073,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
@@ -264,16 +256,16 @@ verfügbar, dort kann man den
         <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Tsa-Kirche<TR><TD><I>Stadtteil: Dersehalam<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 73<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 33<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Das Land der ersten Sonne, S. 132<TR><TD>Der Schwur des letzten Sultans, S. 19<TR><TD>Donner und Sturm, S. 10<TR><TD>Wege der Helden, S. 103<TR><TD>Rondra-Vademecum, S. 120<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
         <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
         <LookAt> 
-              <longitude> 5.763480</longitude>
-              <latitude> 28.078645</latitude>
+              <longitude>5.763480</longitude>
+              <latitude>28.078645</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
         </LookAt>
         <Point>
-             <coordinates> 5.763480, 28.078645,0</coordinates>
+             <coordinates>5.763480,28.078645,0</coordinates>
         </Point>
     </Placemark>
 	    <Placemark>
@@ -286,16 +278,16 @@ verfügbar, dort kann man den
         <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Hesinde-Kirche<TR><TD><I>Stadtteil: Alt-Baburin<TR><TD><I>Besitzer/Vorsteher:</I> Draconidian<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 73<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 33<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Das Land der ersten Sonne, S. 132<TR><TD>Der Schwur des letzten Sultans, S. 19<TR><TD>Donner und Sturm, S. 10<TR><TD>Wege der Helden, S. 103<TR><TD>Rondra-Vademecum, S. 120<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
         <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
         <LookAt> 
-              <longitude> 5.761069</longitude>
-              <latitude> 28.077787</latitude>
+              <longitude>5.761069</longitude>
+              <latitude>28.077787</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
         </LookAt>
         <Point>
-             <coordinates> 5.761069, 28.077787,0</coordinates>
+             <coordinates>5.761069,28.077787,0</coordinates>
         </Point>
     </Placemark>
 	    <Placemark>
@@ -308,16 +300,38 @@ verfügbar, dort kann man den
         <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Vor den Toren<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 73<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 33<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Das Land der ersten Sonne, S. 132<TR><TD>Der Schwur des letzten Sultans, S. 19<TR><TD>Donner und Sturm, S. 10<TR><TD>Wege der Helden, S. 103<TR><TD>Rondra-Vademecum, S. 120<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
         <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
         <LookAt> 
-              <longitude> 5.761361</longitude>
-              <latitude> 28.084212</latitude>
+              <longitude>5.761361</longitude>
+              <latitude>28.084212</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
         </LookAt>
         <Point>
-             <coordinates> 5.761361, 28.084212,0</coordinates>
+             <coordinates>5.761361,28.084212,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Ordenshaus Draconiter</name>
+<ExtendedData>
+<Data name="Link">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Hesinde-Kirche<TR><TD><I>Stadtteil: Alt-Baburin<TR><TD><I>Besitzer/Vorsteher:</I> Hamide Salendris<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 73<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 33<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Das Land der ersten Sonne, S. 132<TR><TD>Der Schwur des letzten Sultans, S. 19<TR><TD>Donner und Sturm, S. 10<TR><TD>Wege der Helden, S. 103<TR><TD>Rondra-Vademecum, S. 120<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
+        <LookAt> 
+              <longitude>5.761252</longitude>
+              <latitude>28.077995</latitude>
+              <altitude>0</altitude>
+              <range>400</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>5.761252,28.077995,0</coordinates>
         </Point>
     </Placemark>
       </Folder>

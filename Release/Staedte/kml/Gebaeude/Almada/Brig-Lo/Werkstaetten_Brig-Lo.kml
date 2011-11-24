@@ -20,10 +20,10 @@
 		</Lod>
 	</Region>
           <Placemark>
-          <name>Gestüt "Diamant"</name>
+          <name>Gestüt Diamant</name>
 		  <ExtendedData>
 <Data name="Link">
- <value>Gestüt Diamant</value>
+ <value>$[name]</value>
 </Data>
 </ExtendedData> 
 <description><![CDATA[<style type="text/css"><!--
@@ -170,7 +170,6 @@ verfügbar, dort kann man den
             <coordinates>0.6715268080490833,26.4042231773372,0</coordinates>
           </Point>
         </Placemark>
-		      </Folder>
-
-    </Document>
+</Folder>
+</Document>
 </kml>

@@ -20,7 +20,7 @@
 		</Lod>
 	</Region>
         <Placemark>
-          <name>Haus des "Administrados"</name>
+          <name>Haus des Administrados</name>
 		  <ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -122,14 +122,6 @@ verfügbar, dort kann man den
             <coordinates>0.669520934022525,26.40436402921013,0</coordinates>
           </Point>
         </Placemark>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-        <Style>
-          <BalloonStyle>
-            <bgColor>FFFFFFFF</bgColor>
-            <textColor>FF000000</textColor>
-          </BalloonStyle>
-        </Style>
-      </Folder>
-      
-    </Document>
+</Folder>
+</Document>
 </kml>

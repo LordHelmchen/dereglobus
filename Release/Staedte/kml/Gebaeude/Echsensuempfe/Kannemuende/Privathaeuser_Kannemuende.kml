@@ -61,11 +61,9 @@ auf
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus-InOff</styleUrl>
-          <Point id="KMLe_45">
+          <Point>
             <coordinates>3.884777797783565,22.19204205386518,0</coordinates>
           </Point>
-          <Snippet maxLines="0">
-          </Snippet>
         </Placemark>
         <Placemark>
           <name>Villa der Familie Waltich</name>
@@ -111,18 +109,7 @@ auf
           <Point>
             <coordinates>3.885303714420285,22.19201239941623,0</coordinates>
           </Point>
-          <Snippet maxLines="0">
-          </Snippet>
         </Placemark>
-        <Style>
-          <LabelStyle>
-            <scale>1</scale>
-          </LabelStyle>
-          <BalloonStyle>
-            <bgColor>FFFFFFFF</bgColor>
-            <textColor>FF000000</textColor>
-          </BalloonStyle>
-        </Style>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus-InOff</styleUrl>
       </Folder>
      </Document>

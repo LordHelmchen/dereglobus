@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-  <Document>
-    <Folder>
-        <name>Öffentliche Bauwerke Brig-Lo</name>
+<Document>
+<Folder>
+	<name>Öffentliche Bauwerke Brig-Lo</name>
 	<Region>
 		<LatLonAltBox>
 			<north>26.40646433074556</north>
@@ -87,7 +87,6 @@
         </Point>
     </Placemark>
 	-->
-		      </Folder>
-
-    </Document>
+</Folder>
+</Document>
 </kml>

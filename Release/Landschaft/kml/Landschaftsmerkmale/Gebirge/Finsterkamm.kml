@@ -53,7 +53,60 @@ verfügbar, dort kann man den
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
-		
+
+		<Placemark>
+			<name>Brachthor</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Brachthor</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>1.932705424537471</longitude>
+				<latitude>32.0133385335271</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>1.93039817942427,31.976080868363,0</coordinates>
+			</Point>
+		</Placemark>
+
 		<Placemark>
 			<name>Drachenkopf</name>
 			<ExtendedData>
@@ -71,7 +124,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Drachenkopf</b> ist ein <a href="/wiki/Berg" title="Berg">Berg</a> im <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+Der <b>Drachenkopf</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
 </p>
 
 <hr><div id="wiki">
@@ -108,6 +161,165 @@ verfügbar, dort kann man den
 		</Placemark>
 
 		<Placemark>
+			<name>Drei Schwestern</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Drei Schwestern</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>0.9692678023819633</longitude>
+				<latitude>31.70366610822489</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>0.9404459111173735,31.70026939998112,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Goldspitze</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Goldspitze</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.229492259615344</longitude>
+				<latitude>32.57663527622253</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>2.21185040493571,32.5274852695244,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Finsterhaupt</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Finsterhaupt</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.306908197483937</longitude>
+				<latitude>32.65712080553367</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>2.29309164972393,32.6426422120951,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Finsterkopp</name>
 			<ExtendedData>
 <Data name="Link">
@@ -124,7 +336,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Finsterkopp</b> ist ein <a href="/wiki/Berg" title="Berg">Berg</a> im nördlichen <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>. In seiner Nähe liegen <a href="/wiki/Hiltorp" title="Hiltorp">Hiltorp</a> und <a href="/wiki/Finsterkoppen" title="Finsterkoppen">Finsterkoppen</a>.
+Der <b>Finsterkopp</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im nördlichen <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>. In seiner Nähe liegen <a href="http://www.wiki-aventurica.de/wiki/Hiltorp" title="Hiltorp">Hiltorp</a> und <a href="http://www.wiki-aventurica.de/wiki/Finsterkoppen" title="Finsterkoppen">Finsterkoppen</a>.
 </p>
 
 <hr><div id="wiki">
@@ -161,6 +373,271 @@ verfügbar, dort kann man den
 		</Placemark>
 
 		<Placemark>
+			<name>Githalsthor</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Githalsthor</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>1.734855583563406</longitude>
+				<latitude>31.99795518352575</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>1.668618857411932,31.98108797267974,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Hoher Stumpen</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Hoher Stumpen</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.603916251957232</longitude>
+				<latitude>32.69313012889269</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>2.595768620952019,32.68894427322044,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ingerimms Tafel</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Ingerimms Tafel</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.63338693853036</longitude>
+				<latitude>32.86086945887227</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>2.633275906160482,32.86403816554483,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Jungfer</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Jungfer</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a> östlich des <a href="http://www.wiki-aventurica.de/wiki/Kloster_Arras_de_Mott" title="Kloster Arras de Mott">Klosters Arras de Mott</a>. Seine beiden Kuppen tragen die Namen  <i>Jungfernschulter</i> und <i>Jungfernsteiß</i>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.305699548325939</longitude>
+				<latitude>32.35536024166478</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>2.27512725279892,32.3365110622929,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kroks Zahn</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Kroks Zahn</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.002682450191744</longitude>
+				<latitude>32.38463068433695</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>1.95135738770704,32.3634088379593,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Nebelstein</name>
 			<ExtendedData>
 <Data name="Link">
@@ -177,7 +654,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Der <b>Nebelstein</b> ist der südlichste <a href="/wiki/Berg" title="Berg">Berg</a> im <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>. In der Nähe liegen <a href="/wiki/B%C3%A4renklamm" title="Bärenklamm">Bärenklamm</a>, <a href="/wiki/Schattenpass" title="Schattenpass">Schattenpass</a> und das Kloster <a href="/wiki/Rabenhorst" title="Rabenhorst">Rabenhorst</a>. Am 28. <a href="/wiki/Praios" title="Praios">Praios</a> <a href="/wiki/Chronik:1012" title="Chronik:1012">1012 BF</a> fand hier die <a href="/wiki/Schlacht_am_Nebelstein" title="Schlacht am Nebelstein">Schlacht am Nebelstein</a> statt.
+Der <b>Nebelstein</b> ist der südlichste <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>. In der Nähe liegen <a href="http://www.wiki-aventurica.de/wiki/B%C3%A4renklamm" title="Bärenklamm">Bärenklamm</a>, <a href="http://www.wiki-aventurica.de/wiki/Schattenpass" title="Schattenpass">Schattenpass</a> und das Kloster <a href="http://www.wiki-aventurica.de/wiki/Rabenhorst" title="Rabenhorst">Rabenhorst</a>. Am 28. <a href="http://www.wiki-aventurica.de/wiki/Praios" title="Praios">Praios</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1012" title="Chronik:1012">1012 BF</a> fand hier die <a href="http://www.wiki-aventurica.de/wiki/Schlacht_am_Nebelstein" title="Schlacht am Nebelstein">Schlacht am Nebelstein</a> statt.
 </p>
 
 <hr><div id="wiki">
@@ -214,6 +691,59 @@ verfügbar, dort kann man den
 		</Placemark>
 
 		<Placemark>
+			<name>Nimmerkuppe</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Nimmerkuppe</b> ist ein hoher <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>. Zwischen <a href="http://www.wiki-aventurica.de/wiki/Chronik:1032" title="Chronik:1032">1032 BF</a> und <a href="http://www.wiki-aventurica.de/wiki/Chronik:1034" title="Chronik:1034">1034 BF</a> hatte der <a href="http://www.wiki-aventurica.de/wiki/Drache" title="Drache">Drache</a> <a href="http://www.wiki-aventurica.de/wiki/Feracinor" title="Feracinor">Feracinor</a> hier seinen Sitz. 
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.652762202540231</longitude>
+				<latitude>32.79303219706085</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>2.631220897809594,32.7784048522387,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Orkenmaul</name>
 			<ExtendedData>
 <Data name="Link">
@@ -230,7 +760,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Das <b>Orkenmaul</b> ist ein <a href="/wiki/Berg" title="Berg">Berg</a> im <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+Das <b>Orkenmaul</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
 </p>
 
 <hr><div id="wiki">
@@ -267,6 +797,59 @@ verfügbar, dort kann man den
 		</Placemark>
 
 		<Placemark>
+			<name>Schwarzkuppe</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Schwarzkuppe</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>3.032858956923887</longitude>
+				<latitude>33.39772818377438</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>3.0383724829779,33.3883413776468,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Schwarzkuppen</name>
 			<ExtendedData>
 <Data name="Link">
@@ -283,7 +866,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Die bis zu 1500 <a href="/wiki/Schritt" title="Schritt">Schritt</a> hohen <b>Schwarzkuppen</b> bilden den nördlichen Ausläufer des <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamms</a>. Der <a href="/wiki/Finsterer_Svellt" title="Finsterer Svellt">Finstere Svellt</a> entspringt hier.
+Die bis zu 1500 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> hohen <b>Schwarzkuppen</b> bilden den nördlichen Ausläufer des <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamms</a>. Der <a href="http://www.wiki-aventurica.de/wiki/Finsterer_Svellt" title="Finsterer Svellt">Finstere Svellt</a> entspringt hier.
 </p>
 
 <hr><div id="wiki">
@@ -336,7 +919,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Die <b>Sturmhöhe</b> ist ein <a href="/wiki/Berg" title="Berg">Berg</a> im <a href="/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
+Die <b>Sturmhöhe</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>.
 </p>
 
 <hr><div id="wiki">

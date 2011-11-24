@@ -26,7 +26,7 @@
               <longitude>-1.728715957577237</longitude>
 				<latitude>26.90588318174779</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
@@ -43,7 +43,7 @@
               <longitude>-1.729266478730068</longitude>
 				<latitude>26.9057514113183</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
@@ -60,7 +60,7 @@
               <longitude>-1.727697506962201</longitude>
 				<latitude>26.90506649789248</latitude>
               <altitude>0</altitude>
-              <range>2000</range>
+              <range>400</range>
               <tilt>0</tilt>
               <heading>0</heading>
               <altitudeMode>relativeToGround</altitudeMode>
@@ -69,8 +69,6 @@
              <coordinates>-1.731530098274988,26.90424011185159,0</coordinates>
 		</Point>
     </Placemark>
-    
-	
 	<Placemark>
 		<name>Kontor Bleichbruck</name>
 		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Unterstadt<TR><TD><I>Besitzer/Vorsteher:</I> Kunigunde Bleichbruck<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Hinter dem Thron, S. 86<TR><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
@@ -78,20 +76,16 @@
 			<longitude>-1.729357397009134</longitude>
 			<latitude>26.90455826123205</latitude>
 			<altitude>0</altitude>
-			<range>416.6274908172538</range>
+			<range>400</range>
 			<tilt>0</tilt>
-			<heading>-0.0001768763113770081</heading>
+			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
 		<Point>
 			<coordinates>-1.729484315557245,26.90491488339713,0</coordinates>
 		</Point>
 	</Placemark>
-
-	
-	
     </Folder>
   </Document>
 </kml>

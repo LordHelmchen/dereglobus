@@ -17,14 +17,6 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
    </Region>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
-        <Style>
-          <BalloonStyle>
-            <textColor>ff000000</textColor>
-            <bgColor>ffffffff</bgColor>
-            <displayMode>default</displayMode>
-          </BalloonStyle>
-        </Style>
         <Placemark>
           <name>Totenhafen</name>
 		  <ExtendedData>
@@ -37,9 +29,9 @@
             <longitude>6.971272094049836</longitude>
             <latitude>27.16785194419952</latitude>
             <altitude>0</altitude>
-            <range>2848.697593731977</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.001769434548125326</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -59,9 +51,9 @@
             <longitude>6.971272094049836</longitude>
             <latitude>27.16785194419952</latitude>
             <altitude>0</altitude>
-            <range>2848.697593731977</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.001769434548125326</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -81,9 +73,9 @@
             <longitude>6.97130045045468</longitude>
             <latitude>27.16916326421039</latitude>
             <altitude>0</altitude>
-            <range>2848.697593735798</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.001781988805962814</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -103,9 +95,9 @@
             <longitude>6.964293430954654</longitude>
             <latitude>27.16464621370803</latitude>
             <altitude>0</altitude>
-            <range>1728.82921724763</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>-0.001416737323658125</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -162,9 +154,9 @@ verfügbar, dort kann man den
             <longitude>6.967528494904118</longitude>
             <latitude>27.16799636159669</latitude>
             <altitude>0</altitude>
-            <range>1403.487810156897</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>5.966688597456779e-005</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -221,9 +213,9 @@ verfügbar, dort kann man den
             <longitude>6.967859917484058</longitude>
             <latitude>27.16602029868626</latitude>
             <altitude>0</altitude>
-            <range>1403.376795288577</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.0002106277039533143</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -280,9 +272,9 @@ verfügbar, dort kann man den
             <longitude>6.967859917484058</longitude>
             <latitude>27.16602029868626</latitude>
             <altitude>0</altitude>
-            <range>1403.376795288577</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.0002106277039533143</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -291,7 +283,7 @@ verfügbar, dort kann man den
           </Point>
         </Placemark>
         <Placemark>
-          <name>Hammam "Sultani"</name>
+          <name>Hammam Sultani</name>
 		  <ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -302,9 +294,9 @@ verfügbar, dort kann man den
             <longitude>6.968320645160349</longitude>
             <latitude>27.15977093262123</latitude>
             <altitude>0</altitude>
-            <range>1403.376795284405</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.0004206621587733087</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -325,9 +317,9 @@ verfügbar, dort kann man den
             <longitude>6.974784514202986</longitude>
             <latitude>27.16846577511159</latitude>
             <altitude>0</altitude>
-            <range>1279.553282448297</range>
+            <range>400</range>
             <tilt>0</tilt>
-            <heading>0.003371714125008387</heading>
+            <heading>0</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
@@ -335,8 +327,6 @@ verfügbar, dort kann man den
             <coordinates>6.975580342501866,27.16903778351269,0</coordinates>
           </Point>
         </Placemark>
-
-      </Folder>
-      
+      </Folder>     
     </Document>
 </kml>

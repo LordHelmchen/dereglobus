@@ -3,7 +3,15 @@
 <Document>
 	<name>Gebirge</name>
 
-<NetworkLink>
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Blutzinnen</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Blutzinnen.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Drachensteine</name>
 		<Link>
@@ -11,7 +19,7 @@
 		</Link>
 	</NetworkLink>
 
-<NetworkLink>
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Finsterkamm</name>
 		<Link>
@@ -19,7 +27,23 @@
 		</Link>
 	</NetworkLink>
 
-<NetworkLink>
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Firunswall</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Firunswall.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Ogerzähne</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Ogerzaehne.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Rorwhed</name>
 		<Link>
@@ -27,7 +51,7 @@
 		</Link>
 	</NetworkLink>
 
-<NetworkLink>
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Rote Sichel</name>
 		<Link>
@@ -35,7 +59,7 @@
 		</Link>
 	</NetworkLink>
 
-<NetworkLink>
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Salamandersteine</name>
 		<Link>
@@ -43,7 +67,7 @@
 		</Link>
 	</NetworkLink>
 
-<NetworkLink>
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Schwarze Sichel</name>
 		<Link>
@@ -51,7 +75,15 @@
 		</Link>
 	</NetworkLink>
 
-<NetworkLink>
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Thasch</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Thasch.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Gebirge Rakshazars</name>
 		<Link>

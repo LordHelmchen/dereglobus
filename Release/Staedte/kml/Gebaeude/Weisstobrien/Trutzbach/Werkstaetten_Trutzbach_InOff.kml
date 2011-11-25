@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
   <Document>
-
-       <name>Werkst�tten in Trutzbach (InOff)</name>
+       <name>Werkstätten in Trutzbach (InOff)</name>
    	<Region>
 		<LatLonAltBox>
 			<north>32.94805537772493</north>
@@ -20,8 +19,7 @@
 		</Lod>
 	</Region>
         <Placemark>
-          <name>M�hle (18)</name>
-     
+          <name>Mühle</name>
           <LookAt>
             <longitude>7.804614079219821</longitude>
             <latitude>32.94685361119623</latitude>
@@ -37,8 +35,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>K�hler (17)</name>
-     
+          <name>Köhler</name>   
           <LookAt>
             <longitude>7.805303504486956</longitude>
             <latitude>32.94391909422534</latitude>
@@ -54,8 +51,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Drechsler (16)</name>
-     
+          <name>Drechsler</name>     
           <LookAt>
             <longitude>7.802321956008727</longitude>
             <latitude>32.94617526595658</latitude>
@@ -71,8 +67,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Wagner (15)</name>
-     
+          <name>Wagner</name>    
           <LookAt>
             <longitude>7.802645123332669</longitude>
             <latitude>32.94545541831199</latitude>
@@ -88,8 +83,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Tischler (14)</name>
-     
+          <name>Tischler</name>    
           <LookAt>
             <longitude>7.802483541535426</longitude>
             <latitude>32.94578712608834</latitude>
@@ -105,8 +99,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Schneider (13)</name>
-     
+          <name>Schneider</name> 
           <LookAt>
             <longitude>7.802885346779783</longitude>
             <latitude>32.94635319590344</latitude>
@@ -122,8 +115,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Togans Schmiede (12)</name>
-     
+          <name>Togans Schmiede</name>    
           <LookAt>
             <longitude>7.802887008144128</longitude>
             <latitude>32.94604109443561</latitude>
@@ -139,8 +131,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Schuster (11)</name>
-     
+          <name>Schuster</name>
           <LookAt>
             <longitude>7.80261758571794</longitude>
             <latitude>32.94634836552003</latitude>
@@ -156,8 +147,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>B�ckerei (10)</name>
-     
+          <name>Bäckerei</name> 
           <LookAt>
             <longitude>7.802983812807294</longitude>
             <latitude>32.94555866231673</latitude>
@@ -172,7 +162,5 @@
             <coordinates>7.802903642622223,32.94565862041893,0</coordinates>
           </Point>
         </Placemark>
-  
-  
     </Document>
 </kml>

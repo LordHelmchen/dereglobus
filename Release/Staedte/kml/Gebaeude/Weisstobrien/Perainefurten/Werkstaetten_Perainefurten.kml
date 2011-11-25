@@ -73,9 +73,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
           <Snippet maxLines="0">
           </Snippet>
         </Placemark>
-
-
-
 	<Placemark>
 		<name>Mühle</name>
 		<Snippet maxLines="0"></Snippet>
@@ -125,9 +122,6 @@ verfügbar, dort kann man den
 			<coordinates>8.088250490157025,33.03093993647114,0</coordinates>
 		</Point>
 	</Placemark>
-
-
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
       </Folder>
     </Document>
 </kml>

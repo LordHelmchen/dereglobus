@@ -11,28 +11,6 @@
 		</Link>
 	</NetworkLink>
 
-	<Style id="Gebirge">
-    		<ListStyle>
-  			<ItemIcon>     
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Gebirge.png</href>
- 			</ItemIcon>     
-			<listItemType>checkHideChildren</listItemType>
-		</ListStyle>
-		<BalloonStyle>
-			<!-- a background color for the balloon -->
-			<bgColor>FF1C1A1A</bgColor>
-			<!-- styling of the balloon text -->
-			<text>
-				<![CDATA[
-				<font face="Calibri" color="#366698" size="+3">$[name]</font>
-				<br/><br/>
-				<font color="#bbbbbb">$[description]</font>
-				]]>
-			</text>
-			<textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>	
-	
 	<NetworkLink>
 	<visibility>0</visibility>
 		<name>Landmarken</name>

@@ -2,9 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
-	<Folder>
-		<name>Blutzinnen</name>
-		<ExtendedData>
+<Folder>
+	<name>Blutzinnen</name>
+
+		<Placemark>
+			<name>Blutzinnen</name>
+			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -46,19 +49,43 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-		<LookAt>
-			<longitude>0.56245898238936</longitude>
-			<latitude>34.77620556688355</latitude>
-			<altitude>0</altitude>
-			<range>400000</range>
-			<tilt>0</tilt>
-			<heading>0</heading>
-			<altitudeMode>relativeToGround</altitudeMode>
-		</LookAt>
+			<LookAt>
+				<longitude>0.5457098791049919</longitude>
+				<latitude>34.58175982040051</latitude>
+				<altitude>400000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>0.5582399526465709,34.58540068943098,0</coordinates>
+			</Point>
+		</Placemark>
 
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
 		<Placemark>
-			<name>Hilvalskopf</name>
-			<ExtendedData>
+		<name>Hilvalskopf</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -103,13 +130,13 @@ verfügbar, dort kann man den
 				<heading>0</heading>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
 			<Point>
 				<coordinates>0.05163877974445397,34.75982668840447,0</coordinates>
 			</Point>
 		</Placemark>
 
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
 	</Folder>
+</Folder>
 </Document>
 </kml>

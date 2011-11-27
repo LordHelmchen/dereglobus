@@ -2,9 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
-	<Folder>
-		<name>Firunswall</name>
-		<ExtendedData>
+<Folder>
+	<name>Firunswall</name>
+
+		<Placemark>
+			<name>Firunswall</name>
+			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -41,16 +44,28 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-			<longitude>-0.4199902388813803</longitude>
-			<latitude>35.74169623699271</latitude>
-			<altitude>0</altitude>
-			<range>250000</range>
+			<longitude>-0.4693208267972737</longitude>
+			<latitude>35.73984840199243</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
 			<tilt>0</tilt>
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>-0.4731374300167579,35.74539024220056,0</coordinates>
+			</Point>
+		</Placemark>
 
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
-	</Folder>
+</Folder>
 </Document>
 </kml>

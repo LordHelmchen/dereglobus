@@ -2,9 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
-	<Folder>
-		<name>Drachensteine</name>
-		<ExtendedData>
+<Folder>
+	<name>Drachensteine</name>
+
+		<Placemark>
+			<name>Drachensteine</name>
+			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -21,7 +24,8 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <p>
 Die <b>Drachensteine</b> sind ein Gebirge in Nordaventurien. Sie beherrschen die Grenzlande zwischen dem <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">mittelreichischen</a> <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Tobrien" title="Herzogtum Tobrien">Herzogtum Tobrien</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a>. Ihre Gipfel sind bis zu 3000 Schritt hoch, im Süden schließt sich die <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel" title="Schwarze Sichel">Schwarze Sichel</a> an. Das Gebirge erhielt seinen Namen aufgrund der bedeutenden Anzahl dort lebender <a href="http://www.wiki-aventurica.de/wiki/Drache" title="Drache">Drachen</a>, unter ihnen der Kaiserdrache <a href="http://www.wiki-aventurica.de/wiki/Apep" title="Apep">Apep</a>.<br>
 <br>
-Die <a href="http://www.wiki-aventurica.de/wiki/Amazone" title="Amazone">Amazonenfeste</a> <a href="http://www.wiki-aventurica.de/wiki/Yeshinna" title="Yeshinna">Yeshinna</a> befindet sich ebenso wie das <a href="http://www.wiki-aventurica.de/wiki/Tal_der_T%C3%BCrme" title="Tal der Türme">Tal der Türme</a> irgendwo in den Drachensteinen. In den Bergen leben sehr zurückgezogen einige <a href="http://www.wiki-aventurica.de/wiki/Erzzwerg" title="Erzzwerg">Erzzwerge</a>, die <a href="http://www.wiki-aventurica.de/wiki/Apep" title="Apep">Apeps</a> geheimen Hort heben wollen.</p>
+Die <a href="http://www.wiki-aventurica.de/wiki/Amazone" title="Amazone">Amazonenfeste</a> <a href="http://www.wiki-aventurica.de/wiki/Yeshinna" title="Yeshinna">Yeshinna</a> befindet sich ebenso wie das <a href="http://www.wiki-aventurica.de/wiki/Tal_der_T%C3%BCrme" title="Tal der Türme">Tal der Türme</a> irgendwo in den Drachensteinen. In den Bergen leben sehr zurückgezogen einige <a href="http://www.wiki-aventurica.de/wiki/Erzzwerg" title="Erzzwerg">Erzzwerge</a>, die <a href="http://www.wiki-aventurica.de/wiki/Apep" title="Apep">Apeps</a> geheimen Hort heben wollen.
+</p>
 
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
@@ -42,18 +46,43 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-			<longitude>8.363642619829282</longitude>
-			<latitude>33.87150560367245</latitude>
-			<altitude>0</altitude>
-			<range>250000</range>
+			<longitude>8.138148710520094</longitude>
+			<latitude>33.80317735749622</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
 			<tilt>0</tilt>
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>8.133675389678327,33.78727989503779,0</coordinates>
+			</Point>
+		</Placemark>
 
-		<Placemark>
-			<name>Apeps Säule</name>
-			<ExtendedData>
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
+
+	<Placemark>
+		<name>Apeps Säule</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -106,7 +135,15 @@ verfügbar, dort kann man den
 		
 		<Placemark>
 			<name>Blutberg</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -159,7 +196,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Dämonenkralle</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -212,7 +257,15 @@ verfügbar, dort kann man den
 		
 		<Placemark>
 			<name>Drachenthron</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -265,7 +318,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Feuerkogel</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -318,7 +379,15 @@ verfügbar, dort kann man den
 		
 		<Placemark>
 			<name>Hohe Warte (Apeps Wacht)</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>Hohe Warte</value>
 </Data>
@@ -371,7 +440,15 @@ verfügbar, dort kann man den
 		
 		<Placemark>
 			<name>Silberturm</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -424,7 +501,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Sturmhaupt</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -475,7 +560,7 @@ verfügbar, dort kann man den
 			</Point>
 		</Placemark>
 
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
 	</Folder>
+</Folder>
 </Document>
 </kml>

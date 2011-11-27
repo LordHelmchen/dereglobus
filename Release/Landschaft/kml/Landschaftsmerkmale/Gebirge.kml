@@ -2,7 +2,37 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Gebirge</name>
+    <visibility>1</visibility>
+    <open>0</open>
 
+	<Style id="Gebirge">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Gebirge.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+     <Folder>
+        <open>0</open>
+        <name>Gebirge</name>
+        <visibility>1</visibility>
+        <styleUrl>#Gebirge</styleUrl>
+		
 	<NetworkLink>
 		<visibility>1</visibility>
 		<name>Blutzinnen</name>
@@ -90,6 +120,7 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Gebirge_Rakshazar.kml</href>
 		</Link>
 	</NetworkLink>
+</Folder>
 	
 </Document>
 </kml>

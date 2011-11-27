@@ -49,15 +49,15 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>0.5457098791049919</longitude>
-				<latitude>34.58175982040051</latitude>
-				<altitude>400000</altitude>
-				<range>0</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-			</LookAt>
+		<LookAt>
+			<longitude>0.5775931191760964</longitude>
+			<latitude>34.27602879037811</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
 		<Region>
 			<Lod>
 				<minLodPixels>10000</minLodPixels>
@@ -68,7 +68,7 @@ verfügbar, dort kann man den
 		</Region>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
 			<Point>
-				<coordinates>0.5582399526465709,34.58540068943098,0</coordinates>
+				<coordinates>0.5775931191763961,34.27602879037811,0</coordinates>
 			</Point>
 		</Placemark>
 

@@ -2,8 +2,19 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
-	<Folder>
-		<name>Schwarze Sichel</name>
+<Folder>
+	<name>Schwarze Sichel</name>
+
+		<Placemark>
+			<name>Schwarze Sichel</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -44,18 +55,43 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-			<longitude>6.216043544197683</longitude>
-			<latitude>31.87468174117128</latitude>
-			<altitude>0</altitude>
-			<range>400000</range>
+			<longitude>5.823298570946105</longitude>
+			<latitude>31.65635919926683</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
 			<tilt>0</tilt>
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>5.823298570946105,31.65635919926683,0</coordinates>
+			</Point>
+		</Placemark>
+
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
 
 		<Placemark>
 			<name>Alboranszahn</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -108,7 +144,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Blitzspitze</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -161,7 +205,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Bockshorn</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -214,6 +266,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Drachenthron</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>Drachenthron (Schwarze Sichel)</value>
@@ -267,7 +327,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Eiskogel</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -320,7 +388,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Gehörnter Kaiser</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -373,7 +449,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Grauzahn</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -426,7 +510,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Klirrfrostspitze</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -479,7 +571,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Knubbelnase</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -532,7 +632,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Kurimskrone</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -585,7 +693,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Martenstieg</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -638,7 +754,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Nebelstutz</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -691,7 +815,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Rachtelkuppe</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -744,7 +876,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Runkelklippe</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -797,7 +937,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Sokramurs Haupt</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -850,7 +998,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Sokramurs Klaue</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -903,7 +1059,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Sonnenthron</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -956,7 +1120,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Wolkenfänger</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -1009,7 +1181,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Yrrwenzacke</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -1062,7 +1242,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Zippelstein</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -1113,7 +1301,7 @@ verfügbar, dort kann man den
 			</Point>
 		</Placemark>
 
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
 	</Folder>
+</Folder>
 </Document>
 </kml>

@@ -2,9 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
-	<Folder>
-		<name>Finsterkamm</name>
-		<ExtendedData>
+<Folder>
+	<name>Finsterkamm</name>
+
+		<Placemark>
+			<name>Finsterkamm</name>
+			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -23,7 +26,6 @@ Der <b>Finsterkamm</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Gebir
 </p>
 <p>
 Das Gebirge gilt als gefährlich. Dort leben viele Stämme der <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a>, die <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm-Zwerg" title="Finsterkamm-Zwerg">Finsterkamm-Zwerge</a> (u. a. in <a href="http://www.wiki-aventurica.de/wiki/Finsterkoppen" title="Finsterkoppen">Finsterkoppen</a>) und die <a href="http://www.wiki-aventurica.de/wiki/Finsterzwerg" title="Finsterzwerg">Finsterzwerge</a>. Auch der Hort des <a href="http://www.wiki-aventurica.de/wiki/Greif" title="Greif">Greifen</a> <a href="http://www.wiki-aventurica.de/wiki/Garafan" title="Garafan">Garafan</a> soll sich im Finsterkamm befinden.
-</p>
 </p>
 
 <hr><div id="wiki">
@@ -45,18 +47,43 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-			<longitude>2.140649378469688</longitude>
-			<latitude>32.4798011439157</latitude>
-			<altitude>0</altitude>
-			<range>400000</range>
+			<longitude>2.463580116076765</longitude>
+			<latitude>32.57576425564455</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
 			<tilt>0</tilt>
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>2.463580116076765,32.57576425564455,0</coordinates>
+			</Point>
+		</Placemark>
+
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
 
 		<Placemark>
 			<name>Brachthor</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -109,7 +136,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Drachenkopf</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>Drachenkopf (Finsterkamm)</value>
 </Data>
@@ -162,7 +197,15 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Drei Schwestern</name>
-			<ExtendedData>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -215,6 +258,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Goldspitze</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -268,6 +319,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Finsterhaupt</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -321,6 +380,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Finsterkopp</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -374,6 +441,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Githalsthor</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -427,6 +502,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Hoher Stumpen</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -480,6 +563,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Ingerimms Tafel</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -533,6 +624,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Jungfer</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -586,6 +685,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Kroks Zahn</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -639,6 +746,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Nebelstein</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -692,6 +807,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Nimmerkuppe</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -745,6 +868,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Orkenmaul</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -798,6 +929,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Schwarzkuppe</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -851,6 +990,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Schwarzkuppen</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -904,6 +1051,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Sturmhöhe</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -955,7 +1110,7 @@ verfügbar, dort kann man den
 			</Point>
 		</Placemark>
 
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
 	</Folder>
+</Folder>
 </Document>
 </kml>

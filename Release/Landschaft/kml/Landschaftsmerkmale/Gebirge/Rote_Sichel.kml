@@ -2,9 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
-	<Folder>
-		<name>Rote Sichel</name>
-		<ExtendedData>
+<Folder>
+	<name>Rote Sichel</name>
+
+		<Placemark>
+			<name>Rote Sichel</name>
+			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
@@ -44,17 +47,42 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-			<longitude>7.084540425088406</longitude>
-			<latitude>34.55632432125154</latitude>
-			<altitude>0</altitude>
-			<range>250000</range>
+			<longitude>7.116935260732095</longitude>
+			<latitude>34.56118490689028</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
 			<tilt>0</tilt>
 			<heading>0</heading>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>7.116935260732095,34.56118490689028,0</coordinates>
+			</Point>
+		</Placemark>
+
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
 
 		<Placemark>
 			<name>Adlerspitze</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -111,6 +139,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Dreizack</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>Dreizack (Berg)</value>
@@ -164,6 +200,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Eulenberg</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -217,6 +261,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Naira Kubuch</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -270,6 +322,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Naira Theluzi</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -323,6 +383,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Rohalsmütze</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -376,6 +444,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Roter Brocken</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -429,6 +505,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Uhdenkuppe</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -482,6 +566,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Wetterhorn</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -535,6 +627,14 @@ verfügbar, dort kann man den
 
 		<Placemark>
 			<name>Wyrmenhorn</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
 			<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -586,7 +686,7 @@ verfügbar, dort kann man den
 			</Point>
 		</Placemark>
 
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
 	</Folder>
+</Folder>
 </Document>
 </kml>

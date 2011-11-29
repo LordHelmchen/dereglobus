@@ -2789,41 +2789,69 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
-<GroundOverlay id="Khezzara-Plan">
-	<name>Khezzara</name>
+<Folder id="Khezzara-Plan">
+      <open>0</open>
+      <name>Khezzara</name>
+      	<Style>
+		<ListStyle>
+		<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>
 	<Region>
-          <LatLonAltBox>
-		<north>33.79384081750062</north>
-		<south>33.79132804927691</south>
-		<east>-0.07822331810895376</east>
-		<west>-0.08284636149193105</west>
-          </LatLonAltBox>
-          <Lod>
-             <minLodPixels>16</minLodPixels>
-             <maxLodPixels>-1</maxLodPixels>
-             <minFadeExtent>128</minFadeExtent>
-             <maxFadeExtent>0</maxFadeExtent>
-          </Lod>
-       </Region>
+      <LatLonAltBox>
+		<north>33.79384419676054</north>
+		<south>33.79134407704074</south>
+		<east>-0.07823318738653168</east>
+		<west>-0.08283194854527215</west>
+		<minAltitude>0</minAltitude>
+		<maxAltitude>0</maxAltitude>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
 	<description><![CDATA[    <style type="text/css"><!--
     a:link, a:visited { text-decoration: none; color: #B21C19; }
     a:hover { text-decoration: underline; color: #B21C19; }
     hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
     #wiki { font-size:10px; }
     --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Roten_Mondes" title="Reich des Roten Mondes">RdRM</a>]]></description>
-	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+<GroundOverlay>
+	<name>Khezzara</name>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>	
 	<drawOrder>21</drawOrder>
 	<Icon>
-		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Khezzara_RdRM_sw_245.jpg</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Khezzara_RdRM_sw_245.png</href>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>33.79384081750062</north>
-		<south>33.79132804927691</south>
-		<east>-0.07822331810895376</east>
-		<west>-0.08284636149193105</west>
+		<north>33.79384419676054</north>
+		<south>33.79134407704074</south>
+		<east>-0.07823318738653168</east>
+		<west>-0.08283194854527215</west>
 	</LatLonBox>
 </GroundOverlay>
+
+<GroundOverlay>
+	<name>Wald</name>
+	<drawOrder>22</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Khezzara_Wald.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>33.79525748181949</north>
+		<south>33.79448474445356</south>
+		<east>-0.08323651938950318</east>
+		<west>-0.08451851183763158</west>
+	</LatLonBox>
+</GroundOverlay>
+<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>	
+</Folder>
 	
 <Folder>
       <open>0</open>

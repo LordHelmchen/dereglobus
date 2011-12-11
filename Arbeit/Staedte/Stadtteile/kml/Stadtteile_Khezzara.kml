@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
-	<name>Stadtteile_KHEZZARA.kml</name>
+	<name>Stadtteile_Khezzara.kml</name>
 	<open>1</open>	
 	<Folder>
-		<name>Stadtteile_KHEZZARA</name>
+		<name>Stadtteile_Khezzara</name>
 		<open>0</open>
 		<Placemark>
 			<name>Korogai-Viertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -60,36 +44,20 @@
 		</Placemark>
 		<Placemark>
 			<name>Mokolash-Viertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -112,36 +80,20 @@
 		</Placemark>
 		<Placemark>
 			<name>Olochtai-Viertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -164,36 +116,20 @@
 		</Placemark>
 		<Placemark>
 			<name>Orichai-Viertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -216,36 +152,20 @@
 		</Placemark>
 		<Placemark>
 			<name>Palastviertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -268,36 +188,20 @@
 		</Placemark>
 		<Placemark>
 			<name>Tordochai-Viertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -320,36 +224,20 @@
 		</Placemark>	
 		<Placemark>
 			<name>Truanzhai-Viertel</name>
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -372,36 +260,20 @@
 		</Placemark>	
 		<Placemark>
 			<name>Vororte</name>
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
@@ -424,36 +296,20 @@
 		</Placemark>
 		<Placemark>
 			<name>Zholochai-Viertel</name>			
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData> 
-			<description>
-				<![CDATA[<style type="text/css">
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
 					<!--
-					a:link, a:visited { text-decoration: none; color: #B21C19; }
-					a:hover { text-decoration: underline; color: #B21C19; }
-					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-					#wiki { font-size:10px; }
-				-->
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
 				</style>
 				<table cellpadding="10" cellspacing="0" align="center">
-					<tr>
-						<td>
-							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
-								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-
-
-								<!-- END EDIT -->
-							<p>&nbsp;</p>
-								<hr><div id="wiki">
-									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-									<p>&nbsp;</p>
-									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
-								</div>
-						</td>
-					</tr>
 				</table>]]>
 			</description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>

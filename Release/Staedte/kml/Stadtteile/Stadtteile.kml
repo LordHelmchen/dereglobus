@@ -128,6 +128,31 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Echsensuempfe/Stadtteile_Kannemuende.kml</href>
 			</Link>
 		</NetworkLink>	 
+	
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+		<Region>
+			<LatLonAltBox>
+				<north>22.19324091518305</north>
+				<south>22.19118261588732</south>
+				<east>3.886815491363515</east>
+				<west>3.883689172179304</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>5</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Orkland/Stadtteile_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>	 
 		
 		<NetworkLink>
 			<name>Perainefurten</name>

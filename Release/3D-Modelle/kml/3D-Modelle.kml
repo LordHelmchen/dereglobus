@@ -11,7 +11,49 @@
     <name>Sehenswürdigkeiten</name>
     <open>0</open>
     <visibility>0</visibility>
-
+<NetworkLink id="Rhodenstein">
+	<name>Die Feste Rhodenstein</name>
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<span style="font-size: 8pt">K&uuml;nstler: Thethan / Quellen: <a title=""</span>
+<p><b>Feste Rhodenstein</b>, auch kurz <b>der Rhodenstein</b> genannt, ist eine Burg in der <a href="/wiki/Weiden" title="Weiden" class="mw-redirect">weidenschen</a> <a href="/wiki/Grafschaft_B%C3%A4rwalde" title="Grafschaft Bärwalde">Grafschaft Bärwalde</a>. Sie thront auf dem gleichnamigen Felsen und liegt am <a href="/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> mit dem Weiler <a href="/wiki/Rhodenstein" title="Rhodenstein">Rhodenstein</a> zu Füßen.
+</p><p>Rhodenstein wurde als Grenzfeste in den Tagen <a href="/wiki/Bosparan" title="Bosparan">Bosparans</a> erbaut. Unter Kaiser <a href="/wiki/Hal_von_Gareth" title="Hal von Gareth">Hal</a> erhielt sie <a href="/wiki/Herdan_Pratos" title="Herdan Pratos" class="mw-redirect">Herdan Pratos</a> zum Lehen, der hier den <a href="/wiki/Heiliger_Orden_zur_Wahrung_vom_Rhodenstein" title="Heiliger Orden zur Wahrung vom Rhodenstein">Orden zur Wahrung</a> gründete.
+</p>
+<br /><br /><a href="http://www.wiki-aventurica.de/wiki/Feste_Rhodenstein">Feste Rhodenstein</a>]]></description>
+		<LookAt>
+			<longitude>3.921144600260414</longitude>
+			<latitude>32.85121030785578</latitude>
+			<altitude>0</altitude>
+			<heading>34.33300698364656</heading>
+			<tilt>56.09971419671489</tilt>
+			<range>511.6881281064693</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>32.85402070226368</north>
+			<south>32.8495756099079</south>
+			<east>3.925216422497851</east>
+			<west>3.918236580905639</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>512</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/style/3D-Modelle.kml#list</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kmz/Sehenswuerdigkeiten/Rhodenstein.kmz</href>
+	</Link>
+</NetworkLink>
 <NetworkLink id="Spiegelpalast">
 	<name>Der Spiegelpalast zu Zorgan</name>
 	<description><![CDATA[<style type="text/css"><!--

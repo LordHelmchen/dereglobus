@@ -15,6 +15,60 @@
 	</Region>
 
 <Placemark>
+		<name>Alderhaag</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Alderhaag</b> ist ein Gebiet in den <a title="Brinasker Marschen" href="http://www.wiki-aventurica.de/wiki/Brinasker_Marschen">Brinasker Marschen</a>. Es liegt östlich und nördlich des Flusses <a title="Nuran Kaeeli" href="http://www.wiki-aventurica.de/wiki/Nuran_Kaeeli">Nuran Kaeeli</a>, wo der Boden nicht mehr ganz so sumpfig ist, der dort in den <a title="Hügel der 100 Karene (Seite nicht vorhanden)" class="new" href="/index.php?title=H%C3%BCgel_der_100_Karene&amp;action=edit&amp;redlink=1">Hügeln der 100 Karene</a> entspringt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.725466646979928</longitude>
+			<latitude>36.53598671291577</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>1.725466646979927,36.53598671291577,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Altsvelltsümpfe</name>
 	<ExtendedData>
 <Data name="Link">
@@ -52,20 +106,128 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>2.139440504533154</longitude>
-				<latitude>33.94512568707918</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>2.139440504533174,33.94512568707917,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>2.139440504533154</longitude>
+			<latitude>33.94512568707918</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>2.139440504533174,33.94512568707917,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Brinasker Marschen</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Brinasker Marschen</b> sind eine <a title="Sumpf" href="http://www.wiki-aventurica.de/wiki/Sumpf">sumpfige</a> Region im Nordosten <a title="Thorwal" href="http://www.wiki-aventurica.de/wiki/Thorwal">Thorwals</a>. Die namensgebenden Marschen liegen nördlich von <a title="Tjolmar" href="http://www.wiki-aventurica.de/wiki/Tjolmar">Tjolmar</a> und werden von den <a class="mw-redirect" title="Svellttal" href="http://www.wiki-aventurica.de/wiki/Svellttal">Svellttalern</a> <a title="Niederlandt" href="http://www.wiki-aventurica.de/wiki/Niederlandt">Niederlandt</a> genannt.  Seit <a title="Chronik:1011" href="http://www.wiki-aventurica.de/wiki/Chronik:1011">1011 BF</a> gehört die Region als <a title="Jarltum" href="http://www.wiki-aventurica.de/wiki/Jarltum">Jarltum</a> zu <a title="Thorwal" href="http://www.wiki-aventurica.de/wiki/Thorwal">Thorwal</a>. Die Bevölkerung besteht aus <a title="Thorwaler" href="http://www.wiki-aventurica.de/wiki/Thorwaler">Thorwalern</a>, <a title="Ork" href="http://www.wiki-aventurica.de/wiki/Ork">Orks</a>, <a class="mw-redirect" title="Svellttal" href="http://www.wiki-aventurica.de/wiki/Svellttal">Svellttalern</a> und <a title="Nivese" href="http://www.wiki-aventurica.de/wiki/Nivese">Nivesen</a>. Als besondere Orte gelten die Hausbootinsel <a title="Parkauki" href="http://www.wiki-aventurica.de/wiki/Parkauki">Parkauki</a> und das Seengebiet der <a title="Drei Klageweiber" href="http://www.wiki-aventurica.de/wiki/Drei_Klageweiber">Drei Klageweiber</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.2172077712125975</longitude>
+			<latitude>36.810858876567</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>0.2172077712126974,36.810858876567,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Bruch</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Bruch</b> ist ein <a title="Sumpf" href="http://www.wiki-aventurica.de/wiki/Sumpf">sumpfiges</a> und dicht besiedeltes Gebiet in den <a title="Brinasker Marschen" href="http://www.wiki-aventurica.de/wiki/Brinasker_Marschen">Brinasker Marschen</a>, zwischen <a title="Svellt" href="http://www.wiki-aventurica.de/wiki/Svellt">Svellt</a> und <a title="Brinask" href="http://www.wiki-aventurica.de/wiki/Brinask">Brinask</a>. Die Menschen leben von der <a title="Fisch" href="http://www.wiki-aventurica.de/wiki/Fisch">Fischerei</a> und dem <a title="Torf (Seite nicht vorhanden)" class="new" href="/index.php?title=Torf&amp;action=edit&amp;redlink=1">Torfstechen</a>. Als Verkehrsweg dient der <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a> <a title="Nuran Rorwhed" href="http://www.wiki-aventurica.de/wiki/Nuran_Rorwhed">Nuran Rorwhed</a>, der auch die beiden Seen <a title="Dornwasser" href="http://www.wiki-aventurica.de/wiki/Dornwasser">Dornwasser</a> und <a title="Muunasee" href="http://www.wiki-aventurica.de/wiki/Muunasee">Muunasee</a> speist.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.8813309818138526</longitude>
+			<latitude>35.87625752833164</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>0.8813309818138726,35.87625752833164,0</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -106,20 +268,20 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>10.86292631629651</longitude>
-				<latitude>34.09790894683685</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>10.8629263162965,34.09790894683685,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>10.83779383874313</longitude>
+			<latitude>34.06465059694546</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>10.84190077244439,34.06692652008238,0</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -163,20 +325,74 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>4.15796894997611</longitude>
-				<latitude>34.16716923264873</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>4.157968949976089,34.16716923264873,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>4.15796894997611</longitude>
+			<latitude>34.16716923264873</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>4.157968949976089,34.16716923264873,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Niederlandt</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Niederlandt</b> ist ein Gebiet in den <a title="Brinasker Marschen" href="http://www.wiki-aventurica.de/wiki/Brinasker_Marschen">Brinasker Marschen</a>. Es besteht aus flachen Marschen, also Schwemmland, und liegt nördlich von <a title="Tjolmar" href="http://www.wiki-aventurica.de/wiki/Tjolmar">Tjolmar</a>. Es ist nicht klar, ob es großteils aus Schilffeldern oder aus Teichen und sumpfigen Mooren besteht. Das größte Gewässer ist der <a title="Brack" href="http://www.wiki-aventurica.de/wiki/Brack">Brack</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.3381759024940467</longitude>
+			<latitude>36.29084599777681</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf-X</styleUrl>
+		<Point>
+			<coordinates>0.3452427801029234,36.29634652235347,0</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -217,20 +433,74 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>2.066633944428058</longitude>
-				<latitude>34.30256535385841</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>2.066633944428078,34.30256535385841,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>2.066633944428058</longitude>
+			<latitude>34.30256535385841</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>2.066633944428078,34.30256535385841,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Riedemoor</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Riedemoor</b> ist eine weitläufige <a title="Sumpf" href="http://www.wiki-aventurica.de/wiki/Sumpf">Sumpflandschaft</a> im Süden <a title="Riva" href="http://www.wiki-aventurica.de/wiki/Riva">Rivas</a>. Obwohl als unheimlicher Ort bekannt, locken seit <a title="Chronik:1031" href="http://www.wiki-aventurica.de/wiki/Chronik:1031">1031 BF</a> Funde von Gold und verschiedenen Artefakten Glücksritter an.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>3.008991271104282</longitude>
+			<latitude>37.24736525083849</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>3.008991271104302,37.24736525083849,0</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -271,20 +541,20 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>10.28348639503213</longitude>
-				<latitude>35.70538018819035</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>10.28348639503213,35.70538018819035,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>10.29558060830471</longitude>
+			<latitude>35.66579019240798</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>10.27976951453784,35.66372961728774,0</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -325,20 +595,20 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>1.532760272367226</longitude>
-				<latitude>34.13116432512513</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>1.532760272367246,34.13116432512513,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>1.532760272367226</longitude>
+			<latitude>34.13116432512513</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>1.532760272367246,34.13116432512513,0</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -382,20 +652,20 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-				<longitude>9.954817246817262</longitude>
-				<latitude>36.91810786608928</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
-			<Point>
-				<coordinates>9.954817246817262,36.91810786608929,0</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>9.959600220890605</longitude>
+			<latitude>36.89031986492861</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>9.95323715052905,36.89987419443271,0</coordinates>
+		</Point>
 </Placemark>
 
 </Folder>

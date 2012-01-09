@@ -231,6 +231,63 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Echsensümpfe</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Echsensümpfe</b> sind ein <a title="Sumpf" href="http://www.wiki-aventurica.de/wiki/Sumpf">Sumpfgebiet</a> an der <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeerküste</a> südlich der Wüste <a title="Khôm" href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m">Khôm</a>. Sie bestehen aus vielen kleinen Seen, Teersümpfen und Mangrovenwäldern. Die Randgebiete sind teilweise von <a title="Mensch" href="http://www.wiki-aventurica.de/wiki/Mensch">Menschen</a> besiedelt, die inneren Bereiche fast ausschließlich von <a title="Achaz" href="http://www.wiki-aventurica.de/wiki/Achaz">Achaz</a>, <a title="Zilit" href="http://www.wiki-aventurica.de/wiki/Zilit">Ziliten</a> und <a title="Maru" href="http://www.wiki-aventurica.de/wiki/Maru">Marus</a>. Die hier siedelnden Achazstämme sind die <a title="Zansch'Jrr (Seite nicht vorhanden)" class="new" href="/index.php?title=Zansch%27Jrr&amp;action=edit&amp;redlink=1">Zansch'Jrr</a>, die <a title="Ctki'Ssrr (Seite nicht vorhanden)" class="new" href="/index.php?title=Ctki%27Ssrr&amp;action=edit&amp;redlink=1">Ctki'Ssrr</a>, die <a title="Akrr'tzr" href="http://www.wiki-aventurica.de/wiki/Akrr%27tzr">Akrr'tzr</a> und die <a title="Chriaz Imxxiu (Seite nicht vorhanden)" class="new" href="/index.php?title=Chriaz_Imxxiu&amp;action=edit&amp;redlink=1">Chriaz Imxxiu</a>.
+</p>
+<p>
+Die Fauna der Region beinhaltet viele gefährliche Kreaturen wie <a title="Schlinger" href="http://www.wiki-aventurica.de/wiki/Schlinger">Schlinger</a>, <a title="Hornechse" href="http://www.wiki-aventurica.de/wiki/Hornechse">Hornechsen</a>, <a title="Kaiman (Seite nicht vorhanden)" class="new" href="/index.php?title=Kaiman&amp;action=edit&amp;redlink=1">Kaimane</a>, giftige <a title="Schlange" href="http://www.wiki-aventurica.de/wiki/Schlange">Schlangen</a> und <a title="Spinne" href="http://www.wiki-aventurica.de/wiki/Spinne">Spinnen</a> sowie <a title="Moskito (Seite nicht vorhanden)" class="new" href="/index.php?title=Moskito&amp;action=edit&amp;redlink=1">Moskitos</a>. Die Flora ist nicht weniger gefährlich, gibt es hier doch Vorkommen von giftigen <a title="Lotos" href="http://www.wiki-aventurica.de/wiki/Lotos">Lotospflanzen</a> und der fleischfressenden <a title="Disdychonda" href="http://www.wiki-aventurica.de/wiki/Disdychonda">Disdychonda</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>3.69397057915388</longitude>
+			<latitude>21.02103323226875</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>3.6939705791539,21.02103323226875,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Fenn</name>
 	<ExtendedData>
 <Data name="Link">
@@ -393,6 +450,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Krötensumpf</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Krötensumpf</b> liegt in den <a title="Koschberge" href="http://www.wiki-aventurica.de/wiki/Koschberge">Koschbergen</a>. Hier befindet sich der Treffpunkt der Koscher <a title="Hexe" href="http://www.wiki-aventurica.de/wiki/Hexe">Hexen</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.248138142445006</longitude>
+			<latitude>29.17827932815213</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf-X</styleUrl>
+		<Point>
+			<coordinates>1.25670934176392,29.1743396295126,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Kühler Schrübbel</name>
 	<ExtendedData>
 <Data name="Link">
@@ -501,6 +612,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Mendener Marschen</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Mendener Marschen</b> liegen in Ost<a title="Tobrien" href="http://www.wiki-aventurica.de/wiki/Tobrien">tobrien</a> um <a title="Mendena" href="http://www.wiki-aventurica.de/wiki/Mendena">Mendena</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>10.09304263390658</longitude>
+			<latitude>31.03130063565719</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf-X</styleUrl>
+		<Point>
+			<coordinates>10.1094777811518,31.0262307503298,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>M'Okool</name>
 	<ExtendedData>
 <Data name="Link">
@@ -605,6 +770,63 @@ verfügbar, dort kann man den
 	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 		<Point>
 			<coordinates>-2.962960177939448,28.67985933403963,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Mysob-Sümpfe</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Mysob-Sümpfe</b>, im <a title="Königreich Brabak" href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Brabak">Königreich Brabak</a> auch als <b>Sümpfe von H'Rayar</b> bekannt, erstrecken sich westlich des <a title="Mysob" href="http://www.wiki-aventurica.de/wiki/Mysob">Mysob</a>-Mittellaufs. Besonders undurchdringlich sind sie rund um die mystische Echsenstadt <a title="Saz'adzz" href="http://www.wiki-aventurica.de/wiki/Saz%27adzz">Saz'adzz</a>.
+</p>
+<p>
+Diese Sümpfe haben geradezu sprichwörtlich das Bild geprägt, welches der Aventurier vom <a title="Königreich Brabak" href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Brabak">Königreich Brabak</a> hat, auch wenn reine Sumpfgebiete weniger als die Hälfte der Staatsfläche einnehmen.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-2.924026596255639</longitude>
+			<latitude>17.01871114554519</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>-2.845959955872456,17.00016255305951,0</coordinates>
 		</Point>
 </Placemark>
 
@@ -828,6 +1050,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Pehukem-Sümpfe</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+In den <b>Pehukem-Sümpfen</b> auf der <a title="Südmeer" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer">Südmeer</a>-Insel <a title="Cháset" href="http://www.wiki-aventurica.de/wiki/Ch%C3%A1set">Cháset</a> leben die <a title="Achaz" href="http://www.wiki-aventurica.de/wiki/Achaz">Achaz</a>-Stämme der <a title="Chi'Rtsa" href="http://www.wiki-aventurica.de/wiki/Chi%27Rtsa">Chi'Rtsa</a> und <a title="Zzszz" href="http://www.wiki-aventurica.de/wiki/Zzszz">Zzszz</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>7.855714898245962</longitude>
+			<latitude>13.49111563197761</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf-X</styleUrl>
+		<Point>
+			<coordinates>7.855714898245962,13.49111563197761,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Riedemoor</name>
 	<ExtendedData>
 <Data name="Link">
@@ -986,6 +1262,60 @@ verfügbar, dort kann man den
 	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 		<Point>
 			<coordinates>10.27976951453784,35.66372961728774,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Seelensümpfe</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Seelensümpfe</b> liegen zwischen <a title="El'Halem" href="http://www.wiki-aventurica.de/wiki/El%27Halem">El'Halem</a> und <a title="Lhasor" href="http://www.wiki-aventurica.de/wiki/Lhasor">Lhasor</a> an der Küste des <a title="Askanisches Meer" href="http://www.wiki-aventurica.de/wiki/Askanisches_Meer">Askanischen Meeres</a>. Im nördlichen Teil befindet sich das Mündungsdelta des <a title="Nordask" href="http://www.wiki-aventurica.de/wiki/Nordask">Nordask</a>. Die einzigen bekannten Orte sind <a title="Al'Bor" href="http://www.wiki-aventurica.de/wiki/Al%27Bor">Al'Bor</a> und eine <a title="Achaz" href="http://www.wiki-aventurica.de/wiki/Achaz">echsische</a> Siedlung.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-0.7523455646160927</longitude>
+			<latitude>21.60826684953148</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>-0.7523455646160926,21.60826684953148,0</coordinates>
 		</Point>
 </Placemark>
 

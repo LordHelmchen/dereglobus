@@ -3,6 +3,15 @@
 <Document>
 	<name>Waelder_Weidens.kml</name>
 
+	<Region>
+		<Lod>
+			<minLodPixels>10000</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+
 <Placemark>
 		<name>Aelderwald</name>
 	<ExtendedData>

@@ -56,7 +56,15 @@ verfügbar, dort kann man den
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 			<Point>
 				<coordinates>4.157968949976089,34.16716923264873,0</coordinates>
 			</Point>

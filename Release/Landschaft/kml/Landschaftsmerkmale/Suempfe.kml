@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sümpfe</name>
+    <visibility>1</visibility>
+    <open>0</open>
+
+	<Style id="Sumpf">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Sumpf.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+     <Folder>
+        <open>0</open>
+        <name>Sümpfe</name>
+        <visibility>1</visibility>
+        <styleUrl>#Sümpfe</styleUrl>
+
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Nebelmoor</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Suempfe/Nebelmoor.kml</href>
+		</Link>
+	</NetworkLink>
+
+	
+</Document>
+</kml>

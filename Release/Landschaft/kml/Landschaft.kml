@@ -39,6 +39,13 @@
 			</Link>
 		</NetworkLink>
 		<NetworkLink>
+			<name>Sümpfe</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Suempfe.kml</href>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
 			<name>Gewässer</name>
 			<visibility>1</visibility>
 			<Style>

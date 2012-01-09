@@ -35,6 +35,29 @@
 	</StyleMap>
 
 	
+	<StyleMap id="sumpf">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sumpf-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sumpf-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="sumpf-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sumpf-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sumpf-X-h</styleUrl>
+		</Pair>
+	</StyleMap>	
+	
+	
 	<StyleMap id="insel">
 		<Pair>
 			<key>normal</key>
@@ -458,6 +481,106 @@ $[description]]]></text>
 </BalloonStyle>
 	</Style>
 	
+
+
+	<Style id="sumpf-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Sumpf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+
+	<Style id="sumpf-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Sumpf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	
+	
+	<Style id="sumpf-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Sumpf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+	</Style>
+	
+
+	<Style id="sumpf-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>7fffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Sumpf.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+	</Style>
+
+
 	
 	<Style id="insel-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>

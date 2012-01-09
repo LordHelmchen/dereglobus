@@ -5,6 +5,15 @@
 <Folder>
 	<name>Sümpfe Aventuriens</name>
 
+	      <Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>1000000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+
 <Placemark>
 		<name>Altsvelltsümpfe</name>
 	<ExtendedData>
@@ -53,14 +62,6 @@ verfügbar, dort kann man den
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-		<Region>
-			<Lod>
-				<minLodPixels>10000</minLodPixels>
-				<maxLodPixels>1000000</maxLodPixels>
-				<minFadeExtent>0</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
-		</Region>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 			<Point>
 				<coordinates>2.139440504533174,33.94512568707917,0</coordinates>
@@ -118,14 +119,6 @@ verfügbar, dort kann man den
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-		<Region>
-			<Lod>
-				<minLodPixels>10000</minLodPixels>
-				<maxLodPixels>1000000</maxLodPixels>
-				<minFadeExtent>0</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
-		</Region>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 			<Point>
 				<coordinates>4.157968949976089,34.16716923264873,0</coordinates>
@@ -180,14 +173,6 @@ verfügbar, dort kann man den
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-		<Region>
-			<Lod>
-				<minLodPixels>10000</minLodPixels>
-				<maxLodPixels>1000000</maxLodPixels>
-				<minFadeExtent>0</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
-		</Region>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 			<Point>
 				<coordinates>2.066633944428078,34.30256535385841,0</coordinates>
@@ -242,14 +227,6 @@ verfügbar, dort kann man den
 				<altitudeMode>relativeToGround</altitudeMode>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-		<Region>
-			<Lod>
-				<minLodPixels>10000</minLodPixels>
-				<maxLodPixels>1000000</maxLodPixels>
-				<minFadeExtent>0</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
-		</Region>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 			<Point>
 				<coordinates>1.532760272367246,34.13116432512513,0</coordinates>

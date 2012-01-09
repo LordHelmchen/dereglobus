@@ -5,14 +5,14 @@
 <Folder>
 	<name>Sümpfe Aventuriens</name>
 
-	      <Region>
-			<Lod>
-				<minLodPixels>10000</minLodPixels>
-				<maxLodPixels>-1</maxLodPixels>
-				<minFadeExtent>0</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
-		</Region>
+	<Region>
+		<Lod>
+			<minLodPixels>10000</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
 
 <Placemark>
 		<name>Altsvelltsümpfe</name>

@@ -2141,6 +2141,72 @@ verfügbar, dort kann man den
         <Snippet maxLines="0">
         </Snippet>
       </Placemark>
+
+      <Placemark>
+        <name>Sorrek</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>Sorrek</b> ist eine <a title="Insel" href="http://www.wiki-aventurica.de/wiki/Insel">Insel</a> in der Nähe von <a title="Riva" href="http://www.wiki-aventurica.de/wiki/Riva">Riva</a>. Sie dient gelegentlich als <a title="Pirat" href="http://www.wiki-aventurica.de/wiki/Pirat">Piratenversteck</a>.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+			<longitude>2.323307845985694</longitude>
+			<latitude>37.87697145966503</latitude>
+          <altitude>0</altitude>
+			<range>57406.01808678505</range>
+          <tilt>0</tilt>
+			<heading>-1.121934339711063</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel-X</styleUrl>
+        <Point>
+			<coordinates>2.323307845985694,37.87697145966502,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+
       <Placemark>
         <name>Yetiland</name>
 		<ExtendedData>
@@ -3828,6 +3894,7 @@ verfügbar, dort kann man den
         <Snippet maxLines="0">
         </Snippet>
       </Placemark>
+
       <Placemark>
         <name>Ila</name>
 		<ExtendedData>
@@ -3847,19 +3914,30 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 
-<p>
-(Quelle: Efferds Wogen S.16)
-</p>
 
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
-
+Die <a title="Insel" href="http://www.wiki-aventurica.de/wiki/Insel">Insel</a> <b>Ila</b> liegt vor dem Delta des <a title="Der Große Fluss" href="http://www.wiki-aventurica.de/wiki/Der_Gro%C3%9Fe_Fluss">Großen Flusses</a> im <a title="Meer der Sieben Winde" href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde">Meer der Sieben Winde</a> und ist Teil der <a title="Seefreiherrschaft Ila und Eiras" href="http://www.wiki-aventurica.de/wiki/Seefreiherrschaft_Ila_und_Eiras">Seefreiherrschaft Ila und Eiras</a>.
 
 <!-- END EDIT -->
 </p>
 
-<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
@@ -3877,6 +3955,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
           <coordinates>-3.502812968380825,28.92027803326186,0</coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name>Eiras</name>
 		<ExtendedData>
@@ -3896,36 +3975,109 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 
-<p>
-(Quelle: Efferds Wogen S.16)
-</p>
 
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
-
+Die <a title="Insel" href="http://www.wiki-aventurica.de/wiki/Insel">Insel</a> <b>Eiras</b> liegt vor dem Delta des <a title="Der Große Fluss" href="http://www.wiki-aventurica.de/wiki/Der_Gro%C3%9Fe_Fluss">Großen Flusses</a> im <a title="Meer der Sieben Winde" href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde">Meer der Sieben Winde</a> und ist Teil der <a title="Seefreiherrschaft Ila und Eiras" href="http://www.wiki-aventurica.de/wiki/Seefreiherrschaft_Ila_und_Eiras">Seefreiherrschaft Ila und Eiras</a>.
 
 <!-- END EDIT -->
 </p>
 
-<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
 </td>
 </tr>
 </table>]]></description>
         <LookAt>
-          <longitude>-3.226564258428003</longitude>
-          <latitude>28.69073760693201</latitude>
+			<longitude>-3.430164269355417</longitude>
+			<latitude>29.01597233645473</latitude>
           <altitude>0</altitude>
-          <range>171902.4566589467</range>
+			<range>28312.33065826402</range>
           <tilt>0</tilt>
-          <heading>0.3877810667407996</heading>
+			<heading>-0.3640469965761854</heading>
           <altitudeMode>relativeToGround</altitudeMode>
         </LookAt>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel-X</styleUrl>
         <Point>
-          <coordinates>-3.401671426978254,28.44582278415053,0</coordinates>
+			<coordinates>-3.430164269355427,29.01597233645473,0</coordinates>
         </Point>
       </Placemark>
+
+      <Placemark>
+        <name>Talagh Cladrim</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <Snippet maxLines="0">
+        </Snippet>
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>Talagh Cladrim</b>, auch <b>Windwacht</b> genannt, ist eine felsige <a title="Insel" href="http://www.wiki-aventurica.de/wiki/Insel">Insel</a> vor der Küste <a title="Albernia" href="http://www.wiki-aventurica.de/wiki/Albernia">Albernias</a>. Neben einigen Fischern lebt die <a class="mw-redirect" title="Efferd-Geweihte" href="http://www.wiki-aventurica.de/wiki/Efferd-Geweihte">Efferd-Geweihte</a> <a title="Aeb Lynnael" href="http://www.wiki-aventurica.de/wiki/Aeb_Lynnael">Aeb Lynnael</a> in einer der Grotten.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+		<longitude>-3.456640566030268</longitude>
+		<latitude>28.78643135714006</latitude>
+          <altitude>0</altitude>
+		<range>61302.30736570606</range>
+          <tilt>0</tilt>
+		<heading>-0.3770299983561726</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel-X</styleUrl>
+        <Point>
+		<coordinates>-3.46030827466548,28.7807699749794,0</coordinates>
+        </Point>
+      </Placemark>
+
       <Placemark>
         <name>Ilderasch</name>
 		<ExtendedData>

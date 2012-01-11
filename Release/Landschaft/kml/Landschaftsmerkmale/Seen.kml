@@ -24,7 +24,15 @@
 	
 	
 		<Placemark>
-			<name>Erlensee</name>  	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style> Eine Kurzbeschreibung des Sees mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert, diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description> 	<ExtendedData><Data name="Link"><value>$[name]</value></Data></ExtendedData>
+			<name>Erlensee</name>   	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style> 
+ <table cellpadding="10" cellspacing="0" align="center"> <tr> <td> <p> 
+ 
+ <!-- EDIT: KURZBESCHREIBUNG (CODE) --> 
+Der <b>Erlensee</b> liegt im <a title="Fürstentum Kosch" href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstentum_Kosch">Fürstentum Kosch</a>.
+ <!-- END EDIT --> 
+ </p> <hr><div id="wiki"> <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p> <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[Link]</a> aus der freien Website <a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a> verfügbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div> 
+ </td></tr></table>]]></description> 
+ <ExtendedData><Data name="Link"><value>$[name]</value></Data></ExtendedData>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#see</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
@@ -486,8 +494,17 @@ In der Nähe des <a href="http://www.wiki-aventurica.de/wiki/Loch_Harodr%C3%B4l"
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Dairuch-See</name>  	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style> Eine Kurzbeschreibung des Sees mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert, diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description> 	<ExtendedData><Data name="Link"><value>$[name]</value></Data></ExtendedData>
-			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#see</styleUrl>
+			<name>Dairuchsee</name>  	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style> 
+ <table cellpadding="10" cellspacing="0" align="center"> <tr> <td> <p> 
+ 
+ <!-- EDIT: KURZBESCHREIBUNG (CODE) --> 
+Der <b>Dairuchsee</b> liegt inmitten der <a title="Blutzinnen" href="http://www.wiki-aventurica.de/wiki/Blutzinnen">Blutzinnen</a>. Am <a title="See" href="http://www.wiki-aventurica.de/wiki/See">See</a> liegt die <a title="Ork" href="http://www.wiki-aventurica.de/wiki/Ork">orkische</a> Stadt <a title="Orrakhar" href="http://www.wiki-aventurica.de/wiki/Orrakhar">Orrakhar</a>.
+
+ <!-- END EDIT --> 
+ </p> <hr><div id="wiki"> <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p> <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[Link]</a> aus der freien Website <a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a> verfügbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div> 
+ </td></tr></table>]]></description> 
+	<ExtendedData><Data name="Link"><value>$[name]</value></Data></ExtendedData>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#see</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<altitudeMode>relativeToGround</altitudeMode>
@@ -665,7 +682,15 @@ Die <b>Drei Klageweiber</b> sind ein Gebiet in den <a href="http://www.wiki-aven
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Sylbriger See</name>  	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style> Eine Kurzbeschreibung des Sees mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert, diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description> 	<ExtendedData><Data name="Link"><value>$[name]</value></Data></ExtendedData>
+			<name>Sylbriger See</name>  	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style> 
+ <table cellpadding="10" cellspacing="0" align="center"> <tr> <td> <p> 
+ 
+ <!-- EDIT: KURZBESCHREIBUNG (CODE) --> 
+Der <b>Sylbrige See</b> liegt bei <a title="Koschtal" href="http://www.wiki-aventurica.de/wiki/Koschtal">Koschtal</a> und wird vom <a title="Bodrin" href="http://www.wiki-aventurica.de/wiki/Bodrin">Bodrin</a> durchflossen. Im See liegt die <a title="Rahja" href="http://www.wiki-aventurica.de/wiki/Rahja">Rahja</a>-heilige <a title="Roseninsel" href="http://www.wiki-aventurica.de/wiki/Roseninsel">Roseninsel</a>.
+ <!-- END EDIT --> 
+ </p> <hr><div id="wiki"> <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p> <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[Link]</a> aus der freien Website <a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a> verfügbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div> 
+ </td></tr></table>]]></description> 
+ <ExtendedData><Data name="Link"><value>$[name]</value></Data></ExtendedData>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#see</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>

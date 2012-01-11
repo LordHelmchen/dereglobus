@@ -718,6 +718,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Misa-Auen</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Einen Großteil des <a title="Misa" href="/wiki/Misa">Misaverlaufs</a> machen die <b>Misa-Auen</b> aus, die sich beiderseits des Flusses weit ins Umland hinein erstrecken. Nahe dem Ufer mückenverseucht und unfruchtbar, bieten sie den <a title="Niedermark" href="/wiki/Niedermark">Niedermärkern</a> gute Anbaumöglichkeiten, in Richtung <a title="Perlenmeer" href="/wiki/Perlenmeer">Perlenmeer</a> entwickelt sich eine Dünenlandschaft. Mitten in den Sümpfen lebt im Dorf <a title="Aurrghrhrropp" href="/wiki/Aurrghrhrropp">Aurrghrhrropp</a> das Volk der <a title="Moloch" href="/wiki/Moloch">Molochen</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>9.430238306824901</longitude>
+			<latitude>32.92025313165404</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>9.430238306824901,32.92025313165404,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>M'Okool</name>
 	<ExtendedData>
 <Data name="Link">
@@ -1533,6 +1587,60 @@ verfügbar, dort kann man den
 	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
 		<Point>
 			<coordinates>1.44534221630882,29.3626240591775,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Sümpfe von Valdahon</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Im südlichen <a title="Tobrien" href="/wiki/Tobrien">Tobrien</a> liegen die <b>Sümpfe von Valdahon</b>. Sie erstrecken sich von <a title="Valdahon" href="/wiki/Valdahon">Valdahon</a> im Norden bis zu den <a title="Beilunker Berge" href="/wiki/Beilunker_Berge">Beilunker Bergen</a> im Süden.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.491770171227923</longitude>
+			<latitude>29.93391634178908</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>8.491770171227923,29.93391634178908,0</coordinates>
 		</Point>
 </Placemark>
 

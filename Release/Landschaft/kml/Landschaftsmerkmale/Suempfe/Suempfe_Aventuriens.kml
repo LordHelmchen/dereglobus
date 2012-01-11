@@ -772,6 +772,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Moorbrücker Sumpf</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Nahe <a title="Moorbrück" href="http://www.wiki-aventurica.de/wiki/Moorbr%C3%BCck">Moorbrück</a> liegt der <b>Moorbrücker Sumpf</b>. Die einst fruchtbare Gegend östlich des <a title="Warna" href="http://www.wiki-aventurica.de/wiki/Warna">Warna</a> wurde <a class="mw-redirect" title="Chronik:592" href="http://www.wiki-aventurica.de/wiki/Chronik:592">592 BF</a> in den <a title="Magierkriege" href="http://www.wiki-aventurica.de/wiki/Magierkriege">Magierkriegen</a> verheert. In der <a title="Schlacht vom Düsterpfuhl" href="http://www.wiki-aventurica.de/wiki/Schlacht_vom_D%C3%BCsterpfuhl">Schlacht vom Düsterpfuhl</a> ging die Stadt <a title="Farnhain" href="http://www.wiki-aventurica.de/wiki/Farnhain">Farnhain</a> unter.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.879567210594773</longitude>
+			<latitude>28.69345940829903</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>1.879567210594813,28.69345940829902,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Muhrsape</name>
 	<ExtendedData>
 <Data name="Link">

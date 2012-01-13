@@ -4,6 +4,7 @@
 	<name>Landschaft</name>
 	<open>1</open>
 	<visibility>0</visibility>
+
 	<NetworkLink><visibility>0</visibility>
 		<name>Vegetationszonen</name>
 		<Link>
@@ -14,6 +15,7 @@
 	<NetworkLink>
 	<visibility>0</visibility>
 		<name>Landmarken</name>
+
 		<NetworkLink>
 			<name>Flüsse</name>
 			<visibility>1</visibility>
@@ -26,25 +28,7 @@
 					<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Fluesse.kml</href>
 				</Link>
 		</NetworkLink>
-		<NetworkLink>
-			<name>Seen</name>
-			<visibility>1</visibility>
-			<Style>
-				<ListStyle>
-					<listItemType>checkHideChildren</listItemType>
-				</ListStyle>
-			</Style>
-			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Seen.kml</href>
-			</Link>
-		</NetworkLink>
-		<NetworkLink>
-			<name>Sümpfe</name>
-			<visibility>0</visibility>
-			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Suempfe.kml</href>
-			</Link>
-		</NetworkLink>
+
 		<NetworkLink>
 			<name>Gewässer</name>
 			<visibility>1</visibility>
@@ -57,6 +41,28 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser.kml</href>
 			</Link>
 		</NetworkLink>
+
+		<NetworkLink>
+			<name>Seen</name>
+			<visibility>1</visibility>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+				</ListStyle>
+			</Style>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Seen.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Sümpfe</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Suempfe.kml</href>
+			</Link>
+		</NetworkLink>
+
 		<NetworkLink>
 			<name>Inseln</name>
 			<visibility>1</visibility>
@@ -64,6 +70,7 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln.kml</href>
 			</Link>
 		</NetworkLink>
+
 		<NetworkLink>
 			<name>Gebirge</name>
 			<visibility>0</visibility>
@@ -71,13 +78,7 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge.kml</href>
 			</Link>
 		</NetworkLink>
-		<NetworkLink>
-			<name>Wälder</name>
-			<visibility>0</visibility>
-			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Waelder.kml</href>
-			</Link>
-		</NetworkLink>
+
 		<NetworkLink>
 			<name>Steppen</name>
 			<visibility>0</visibility>
@@ -85,6 +86,15 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Steppen.kml</href>
 			</Link>
 		</NetworkLink>
+
+		<NetworkLink>
+			<name>Wälder</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Waelder.kml</href>
+			</Link>
+		</NetworkLink>
+
 		<NetworkLink>
 			<name>Wüsten</name>
 			<visibility>1</visibility>
@@ -97,6 +107,7 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Wuesten.kml</href>
 			</Link>
 		</NetworkLink>
+
 	</NetworkLink>
 
 	<NetworkLink>

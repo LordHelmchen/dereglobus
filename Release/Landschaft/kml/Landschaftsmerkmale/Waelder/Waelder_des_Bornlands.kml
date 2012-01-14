@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Waelder des Bornlands</name>
+
+	<Region>
+		<Lod>
+			<minLodPixels>10000</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+
+<Placemark>
+		<name>Birgauer Forst</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Birgauer Forst</b> liegt nahe <a title="Birgau" href="http://www.wiki-aventurica.de/wiki/Birgau">Birgau</a> am <a title="Born" href="http://www.wiki-aventurica.de/wiki/Born">Born</a>. Im <a title="Wald" href="http://www.wiki-aventurica.de/wiki/Wald">Waldstück</a> lebt die <a title="Nymphe" href="http://www.wiki-aventurica.de/wiki/Nymphe">Nymphe</a> <i><a title="Geskai" href="http://www.wiki-aventurica.de/wiki/Geskai">Geskai</a> mit der heilenden Hand</i>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>9.905854762206838</longitude>
+			<latitude>34.73575115909166</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+		<Point>
+			<coordinates>9.92383971796467,34.7329063243063,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Bornwald</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Bornwald</b> ist ein kreisrunder <a title="Wald" href="http://www.wiki-aventurica.de/wiki/Wald">Wald</a> unbekannter Größe, der im <a title="Bornland" href="http://www.wiki-aventurica.de/wiki/Bornland">Bornland</a> liegt und durch den <a title="Born" href="http://www.wiki-aventurica.de/wiki/Born">Born</a> in eine nördliche und eine südliche Hälfte geteilt wird. Bewohner sind neben Wildtieren der <a title="Riese" href="http://www.wiki-aventurica.de/wiki/Riese">Riese</a> <a title="Milzenis" href="http://www.wiki-aventurica.de/wiki/Milzenis">Milzenis</a>, das <a title="Einhorn" href="http://www.wiki-aventurica.de/wiki/Einhorn">Einhorn</a> <a title="Kershwiki" href="http://www.wiki-aventurica.de/wiki/Kershwiki">Kershwiki</a> und <a title="Elf" href="http://www.wiki-aventurica.de/wiki/Elf">Elfen</a> von der <a title="Sonnengrüßer-Sippe" href="http://www.wiki-aventurica.de/wiki/Sonnengr%C3%BC%C3%9Fer-Sippe">Sonnengrüßer-Sippe</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.654519096432217</longitude>
+			<latitude>35.3129926156903</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<Point>
+			<coordinates>8.654519096432239,35.31299261569029,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Korsforst</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Korsforst</b>, auch <b>Blutwald</b> genannt, ist ein dichter und kaum erforschter <a title="Wald" href="http://www.wiki-aventurica.de/wiki/Wald">Wald</a> im <a title="Bornland" href="http://www.wiki-aventurica.de/wiki/Bornland">Bornland</a> und liegt zwischen <a title="Birkholt" href="http://www.wiki-aventurica.de/wiki/Birkholt">Birkholt</a>, <a title="Sirmgalvis" href="http://www.wiki-aventurica.de/wiki/Sirmgalvis">Sirmgalvis</a>, <a title="Schwertbergen" href="http://www.wiki-aventurica.de/wiki/Schwertbergen">Schwertbergen</a> und den <a title="Drei Leuenteiche" href="http://www.wiki-aventurica.de/wiki/Drei_Leuenteiche">Drei Leuenteichen</a>. Alleine <a title="Korswandt" href="http://www.wiki-aventurica.de/wiki/Korswandt">Korswandt</a> gelang es, sich im Wald festzusetzen, der sich ansonsten jeder Besiedlung widersetzt. Einst fand an den <a title="Blutklippe von Korswandt" href="http://www.wiki-aventurica.de/wiki/Blutklippe_von_Korswandt">Blutklippen</a> eine Schlacht zwischen <a class="mw-redirect" title="Theaterritter" href="http://www.wiki-aventurica.de/wiki/Theaterritter">Theaterrittern</a> und <a title="Goblin" href="http://www.wiki-aventurica.de/wiki/Goblin">Goblins</a> statt, bei der der Sage nach <a title="Kor" href="http://www.wiki-aventurica.de/wiki/Kor">Kor</a> erschien und für ein Gemetzel an den Goblins sorgte.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>10.2311262156626</longitude>
+			<latitude>34.42637050233038</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<Point>
+			<coordinates>10.2311262156626,34.42637050233037,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Traumhain von Jekdisit</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+In der Nähe des <a title="Bornland" href="/wiki/Bornland">bornländischen</a> Dorfes <a title="Jekdisit" href="/wiki/Jekdisit">Jekdisit</a> befindet sich eine Baumgruppe aus uralten <a title="Steineiche" href="/wiki/Steineiche">Steineichen</a>. Neben wiederkehrenden Geistererscheinungen soll der <a title="Wald" href="/wiki/Wald">Hain</a> entweder vom <a class="mw-redirect" title="Namenloser" href="/wiki/Namenloser">Namenlosen</a> oder von <a title="Tasfarelel" href="/wiki/Tasfarelel">Tasfarelel</a> verflucht sein.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>10.82484621517072</longitude>
+			<latitude>34.21026657006038</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+		<Point>
+			<coordinates>10.82484621517072,34.21026657006038,0</coordinates>
+		</Point>
+</Placemark>
+
+</Document>
+</kml>

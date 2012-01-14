@@ -394,6 +394,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Firuner Luch</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Firuner Luch</b> ist der südliche Ausläufer der <a title="Rotaugensümpfe" href="http://www.wiki-aventurica.de/wiki/Rotaugens%C3%BCmpfe">Rotaugensümpfe</a>. Das <a title="Sumpf" href="http://www.wiki-aventurica.de/wiki/Sumpf">sumpfige</a> Gebiet erstreckt sich zwischen <a title="Firunen" href="http://www.wiki-aventurica.de/wiki/Firunen">Firunen</a> und <a title="Dornacker" href="http://www.wiki-aventurica.de/wiki/Dornacker">Dornacker</a> entlang des <a title="Born" href="http://www.wiki-aventurica.de/wiki/Born">Born</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>9.762362863358126</longitude>
+			<latitude>34.99283472184585</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#sumpf</styleUrl>
+		<Point>
+			<coordinates>9.762362863358105,34.99283472184583,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Große Mosse</name>
 	<ExtendedData>
 <Data name="Link">

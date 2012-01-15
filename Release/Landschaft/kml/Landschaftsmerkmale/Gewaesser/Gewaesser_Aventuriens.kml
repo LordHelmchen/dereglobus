@@ -66,11 +66,12 @@ verfügbar, dort kann man den
 			<altitudeMode>relativeToGround</altitudeMode>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
-	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
 			<coordinates>13.45652254490063,34.58707519385732,0</coordinates>
 		</Point>
 		</Placemark>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 	</Folder>
 </Document>
 </kml>

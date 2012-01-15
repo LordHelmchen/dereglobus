@@ -16,6 +16,60 @@
 		<name>Gewässer</name>
 
 <Placemark>
+		<name>Chalambusen</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Chalambusen</b> oder <b>Chaluk-Bucht</b> ist ein Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeeres</a> und erstreckt sich zwischen der nördlich gelegenen <a title="Elburische Halbinsel" href="http://www.wiki-aventurica.de/wiki/Elburische_Halbinsel">Elburischen Halbinsel</a> und dem südlichen anschließenden <a title="Yalaiad" href="http://www.wiki-aventurica.de/wiki/Yalaiad">Yalaiad</a>. Im Osten geht der Chalambusen in den <a title="Maraskansund" href="http://www.wiki-aventurica.de/wiki/Maraskansund">Maraskansund</a> über.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>7.940343518484617</longitude>
+			<latitude>26.32319430903311</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>7.940343518484616,26.32319430903311,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Festumer Bucht</name>
 	<ExtendedData>
 <Data name="Link">
@@ -32,7 +86,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <tr>
 <td>
 <p>
-Die <b>Festumer Bucht</b> ist die Bezeichnung für den ruhigen Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeeres</a>, der südlich des <a title="Bornland" href="http://www.wiki-aventurica.de/wiki/Bornland">Bornlandes</a> zwischen <a title="Vallusa" href="http://www.wiki-aventurica.de/wiki/Vallusa">Vallusa</a> und <a title="Kap Walstein" href="http://www.wiki-aventurica.de/wiki/Kap_Walstein">Kap Walstein</a> liegt. Hier endet der <a title="Strom von Perricum (Seite nicht vorhanden)" class="new" href="/index.php?title=Strom_von_Perricum&amp;action=edit&amp;redlink=1">Strom von Perricum</a> von Süden kommend, wo die <a title="Blutige See (Meer)" href="http://www.wiki-aventurica.de/wiki/Blutige_See_(Meer)">Blutige</a> und die <a title="Tobrische See" href="http://www.wiki-aventurica.de/wiki/Tobrische_See">Tobrische See</a> anschließen. Von Norden her weht der <a title="Drachenodem (Wind)" href="http://www.wiki-aventurica.de/wiki/Drachenodem_(Wind)">Drachenodem</a>, an auffälliger <a title="Fauna" href="http://www.wiki-aventurica.de/wiki/Fauna">Fauna</a> kann der <a title="Bleichgründler" href="http://www.wiki-aventurica.de/wiki/Bleichgr%C3%BCndler">Bleichgründler</a> genannt werden.
+Die <b>Festumer Bucht</b> ist die Bezeichnung für den ruhigen Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeeres</a>, der südlich des <a title="Bornland" href="http://www.wiki-aventurica.de/wiki/Bornland">Bornlandes</a> zwischen <a title="Vallusa" href="http://www.wiki-aventurica.de/wiki/Vallusa">Vallusa</a> und <a title="Kap Walstein" href="http://www.wiki-aventurica.de/wiki/Kap_Walstein">Kap Walstein</a> liegt. Hier endet der <a title="Strom von Perricum" href="http://www.wiki-aventurica.de/wiki/Strom_von_Perricum">Strom von Perricum</a> von Süden kommend, wo die <a title="Blutige See (Meer)" href="http://www.wiki-aventurica.de/wiki/Blutige_See_(Meer)">Blutige</a> und die <a title="Tobrische See" href="http://www.wiki-aventurica.de/wiki/Tobrische_See">Tobrische See</a> anschließen. Von Norden her weht der <a title="Drachenodem (Wind)" href="http://www.wiki-aventurica.de/wiki/Drachenodem_(Wind)">Drachenodem</a>, an auffälliger <a title="Fauna" href="http://www.wiki-aventurica.de/wiki/Fauna">Fauna</a> kann der <a title="Bleichgründler" href="http://www.wiki-aventurica.de/wiki/Bleichgr%C3%BCndler">Bleichgründler</a> genannt werden.
 </p>
 
 <hr><div id="wiki">
@@ -67,7 +121,7 @@ verfügbar, dort kann man den
 		<Point>
 			<coordinates>10.87234887058209,33.32028991247903,0</coordinates>
 		</Point>
-		</Placemark>
+</Placemark>
 
 <Placemark>
 		<name>Flammberger Bucht</name>
@@ -124,8 +178,224 @@ verfügbar, dort kann man den
 		<Point>
 			<coordinates>13.45652254490063,34.58707519385732,0</coordinates>
 		</Point>
-		</Placemark>
+</Placemark>
 
-	</Folder>
+<Placemark>
+		<name>Golf von Perricum</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Als <b>Golf von Perricum</b> wird der Teilbereich des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a> bezeichnet, der die <a title="Elburische Halbinsel" href="http://www.wiki-aventurica.de/wiki/Elburische_Halbinsel">Elburische Halbinsel</a> von der <a title="Markgrafschaft Beilunk" href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Beilunk">Beilunker</a> Küste trennt. Der Golf ist ein relativ ruhiges Gewässer, das daher auch durch Galeeren leicht befahrbar ist. Heute gehört vor allem der Ostteil des Golfs zur <a title="Blutige See (Meer)" href="http://www.wiki-aventurica.de/wiki/Blutige_See_(Meer)">Blutigen See</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.426901877900365</longitude>
+			<latitude>28.29892495146718</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>8.426901877900367,28.29892495146718,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Golf von Tuzak</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Golf von Tuzak</b> ist der Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a>, der westlich von <a title="Tuzak" href="http://www.wiki-aventurica.de/wiki/Tuzak">Tuzak</a> zwischen der Insel <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a> und dem aventurischen Festland an der <a title="Mhanadi" href="http://www.wiki-aventurica.de/wiki/Mhanadi">Mhanadimündung</a> liegt. Hier strömt der <a title="Strom von Perricum" href="http://www.wiki-aventurica.de/wiki/Strom_von_Perricum">Strom von Perricum</a> von Süd nach Nord. Im Norden grenzt der <a title="Maraskansund" href="http://www.wiki-aventurica.de/wiki/Maraskansund">Maraskansund</a> an, im Süden liegen die <a title="Jilaskeninseln" href="http://www.wiki-aventurica.de/wiki/Jilaskeninseln">Jilaskeninseln</a> mit <a title="Jandraskan" href="http://www.wiki-aventurica.de/wiki/Jandraskan">Jandraskan</a>. Küstenorte sind <a title="Geran" href="http://www.wiki-aventurica.de/wiki/Geran">Geran</a>, <a title="Khunchom" href="http://www.wiki-aventurica.de/wiki/Khunchom">Khunchom</a>, <a title="Tuzak" href="http://www.wiki-aventurica.de/wiki/Tuzak">Tuzak</a>, <a title="Senan" href="http://www.wiki-aventurica.de/wiki/Senan">Senan</a>, <a title="Mherweggyn" href="http://www.wiki-aventurica.de/wiki/Mherweggyn">Mherweggyn</a> und <a title="Uuz'Dornak" href="http://www.wiki-aventurica.de/wiki/Uuz%27Dornak">Uuz'Dornak</a>. Die <a title="Suppenschildkröte (Seite nicht vorhanden)" class="new" href="/index.php?title=Suppenschildkr%C3%B6te&amp;action=edit&amp;redlink=1">Suppenschildkröte</a> gilt als Spezialität des flachen und ruhigen Gewässers.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.220897456947851</longitude>
+			<latitude>23.20913952799868</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>8.220897456947851,23.20913952799868,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Maraskansund</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Maraskansund</b> ist die Meerenge zwischen der <a title="Elburum" href="http://www.wiki-aventurica.de/wiki/Elburum">elburischen</a> Küste und <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a>, die im Süden in den <a title="Golf von Tuzak" href="http://www.wiki-aventurica.de/wiki/Golf_von_Tuzak">Golf von Tuzak</a> übergeht und deren ruhige Wasser von etlichen Piraten- und Schmugglerschiffen genutzt werden.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>9.19743164851643</longitude>
+			<latitude>26.72131048096221</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>9.19743164851643,26.72131048096221,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Tobrische See</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Tobrische See</b> ist der nördliche Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a>, der sich an <a title="Tobrien" href="http://www.wiki-aventurica.de/wiki/Tobrien">Tobrien</a> entlang bis zur <a title="Festumer Bucht" href="http://www.wiki-aventurica.de/wiki/Festumer_Bucht">Festumer Bucht</a> zieht. Wichtige Winde sind die <a title="Tobrische Brise" href="http://www.wiki-aventurica.de/wiki/Tobrische_Brise">Tobrische Brise</a>, der <a title="Drachenodem" href="http://www.wiki-aventurica.de/wiki/Drachenodem">Drachenodem</a> und der <a title="Gebelaus" href="http://www.wiki-aventurica.de/wiki/Gebelaus">Gebelaus</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>10.89952714377595</longitude>
+			<latitude>31.73469001765328</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>10.89952714377595,31.73469001765327,0</coordinates>
+		</Point>
+</Placemark>
+
+</Folder>
 </Document>
 </kml>

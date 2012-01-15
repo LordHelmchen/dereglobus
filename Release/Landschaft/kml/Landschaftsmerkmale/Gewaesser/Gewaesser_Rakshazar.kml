@@ -21,42 +21,6 @@
 	<Folder>
 		<name>Gewässer</name>
 		<Placemark>
-			<name>Flammberger Bucht</name>
-			<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #810101; }
-a:hover { text-decoration: underline; color: #ffffff; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<table cellspacing="0" cellpadding="10" align="center">
-    <tbody>
-        <tr>
-            <td>
-            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
-        </tr>
-    </tbody>
-</table>]]></description>
-			<LookAt>
-				<longitude>12.18894081878957</longitude>
-				<latitude>34.34907300127666</latitude>
-				<altitude>0</altitude>
-				<heading>1.134646422685553</heading>
-				<tilt>0</tilt>
-				<range>1076661.214801923</range>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser_Rakshazar</styleUrl>
-			<ExtendedData>
-				<Data name="Link">
-					<value>$[name]</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>13.45652254490063,34.58707519385732,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Nebelauen</name>
 			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #810101; }

@@ -5,6 +5,7 @@
 
 	<NetworkLink>
 		<visibility>1</visibility>
+	    <open>0</open>
 		<name>Gewässer Aventuriens</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser/Gewaesser_Aventuriens.kml</href>
@@ -13,6 +14,7 @@
 
 	<NetworkLink>
 		<visibility>1</visibility>
+		<open>1</open>
 		<name>Gewässer Rakshazars</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser/Gewaesser_Rakshazar.kml</href>

@@ -5,7 +5,8 @@
 	<open>1</open>
 	<visibility>0</visibility>
 
-	<NetworkLink><visibility>0</visibility>
+	<NetworkLink>
+	<visibility>0</visibility>
 		<name>Vegetationszonen</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftstypen/Landschaftstypen.kml</href>
@@ -31,7 +32,7 @@
 
 		<NetworkLink>
 			<name>Gewässer</name>
-			<visibility>1</visibility>
+			<visibility>0</visibility>
 			<Style>
 				<ListStyle>
 					<listItemType>checkHideChildren</listItemType>

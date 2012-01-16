@@ -3,11 +3,31 @@
 <Document>
 	<name>Gewässer</name>
     <visibility>1</visibility>
-    <open>1</open>
-	
+    <open>0</open>
+
+	<Style id="Gewaesser">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Gewaesser.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
 	<NetworkLink>
-		<visibility>0</visibility>
-	    <open>0</open>
 		<name>Gewässer Aventuriens</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser/Gewaesser_Aventuriens.kml</href>
@@ -15,8 +35,6 @@
 	</NetworkLink>
 
 	<NetworkLink>
-		<visibility>1</visibility>
-		<open>1</open>
 		<name>Gewässer Rakshazars</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser/Gewaesser_Rakshazar.kml</href>

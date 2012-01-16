@@ -16,6 +16,60 @@
 		<name>Gewässer</name>
 
 <Placemark>
+		<name>Bucht von Port Corrad</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Bucht von Port Corrad</b> ist ein <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meeresteil</a> zwischen <a title="Loch Harodrôl" href="http://www.wiki-aventurica.de/wiki/Loch_Harodr%C3%B4l">Loch Harodrôl</a> und dem <a title="Selemgrund" href="http://www.wiki-aventurica.de/wiki/Selemgrund">Selemgrund</a>. Die Bucht war bis zum Einschlag des <a title="Stern von Selem" href="http://www.wiki-aventurica.de/wiki/Stern_von_Selem">Sterns von Selem</a> <a title="Chronik:999 v. BF bis 0 BF" href="http://www.wiki-aventurica.de/wiki/Chronik:999_v._BF_bis_0_BF">106 v. BF</a> eine Tiefebene. Vom Land blieb nur die heutige Insel <a title="Nelkra" href="http://www.wiki-aventurica.de/wiki/Nelkra">Nelkra</a> erhalten.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.002289815890096</longitude>
+			<latitude>20.8748802565868</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>1.002289815890096,20.87488025658681,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Chalambusen</name>
 	<ExtendedData>
 <Data name="Link">
@@ -343,6 +397,114 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Perlenmeer</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Perlenmeer</b> erstreckt sich entlang der Ostküste <a title="Aventurien" href="http://www.wiki-aventurica.de/wiki/Aventurien">Aventuriens</a>. Zu diesem <a class="mw-redirect" title="Ozean" href="http://www.wiki-aventurica.de/wiki/Ozean">Ozean</a> werden alle Gewässer zwischen dem <a title="Bornland" href="http://www.wiki-aventurica.de/wiki/Bornland">Bornland</a> und den <a title="Waldinseln" href="http://www.wiki-aventurica.de/wiki/Waldinseln">Waldinseln</a> gerechnet.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>14.21929006191985</longitude>
+			<latitude>25.76786824770762</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>14.21929006191987,25.76786824770761,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Selemgrund</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Selemgrund</b> ist ein Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeer</a> nordwestlich der <a title="Echsensümpfe" href="http://www.wiki-aventurica.de/wiki/Echsens%C3%BCmpfe">Echsensümpfe</a>. Früher wurde er als <b>Urlem-See</b> bezeichnet und war fruchtbares Land. Er entstand <a title="Chronik:999 v. BF bis 0 BF" href="http://www.wiki-aventurica.de/wiki/Chronik:999_v._BF_bis_0_BF">106 v. BF</a>, als der <a title="Stern von Selem" href="http://www.wiki-aventurica.de/wiki/Stern_von_Selem">Stern von Selem</a> vom Himmel fiel. Beim Einschlagsplatz bildete sich ein gefährlicher Strudel, der den Zugang zum Unterwasserreich <a title="Wahjad" href="http://www.wiki-aventurica.de/wiki/Wahjad">Wahjad</a> verschließen soll. An der Küste des Selemgrunds leben viele Fischer und Perlentaucher. 
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>2.1732785831691</longitude>
+			<latitude>20.18103490407312</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>2.1732785831691,20.18103490407312,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Tobrische See</name>
 	<ExtendedData>
 <Data name="Link">
@@ -393,6 +555,63 @@ verfügbar, dort kann man den
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
 			<coordinates>10.89952714377595,31.73469001765327,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Tränenbucht</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Tränenbucht</b> ist ein <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Nebenmeer</a> des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a>, das die Lande der <a title="Tulamide" href="http://www.wiki-aventurica.de/wiki/Tulamide">Tulamiden</a> von den <a title="Echsensümpfe" href="http://www.wiki-aventurica.de/wiki/Echsens%C3%BCmpfe">Echsensümpfen</a> trennt. Der Tidenhub der Bucht gilt mit etwa fünf Schritt als der höchste in ganz <a title="Aventurien" href="http://www.wiki-aventurica.de/wiki/Aventurien">Aventurien</a>. Die nördliche Ufer besteht größtenteils aus einer Steilküste, der Süden ist an weiten Stellen von Mangroven bewachsen. An den Küsten werden häufig <a title="Krakonier" href="http://www.wiki-aventurica.de/wiki/Krakonier">Krakonier</a> gesichtet.
+</p>
+<p>
+Bekanntheit erlangte die Bucht vor allem durch die <a title="Seeschlacht in der Tränenbucht" href="http://www.wiki-aventurica.de/wiki/Seeschlacht_in_der_Tr%C3%A4nenbucht">Seeschlacht in der Tränenbucht</a> am 26. <a class="mw-redirect" title="EFF" href="http://www.wiki-aventurica.de/wiki/EFF">EFF</a> <a title="Chronik:1009" href="http://www.wiki-aventurica.de/wiki/Chronik:1009">1009 BF</a>, in der es <a title="Bornland" href="http://www.wiki-aventurica.de/wiki/Bornland">bornländischen</a> Schiffen gelang, drei <a class="mw-redirect" title="Al'Anfanisches Imperium" href="http://www.wiki-aventurica.de/wiki/Al%27Anfanisches_Imperium">al'anfanische</a> Galeeren zu versenken und die Blockade um <a title="Kannemünde" href="http://www.wiki-aventurica.de/wiki/Kannem%C3%BCnde">Kannemünde</a> zu sprengen.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>4.940182146868977</longitude>
+			<latitude>21.97385534827882</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>4.940182146868977,21.97385534827881,0</coordinates>
 		</Point>
 </Placemark>
 

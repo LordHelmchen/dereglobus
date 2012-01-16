@@ -2,7 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Gewässer</name>
-
+    <visibility>1</visibility>
+    <open>1</open>
+	
 	<NetworkLink>
 		<visibility>0</visibility>
 	    <open>0</open>

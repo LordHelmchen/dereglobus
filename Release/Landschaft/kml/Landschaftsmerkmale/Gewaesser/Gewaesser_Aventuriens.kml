@@ -16,6 +16,114 @@
 		<name>Gewässer</name>
 
 <Placemark>
+		<name>Alemitische Bucht</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Alemitische Bucht</b> liegt an der östlichen Seite der <a title="Alemitische Halbinsel" href="http://www.wiki-aventurica.de/wiki/Alemitische_Halbinsel">Alemitischen Halbinsel</a> und ist ein Teil des <a title="Südmeer" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer">Südmeers</a>. 
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.2923919712166989</longitude>
+			<latitude>16.17274984146133</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>0.2923919712168788,16.17274984146133,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Boronsgrund</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Boronsgrund</b> ist ein <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meeresteil</a> des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a>, wo sich die Inselgruppe des <a title="Boronsrad (Inselgruppe)" href="http://www.wiki-aventurica.de/wiki/Boronsrad_(Inselgruppe)"> Boronsrades</a> mit den <a title="Geisterklippen" href="http://www.wiki-aventurica.de/wiki/Geisterklippen">Geisterklippen</a> befindet. Sie werden von rechtschaffenden Menschen gemieden, da gemunkelt wird, dass sich hier nur <a title="Dämon" href="http://www.wiki-aventurica.de/wiki/D%C3%A4mon">dämonische</a> <a class="mw-redirect" title="Paktierer" href="http://www.wiki-aventurica.de/wiki/Paktierer">Paktierer</a> herumtreiben.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.758603460754689</longitude>
+			<latitude>16.12382008137054</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>8.758603460754689,16.12382008137054,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Bucht von Port Corrad</name>
 	<ExtendedData>
 <Data name="Link">
@@ -120,6 +228,60 @@ verfügbar, dort kann man den
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
 			<coordinates>7.940343518484616,26.32319430903311,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Charyptisches Meer</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Charyptische Meer</b>, auch <b>Charyptik</b> genannt, ist ein Teil des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a> und trennt dieses vom <a title="Südmeer" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer">Südmeer</a>. Es wird im Norden von <a title="Altoum" href="http://www.wiki-aventurica.de/wiki/Altoum">Altoum</a> und den <a title="Waldinseln" href="http://www.wiki-aventurica.de/wiki/Waldinseln">Waldinseln</a> begrenzt und geht nach Süden hin ins <a title="Südmeer" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer">Südmeer</a> über. Benannt ist dieses <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meer</a> nach der Hafenstadt <a title="Charypso" href="http://www.wiki-aventurica.de/wiki/Charypso">Charypso</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>7.808857466997258</longitude>
+			<latitude>14.04192925624832</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>7.808857466997239,14.04192925624832,0</coordinates>
 		</Point>
 </Placemark>
 
@@ -235,6 +397,117 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Goldene Bucht</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Goldene Bucht</b> ist eine große <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meeresbucht</a> an der Ostküste der <a title="Meridiana" href="http://www.wiki-aventurica.de/wiki/Meridiana">meridianischen Halbinsel</a>, etwa zwischen der <a title="Halbinsel von Al'Anfa" href="http://www.wiki-aventurica.de/wiki/Halbinsel_von_Al%27Anfa">Halbinsel von Al'Anfa</a> und der <a title="Syllanische Halbinsel" href="http://www.wiki-aventurica.de/wiki/Syllanische_Halbinsel">Syllanischen Halbinsel</a>. Die Bucht, ein westlicher Ausläufer des <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeers</a>, ist eine der meistbefahrenen Seeregionen um <a title="Aventurien" href="http://www.wiki-aventurica.de/wiki/Aventurien">Aventurien</a> und zeichnet sich vor allem durch ihr für <a title="Galeere" href="http://www.wiki-aventurica.de/wiki/Galeere">Galeeren</a> gut befahrbares ruhiges Wasser aus. Einzig zu Zeiten des <a title="Kauca (Wind)" href="http://www.wiki-aventurica.de/wiki/Kauca_(Wind)">Kauca</a> können plötzlich auftretende Stürme der Seefahrt gefährlich werden.
+</p>
+<p>
+Der westliche Ausläufer der Goldenen Bucht wird <b>Bucht von Al'Anfa</b> genannt und reicht bis an die <a title="Al'Anfa" href="http://www.wiki-aventurica.de/wiki/Al%27Anfa">namensgebende Stadt</a> heran.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.2997865911163022</longitude>
+			<latitude>17.59660164927555</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>0.299786591116602,17.59660164927555,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Golf von Khefu</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Golf von Khefu</b> liegt an der westlichen Seite der <a title="Alemitische Halbinsel" href="http://www.wiki-aventurica.de/wiki/Alemitische_Halbinsel">Alemitischen Halbinsel</a>. An ihrer Küste liegt die Stadt <a title="Khefu" href="http://www.wiki-aventurica.de/wiki/Khefu">Khefu</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-1.249696358630428</longitude>
+			<latitude>16.53759403168157</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>-1.249696358630508,16.53759403168156,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Golf von Perricum</name>
 	<ExtendedData>
 <Data name="Link">
@@ -343,6 +616,114 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Kap Brabak</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Als <b>Kap Brabak</b>, aber auch <b>Kap der Stürme</b>, werden die gefährlichen Gewässer vor den Küsten des <a title="Königreich Brabak" href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Brabak">Königreich Brabaks</a> bezeichnet. Tosende Stürme und die felsige Steilküste machen die Passage für Seefahrer gefährlich, so dass ein jeder froh ist, wenn er den sicheren Hafen <a title="Brabak" href="http://www.wiki-aventurica.de/wiki/Brabak">Brabaks</a> erreichen und dort Zwischenstation machen kann, bevor er seine Reise fortsetzt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-2.825383527984223</longitude>
+			<latitude>16.41484647102019</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>-2.825383527984243,16.41484647102019,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Kaucatan</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Kaucatan</b>, ein <a class="mw-redirect" title="Moha" href="http://www.wiki-aventurica.de/wiki/Moha">mohischer</a> Begriff, der so viel wie <i>Vater der <a title="Kauca (Wind)" href="http://www.wiki-aventurica.de/wiki/Kauca_(Wind)">Kaucas</a></i> bedeutet, bezeichnet das <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meer</a> zwischen <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a> und den <a title="Waldinseln" href="http://www.wiki-aventurica.de/wiki/Waldinseln">Waldinseln</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>7.089385064711256</longitude>
+			<latitude>18.07825575526838</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>7.089385064711355,18.07825575526838,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Maraskansund</name>
 	<ExtendedData>
 <Data name="Link">
@@ -393,6 +774,60 @@ verfügbar, dort kann man den
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
 			<coordinates>9.19743164851643,26.72131048096221,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Nebelmeer</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Nebelmeer</b> ist ein weit südöstlich der <a title="Waldinseln" href="http://www.wiki-aventurica.de/wiki/Waldinseln">Waldinseln</a> gelegener Ozean. Die Bezeichnung erscheint in einer Derekarte der <a title="Rohalszeit" href="http://www.wiki-aventurica.de/wiki/Rohalszeit">Rohalszeit</a>. Bisweilen wird es auch als Teil des <a title="Südmeer" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer">Südmeers</a> gesehen. Über dem <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meer</a> soll häufig Nebel herrschen, der mitunter als kochend heiß gilt und miasmatisch stinken soll.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>20.63764371605784</longitude>
+			<latitude>10.12168390696645</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
+		<Point>
+			<coordinates>20.63764371605788,10.12168390696644,0</coordinates>
 		</Point>
 </Placemark>
 
@@ -451,6 +886,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Schicksalsbucht</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Schicksalsbucht</b>, auch <b>Golf von Mirham</b> genannt, erstreckt sich von <a title="Imrah" href="http://www.wiki-aventurica.de/wiki/Imrah">Imrah</a> und <a title="Pinnacht" href="http://www.wiki-aventurica.de/wiki/Pinnacht">Pinnacht</a> bis zur Mündung des <a title="Chamir" href="http://www.wiki-aventurica.de/wiki/Chamir">Chamir</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-0.1052688146832814</longitude>
+			<latitude>18.90666625465898</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>-0.1052688146834513,18.90666625465898,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Selemgrund</name>
 	<ExtendedData>
 <Data name="Link">
@@ -501,6 +990,117 @@ verfügbar, dort kann man den
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
 			<coordinates>2.1732785831691,20.18103490407312,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Straße von Sylla</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Straße von Sylla</b>, früher auch <b>Straße von Altoum</b> genannt, ist eine gefährliche <a title="Meer" href="http://www.wiki-aventurica.de/wiki/Meer">Meerenge</a> zwischen der <a title="Syllanische Halbinsel" href="http://www.wiki-aventurica.de/wiki/Syllanische_Halbinsel">Syllanischen Halbinsel</a> und <a title="Altoum" href="http://www.wiki-aventurica.de/wiki/Altoum">Altoum</a>, die das <a title="Südmeer" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer">Südmeer</a> und das <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeer</a> verbindet. Sie ist eine stark befahrene Seestraße. Außer Riffen und flachen Wasserstellen gibt es hier viele <a title="Pirat" href="http://www.wiki-aventurica.de/wiki/Pirat">Piraten</a>, die vor allem von den beiden Städten <a title="Sylla" href="http://www.wiki-aventurica.de/wiki/Sylla">Sylla</a> und <a title="Charypso" href="http://www.wiki-aventurica.de/wiki/Charypso">Charypso</a> ausgehend Jagd nach Beute machen.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.559200721194827</longitude>
+			<latitude>16.64888918532389</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>1.559200721194847,16.64888918532388,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Südmeer</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Als <b>Südmeer</b>, auch <b>Feuermeer</b>, wird der <a class="mw-redirect" title="Ozean" href="http://www.wiki-aventurica.de/wiki/Ozean">Ozean</a> südlich von <a title="Aventurien" href="http://www.wiki-aventurica.de/wiki/Aventurien">Aventurien</a> bezeichnet. Er wird nur wenig befahren und ist Stätte zahlreicher Mythen und Piratengeschichten. Jenseits des Meeres liegt sagenumwobene Kontinent <a title="Uthuria" href="http://www.wiki-aventurica.de/wiki/Uthuria">Uthuria</a>.
+</p>
+<p>
+Das Südmeer ist von Aventurien aus kaum erforscht, in historischen Zeiten befuhr vor allem <a title="Belsarius Süderstrand" href="http://www.wiki-aventurica.de/wiki/Belsarius_S%C3%BCderstrand">Belsarius Süderstrand</a> den Ozean, aktuelle Erkenntnisse lieferten die Südmeerfahrten von <a title="Harika ni Coalgha" href="http://www.wiki-aventurica.de/wiki/Harika_ni_Coalgha">Harika ni Coalgha</a> und die Expedition der <a title="Königreich Brabak" href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Brabak">brabakischen</a> <a title="Karavelle" href="http://www.wiki-aventurica.de/wiki/Karavelle">Karavelle</a> <a title="Korisande" href="http://www.wiki-aventurica.de/wiki/Korisande">Korisande</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>2.669186686516765</longitude>
+			<latitude>12.36927025964979</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>2.669186686516845,12.36927025964979,0</coordinates>
 		</Point>
 </Placemark>
 

@@ -2,6 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Gebirge</name>
+    <visibility>1</visibility>
+    <open>0</open>
+
 	<Style id="Gebirge">
     		<ListStyle>
   			<ItemIcon>     
@@ -23,9 +26,6 @@
 			<textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-
-    <visibility>1</visibility>
-    <open>0</open>
 
      <Folder>
         <open>0</open>

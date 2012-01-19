@@ -35,6 +35,14 @@
 
 	<NetworkLink>
 		<visibility>1</visibility>
+		<name>Berge Aventuriens</name>		<!-- Hier werden nur die Berge aufgeführt, die nicht in einem Gebirge liegen. -->
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Berge_Aventuriens.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>1</visibility>
 		<name>Altimont</name>
 		<Link>
 			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge/Altimont.kml</href>

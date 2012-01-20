@@ -218,25 +218,25 @@
 
 	
 
-	<StyleMap id="steppe">
+	<StyleMap id="ebene">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#steppe-n</styleUrl>
+			<styleUrl>#ebene-n</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#steppe-h</styleUrl>
+			<styleUrl>#ebene-h</styleUrl>
 		</Pair>
 	</StyleMap>
 
-	<StyleMap id="steppe-X">
+	<StyleMap id="ebene-X">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#steppe-X-n</styleUrl>
+			<styleUrl>#ebene-X-n</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#steppe-X-h</styleUrl>
+			<styleUrl>#ebene-X-h</styleUrl>
 		</Pair>
 	</StyleMap>
 
@@ -349,14 +349,14 @@
 		</Pair>
 	</StyleMap>
 		
-	<StyleMap id="steppe_Rakshazar">
+	<StyleMap id="ebene">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#steppe_Rakshazar-n</styleUrl>
+			<styleUrl>#ebene_Rakshazar-n</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#steppe_Rakshazar-h</styleUrl>
+			<styleUrl>#ebene_Rakshazar-h</styleUrl>
 		</Pair>
 	</StyleMap>
 
@@ -1271,7 +1271,7 @@ $[description]]]></text>
 	</Style>
 	
 	
-	<Style id="steppe-n">
+	<Style id="ebene-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
 			<scale>0</scale>
@@ -1283,7 +1283,7 @@ $[description]]]></text>
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Steppe.png</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Ebene.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1295,14 +1295,14 @@ $[description]]]></text>
 </BalloonStyle>
 	</Style>
 
-	<Style id="steppe-h">
+	<Style id="ebene-h">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<IconStyle>
 			<scale>1.5</scale>
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Steppe.png</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Ebene.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1318,7 +1318,7 @@ $[description]]]></text>
 		</LabelStyle>
 	</Style>	
 
-	<Style id="steppe-X-n">
+	<Style id="ebene-X-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
 			<scale>0</scale>
@@ -1330,7 +1330,7 @@ $[description]]]></text>
 			<color>7fffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Steppe.png</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Ebene.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1343,14 +1343,14 @@ $[description]]]></text>
 	</Style>
 	
 
-	<Style id="steppe-X-h">
+	<Style id="ebene-X-h">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<IconStyle>
 			<scale>1.5</scale>
 			<color>7fffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Steppe.png</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Ebene.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1846,7 +1846,7 @@ $[description]]]></text>
 	</Style>
 	
 	
-	<Style id="steppe_Rakshazar-n">
+	<Style id="ebene_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
 			<scale>0</scale>
@@ -1858,7 +1858,7 @@ $[description]]]></text>
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Steppe.png</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Ebene.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1873,14 +1873,14 @@ $[description]]]></text>
       </BalloonStyle>
 	</Style>
 
-	<Style id="steppe_Rakshazar-h">
+	<Style id="ebene_Rakshazar-h">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<IconStyle>
 			<scale>1.5</scale>
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Steppe.png</href>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Ebene.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>

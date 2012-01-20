@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Ebenen_Rakshazar.kml</name>
+	<name>Ebenen Rakshazars</name>
 	
       <Region>
 			<LatLonAltBox>
@@ -18,8 +18,6 @@
 			</Lod>
 		</Region>
 	
-	<Folder>
-		<name>Ebenen</name>
 		<Placemark>
 			<name>Tal der Klagen</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -58,6 +56,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>21.0862629229508,37.24506458600284,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Geistersteppe</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -91,6 +90,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>32.18588707170669,36.5337649264898,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Nordebenen</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -122,6 +122,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>31.04357753633862,51.78959009989267,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Mammutsteppe</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -153,6 +154,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>47.6415743587747,51.4264982085222,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Tal der hängenden Steine</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -184,6 +186,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>46.17238437107949,47.84710489790258,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Targachisteppe</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -215,6 +218,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>51.54532651064731,45.15808983738966,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Kurotan</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -249,6 +253,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>47.69680982138509,40.38692614398666,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Dreistromland</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -283,6 +288,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>41.45532622748792,32.84499945462495,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Grüne Sichel</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -314,6 +320,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>53.10384889151914,32.09192781226892,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Thunaer Karst</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -345,6 +352,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>67.34005872118347,40.5681043784523,0</coordinates>
 			</Point>
 		</Placemark>
+
 		<Placemark>
 			<name>Mareth-Senke</name>
 			<description><![CDATA[<style type="text/css"><!--
@@ -378,6 +386,6 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<coordinates>64.95689994431105,30.01702290077179,0</coordinates>
 			</Point>
 		</Placemark>
-	</Folder>
-</Document>
+
+	</Document>
 </kml>

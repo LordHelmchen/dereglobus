@@ -1105,6 +1105,68 @@ verfügbar, dort kann man den
           </Snippet>
         </Placemark>
         <Placemark>
+          <name>Alkenfelsen</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Alkenfelsen</b> ist eine 40 Schritt hohe Felsen<a title="Insel" href="http://www.wiki-aventurica.de/wiki/Insel">insel</a>. Das nach den hier in großer Zahl lebenden <a class="mw-redirect" title="Alk" href="http://www.wiki-aventurica.de/wiki/Alk">Alken</a> benannte Eiland liegt in den <a title="Südliche Olportsteine" href="http://www.wiki-aventurica.de/wiki/S%C3%BCdliche_Olportsteine">Südlichen Olportsteinen</a> zwischen den Inseln <a title="Manrek" href="http://www.wiki-aventurica.de/wiki/Manrek">Manrek</a> und <a title="Gevri" href="http://www.wiki-aventurica.de/wiki/Gevri">Gevri</a>. Angeblich haben hier früher <a class="mw-redirect" title="Hetleute" href="http://www.wiki-aventurica.de/wiki/Hetleute">Hetleute</a> ihre Schätze versteckt.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+			<longitude>-6.154949819766176</longitude>
+			<latitude>34.514973324667</latitude>
+            <altitude>0</altitude>
+            <range>240945.8327919112</range>
+            <tilt>0</tilt>
+            <heading>-2.949831458299351</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+			<coordinates>-6.154949819766177,34.514973324667,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
           <name>Manrek</name>
 		  <ExtendedData>
 <Data name="Link">

@@ -22,7 +22,6 @@
 		</Pair>
 	</StyleMap>
 
-	
 	<StyleMap id="see">
 		<Pair>
 			<key>normal</key>
@@ -34,7 +33,6 @@
 		</Pair>
 	</StyleMap>
 
-	
 	<StyleMap id="sumpf">
 		<Pair>
 			<key>normal</key>
@@ -45,7 +43,7 @@
 			<styleUrl>#sumpf-h</styleUrl>
 		</Pair>
 	</StyleMap>
-	
+
 	<StyleMap id="sumpf-X">
 		<Pair>
 			<key>normal</key>
@@ -56,8 +54,7 @@
 			<styleUrl>#sumpf-X-h</styleUrl>
 		</Pair>
 	</StyleMap>	
-	
-	
+
 	<StyleMap id="insel">
 		<Pair>
 			<key>normal</key>
@@ -68,7 +65,7 @@
 			<styleUrl>#insel-h</styleUrl>
 		</Pair>
 	</StyleMap>
-	
+
 	<StyleMap id="insel-X">
 		<Pair>
 			<key>normal</key>
@@ -79,7 +76,7 @@
 			<styleUrl>#insel-X-h</styleUrl>
 		</Pair>
 	</StyleMap>	
-	
+
 	<StyleMap id="insel_Karte">
 		<Pair>
 			<key>normal</key>
@@ -90,7 +87,7 @@
 			<styleUrl>#insel_Karte-h</styleUrl>
 		</Pair>
 	</StyleMap>
-	
+
 	<StyleMap id="insel_Karte-X">
 		<Pair>
 			<key>normal</key>
@@ -101,7 +98,7 @@
 			<styleUrl>#insel_Karte-X-h</styleUrl>
 		</Pair>
 	</StyleMap>	
-	
+
 	<StyleMap id="vegetation">
 		<Pair>
 			<key>normal</key>
@@ -123,7 +120,6 @@
 			<styleUrl>#vegetation-X-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
 
 	<StyleMap id="gebirge">
 		<Pair>
@@ -147,7 +143,6 @@
 		</Pair>
 	</StyleMap>		
 	
-	
 	<StyleMap id="berg">
 		<Pair>
 			<key>normal</key>
@@ -158,7 +153,7 @@
 			<styleUrl>#berg-h</styleUrl>
 		</Pair>
 	</StyleMap>
-	
+
 	<StyleMap id="berg-X">
 		<Pair>
 			<key>normal</key>
@@ -170,7 +165,6 @@
 		</Pair>
 	</StyleMap>	
 
-
 	<StyleMap id="vulkan">
 		<Pair>
 			<key>normal</key>
@@ -181,7 +175,7 @@
 			<styleUrl>#vulkan-h</styleUrl>
 		</Pair>
 	</StyleMap>
-	
+
 	<StyleMap id="vulkan-X">
 		<Pair>
 			<key>normal</key>
@@ -192,7 +186,6 @@
 			<styleUrl>#vulkan-X-h</styleUrl>
 		</Pair>
 	</StyleMap>		
-	
 	
 	<StyleMap id="gewaesser">
 		<Pair>
@@ -216,8 +209,6 @@
 		</Pair>
 	</StyleMap>	
 
-	
-
 	<StyleMap id="ebene">
 		<Pair>
 			<key>normal</key>
@@ -240,7 +231,6 @@
 		</Pair>
 	</StyleMap>
 
-	
 	<StyleMap id="wueste">
 		<Pair>
 			<key>normal</key>
@@ -277,8 +267,6 @@
 		</Pair>
 	</StyleMap>
 
-
-
 	<StyleMap id="see_Rakshazar">
 		<Pair>
 			<key>normal</key>
@@ -290,8 +278,6 @@
 		</Pair>
 	</StyleMap>
 
-
-
 	<StyleMap id="gebirge_Rakshazar">
 		<Pair>
 			<key>normal</key>
@@ -302,8 +288,6 @@
 			<styleUrl>#gebirge_Rakshazar-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
-
 
 	<StyleMap id="insel_Rakshazar">
 		<Pair>
@@ -359,7 +343,6 @@
 			<styleUrl>#ebene_Rakshazar-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
 
 	<StyleMap id="wueste_Rakshazar">
 		<Pair>
@@ -429,10 +412,6 @@ $[description]]]></text>
 <bgColor>ffd5fcfd</bgColor>
 </BalloonStyle>
 	</Style>
-
-	
-	
-	
 	
 	
 	<Style id="see-n">
@@ -1573,20 +1552,21 @@ $[description]]]></text>
 
 	
 	<Style id="gebirge_Rakshazar-n">
-      <ListStyle>
-         <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
 			<scale>0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
-		<LineStyle>
+
+		<IconStyle>
+			<scale>1.0</scale>
 			<color>ffffffff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>99000000</color>
-		</PolyStyle>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Gebirge.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
 		<BalloonStyle>
         <bgColor>FFC0C0C0</bgColor>
         <text><![CDATA[
@@ -1597,36 +1577,32 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-	
+
 	<Style id="gebirge_Rakshazar-h">
-    		<ListStyle>
-       			  <maxSnippetLines>0</maxSnippetLines>
-     		</ListStyle>
-		<LineStyle>
-			<color>99000000</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>cc000000</color>
-		</PolyStyle>
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/media/icons/Gebirge.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
 		<LabelStyle>
 			<scale>1</scale>
 			<color>ffffffff</color>
 		</LabelStyle>
-		<BalloonStyle>
-        <bgColor>FFC0C0C0</bgColor>
-        <text><![CDATA[
-      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
-      <br/><br/>
-      $[description]
-      ]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
 	</Style>
-	
-	
-	
-
 
 	
 	
@@ -1684,6 +1660,7 @@ $[description]]]></text>
 	</Style>
 	
 	
+	
 	<Style id="vegetation_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
@@ -1737,6 +1714,7 @@ $[description]]]></text>
 		</LabelStyle>
 	</Style>	
 	
+
 	<Style id="berg_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
@@ -1789,7 +1767,7 @@ $[description]]]></text>
 			<color>ffffffff</color>
 		</LabelStyle>
 	</Style>
-	
+
 	
 	
 	<Style id="gewaesser_Rakshazar-n">
@@ -1953,8 +1931,6 @@ $[description]]]></text>
 			<color>ffffffff</color>
 		</LabelStyle>
 	</Style>
-	
-	
 	
 
 	

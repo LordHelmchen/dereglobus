@@ -16,6 +16,60 @@
 		<name>Gewässer</name>
 
 <Placemark>
+		<name>Aeniko-Strudel</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Aeniko-Strudel</b> ist ein <a title="Mahlstrom (Strömung)" href="http://www.wiki-aventurica.de/wiki/Mahlstrom_(Str%C3%B6mung)">Mahlstrom</a>, der sich gelegentlich zwischen den Äußeren <a title="Perleninseln" href="http://www.wiki-aventurica.de/wiki/Perleninseln">Perleninseln</a>, nördlich der Insel <a title="Aeniko" href="http://www.wiki-aventurica.de/wiki/Aeniko">Aeniko</a>, auftut.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>12.71846540064819</longitude>
+			<latitude>17.42794109820094</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
+		<Point>
+			<coordinates>12.71846540064819,17.42794109820094,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Alemitische Bucht</name>
 	<ExtendedData>
 <Data name="Link">
@@ -619,6 +673,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Ch'Rabka</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+In der <a class="mw-redirect" title="Charyptik" href="http://www.wiki-aventurica.de/wiki/Charyptik">Charyptik</a> entstehen plötzlich <a title="Mahlstrom (Strömung)" href="http://www.wiki-aventurica.de/wiki/Mahlstrom_(Str%C3%B6mung)">Mahlströme</a>, reißen Schiffe in die Tiefe und verschwinden wieder. Ein solches Phänomen wird von den Seeleuten als <b>Ch'Rabka</b> – <i>Mutter der Schlünde</i> bezeichnet und soll mit <a title="Charyptoroth" href="http://www.wiki-aventurica.de/wiki/Charyptoroth">Charyptoroth</a> in Verbindung stehen.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>7.269839863478582</longitude>
+			<latitude>14.54591992668907</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
+		<Point>
+			<coordinates>7.269839863478602,14.54591992668907,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Drachenbucht</name>
 	<ExtendedData>
 <Data name="Link">
@@ -834,6 +942,60 @@ verfügbar, dort kann man den
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
 			<coordinates>13.45652254490063,34.58707519385732,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Flutenkehle</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Flutenkehle</b> ist ein periodisch auftretender <a title="Mahlstrom (Strömung)" href="http://www.wiki-aventurica.de/wiki/Mahlstrom_(Str%C3%B6mung)">Mahlstrom</a> in der <a title="Nordaventurien" href="http://www.wiki-aventurica.de/wiki/Nordaventurien">nordaventurischen</a> <a title="Meerlunge" href="http://www.wiki-aventurica.de/wiki/Meerlunge">Meerlunge</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>4.573908036290461</longitude>
+			<latitude>42.80478235916933</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
+		<Point>
+			<coordinates>4.573908036290462,42.80478235916933,0</coordinates>
 		</Point>
 </Placemark>
 
@@ -1975,6 +2137,63 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Meer der Finsternis</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Unter dem <a title="Selemgrund" href="http://www.wiki-aventurica.de/wiki/Selemgrund">Selemgrund</a> liegt das <b>Meer der Finsternis</b>, ein gewaltiger <a title="Mahlstrom (Strömung)" href="http://www.wiki-aventurica.de/wiki/Mahlstrom_(Str%C3%B6mung)">Mahlstrom</a>. Der Trichter entstand <a title="Chronik:999 v. BF bis 0 BF" href="http://www.wiki-aventurica.de/wiki/Chronik:999_v._BF_bis_0_BF">106 v. BF</a> beim Einschlag des <a title="Stern von Selem" href="http://www.wiki-aventurica.de/wiki/Stern_von_Selem">Sterns von Selem</a>. Dessen Reste verschließen als <a title="Krakensilber" href="http://www.wiki-aventurica.de/wiki/Krakensilber">Krakensilber</a>-Brocken den Krater am Grund.
+</p>
+<p>
+Am Rand des Trichters stehen die Reste der <a title="Krakonier" href="http://www.wiki-aventurica.de/wiki/Krakonier">krakonischen</a> Stadt <a title="Yal-Zoggot" href="http://www.wiki-aventurica.de/wiki/Yal-Zoggot">Yal-Zoggot</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.590002878457318</longitude>
+			<latitude>20.46597629017963</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
+		<Point>
+			<coordinates>1.590002878457337,20.46597629017963,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Meer der Sieben Winde</name>
 	<ExtendedData>
 <Data name="Link">
@@ -2121,8 +2340,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-			<longitude>4.18017585539717</longitude>
-			<latitude>41.83865222204931</latitude>
+			<longitude>4.329814326735066</longitude>
+			<latitude>42.14570803353484</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -2132,7 +2351,7 @@ verfügbar, dort kann man den
 		</LookAt>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 		<Point>
-			<coordinates>4.18017585539717,41.83865222204931,0</coordinates>
+			<coordinates>4.340976691331386,42.14592572668975,0</coordinates>
 		</Point>
 </Placemark>
 
@@ -2241,6 +2460,114 @@ verfügbar, dort kann man den
 		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
 		<Point>
 			<coordinates>20.63764371605788,10.12168390696644,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Neer</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Neer</b>, auch <b>Bahamuths Schlund</b> genannt, ist ein gewaltiger <a title="Mahlstrom (Strömung)" href="http://www.wiki-aventurica.de/wiki/Mahlstrom_(Str%C3%B6mung)">Mahlstrom</a> vor der Küste <a title="Neersand" href="http://www.wiki-aventurica.de/wiki/Neersand">Neersands</a>. In der Tiefe liegen sowohl ein <a title="Heiligtum" href="http://www.wiki-aventurica.de/wiki/Heiligtum">Heiligtum</a> des <a title="Efferd" href="http://www.wiki-aventurica.de/wiki/Efferd">Efferd</a> als auch ein <a title="Unheiligtum" href="http://www.wiki-aventurica.de/wiki/Unheiligtum">Unheiligtum</a> der <a title="Charyptoroth" href="http://www.wiki-aventurica.de/wiki/Charyptoroth">Charyptoroth</a>. Der Strudel wird von dem am Grund angeketteten <a title="Bahamuth" href="http://www.wiki-aventurica.de/wiki/Bahamuth">Bahamuth</a> erzeugt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>11.18512520820658</longitude>
+			<latitude>34.27690374500725</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<Point>
+			<coordinates>11.18512520820658,34.27690374500725,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Pailischer Mahlstrom</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Pailische Mahlstrom</b> ist ein gelegentlich auftretender <a title="Mahlstrom (Strömung)" href="http://www.wiki-aventurica.de/wiki/Mahlstrom_(Str%C3%B6mung)">Mahlstrom</a> südwestlich der <a title="Zyklopeninseln" href="http://www.wiki-aventurica.de/wiki/Zyklopeninseln">Zyklopeninsel</a> <a title="Pailos" href="http://www.wiki-aventurica.de/wiki/Pailos">Pailos</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-4.410811506234825</longitude>
+			<latitude>23.14293190804212</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser-X</styleUrl>
+		<Point>
+			<coordinates>-4.406799240634992,23.14970348497905,0</coordinates>
 		</Point>
 </Placemark>
 

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Öffentliche Bauwerke Methumis</name>
+	<Region>
+		<LatLonAltBox>
+			<north>24.40999537364826</north>
+			<south>24.40376673182352</south>
+			<east>-0.6153675342119886</east>
+			<west>-0.6247157652578632</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Horasschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>2<TR><TD><I>Stadtteil: </I>Der Campus<TR><TD><I>Besitzer/Vorsteher:</I> Gardolan von Vinsalt/Polissena di Fruganza<TR><TD><I>Bemerkung:</I> Grundstudium<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.620200</longitude>
+			<latitude>24.408626</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.620200,24.408626,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Seekadettenschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.408841</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.408841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Praiosschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>3<TR><TD><I>Stadtteil: </I>Der Campus<TR><TD><I>Besitzer/Vorsteher:</I> Adilgunde von Westenende<TR><TD><I>Bemerkung:</I> Fakultät für Rechtskunde<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.621545</longitude>
+			<latitude>24.408588</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.621545,24.408588,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schola defensoria</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Besitzer/Vorsteher:</I> Enzo Comante<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.406441</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.406441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Herzogsburg-Academia und Rondraschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>29<TR><TD><I>Stadtteil: </I>Merinada<TR><TD><I>Bemerkung:</I> Fakultät für Kriegs- und Wehrkunst<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.405641</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.405641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Herzogenschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>33<TR><TD><I>Stadtteil: </I>Merinada<TR><TD><I>Besitzer/Vorsteher:</I> Urgino von Methumis/Marvelus Comitosa<TR><TD><I>Bemerkung:</I> Fakultät für Staatskunst<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.404841</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.404841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hzgl. Medizinalkammer und -schule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Besitzer/Vorsteher:</I> Barobian di Balligur<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.404041</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.404041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Firunschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>12<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät für Zoologie und Botanik<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.620546</longitude>
+			<latitude>24.405663</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.620546,24.405663,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bibilothek</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>13<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Besitzer/Vorsteher:</I> Yolina ya Larafan/Jarulf von Oberfels<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.402441</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.402441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ingerimmschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>18<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Besitzer/Vorsteher:</I> Grundeon, Sohn des Grabosch<TR><TD><I>Bemerkung:</I> Fakultät für Mathematik, Mechanik und Architektur<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.401641</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.401641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kartographisches Institut</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>14<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Besitzer/Vorsteher:</I> Herlan van Neerbroich<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.621683</longitude>
+			<latitude>24.404830</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.621683,24.404830,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Volksschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>32<TR><TD><I>Stadtteil: </I>Merinada<TR><TD><I>Besitzer/Vorsteher:</I> Hesindiane Gilindor<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.613005</longitude>
+			<latitude>24.400041</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.613005,24.400041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Akademie des Magischen Wissens</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>15<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Besitzer/Vorsteher:</I> Hesindiane Gilindor/Lutisana von Brelak<TR><TD><I>Bemerkung:</I> Fakultät für Magie, Sprachkunst und Philosophie<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.622752</longitude>
+			<latitude>24.405256</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.622752,24.405256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Boronschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>11<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät für Morallehre und seeleheilkunde<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.621763</longitude>
+			<latitude>24.405947</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.621763,24.405947,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tsaschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>13<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät für Malkunst<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.409641</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.409641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Effersdchule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>14<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät für Nautik<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.408841</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.408841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Phexschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>17<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät fü Astronomie<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.408041</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.408041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Peraineschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>19<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät für Medizin<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.621729</longitude>
+			<latitude>24.406558</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.621729,24.406558,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rahjaschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>21<TR><TD><I>Stadtteil: </I>Inradella<TR><TD><I>Besitzer/Vorsteher:</I> Duridanya Berlinghân<TR><TD><I>Bemerkung:</I> Fakultät für Musik<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.406441</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.406441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Conservatorium</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>22<TR><TD><I>Stadtteil: </I>Inradella<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.618885</longitude>
+			<latitude>24.405679</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.618885,24.405679,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hesindeschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: </I>Merinada<TR><TD><I>Bemerkung:</I> Fakultät für Alchimie<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.404841</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.404841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Traviaschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>10<TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> Fakultät für Haus- und Handelswirtschaft<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.622155</longitude>
+			<latitude>24.405838</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.622155,24.405838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ordenshaus (Bannstrahler)</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.403241</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.40324100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ordenshaus (Schlange der Erkenntnis)</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.612205</longitude>
+			<latitude>24.402441</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.612205,24.402441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bunte Mauern</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>1<TR><TD><I>Stadtteil: </I>Centurria<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.622188</longitude>
+			<latitude>24.404434</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.622188,24.404434,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Leucht- und Klapperturm Alter Bosper</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>23<TR><TD><I>Stadtteil: </I>Inradella<TR><TD><I>Besitzer/Vorsteher:</I> Bosper<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.617809</longitude>
+			<latitude>24.404187</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#???</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.617809,24.404187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Glockenturm</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: </I>Der Campus<TR><TD><I>Bemerkung:</I> "Fetter Farungil"<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.610605</longitude>
+			<latitude>24.408841</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#???-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.610605,24.408841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schanzgärten/Arangerie</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>30<TR><TD><I>Stadtteil: </I>Merinada<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.618262</longitude>
+			<latitude>24.407693</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>400</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.618262,24.407693,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Marktbrunnen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: </I>Centurria<TR><TD><I>Bemerkung:</I> auf dem Kornmarkt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 88<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 168<TR><TD>Das Reich des Horas, S. 102<TR><TD>Das Königreich am Yaquir, S. 51<TR><TD>Die Welt des Schwarzen Auges, S. 66<TR><TD>Geographia Aventurica, S. 62<TR><TD>Ränkespieler und Rivalen, S. 36<TR><TD>Efferds Wogen, S. 74<TR><TD>Patrizier und Diebesbanden, S. 106<TR><TD>Wege der Helden, S. 98<TR><TD>Aventurien, S. 17<TR><TD>Aventurischer Bote (46), S. 5<TR><TD>Reich des Horas, S. 66<TR><TD>Reich des Horas, S. 165<TR><TD>Hallen Arkaner Macht, S. 154<TR><TD>Schatten über Bosparan, S. 51<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD>Der Schrecken von Arligen, S. 26<TR><TD>Aventurischer Atlas, S. 111<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.610605</longitude>
+			<latitude>24.403241</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#???-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.610605,24.40324100000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

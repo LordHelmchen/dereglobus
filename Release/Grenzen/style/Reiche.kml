@@ -83,7 +83,7 @@
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4c0000ff</color>
+			<fill>0</fill>		
 		</PolyStyle>
 		<BalloonStyle>
         <!-- a background color for the balloon -->
@@ -102,6 +102,7 @@ $[description]]]></text>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
+			<fill>0</fill>				
 			<color>990000ff</color>
 		</PolyStyle>
 		<BalloonStyle>

@@ -11,10 +11,6 @@
 
 
 <!-- HIER OBEN NUR DIE STYLEMAPS DEFINIEREN -->
-
-
-
-
 <StyleMap id="Reich">
 		<Pair>
 			<key>normal</key>
@@ -25,21 +21,6 @@
 			<styleUrl>#Reich-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
-
-<StyleMap id="Reich_ohne_Linie">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#Reich_ohne_Linie-n</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#Reich_ohne_Linie-h</styleUrl>
-		</Pair>
-	</StyleMap>
-	
-	
-
 <StyleMap id="Provinz">
 		<Pair>
 			<key>normal</key>
@@ -50,20 +31,6 @@
 			<styleUrl>#Provinz-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
-
-<StyleMap id="Provinz_ohne_Linie">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#Provinz_ohne_Linie-n</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#Provinz_ohne_Linie-h</styleUrl>
-		</Pair>
-	</StyleMap>
-	
-
 <StyleMap id="Grafschaft">
 		<Pair>
 			<key>normal</key>
@@ -74,21 +41,7 @@
 			<styleUrl>#Grafschaft-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
-
-<StyleMap id="Grafschaft_ohne_Linie">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#Grafschaft_ohne_Linie-n</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#Grafschaft_ohne_Linie-h</styleUrl>
-		</Pair>
-	</StyleMap>	
-	
-	
-<StyleMap id="Baronie">
+	<StyleMap id="Baronie">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#Baronie-n</styleUrl>
@@ -98,8 +51,6 @@
 			<styleUrl>#Baronie-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
-
 <StyleMap id="Frei">
 		<Pair>
 			<key>normal</key>
@@ -110,7 +61,6 @@
 			<styleUrl>#Frei-h</styleUrl>
 		</Pair>
 	</StyleMap>
-
 <StyleMap id="Niemandsland">
       <Pair>
          <key>normal</key>
@@ -123,17 +73,7 @@
    </StyleMap>
 
 
-
 <!-- AB HIER DIE STYLES DEFINIEREN -->
-
-
-
-
-
-
-
-
-
 
 
 <Style id="Reich-n">
@@ -175,47 +115,6 @@ $[description]]]></text>
       </BalloonStyle>
 	</Style>
 
-
-
-<Style id="Reich_ohne_Linie-n">
-		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0000ff</color>
-		</PolyStyle>
-		<BalloonStyle>
-        <!-- a background color for the balloon -->
-        <bgColor>FFD5FCFD</bgColor>
-        <!-- styling of the balloon text -->
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>
-<Style id="Reich_ohne_Linie-h">
-		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990000ff</color>
-		</PolyStyle>
-		<BalloonStyle>
-        <!-- a background color for the balloon -->
-        <bgColor>FFD5FCFD</bgColor>
-        <!-- styling of the balloon text -->
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>
-	
 	
 
 <Style id="Provinz-n">
@@ -225,7 +124,7 @@ $[description]]]></text>
 			<width>4</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4c0055ff</color>
+			<fill>0</fill>			
 		</PolyStyle>
 		<BalloonStyle>
         <!-- a background color for the balloon -->
@@ -237,7 +136,6 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-
 <Style id="Provinz-h">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LineStyle>
@@ -246,6 +144,7 @@ $[description]]]></text>
 		</LineStyle>
 		<PolyStyle>
 			<color>990055ff</color>
+			<fill>0</fill>			
 		</PolyStyle>
 		<BalloonStyle>
         <!-- a background color for the balloon -->
@@ -257,52 +156,6 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-
-
-	
-<Style id="Provinz_ohne_Linie-n">
-		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LineStyle>
-			<color>ff0055ff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c0055ff</color>
-		</PolyStyle>
-		<BalloonStyle>
-        <!-- a background color for the balloon -->
-        <bgColor>FFD5FCFD</bgColor>
-        <!-- styling of the balloon text -->
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>
-
-<Style id="Provinz_ohne_Linie-h">
-		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LineStyle>
-			<color>ff0055ff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>990055ff</color>
-		</PolyStyle>
-		<BalloonStyle>
-        <!-- a background color for the balloon -->
-        <bgColor>FFD5FCFD</bgColor>
-        <!-- styling of the balloon text -->
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>
-	
-	
-
-
 
 
 <Style id="Grafschaft-n">
@@ -324,7 +177,6 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-
 <Style id="Grafschaft-h">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LineStyle>
@@ -346,54 +198,6 @@ $[description]]]></text>
 	</Style>
 
 
-
-<Style id="Grafschaft_ohne_Linie-n">
-		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LineStyle>
-			<color>ff00aaff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4c00aaff</color>
-		</PolyStyle>
-		<BalloonStyle>
-        <!-- a background color for the balloon -->
-        <bgColor>FFD5FCFD</bgColor>
-        <!-- styling of the balloon text -->
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>
-
-<Style id="Grafschaft_ohne_Linie-h">
-		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LineStyle>
-			<color>ff00aaff</color>
-			<width>0</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900aaff</color>
-		</PolyStyle>
-		<BalloonStyle>
-        <!-- a background color for the balloon -->
-        <bgColor>FFD5FCFD</bgColor>
-        <!-- styling of the balloon text -->
-<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
-<br/><br/>
-$[description]]]></text>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-	</Style>
-
-
-
-
-
-
-
-
 <Style id="Baronie-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LineStyle>
@@ -413,7 +217,6 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-
 <Style id="Baronie-h">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LineStyle>
@@ -433,10 +236,6 @@ $[description]]]></text>
         <textColor>FF000000</textColor>
       </BalloonStyle>
 	</Style>
-
-
-
-
 
 
 <Style id="Frei-n">
@@ -478,6 +277,7 @@ $[description]]]></text>
       </BalloonStyle>
 	</Style>
 
+	
 <Style id="Niemandsland-n">
       <BalloonStyle>
 <text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
@@ -514,6 +314,5 @@ $[description]]]></text>
          <color>99000000</color>
       </PolyStyle>
    </Style>	
-
 </Document>
 </kml>

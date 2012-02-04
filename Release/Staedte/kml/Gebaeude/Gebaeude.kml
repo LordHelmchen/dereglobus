@@ -612,6 +612,15 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Gasthaeuser_Mherwed.kml</href>
 			</Link>
 		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Gasthaeuser_Notmark.kml</href>
+			</Link>
+		</NetworkLink>	
      		
       	<NetworkLink>
 			<name>Perainefurten</name>
@@ -1081,6 +1090,15 @@
 		</NetworkLink>	
 					
 		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Handelsstaetten_Notmark.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
 			<name>Perainefurten</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
@@ -1357,6 +1375,15 @@
 				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Sakrale_Bauwerke_Mherwed.kml</href>
 			</Link>
 		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Sakrale_Bauwerke_Notmark.kml</href>
+			</Link>
+		</NetworkLink>	
 							
 		<NetworkLink>
 			<name>Perainefurten</name>
@@ -1616,6 +1643,15 @@
 			<Snippet maxLines="0"></Snippet>
 			<Link>
 				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Oeffentliche_Bauwerke_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Oeffentliche_Bauwerke_Notmark.kml</href>
 			</Link>
 		</NetworkLink>
 				      			

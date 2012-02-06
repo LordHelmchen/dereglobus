@@ -51,8 +51,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>5.239756</longitude>
-		  <latitude>33.252256</latitude>
+			<longitude>5.239756</longitude>
+			<latitude>33.252256</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -105,8 +105,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>7.296417</longitude>
-		  <latitude>34.227152</latitude>
+			<longitude>7.296417</longitude>
+			<latitude>34.227152</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -159,8 +159,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>5.042141</longitude>
-		  <latitude>32.907965</latitude>
+			<longitude>5.042141</longitude>
+			<latitude>32.907965</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -219,8 +219,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>4.371445</longitude>
-		  <latitude>32.318545</latitude>
+			<longitude>4.371445</longitude>
+			<latitude>32.318545</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -330,8 +330,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>3.839984</longitude>
-		  <latitude>32.776701</latitude>
+			<longitude>3.839984</longitude>
+			<latitude>32.776701</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -546,8 +546,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>3.652447</longitude>
-		  <latitude>32.180504</latitude>
+			<longitude>3.652447</longitude>
+			<latitude>32.180504</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -778,6 +778,60 @@ verfügbar, dort kann man den
 </Placemark>
 
 <Placemark>
+		<name>Gundelwald</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der Gundelwald ist ein düsterer <a title="Wald" href="http://www.wiki-aventurica.de/wiki/Wald">Wald</a> in der <a title="Albernia" href="http://www.wiki-aventurica.de/wiki/Albernia">albernischen</a> <a title="Grafschaft Abagund" href="http://www.wiki-aventurica.de/wiki/Grafschaft_Abagund">Grafschaft Abagund</a>, in dem mystische Wesen wie <a title="Fee" href="http://www.wiki-aventurica.de/wiki/Fee">Feen</a>  und <a title="Waldschrat" href="http://www.wiki-aventurica.de/wiki/Waldschrat">Waldschrate</a> leben sollen. 
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-1.65938932249401</longitude>
+			<latitude>28.83982442640306</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<Point>
+			<coordinates>-1.6604119506904,28.8399450814455,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
 		<name>Hain der Schlafenden Mutter</name>
 	<ExtendedData>
 <Data name="Link">
@@ -870,8 +924,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>4.294135</longitude>
-		  <latitude>32.578151</latitude>
+			<longitude>4.294135</longitude>
+			<latitude>32.578151</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -924,8 +978,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>4.197784</longitude>
-		  <latitude>33.459369</latitude>
+			<longitude>4.197784</longitude>
+			<latitude>33.459369</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1032,8 +1086,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>5.332575</longitude>
-		  <latitude>33.908562</latitude>
+			<longitude>5.332575</longitude>
+			<latitude>33.908562</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1086,8 +1140,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>4.853507</longitude>
-		  <latitude>32.036118</latitude>
+			<longitude>4.853507</longitude>
+			<latitude>32.036118</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1140,8 +1194,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>4.799613</longitude>
-		  <latitude>32.881067</latitude>
+			<longitude>4.799613</longitude>
+			<latitude>32.881067</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1359,8 +1413,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>6.10846472572539</longitude>
-		  <latitude>33.3778136175918</latitude>
+			<longitude>6.10846472572539</longitude>
+			<latitude>33.3778136175918</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1467,8 +1521,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>6.865990</longitude>
-		  <latitude>33.751693</latitude>
+			<longitude>6.865990</longitude>
+			<latitude>33.751693</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1521,8 +1575,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>5.768082</longitude>
-		  <latitude>33.077951</latitude>
+			<longitude>5.768082</longitude>
+			<latitude>33.077951</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>
@@ -1844,20 +1898,128 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-			<LookAt>
-              <longitude>4.000169</longitude>
-              <latitude>33.741796</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
-			<Point>
-				<coordinates>4.000169,33.741796</coordinates>
-			</Point>
+		<LookAt>
+			<longitude>4.000169</longitude>
+			<latitude>33.741796</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+		<Point>
+			<coordinates>4.000169,33.741796</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Trauerholz</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Trauerholz</b> ist ein <a title="Wald" href="http://www.wiki-aventurica.de/wiki/Wald">Wald</a> zwischen <a title="Thasch" href="http://www.wiki-aventurica.de/wiki/Thasch">Thasch</a> und <a title="Finsterkamm" href="http://www.wiki-aventurica.de/wiki/Finsterkamm">Finsterkamm</a>, südwestlich von <a title="Yrramis" href="http://www.wiki-aventurica.de/wiki/Yrramis">Yrramis</a>. Im Westen grenzt er an die <a title="Messergrassteppe" href="http://www.wiki-aventurica.de/wiki/Messergrassteppe">Messergrassteppe</a>. Im Wald können u.a. <a title="Steineiche" href="http://www.wiki-aventurica.de/wiki/Steineiche">Steineichen</a> und <a title="Blutulme" href="http://www.wiki-aventurica.de/wiki/Blutulme">Blutulmen</a> gefunden werden. Entlang der südlichen Ausläufer des Thasch führt der <a title="Thaschweg" href="http://www.wiki-aventurica.de/wiki/Thaschweg">Thaschweg</a> von Yrramis nach <a class="mw-redirect" title="Teschkal" href="http://www.wiki-aventurica.de/wiki/Teschkal">Teschkal</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>2.101702531157983</longitude>
+			<latitude>32.95590716825213</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<Point>
+			<coordinates>2.101702531158003,32.95590716825213,0</coordinates>
+		</Point>
+</Placemark>
+
+<Placemark>
+		<name>Trauertann</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Trauertann</b> liegt nördlich des <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensees</a> bei <a href="/index.php?title=Branwyns_Hof&amp;action=edit&amp;redlink=1" class="new" title="Branwyns Hof (Seite nicht vorhanden)">Branwyns Hof</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>4.829554</longitude>
+			<latitude>34.615418</latitude>
+			<altitude>0</altitude>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
+		<Point>
+			<coordinates>4.829554,34.615418</coordinates>
+		</Point>
 </Placemark>
 
 <Placemark>
@@ -1912,60 +2074,6 @@ verfügbar, dort kann man den
 		<Point>
 			<coordinates>10.82484621517072,34.21026657006038,0</coordinates>
 		</Point>
-</Placemark>
-
-<Placemark>
-		<name>Trauertann</name>
-	<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-		<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #B21C19; }
-a:hover { text-decoration: underline; color: #B21C19; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<table cellpadding="10" cellspacing="0" align="center">
-<tr>
-<td>
-<p>
-Der <b>Trauertann</b> liegt nördlich des <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensees</a> bei <a href="/index.php?title=Branwyns_Hof&amp;action=edit&amp;redlink=1" class="new" title="Branwyns Hof (Seite nicht vorhanden)">Branwyns Hof</a>.
-</p>
-
-<hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-<p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
-
-aus der freien Website
-<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
-
-und steht unter der
-<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
-
-Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
-
-verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
-</td>
-</tr>
-</table>]]></description>
-			<LookAt>
-              <longitude>4.829554</longitude>
-              <latitude>34.615418</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation-X</styleUrl>
-			<Point>
-				<coordinates>4.829554,34.615418</coordinates>
-			</Point>
 </Placemark>
 
 <Placemark>
@@ -2118,8 +2226,8 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 		<LookAt>
-		  <longitude>4.134906</longitude>
-		  <latitude>31.877421</latitude>
+			<longitude>4.134906</longitude>
+			<latitude>31.877421</latitude>
 			<altitude>0</altitude>
 			<range>500000</range>
 			<tilt>0</tilt>

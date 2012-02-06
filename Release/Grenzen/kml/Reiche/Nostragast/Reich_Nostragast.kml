@@ -4,7 +4,12 @@
 <Folder>
 <name>Andergast aktuell</name>
 <Placemark>
-	<name>Andergast</name>
+	<name>Königreich Andergast</name>
+	<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
 	<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -96,7 +101,12 @@ verfügbar, dort kann man den
 <Folder>
 <name>Nostria aktuell</name>
 <Placemark>
-	<name>Nostria</name>
+	<name>Königreich Nostria</name>
+	<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
 	<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }

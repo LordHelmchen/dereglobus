@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
   <Document>
-   <Folder>
-        <name>Privathäuser Baburin</name>
 		<Region>
       <LatLonAltBox>
          <north>28.08628835435938</north>
@@ -27,7 +25,7 @@
 				--></style>
 				<p><table>
 					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
-					Magier
+					Magier Xelegorian
 					<br/><br/>
 					<br/><B>Mögliche Quellen:</B><br/>
 					Das Land des Schwarzen Auges, S. 73<br/>
@@ -55,6 +53,5 @@
 				<coordinates>5.753682,28.081549,0</coordinates>
 			</Point>
 		</Placemark>
-		      </Folder>
      </Document>
 </kml>

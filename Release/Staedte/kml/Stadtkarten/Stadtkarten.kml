@@ -4778,7 +4778,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<rotation>-33.1805672143017</rotation>
 	</LatLonBox>
 </GroundOverlay>
-    
+
+<GroundOverlay id="Shenilo_(InOff)-Plan">
+	<name>Shenilo (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>25.49687978223124</north>
+		<south>25.48617381411686</south>
+		<east>-1.382502597484489</east>
+		<west>-1.399033733280265</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+		a:link, a:visited { text-decoration: none; color: #814F21; }
+		a:hover { text-decoration: underline; color: #814F21; }
+		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+		#wiki { font-size:10px; }
+		--></style>
+		<div id="wiki">
+		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
+		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Gonfaloniere</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+		</div>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Shenilo_Bundt_farbe.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>25.49687978223124</north>
+		<south>25.48617381411686</south>
+		<east>-1.382502597484489</east>
+		<west>-1.399033733280265</west>
+	</LatLonBox>
+</GroundOverlay>
+   
 <GroundOverlay id="Selem-Plan">
       <name>Selem</name>
       <description><![CDATA[<style type="text/css"><!--
@@ -5498,8 +5538,47 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
         <west>3.492824491738181</west>
       </LatLonBox>
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
-    </GroundOverlay>
+</GroundOverlay>
 
+<GroundOverlay id="Urbasi_(InOff)-Plan">
+	<name>Urbasi (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>25.07989726452006</north>
+		<south>25.06401400717132</south>
+		<east>-0.6318422319649695</east>
+		<west>-0.6577739027509291</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+		a:link, a:visited { text-decoration: none; color: #814F21; }
+		a:hover { text-decoration: underline; color: #814F21; }
+		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+		#wiki { font-size:10px; }
+		--></style>
+		<div id="wiki">
+		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
+		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Gonfaloniere</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+		</div>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Urbasi_Bundt_farbe.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>25.07989726452006</north>
+		<south>25.06401400717132</south>
+		<east>-0.6318422319649695</east>
+		<west>-0.6577739027509291</west>
+	</LatLonBox>
+</GroundOverlay>
 	
 <GroundOverlay id="Vallusa-Plan">
    <name>Vallusa</name>

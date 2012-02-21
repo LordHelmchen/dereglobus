@@ -799,6 +799,48 @@
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Bomed-Plan">
+	<name>Bomed</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>26.06910203198193</north>
+		<south>26.05851265237199</south>
+		<east>-0.4266295144935584</east>
+		<west>-0.4433929599118824</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+      <description><![CDATA[<style type="text/css"><!--
+		a:link, a:visited { text-decoration: none; color: #814F21; }
+		a:hover { text-decoration: underline; color: #814F21; }
+		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+		#wiki { font-size:10px; }
+		--></style>
+		<div id="wiki">
+		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
+		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Schatzkanzler">Andree Hachmann</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur in Farbe und einem erweiterten Umland.
+		</div>
+		Quelle: <a href="http://www.wiki-aventurica.de/wiki/Der_Preis_der_Macht" title="Erben des Zorns">A113</a> und <a href="http://liebliches-feld.net/wiki/index.php/Datei:Stadtplan_bomed.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
+		]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Altbomed_Hachmann_farbe.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>26.06910203198193</north>
+		<south>26.05851265237199</south>
+		<east>-0.4266295144935584</east>
+		<west>-0.4433929599118824</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Boran-Plan">
 	<name>Boran</name>
     <Region>
@@ -4812,7 +4854,9 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<div id="wiki">
 		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Gonfaloniere</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
-		</div>]]></description>
+		</div>
+		Quelle: <a href="http://liebliches-feld.net/wiki/index.php/Datei:Shenilo_bunt.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
+		]]></description>
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<drawOrder>21</drawOrder>
 	<Icon>
@@ -5577,7 +5621,9 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<div id="wiki">
 		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Gonfaloniere</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
-		</div>]]></description>
+		</div>
+		Quelle: <a href="http://liebliches-feld.net/wiki/index.php/Datei:Urbasi_bunt_klein.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
+		]]></description>
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<drawOrder>21</drawOrder>
 	<Icon>

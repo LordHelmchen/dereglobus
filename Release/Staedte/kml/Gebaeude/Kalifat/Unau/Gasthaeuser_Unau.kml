@@ -26,9 +26,16 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Gasthaus "Bei Assaf" (9)</name>
+          <name>Gasthaus Bei Assaf</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.496971700869909</longitude>
+		  <longitude>3.496971700869909</longitude>
             <latitude>22.54746355635644</latitude>
             <altitude>0</altitude>
             <range>264.9227883200103</range>
@@ -37,14 +44,26 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.496645735738642,22.54739051182432,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Schenke "Cichanebi" (10)</name>
+          <name>Schenke Cichanebi</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.495653266826849</longitude>
+		  <longitude>3.495653266826849</longitude>
             <latitude>22.54668974801754</latitude>
             <altitude>0</altitude>
             <range>434.1747928295581</range>
@@ -53,14 +72,26 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.494819100696318,22.54650959431174,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Gasthaus "Die Peitsche" (11)</name>
+          <name>Gasthaus Die Peitsche</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.496384590890416</longitude>
+		  <longitude>3.496384590890416</longitude>
             <latitude>22.5457770407672</latitude>
             <altitude>0</altitude>
             <range>466.8477586015533</range>
@@ -69,14 +100,26 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.496012104350983,22.545395570492,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Schenke "Lotusgarten" (18)</name>
+          <name>Schenke Lotusgarten</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.495308917977213</longitude>
+		  <longitude>3.495308917977213</longitude>
             <latitude>22.54533619259619</latitude>
             <altitude>0</altitude>
             <range>466.8477586008791</range>
@@ -85,7 +128,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.494893854763075,22.54489972166597,0</coordinates>
           </Point>
         </Placemark>

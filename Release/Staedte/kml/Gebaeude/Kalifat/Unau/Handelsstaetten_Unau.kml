@@ -26,9 +26,16 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Funduq - Karawanserei (2)</name>
+          <name>Funduq - Karawanserei</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.495637294630943</longitude>
+		  <longitude>3.495637294630943</longitude>
             <latitude>22.5471290547216</latitude>
             <altitude>0</altitude>
             <range>393.0861366711056</range>
@@ -37,14 +44,26 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.495698380954582,22.54687622948444,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Salzlagerhäuser (6)</name>
+          <name>Salzlagerhäuser</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.49490992344604</longitude>
+		  <longitude>3.49490992344604</longitude>
             <latitude>22.54675872172081</latitude>
             <altitude>0</altitude>
             <range>393.086136667756</range>
@@ -53,14 +72,26 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.494174824471927,22.54656428370009,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Brennerhäuser (7)</name>
+          <name>Brennerhäuser</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>3.496563588657564</longitude>
+		  <longitude>3.496563588657564</longitude>
             <latitude>22.54803879826911</latitude>
             <altitude>0</altitude>
             <range>466.8295494231173</range>
@@ -69,11 +100,15 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>3.496080939332997,22.54821597406657,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
-      
   </Document>
 </kml>

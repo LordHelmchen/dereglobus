@@ -20,7 +20,7 @@
 		</Lod>
 	</Region>
         <Placemark>
-          <name>Schrein des Phex (4)</name>
+          <name>Schrein des Phex</name>
           <LookAt>
             <longitude>0.4464044122111832</longitude>
             <latitude>26.37727969522851</latitude>
@@ -31,12 +31,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4459399542647402,26.37764128823349,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Haus der Tsa (6)</name>
+          <name>Haus der Tsa</name>
           <LookAt>
             <longitude>0.4464044122111832</longitude>
             <latitude>26.37727969522851</latitude>
@@ -47,12 +52,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4470595117201826,26.37623852218501,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Haus der Peraine (9)</name>
+          <name>Haus der Peraine</name>
           <LookAt>
             <longitude>0.4456261058666101</longitude>
             <latitude>26.37671076673066</latitude>
@@ -63,12 +73,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4444013614547626,26.37704656180831,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Tempel des Rasthullah (10)</name>
+          <name>Tempel des Rasthullah</name>
           <LookAt>
             <longitude>0.4459460144381033</longitude>
             <latitude>26.37564561062228</latitude>
@@ -79,7 +94,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4451605677409609,26.37512586695837,0</coordinates>
           </Point>
         </Placemark>

@@ -39,7 +39,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
-          <Point id="KMLe_45">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_45">
             <coordinates>2.326150218497272,23.81006109585107,0</coordinates>
           </Point>
         </Placemark>

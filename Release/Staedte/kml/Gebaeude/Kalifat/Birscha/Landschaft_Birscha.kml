@@ -50,7 +50,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
-			<Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
 				<coordinates>2.323610094220234,23.81077020459952,0</coordinates>
 			</Point>
 		</Placemark>
@@ -73,7 +78,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
-			<Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
 				<coordinates>2.326203614727809,23.81174065254159,0</coordinates>
 			</Point>
 		</Placemark>
@@ -119,7 +129,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
-			<MultiGeometry>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
 			<Point>
 				<coordinates>2.323620345616866,23.81189865337069,0</coordinates>
 			</Point>
@@ -147,7 +162,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
-			<MultiGeometry>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
 			<Point>
 				<coordinates>2.32178820725784,23.81003931839894,0</coordinates>
 			</Point>

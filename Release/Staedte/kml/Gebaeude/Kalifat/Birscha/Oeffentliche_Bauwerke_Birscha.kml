@@ -39,7 +39,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
-          <Point id="KMLe_62">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_62">
             <coordinates>2.324184062478456,23.81052660501103,0</coordinates>
           </Point>
         </Placemark>
@@ -62,7 +67,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
-          <Point id="KMLe_64">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
             <coordinates>2.324766161143246,23.8107549095178,0</coordinates>
           </Point>
         </Placemark>

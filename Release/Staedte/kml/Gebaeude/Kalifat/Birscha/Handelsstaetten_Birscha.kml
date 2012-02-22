@@ -39,7 +39,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point id="KMLe_51">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_51">
             <coordinates>2.323144147182641,23.8097107439306,0</coordinates>
           </Point>
         </Placemark>

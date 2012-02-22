@@ -20,7 +20,7 @@
 		</Lod>
 	</Region>
         <Placemark>
-          <name>Fort der Kaiserlichen Garde (1)</name>
+          <name>Fort der Kaiserlichen Garde</name>
           <LookAt>
             <longitude>0.4407341592470804</longitude>
             <latitude>26.38015454477947</latitude>
@@ -31,12 +31,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4395841343952522,26.38020719458834,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast "Djer Al'Mougir" (11)</name>
+          <name>Palast Djer Al'Mougir</name>
           <LookAt>
             <longitude>0.4461513316357468</longitude>
             <latitude>26.3736992349507</latitude>
@@ -47,12 +52,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4453229243556534,26.37351743204291,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Prachtgärten (12)</name>
+          <name>Prachtgärten</name>
           <LookAt>
             <longitude>0.4461513316357468</longitude>
             <latitude>26.3736992349507</latitude>
@@ -63,7 +73,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4466025354216607,26.3731880460365,0</coordinates>
           </Point>
         </Placemark>

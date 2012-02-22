@@ -20,7 +20,7 @@
 		</Lod>
 	</Region>
         <Placemark>
-          <name>Befestigter Hof (2)</name>
+          <name>Befestigter Hof</name>
           <LookAt>
             <longitude>0.4514973347817741</longitude>
             <latitude>26.37919762239769</latitude>
@@ -31,12 +31,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4505988352039947,26.37944295663288,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Residenz des Sheiks (7)</name>
+          <name>Residenz des Sheiks</name>
           <LookAt>
             <longitude>0.4487870004672124</longitude>
             <latitude>26.37497825079834</latitude>
@@ -47,7 +52,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4482641704926182,26.37513867518004,0</coordinates>
           </Point>
         </Placemark>

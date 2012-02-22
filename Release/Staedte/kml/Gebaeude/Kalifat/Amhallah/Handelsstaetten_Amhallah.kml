@@ -20,7 +20,7 @@
 		</Lod>
 	</Region>
         <Placemark>
-          <name>Basar (3)</name>
+          <name>Basar</name>
           <LookAt>
             <longitude>0.4447777919031148</longitude>
             <latitude>26.37730876633063</latitude>
@@ -31,12 +31,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4442849350327793,26.37757586753635,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Basar (5)</name>
+          <name>Basar</name>
           <LookAt>
             <longitude>0.4464044122111832</longitude>
             <latitude>26.37727969522851</latitude>
@@ -47,12 +52,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4467187836898523,26.37729241271489,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Basar (8)</name>
+          <name>Basar</name>
           <LookAt>
             <longitude>0.4456261058666101</longitude>
             <latitude>26.37671076673066</latitude>
@@ -63,7 +73,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>0.4455377718876785,26.37676851573704,0</coordinates>
           </Point>
         </Placemark>

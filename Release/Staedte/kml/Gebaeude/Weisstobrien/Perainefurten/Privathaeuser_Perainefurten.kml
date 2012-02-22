@@ -40,7 +40,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>8.086979943034773,33.02941953337509,0</coordinates>
           </Point>
           <Snippet maxLines="0">
@@ -66,7 +71,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
-          <Point id="KMLe_126">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_126">
             <coordinates>8.08768064310598,33.02944026236941,0</coordinates>
           </Point>
           <Snippet maxLines="0">
@@ -91,7 +101,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>8.089416386679931,33.02946341046658,0</coordinates>
           </Point>
           <Snippet maxLines="0">

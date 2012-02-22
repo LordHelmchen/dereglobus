@@ -27,7 +27,7 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Maultierzüchter Amul al-Hinnj (22)</name>
+          <name>Maultierzüchter Amul al-Hinnj</name>
           <LookAt>
             <longitude>5.885364459731819</longitude>
             <latitude>24.30816254108096</latitude>
@@ -38,7 +38,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.889663240763241,24.30813572839677,0</coordinates>
           </Point>
         </Placemark>

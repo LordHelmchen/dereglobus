@@ -20,7 +20,7 @@
    </Region>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
         <Placemark>
-          <name>Chamallah-Karawanserei (16)</name>
+          <name>Chamallah-Karawanserei</name>
           <LookAt>
             <longitude>5.885364459731798</longitude>
             <latitude>24.30816254108095</latitude>
@@ -31,12 +31,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point id="KMLe_126">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_126">
             <coordinates>5.891045998493098,24.30911580095049,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Teehaus "Mhanadische Feige" (18)</name>
+          <name>Teehaus Mhanadische Feige</name>
           <LookAt>
             <longitude>5.885364459731798</longitude>
             <latitude>24.30816254108095</latitude>
@@ -47,12 +52,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.886322859398787,24.31074854749549,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Schankstube "Rashtuls Gaben" (20)</name>
+          <name>Schankstube Rashtuls Gaben</name>
           <LookAt>
             <longitude>5.885364459731819</longitude>
             <latitude>24.30816254108096</latitude>
@@ -63,7 +73,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.890273494041631,24.31248947252799,0</coordinates>
           </Point>
         </Placemark>

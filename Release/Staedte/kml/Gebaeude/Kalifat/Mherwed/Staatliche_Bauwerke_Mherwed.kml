@@ -27,7 +27,7 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Palast des Kalifen (2)</name>
+          <name>Palast des Kalifen</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -38,12 +38,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.880431819794254,24.30624409126662,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast des Ersten Mawdlis (3)</name>
+          <name>Palast des Ersten Mawdlis</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -54,12 +59,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.878640315830497,24.3064837860431,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast des Almosars (4)</name>
+          <name>Palast des Almosars</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -70,12 +80,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.87852764136354,24.30507945127812,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast des Mautaban (5)</name>
+          <name>Palast des Mautaban</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -86,12 +101,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.879805497876125,24.30469132252377,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast des Liobhun Pascha (6)</name>
+          <name>Palast des Liobhun Pascha</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -102,12 +122,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.882223292759408,24.30586737335316,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast des Emirs des Balash (8)</name>
+          <name>Palast des Emirs des Balash</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -118,12 +143,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.881396499642198,24.30490830718044,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Harem Khablas (7)</name>
+          <name>Harem Khablas</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -134,12 +164,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.884553434959978,24.30583315620459,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Malkillah-Stadttor (10)</name>
+          <name>Malkillah-Stadttor</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -150,12 +185,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.884102410004955,24.30908708083013,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Garnison (11)</name>
+          <name>Garnison</name>
           <LookAt>
             <longitude>5.884020961154969</longitude>
             <latitude>24.30986915488001</latitude>
@@ -166,12 +206,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.885229916233456,24.30979495115737,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Rashduler Tor (13)</name>
+          <name>Rashduler Tor</name>
           <LookAt>
             <longitude>5.892615142007743</longitude>
             <latitude>24.30709459135144</latitude>
@@ -182,7 +227,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.890817420258559,24.30742005336677,0</coordinates>
           </Point>
         </Placemark>

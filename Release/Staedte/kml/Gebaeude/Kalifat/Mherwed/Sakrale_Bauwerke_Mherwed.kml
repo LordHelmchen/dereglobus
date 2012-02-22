@@ -27,7 +27,7 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Bethaus des Haschabnah (15)</name>
+          <name>Bethaus des Haschabnah</name>
           <LookAt>
             <longitude>5.885364459731798</longitude>
             <latitude>24.30816254108095</latitude>
@@ -38,12 +38,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.887450372772074,24.30942413492324,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Phex-Tempel (21)</name>
+          <name>Phex-Tempel</name>
           <LookAt>
             <longitude>5.885364459731819</longitude>
             <latitude>24.30816254108096</latitude>
@@ -54,7 +59,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-          <Point>
+ 		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.88453611561542,24.31168915313942,0</coordinates>
           </Point>
         </Placemark>

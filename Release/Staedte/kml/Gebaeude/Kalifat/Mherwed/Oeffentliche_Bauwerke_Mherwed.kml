@@ -28,7 +28,7 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Die Bastrabun-Brücke (9)</name>
+          <name>Bastrabun-Brücke</name>
           <LookAt>
             <longitude>5.882693079338766</longitude>
             <latitude>24.30583884018139</latitude>
@@ -39,12 +39,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.883726578118063,24.30812801348285,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Zauberschule des Kalifen (14)</name>
+          <name>Zauberschule des Kalifen</name>
           <LookAt>
             <longitude>5.885364459731798</longitude>
             <latitude>24.30816254108095</latitude>
@@ -55,12 +60,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.882814980996414,24.3101205765254,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Abu Hadjins Badehaus (19)</name>
+          <name>Abu Hadjins Badehaus</name>
           <LookAt>
             <longitude>5.885364459731798</longitude>
             <latitude>24.30816254108095</latitude>
@@ -71,7 +81,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.888164516060579,24.31083987878618,0</coordinates>
           </Point>
         </Placemark>

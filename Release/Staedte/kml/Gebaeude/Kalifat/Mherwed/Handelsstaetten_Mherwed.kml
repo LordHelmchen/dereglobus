@@ -27,7 +27,7 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Basar (17)</name>
+          <name>Basar</name>
           <LookAt>
             <longitude>5.885364459731798</longitude>
             <latitude>24.30816254108095</latitude>
@@ -38,12 +38,17 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.887011931428683,24.31185603983487,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Hafen (12)</name>
+          <name>Hafen</name>
           <LookAt>
             <longitude>5.884020961154969</longitude>
             <latitude>24.30986915488001</latitude>
@@ -54,7 +59,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>5.886182048073067,24.30815086688787,0</coordinates>
           </Point>
         </Placemark>

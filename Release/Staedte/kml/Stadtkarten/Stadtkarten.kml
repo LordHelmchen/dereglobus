@@ -1583,7 +1583,47 @@
 		<west>10.74421013059501</west>
 	</LatLonBox>
 </GroundOverlay>
-	
+
+<GroundOverlay id="Efferdas_(InOff)-Plan">
+	<name>Efferdas (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>24.59166330899946</north>
+		<south>24.58183925083545</south>
+		<east>-1.28219136609827</east>
+		<west>-1.290559485319414</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+		a:link, a:visited { text-decoration: none; color: #814F21; }
+		a:hover { text-decoration: underline; color: #814F21; }
+		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+		#wiki { font-size:10px; }
+		--></style>
+		<div id="wiki">
+		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
+		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Elanor">Olaf Tomaszewski</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
+		</div>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Efferdas_Tomaszewski_farbe.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>24.59166330899946</north>
+		<south>24.58183925083545</south>
+		<east>-1.28219136609827</east>
+		<west>-1.290559485319414</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Elburum-Plan">
       <name>Elburum</name>
             <Region>

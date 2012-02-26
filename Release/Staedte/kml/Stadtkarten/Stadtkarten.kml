@@ -416,10 +416,10 @@
 	<name>Arivor</name>
     <Region>
           <LatLonAltBox>
-			<north>25.17678720252047</north>
-			<south>25.1610304202046</south>
-			<east>-0.9798393857372605</east>
-			<west>-1.004801983669212</west>
+		<north>25.17673085694853</north>
+		<south>25.16097407463267</south>
+		<east>-0.9798313593711887</east>
+		<west>-1.00479395730314</west>
           </LatLonAltBox>
           <Lod>
              <minLodPixels>16</minLodPixels>
@@ -428,26 +428,33 @@
              <maxFadeExtent>0</maxFadeExtent>
           </Lod>
        </Region>
-	<description><![CDATA[    <style type="text/css"><!--
-    a:link, a:visited { text-decoration: none; color: #B21C19; }
-    a:hover { text-decoration: underline; color: #B21C19; }
-    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-    #wiki { font-size:10px; }
-    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Horas" title="Reich des Horas">RdH</a>
-	<br/>
-	Zeichnung: <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere" title="Gonfaloniere">Gonfaloniere</a>
-	]]></description>
+      <description><![CDATA[<style type="text/css"><!--
+		a:link, a:visited { text-decoration: none; color: #814F21; }
+		a:hover { text-decoration: underline; color: #814F21; }
+		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+		#wiki { font-size:10px; }
+		--></style>
+		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Armin_Bundt">Armin Bundt</a>
+		<br/>
+		Kolorierung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+		<br/>
+		Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Horas" title="Reich des Horas">RdH</a> und <a href="http://liebliches-feld.net/wiki/index.php/Datei:Stadtplan_Arivor.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
+		<br/>
+		<div id="wiki">
+		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
+		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Armin Bundt</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur in Farbe.
+		</div>]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 	<drawOrder>21</drawOrder>
 	<Icon>
-		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Arivor_RdH_sw_226.jpg</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Arivor_Bundt_farbe.jpg</href>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>25.17678720252047</north>
-		<south>25.1610304202046</south>
-		<east>-0.9798393857372605</east>
-		<west>-1.004801983669212</west>
+		<north>25.17673085694853</north>
+		<south>25.16097407463267</south>
+		<east>-0.9798313593711887</east>
+		<west>-1.00479395730314</west>
 	</LatLonBox>
 </GroundOverlay>
 
@@ -1477,11 +1484,13 @@
     a:hover { text-decoration: underline; color: #B21C19; }
     hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
     #wiki { font-size:10px; }
-    --></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=114" title="Reich des Horas Bonusmaterialien">RdH-Bonus</a>
-	<br/>
+    --></style>
 	Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Andreas_Michaelis" title="Andreas Michaelis">Andreas Michaelis</a>
 	<br/>
 	Kolorierung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+	<br/>
+	Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=114" title="Reich des Horas Bonusmaterialien">RdH-Bonus</a>
+	<br/>
 	<div id="wiki">
 	<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 	<p>Vielen Dank an <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann">Andree Hachmann</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur ohne Zahlen.
@@ -3097,11 +3106,12 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		a:hover { text-decoration: underline; color: #814F21; }
 		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 		#wiki { font-size:10px; }
-		--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Horas" title="Reich des Horas">RdH</a>
-		<br/>
+		--></style>
 		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a> und <a href="http://www.wiki-aventurica.de/wiki/Ralf_Hlawatsch" title="Ralf Hlawatsch">Ralf Hlawatsch</a>
 		<br/>
 		Kolorierung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+		Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Horas" title="Reich des Horas">RdH</a>
+		<br/>
 		<div id="wiki">
 		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 		<p>Vielen Dank an <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann">Andree Hachmann</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur in Farbe.
@@ -4901,11 +4911,16 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 		#wiki { font-size:10px; }
 		--></style>
+		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Armin_Bundt">Armin Bundt</a>
+		<br/>
+		Kolorierung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+		<br/>
+		Quelle: <a href="http://liebliches-feld.net/wiki/index.php/Datei:Shenilo_bunt.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
+		<br/>
 		<div id="wiki">
 		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Gonfaloniere</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
 		</div>
-		Quelle: <a href="http://liebliches-feld.net/wiki/index.php/Datei:Shenilo_bunt.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
 		]]></description>
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<drawOrder>21</drawOrder>
@@ -5200,7 +5215,13 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		a:hover { text-decoration: underline; color: #814F21; }
 		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 		#wiki { font-size:10px; }
-		--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Horas" title="Reich des Horas">RdH</a>
+		--></style>
+		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+		<br/>
+		Kolorierung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+		<br/>
+		Quelle: <a href="http://www.wiki-aventurica.de/wiki/Reich_des_Horas" title="Reich des Horas">RdH</a>
+		<br/>
 		<div id="wiki">
 		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 		<p>Vielen Dank an <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann">Andree Hachmann</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat. Es handelt sich um die offizielle Karte - nur in Farbe.
@@ -5668,11 +5689,16 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 		#wiki { font-size:10px; }
 		--></style>
+		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Armin_Bundt">Armin Bundt</a>
+		<br/>
+		Kolorierung: <a href="http://www.wiki-aventurica.de/wiki/Andree_Hachmann" title="Andree Hachmann">Andree Hachmann</a>
+		<br/>
+		Quelle: <a href="http://liebliches-feld.net/wiki/index.php/Datei:Urbasi_bunt_klein.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
+		<br/>
 		<div id="wiki">
 		<a href="http://liebliches-feld.net/wiki/index.php/Hauptseite"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Lf-wiki.png" alt="Liebliches-Feld.net" align="left"></a></p>
 		<p>Vielen Dank an <a href="http://liebliches-feld.net/wiki/index.php/Benutzer:Gonfaloniere">Gonfaloniere</a> vom <a href="http://liebliches-feld.net/wiki/index.php/Hauptseite">Liebliches Feld Wiki</a>, der uns diese Karte zur Verf&uuml;gung gestellt hat.
 		</div>
-		Quelle: <a href="http://liebliches-feld.net/wiki/index.php/Datei:Urbasi_bunt_klein.jpg" title="liebliches-feld.net">liebliches-feld.net</a>
 		]]></description>
 		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<drawOrder>21</drawOrder>

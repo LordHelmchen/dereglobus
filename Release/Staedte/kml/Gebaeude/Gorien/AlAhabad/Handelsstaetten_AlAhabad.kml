@@ -19,7 +19,14 @@
       </Lod>
    </Region>
         <Placemark>
-          <name>Palastallee und Basar (4)</name>
+          <name>Palastallee und Basar</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
             <longitude>6.539753329896076</longitude>
             <latitude>24.93928731212638</latitude>
@@ -30,7 +37,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-          <Point id="KMLe_33">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_33">
             <coordinates>6.539558885562762,24.93954068808365,0</coordinates>
           </Point>
         </Placemark>

@@ -19,9 +19,16 @@
       </Lod>
    </Region>
         <Placemark>
-          <name>Aufgang und Wächter-Golemid (1)</name>
+          <name>Aufgang und Wächter-Golemid</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.53859182357879</longitude>
+		  <longitude>6.53859182357879</longitude>
             <latitude>24.93878288779573</latitude>
             <altitude>1000</altitude>
             <range>263.7852597197153</range>
@@ -30,15 +37,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_70">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_70">
             <coordinates>6.538600837854096,24.93874902653101,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>"bab-el-masa" - Tor des Abends (2)</name>
+          <name>bab-el-masa (Tor des Abends)</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.539482910711552</longitude>
+		  <longitude>6.539482910711552</longitude>
             <latitude>24.93924761208119</latitude>
             <altitude>0</altitude>
             <range>263.7852597205399</range>
@@ -47,15 +66,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_72">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_72">
             <coordinates>6.539010324133441,24.9390946497567,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>"bab-es-sabah" - Tor des Morgens (8)</name>
+          <name>bab-es-sabah (Tor des Morgens)</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.540547708276152</longitude>
+		  <longitude>6.540547708276152</longitude>
             <latitude>24.93989638164082</latitude>
             <altitude>0</altitude>
             <range>295.8198583358019</range>
@@ -64,15 +95,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_74">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_74">
             <coordinates>6.540416297015639,24.94025909499584,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>"bab-el-bir" - Tor der Quelle (9)</name>
+          <name>bab-el-bir (Tor der Quelle)</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.540423517643295</longitude>
+		  <longitude>6.540423517643295</longitude>
             <latitude>24.94035468366977</latitude>
             <altitude>0</altitude>
             <range>295.8198583367978</range>
@@ -81,15 +124,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_76">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_76">
             <coordinates>6.540621359569416,24.94043455833883,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Audienzhalle (10)</name>
+          <name>Audienzhalle</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.540423517643295</longitude>
+		  <longitude>6.540423517643295</longitude>
             <latitude>24.94035468366977</latitude>
             <altitude>0</altitude>
             <range>295.8198583367978</range>
@@ -98,15 +153,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_78">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_78">
             <coordinates>6.540768658569793,24.94054978775857,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Alter Palast (12)</name>
+          <name>Alter Palast</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.540562153480124</longitude>
+		  <longitude>6.540562153480124</longitude>
             <latitude>24.9402132650827</latitude>
             <altitude>0</altitude>
             <range>295.8198583392871</range>
@@ -115,15 +182,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_80">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_80">
             <coordinates>6.540976614032443,24.94073572710487,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Kleiner (Wesirs-)Palast (13)</name>
+          <name>Kleiner Palast</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.540562153480124</longitude>
+		  <longitude>6.540562153480124</longitude>
             <latitude>24.9402132650827</latitude>
             <altitude>0</altitude>
             <range>295.8198583392871</range>
@@ -132,15 +211,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_82">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_82">
             <coordinates>6.540326767079994,24.94082477152783,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Neuer (Sultans-)Palast (15)</name>
+          <name>Neuer Palast</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.541203329870046</longitude>
+		  <longitude>6.541203329870046</longitude>
             <latitude>24.93992256715124</latitude>
             <altitude>0</altitude>
             <range>295.8198583390357</range>
@@ -149,15 +240,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_84">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_84">
             <coordinates>6.541019932079733,24.94017528903954,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Palast des Yakubanim (16)</name>
+          <name>Palast der Yakubanim</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.541203329870046</longitude>
+		  <longitude>6.541203329870046</longitude>
             <latitude>24.93992256715124</latitude>
             <altitude>0</altitude>
             <range>295.8198583390357</range>
@@ -166,15 +269,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_86">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_86">
             <coordinates>6.541074804233633,24.9397746022757,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Gesindetrakt (18)</name>
+          <name>Gesindetrakt</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.540510161976084</longitude>
+		  <longitude>6.540510161976084</longitude>
             <latitude>24.94055371970765</latitude>
             <altitude>0</altitude>
             <range>295.8198583385331</range>
@@ -183,7 +298,12 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point id="KMLe_88">
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_88">
             <coordinates>6.539893529438872,24.94105261522632,0</coordinates>
             <altitudeMode>clampToGround</altitudeMode>
           </Point>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+       	<Folder>
+		<name>Landmarken Al'Ahabad</name>
+	<Region>
+      <LatLonAltBox>
+         <north>24.94240491187294</north>
+			<south>24.93742580187806</south>
+			<east>6.541741335862592</east>
+			<west>6.538226668038076</west>
+			<rotation>-47.70130691803328</rotation>
+      </LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+
+        <Placemark>
+          <name>Beît al'Djalid</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+          <LookAt>
+			<longitude>6.541319346842136</longitude>
+			<latitude>24.9395987710134</latitude>
+            <altitude>0</altitude>
+			<range>76.38927590353237</range>
+            <tilt>0</tilt>
+			<heading>0.0002724666312048806</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.541319346842136,24.93959877101341,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+	<Placemark>
+          <name>Beît al'Hawa</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+          <LookAt>
+			<longitude>6.541301959858803</longitude>
+			<latitude>24.93906866580939</latitude>
+            <altitude>0</altitude>
+			<range>90.75557340436068</range>
+            <tilt>0</tilt>
+			<heading>0.0004711099297824608</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.541301959858803,24.93906866580939,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+    <Placemark>
+          <name>Beît al'Haz</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+          <LookAt>
+			<longitude>6.541345583118767</longitude>
+			<latitude>24.94012751398292</latitude>
+            <altitude>0</altitude>
+			<range>59.84285441233696</range>
+            <tilt>0</tilt>
+			<heading>0.0002012326809719341</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.541345583118787,24.94012751398291,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+    <Placemark>
+          <name>Beît al'Khor</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+          <LookAt>
+			<longitude>6.53901741290531</longitude>
+			<latitude>24.9406735989995</latitude>
+            <altitude>0</altitude>
+			<range>90.75557339870346</range>
+            <tilt>0</tilt>
+			<heading>-0.0004922004680566188</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.53901741290531,24.9406735989995,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+    <Placemark>
+          <name>Beît al'Mayy</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+          <LookAt>
+			<longitude>6.540059777175848</longitude>
+			<latitude>24.93876291220856</latitude>
+            <altitude>0</altitude>
+			<range>90.75557339542901</range>
+            <tilt>0</tilt>
+			<heading>-5.267882155082844e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.540059777175848,24.93876291220856,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+    <Placemark>
+          <name>Beît al'Zumuh</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+          <LookAt>
+			<longitude>6.539615679621058</longitude>
+			<latitude>24.93916061629585</latitude>
+            <altitude>0</altitude>
+			<range>45.76580100120284</range>
+            <tilt>0</tilt>
+			<heading>-0.0001378917909419356</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.539615679621058,24.93916061629584,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+	</Folder>
+    </Document>
+</kml>

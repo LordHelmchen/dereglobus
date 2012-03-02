@@ -26,10 +26,18 @@
             <displayMode>default</displayMode>
           </BalloonStyle>
         </Style>
+
         <Placemark>
-          <name>Morgenröte-Tor (1)</name>
+          <name>Morgenröte-Tor</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.110204194121591</longitude>
+		  <longitude>6.110204194121591</longitude>
             <latitude>25.51093866460202</latitude>
             <altitude>0</altitude>
             <range>1319.436562718985</range>
@@ -38,14 +46,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.110974250324994,25.51201916723129,0</coordinates>
           </Point>
         </Placemark>
+
         <Placemark>
-          <name>Abendsonnen-Tor (2)</name>
+          <name>Abendsonnen-Tor</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.110204194121591</longitude>
+		  <longitude>6.110204194121591</longitude>
             <latitude>25.51093866460202</latitude>
             <altitude>0</altitude>
             <range>1319.436562718985</range>
@@ -54,14 +75,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.105421733397611,25.51166849333698,0</coordinates>
           </Point>
         </Placemark>
+
         <Placemark>
-          <name>Mondtor (3)</name>
+          <name>Mondtor</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.110204194121591</longitude>
+		  <longitude>6.110204194121591</longitude>
             <latitude>25.51093866460202</latitude>
             <altitude>0</altitude>
             <range>1319.436562718985</range>
@@ -70,14 +104,42 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.108566740060748,25.51434360244129,0</coordinates>
           </Point>
         </Placemark>
+
         <Placemark>
-          <name>Sternentor (4)</name>
-          <LookAt>
-            <longitude>6.110204194121591</longitude>
+          <name>Keshal Rohal im Sternentor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		<b>Keshal Rohal</b> (<a title="Tulamidya" href="http://www.wiki-aventurica.de/wiki/Tulamidya">Tulamidya</a>: Haus <a class="mw-redirect" title="Rohal" href="http://www.wiki-aventurica.de/wiki/Rohal">Rohals</a>) fungierte ursprünglich als Stadttor-Burg <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopals</a> in Richtung <a class="mw-redirect" title="Gor" href="http://www.wiki-aventurica.de/wiki/Gor">Gor</a>. Doch seit den <a title="Magierkriege" href="http://www.wiki-aventurica.de/wiki/Magierkriege">Magierkriegen</a> ist zumindest das <b>Sternentor</b>, dessen Zugbrücke aus <a title="Basalt" href="http://www.wiki-aventurica.de/wiki/Basalt">Basalt</a> besteht immer geschlossen. Die Burg ist der Hauptsitz des <a class="mw-redirect" title="ODL" href="http://www.wiki-aventurica.de/wiki/ODL">ODL</a> in den <a title="Tulamidenlande" href="http://www.wiki-aventurica.de/wiki/Tulamidenlande">Tulamidenlanden</a> (inklusive <a title="Raschtulswall" href="http://www.wiki-aventurica.de/wiki/Raschtulswall">Raschtulswall</a> und <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a>). Während der Eroberung <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopals</a> durch <a title="Hasrabal ben Yakuban" href="http://www.wiki-aventurica.de/wiki/Hasrabal_ben_Yakuban">Hasrabal von Gorien</a> verhielten sich die Ordensmitglieder neutral, allerdings wird das Nordtor trotz Waffenstillstand zwischen den beiden Parteien stark bewacht.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+		<longitude>6.110204194121591</longitude>
             <latitude>25.51093866460202</latitude>
             <altitude>0</altitude>
             <range>1319.436562718985</range>
@@ -86,14 +148,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Keshal Rohal</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.108256378421499,25.50969457374072,0</coordinates>
           </Point>
         </Placemark>
+
         <Placemark>
-          <name>Aquädukt (5)</name>
+          <name>Aquädukt</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.110204194121591</longitude>
+		  <longitude>6.110204194121591</longitude>
             <latitude>25.51093866460202</latitude>
             <altitude>0</altitude>
             <range>1319.436562718985</range>
@@ -102,14 +177,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.111517795632158,25.51422688899919,0</coordinates>
           </Point>
         </Placemark>
+
         <Placemark>
-          <name>Sultanspalast (6)</name>
+          <name>Sultanspalast</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.110204194121591</longitude>
+		  <longitude>6.110204194121591</longitude>
             <latitude>25.51093866460202</latitude>
             <altitude>0</altitude>
             <range>1319.436562718985</range>
@@ -118,14 +206,27 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.109032817770855,25.51210086766946,0</coordinates>
           </Point>
         </Placemark>
+
         <Placemark>
-          <name>Garnison (12)</name>
+          <name>Garnison</name>
+		  	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
-            <longitude>6.108385099367642</longitude>
+		  <longitude>6.108385099367642</longitude>
             <latitude>25.50653392406414</latitude>
             <altitude>0</altitude>
             <range>494.8259740090246</range>
@@ -134,11 +235,60 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
-          <Point>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
             <coordinates>6.107678881033509,25.50658864863515,0</coordinates>
           </Point>
         </Placemark>
-      </Folder>
-      
+
+        <Placemark>
+          <name>Heilsamer Brunnen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Der <b>Heilsame Brunnen</b> steht auf dem Marktplatz <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopals</a> und ist Ziel vieler <a title="Peraine" href="http://www.wiki-aventurica.de/wiki/Peraine">Peraine</a>-<a title="Pilger" href="http://www.wiki-aventurica.de/wiki/Pilger">Pilger</a>.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+			<longitude>6.108134088835682</longitude>
+			<latitude>25.51151938816837</latitude>
+            <altitude>0</altitude>
+			<range>93.5081674654855</range>
+            <tilt>0</tilt>
+			<heading>-0.002958897543382932</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>6.108134088835682,25.51151938816837,0</coordinates>
+          </Point>
+        </Placemark>
+
+	</Folder>
     </Document>
 </kml>

@@ -21,7 +21,8 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
     </Region>
-    <Placemark>        <name>Feste Hohenstein</name>
+    <Placemark>
+	<name>Burg Hohenstein</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -44,8 +45,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Die Festung <b>Feste Hohenstein</b> ist auf einem ca. 15 Meilen westlich von Rommilys gelegenen steilen Berg errichtet worden und stellt die Wehr der <a href="http://www.wiki-aventurica.de/wiki/Mark_Rommilys&amp;action=edit&amp;redlink=1" class="new" title="Mark Rommilys (Seite nicht vorhanden)">Mark Rommilys</a> dar.
-
+Burg <b>Hohenstein</b> ist eine wehrhafte <a class="mw-redirect" title="Burg" href="http://www.wiki-aventurica.de/wiki/Burg">Burg</a> in den Ausläufern des <a title="Finsterkamm" href="http://www.wiki-aventurica.de/wiki/Finsterkamm">Finsterkamms</a>. In der Nähe verläuft bei der <a title="Hohe Klamm" href="http://www.wiki-aventurica.de/wiki/Hohe_Klamm">Hohen Klamm</a> der <a title="Nôrrnstieg" href="http://www.wiki-aventurica.de/wiki/N%C3%B4rrnstieg">Nôrrnstieg</a>.
 
 <!-- END EDIT -->
 
@@ -83,13 +83,57 @@ verfügbar, dort kann man den
              <coordinates> 2.97576300521975, 32.7340946493609,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Cron-Feste Dragentodt</name>
+    <Placemark>
+	<name>Dragentodt</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  50<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweißkarte: Weiden<TR><TD><TR><TD>Aventurischer Bote (102), S. 1<TR><TD>Schild des Reiches, S. 67<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Cron-Feste <b>Dragentodt</b> ist eine <a class="mw-redirect" title="Burg" href="http://www.wiki-aventurica.de/wiki/Burg">Burg</a> am <a title="Neunaugensee" href="http://www.wiki-aventurica.de/wiki/Neunaugensee">Neunaugensee</a>. Sie war Sitz des <a title="Orden der Silberfalken" href="http://www.wiki-aventurica.de/wiki/Orden_der_Silberfalken">Ordens der Silberfalken</a>, steht aber seit einigen Jahren leer.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
         <Camera> 
               <longitude> 4.76368263874753</longitude>
@@ -101,7 +145,132 @@ verfügbar, dort kann man den
              <coordinates> 4.76368263874753, 33.7202774983589,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Räuberlager</name>
+    <Placemark>
+	<name>Dornstein</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Burg Dornstein</b> liegt in der südlichen <a title="Grafschaft Bärwalde" href="http://www.wiki-aventurica.de/wiki/Grafschaft_B%C3%A4rwalde">Grafschaft Bärwalde</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <Camera> 
+              <longitude> 3.71532427908617</longitude>
+              <latitude> 32.0029786440294</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>3.692240123035682,32.02440905985238,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Blauenburg</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Blauenburg</b> liegt in der südlichen <a title="Grafschaft Bärwalde" href="http://www.wiki-aventurica.de/wiki/Grafschaft_B%C3%A4rwalde">Grafschaft Bärwalde</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <Camera> 
+              <longitude> 4.23371344770878</longitude>
+              <latitude> 31.9688736654667</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>4.239337828544432,31.97118342637357,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Räuberlager</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -119,7 +288,8 @@ verfügbar, dort kann man den
              <coordinates> 5.15292507828463, 33.4109530781952,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Feste Imrâl</name>
+    <Placemark>
+	<name>Feste Imrâl</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -137,7 +307,8 @@ verfügbar, dort kann man den
              <coordinates> 5.4643190299143, 33.284533532563,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Pfalz Donnerschalck</name>
+    <Placemark>
+	<name>Pfalz Donnerschalck</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -155,7 +326,8 @@ verfügbar, dort kann man den
              <coordinates> 5.82102351624437, 31.985926154748,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Nalgardis</name>
+    <Placemark>
+	<name>Nalgardis</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -211,7 +383,8 @@ verfügbar, dort kann man den
              <coordinates> 5.85395941497443, 31.813780390483,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Aarfold</name>
+    <Placemark>
+	<name>Burg Aarfold</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -229,7 +402,8 @@ verfügbar, dort kann man den
              <coordinates> 3.89836675393045, 33.8628357093909,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Aarenstein</name>
+    <Placemark>
+	<name>Burg Aarenstein</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -247,7 +421,8 @@ verfügbar, dort kann man den
              <coordinates> 5.68029740348865, 32.5991954399422,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Distelstein</name>
+    <Placemark>
+	<name>Burg Distelstein</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -309,7 +484,8 @@ verfügbar, dort kann man den
              <coordinates> 4.00316279534429, 33.0101762207657,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Waldstein</name>
+    <Placemark>
+	<name>Burg Waldstein</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -327,7 +503,8 @@ verfügbar, dort kann man den
              <coordinates> 4.99423392985796, 33.6395841713596,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Gut Hohenhain</name>
+    <Placemark>
+	<name>Gut Hohenhain</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -345,7 +522,8 @@ verfügbar, dort kann man den
              <coordinates> 3.0775655127677, 32.5382443797909,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Gut Orkenwall</name>
+    <Placemark>
+	<name>Gut Orkenwall</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -363,7 +541,8 @@ verfügbar, dort kann man den
              <coordinates> 3.58956839064363, 33.6271008014857,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Kloster Drachenwacht</name>
+    <Placemark>
+	<name>Kloster Drachenwacht</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -381,7 +560,8 @@ verfügbar, dort kann man den
              <coordinates> 7.62990427429273, 34.2093135226928,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Gut Kleingras</name>
+    <Placemark>
+	<name>Gut Kleingras</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -399,7 +579,8 @@ verfügbar, dort kann man den
              <coordinates> 5.21879687574475, 32.9456215591663,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Kloster Zweileuen</name>
+    <Placemark>
+	<name>Kloster Zweileuen</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -417,7 +598,8 @@ verfügbar, dort kann man den
              <coordinates> 6.16235983273822, 33.0577300871615,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Bernenburg</name>
+    <Placemark>
+	<name>Burg Bernenburg</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -435,13 +617,57 @@ verfügbar, dort kann man den
              <coordinates> 4.92237378717419, 33.5830988424602,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Weißenstein</name>
+    <Placemark>
+	<name>Burg Weißenstein</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>in der Vogtei Waldleuen<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (79), S. 24<TR><TD>Aventurischer Bote (102), S. 1<TR><TD>Schild des Reiches, S. 55<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Burg Weißenstein</b> liegt in der <a class="mw-redirect" title="Weiden" href="http://www.wiki-aventurica.de/wiki/Weiden">Weidener</a> <a title="Baronie Herzoglich Waldleuen" href="http://www.wiki-aventurica.de/wiki/Baronie_Herzoglich_Waldleuen">Baronie Herzoglich Waldleuen</a> bei <a title="Ulmenau" href="http://www.wiki-aventurica.de/wiki/Ulmenau">Ulmenau</a>. Sie gehört zu den <a title="Wehren des Nordens" href="http://www.wiki-aventurica.de/wiki/Wehren_des_Nordens">Wehren des Nordens</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
         <Camera> 
               <longitude> 3.61052823767234</longitude>
@@ -453,13 +679,57 @@ verfügbar, dort kann man den
              <coordinates> 3.61052823767234, 32.3822372809258,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Biberstein</name>
+    <Placemark>
+	<name>Biberstein</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweißkarte: Weiden<TR><TD><TR><TD>Schild des Reiches, S. 66<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Biberstein</b> ist eine <a title="Kaiserpfalz" href="http://www.wiki-aventurica.de/wiki/Kaiserpfalz">Kaiserpfalz</a> in der südlichen <a title="Grafschaft Bärwalde" href="http://www.wiki-aventurica.de/wiki/Grafschaft_B%C3%A4rwalde">Grafschaft Bärwalde</a>. Im Norden erstreckt sich der <a title="Bärnwald" href="http://www.wiki-aventurica.de/wiki/B%C3%A4rnwald">Bärnwald</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
         <Camera> 
               <longitude> 4.34150366173444</longitude>
@@ -471,7 +741,8 @@ verfügbar, dort kann man den
              <coordinates> 4.34150366173444, 32.1598478726982,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Acheburg</name>
+    <Placemark>
+	<name>Acheburg</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -538,7 +809,8 @@ verfügbar, dort kann man den
 			<coordinates>3.619900124440312,33.68469904694533,0</coordinates>
 		</Point>
     </Placemark>
-	    <Placemark>        <name>Acheburg</name>
+	    <Placemark>
+        <name>Acheburg</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -604,7 +876,8 @@ verfügbar, dort kann man den
 			<coordinates>3.619900124440312,33.68469904694533,0</coordinates>
 		</Point>
     </Placemark>
-    <Placemark>        <name>Gut Wolfegg</name>
+    <Placemark>
+	<name>Gut Wolfegg</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -622,25 +895,8 @@ verfügbar, dort kann man den
              <coordinates> 7.01270485449618, 34.0610171195186,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Wehrgut Nebeltrutz</name>
-	<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 65<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
-        <Camera> 
-              <longitude> 3.89537258131863</longitude>
-              <latitude> 33.0801104374983</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-			<coordinates>3.900449325110009,33.08347177489782,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>        <name>Kloster der Gurvaniaten</name>
+    <Placemark>
+	<name>Kloster der Gurvaniaten</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -658,7 +914,8 @@ verfügbar, dort kann man den
              <coordinates> 4.87746119799684, 33.4028837454952,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Gestüt Altentrallop</name>
+    <Placemark>
+	<name>Gestüt Altentrallop</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -676,7 +933,8 @@ verfügbar, dort kann man den
 			<coordinates>5.064558125750958,33.53479689254075,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Drôlenhorst</name>
+    <Placemark>
+	<name>Burg Drôlenhorst</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -694,7 +952,8 @@ verfügbar, dort kann man den
              <coordinates> 6.80910111689216, 33.953426016853,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Burg Hölderlingen</name>
+    <Placemark>
+	<name>Burg Hölderlingen</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -712,7 +971,8 @@ verfügbar, dort kann man den
              <coordinates> 5.11100666171909, 32.8245815686674,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Kloster der Gurvaniaten</name>
+    <Placemark>
+	<name>Kloster der Gurvaniaten</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -730,7 +990,8 @@ verfügbar, dort kann man den
              <coordinates> 7.31252069994753, 33.9309939724384,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Hammerwerk</name>
+    <Placemark>
+	<name>Hammerwerk</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -748,7 +1009,8 @@ verfügbar, dort kann man den
              <coordinates> 6.64741643459961, 34.7176814827879,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Felsenburg Tatzelschlund</name>
+    <Placemark>
+	<name>Felsenburg Tatzelschlund</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -766,7 +1028,8 @@ verfügbar, dort kann man den
              <coordinates> 7.0606122550313, 34.6074006025556,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Wehrhof</name>
+    <Placemark>
+	<name>Wehrhof</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -784,7 +1047,8 @@ verfügbar, dort kann man den
 			<coordinates>4.936278653529174,33.12348463073623,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Wirtshaus Zum Goldenen Bären</name>
+    <Placemark>
+	<name>Wirtshaus Zum Goldenen Bären</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -802,7 +1066,8 @@ verfügbar, dort kann man den
              <coordinates> 5.67730386962276, 33.1222847487609,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Inquisitionsturm</name>
+    <Placemark>
+	<name>Inquisitionsturm</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -820,7 +1085,8 @@ verfügbar, dort kann man den
              <coordinates> 6.97976895576612, 33.7866598077212,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Blaufüchsen-Hof</name>
+    <Placemark>
+	<name>Blaufüchsen-Hof</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -838,7 +1104,8 @@ verfügbar, dort kann man den
 			<coordinates>4.940047390175913,33.09178099940363,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Gasthaus Seeblick</name>
+    <Placemark>
+	<name>Gasthaus Seeblick</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -856,7 +1123,8 @@ verfügbar, dort kann man den
 			<coordinates>5.133952032004885,33.64702883248075,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Freihofer Gehöft</name>
+    <Placemark>
+	<name>Freihofer Gehöft</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -874,7 +1142,8 @@ verfügbar, dort kann man den
 			<coordinates>5.248674576407122,34.71106998425544,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Wehrturm</name>
+    <Placemark>
+	<name>Wehrturm</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -892,7 +1161,8 @@ verfügbar, dort kann man den
 			<coordinates>4.814012022555634,34.56944260216631,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Herberge Schwan und Reiher</name>
+    <Placemark>
+	<name>Herberge Schwan und Reiher</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -910,7 +1180,8 @@ verfügbar, dort kann man den
              <coordinates> 5.5186127211961, 33.9292180187532,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Drakensteen</name>
+    <Placemark>
+	<name>Drakensteen</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -928,7 +1199,8 @@ verfügbar, dort kann man den
              <coordinates> 7.48318981631336, 34.1635873040599,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Brücknerhaus</name>
+    <Placemark>
+	<name>Brücknerhaus</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -946,7 +1218,8 @@ verfügbar, dort kann man den
 			<coordinates>5.057291688109562,33.41826210817451,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Nachtschattensturm</name>
+    <Placemark>
+	<name>Nachtschattensturm</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1010,7 +1283,8 @@ verfügbar, dort kann man den
 			<coordinates>4.717445034647021,32.84292864037735,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Hexenschloss</name>
+    <Placemark>
+	<name>Hexenschloss</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1028,7 +1302,8 @@ verfügbar, dort kann man den
              <coordinates> 5.51561790983834, 32.5023634475431,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Turm von Idramun</name>
+    <Placemark>
+	<name>Turm von Idramun</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1046,7 +1321,8 @@ verfügbar, dort kann man den
              <coordinates> 4.25167912212566, 33.9058721504571,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Herberge Ogerbau</name>
+    <Placemark>
+	<name>Herberge Ogerbau</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1064,7 +1340,8 @@ verfügbar, dort kann man den
              <coordinates> 6.42584702257871, 33.0254527563618,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Branwyns Hof</name>
+    <Placemark>
+	<name>Branwyns Hof</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1082,7 +1359,8 @@ verfügbar, dort kann man den
 			<coordinates>4.892940185733021,34.60420637130176,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Luzelins Grotte</name>
+    <Placemark>
+	<name>Luzelins Grotte</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1146,7 +1424,8 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
 
-    <Placemark>        <name>Dragenfeld</name>
+    <Placemark>
+	<name>Dragenfeld</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1206,7 +1485,8 @@ verfügbar, dort kann man den
 			<coordinates>7.038654047015791,33.81927237097854,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Rüstertrutz</name>
+    <Placemark>
+	<name>Rüstertrutz</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -1472,19 +1752,49 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
 	    <Placemark>
-        <name>Blauer Turm</name>
+        <name>Nebliger Turm</name>
 <ExtendedData>
-<Data name="Link">
+<Data name=" Link ">
 <value>$[name]</value>
 </Data>
-<Data name="HAusdehnung">
-<value> 2.7</value>
-</Data>
-<Data name="VAusdehnung">
-<value> 2.7</value>
-</Data>
 </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>Völlig Fensterlos, aus der Spitze fließt unaufhörlich Wasser, drumherum Sumpf<TR><TD> <I>Einwohner: </I>0<TR><TD> <I>Horizontale Ausdehnung: </I> $[HAusdehnung] Meilen<TR><TD> <I>Vertikale Ausdehnung: </I> $[VAusdehnung] Meilen<TR><TD><HR><B>Quellen:</B><TR><TD>Aventurischer Almanach 28 Hal, S. 10<TR><TD>Schild des Reiches, S. 71<TR><TD><i>Karte:</i> Schwarzweißkarte: Weiden<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=23&t=1048">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Neblige Turm</b> bei <a title="Auen" href="http://www.wiki-aventurica.de/wiki/Auen">Auen</a>, auch <b>Blauer Turm</b> oder <b>Turm des Wassers</b> genannt, ist Teil des <a title="Elementares Hexagramm" href="http://www.wiki-aventurica.de/wiki/Elementares_Hexagramm">Elementaren Hexagramms</a> und bildet den <a title="Nodix" href="http://www.wiki-aventurica.de/wiki/Nodix">Nodix</a> des <a title="Element" href="http://www.wiki-aventurica.de/wiki/Element">Elements</a> <a title="Wasser" href="http://www.wiki-aventurica.de/wiki/Wasser">Wasser</a>. Der Ort ist eine archaische <a title="Kultstätte" href="http://www.wiki-aventurica.de/wiki/Kultst%C3%A4tte">Kultstätte</a> <a title="Efferd" href="http://www.wiki-aventurica.de/wiki/Efferd">Efferds</a> und dessen Statthalterin <a title="Pandlaril (Fee)" href="http://www.wiki-aventurica.de/wiki/Pandlaril_(Fee)">Pandlaril</a>.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
         <Camera> 
               <longitude> 7.56702664944443</longitude>
@@ -1499,14 +1809,8 @@ verfügbar, dort kann man den
 	   <Placemark>
         <name>Ruine einer Elfensiedlung</name>
 <ExtendedData>
-<Data name="Link">
+<Data name=" Link ">
 <value>$[name]</value>
-</Data>
-<Data name="HAusdehnung">
-<value> 1.8</value>
-</Data>
-<Data name="VAusdehnung">
-<value> 1.8</value>
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD> <I>Einwohner: </I>0<TR><TD><HR><B>Quellen:</B><TR><TD>Wind über Weiden, S. 28<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=23&t=1048">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
@@ -1524,14 +1828,8 @@ verfügbar, dort kann man den
 	    <Placemark>
         <name>Klosterruine Ralbarul</name>
 <ExtendedData>
-<Data name="Link">
+<Data name=" Link ">
 <value>$[name]</value>
-</Data>
-<Data name="HAusdehnung">
-<value> 1.8</value>
-</Data>
-<Data name="VAusdehnung">
-<value> 1.8</value>
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD> <I>Einwohner: </I>0<TR><TD><HR><B>Quellen:</B><TR><TD>Drei Millionen Dukaten, S. 31<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=23&t=1048">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
@@ -1549,14 +1847,8 @@ verfügbar, dort kann man den
 	    <Placemark>
         <name>Ruine der Burg Ertzelstein</name>
 <ExtendedData>
-<Data name="Link">
-<value>Burg Ertzelstein</value>
-</Data>
-<Data name="HAusdehnung">
-<value> 2.7</value>
-</Data>
-<Data name="VAusdehnung">
-<value> 2.7</value>
+<Data name=" Link ">
+<value>$[name]</value>
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--

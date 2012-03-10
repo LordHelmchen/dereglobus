@@ -841,10 +841,10 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
 	   <Placemark>
-        <name>Burg Hohenstein</name>
+        <name>Feste Hohenstein</name>
 		<ExtendedData>
 <Data name="Link">
- <value>Feste_Hohenstein</value>
+ <value>$[name]</value>
 </Data>
 </ExtendedData> 
             <description>
@@ -864,8 +864,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Die Festung <b>Feste Hohenstein</b> ist auf einem ca. 15 Meilen westlich von Rommilys gelegenen steilen Berg errichtet worden und stellt die Wehr der <a href="http://www.wiki-aventurica.de/wiki/Mark_Rommilys&amp;action=edit&amp;redlink=1" class="new" title="Mark Rommilys (Seite nicht vorhanden)">Mark Rommilys</a> dar.
-
+Die <b>Feste Hohenstein</b> ist auf einem ca. 15 Meilen westlich von <a title="Rommilys" href="http://www.wiki-aventurica.de/wiki/Rommilys">Rommilys</a> gelegenen steilen Berg errichtet worden und stellt die Wehr der <a title="Mark Rommilys (Seite nicht vorhanden)" class="new" href="/index.php?title=Mark_Rommilys&amp;action=edit&amp;redlink=1">Mark Rommilys</a> dar.
 
 <!-- END EDIT -->
 

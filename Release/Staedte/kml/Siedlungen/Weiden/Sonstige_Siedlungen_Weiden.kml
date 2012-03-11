@@ -308,22 +308,65 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
     <Placemark>
-	<name>Pfalz Donnerschalck</name>
+	<name>Donnerschalck</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  50<TR><TD>Kaiserpfalz<TR><TD><i>Herrschaft:</i> Neuhild von Wettershag (Pfalzgräfin auf Donnerschalck)<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (81), S. 24<TR><TD>Herz des Reiches, S. 52<TR><TD>Schild des Reiches, S. 70<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <a title="Pfalz" href="http://www.wiki-aventurica.de/wiki/Pfalz">Pfalz</a> <b>Donnerschalck</b> liegt in der Nähe der <a title="Schwarze Lande" href="http://www.wiki-aventurica.de/wiki/Schwarze_Lande">Schwarzen Lande</a> und der <a title="Wildermark" href="http://www.wiki-aventurica.de/wiki/Wildermark">Wildermark</a> unweit des Berges <a title="Runkelklippe" href="http://www.wiki-aventurica.de/wiki/Runkelklippe">Runkelklippe</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
         <Camera> 
-              <longitude> 5.82102351624437</longitude>
-              <latitude> 31.985926154748</latitude>
+			<longitude>5.805784035966971</longitude>
+			<latitude>32.0706685073031</latitude>
               <altitude>200000</altitude>
               <altitudeMode>relativeToGround</altitudeMode>
         </Camera>
         <Point>
-             <coordinates> 5.82102351624437, 31.985926154748,0</coordinates>
+			<coordinates>5.80578403596697,32.0706685073031,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>
@@ -402,6 +445,175 @@ verfügbar, dort kann man den
              <coordinates> 3.89836675393045, 33.8628357093909,0</coordinates>
         </Point>
     </Placemark>
+
+    <Placemark>
+	<name>Ilkenstein</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Hochmotte <b>Ilkenstein</b> ist Sitz von <a title="Baerwulf von Klöppelstein" href="http://www.wiki-aventurica.de/wiki/Baerwulf_von_Kl%C3%B6ppelstein">Baerwulf von Klöppelstein</a>, dem <a title="Baronet" href="http://www.wiki-aventurica.de/wiki/Baronet">Baronet</a> von <a title="Baronie Böckelsdorf" href="http://www.wiki-aventurica.de/wiki/Baronie_B%C3%B6ckelsdorf">Böckelsdorf</a>. In der Nähe liegt das Dorf <a title="Tannweiler" href="http://www.wiki-aventurica.de/wiki/Tannweiler">Tannweiler</a>.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
+        <Camera> 
+			<longitude>5.990344506713869</longitude>
+			<latitude>32.45076456288248</latitude>
+			<altitude>200000</altitude>
+			<altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>5.990344506713869,32.45076456288248,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+	<name>Burg Klöppelstein</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Hochmotte <b>Ilkenstein</b> ist Sitz von <a title="Baerwulf von Klöppelstein" href="http://www.wiki-aventurica.de/wiki/Baerwulf_von_Kl%C3%B6ppelstein">Baerwulf von Klöppelstein</a>, dem <a title="Baronet" href="http://www.wiki-aventurica.de/wiki/Baronet">Baronet</a> von <a title="Baronie Böckelsdorf" href="http://www.wiki-aventurica.de/wiki/Baronie_B%C3%B6ckelsdorf">Böckelsdorf</a>. In der Nähe liegt das Dorf <a title="Tannweiler" href="http://www.wiki-aventurica.de/wiki/Tannweiler">Tannweiler</a>.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
+        <Camera> 
+			<longitude>5.798094089933579</longitude>
+			<latitude>32.46022924414358</latitude>
+			<altitude>200000</altitude>
+			<altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>5.798094089933579,32.46022924414358,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+	<name>Heidenstein</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Heidenstein</b> ist eine <a class="mw-redirect" title="Burg" href="http://www.wiki-aventurica.de/wiki/Burg">Burg</a> in der <a title="Grafschaft Baliho" href="http://www.wiki-aventurica.de/wiki/Grafschaft_Baliho">Grafschaft Baliho</a> im <a title="Herzogtum Weiden" href="http://www.wiki-aventurica.de/wiki/Herzogtum_Weiden">Herzogtum Weiden</a>.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <Camera> 
+              <longitude> 5.14993026692687</longitude>
+              <latitude> 31.8881803384675</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>5.150788133315376,31.89920724360355,0</coordinates>
+        </Point>
+    </Placemark>
+
     <Placemark>
 	<name>Burg Aarenstein</name>
 	<ExtendedData>
@@ -409,16 +621,50 @@ verfügbar, dort kann man den
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>Ordensfeste der Schwerter von Gareth, auch "Keshal Ronnar" genannt<TR><TD><i>Herrschaft:</i> Tiro Aarwulfingen von der Seefeste<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (93), S. 5<TR><TD>Aventurischer Bote (97), S. 6<TR><TD>Aventurischer Bote (104), S. 19<TR><TD>Aventurischer Bote (114), S. 26<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Burg Aarenstein</b> (auch <b>Keshal Ronnar</b> genannt) ist eine Festung des <a title="Orden der Schwerter zu Gareth" href="http://www.wiki-aventurica.de/wiki/Orden_der_Schwerter_zu_Gareth">Ordens der Schwerter zu Gareth</a> in der <a title="Schwarze Sichel" href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel">Schwarzen Sichel</a> am <a title="Aarenfels" href="http://www.wiki-aventurica.de/wiki/Aarenfels">Aarenfels</a>. Im Sommer <a title="1034 BF" href="http://www.wiki-aventurica.de/wiki/1034_BF">1034 BF</a> wurde die Burg von Schwarzen Rittern unter <a title="Rondradan von Streitzig" href="http://www.wiki-aventurica.de/wiki/Rondradan_von_Streitzig">Rondradan von Streitzig</a> erobert.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
         <Camera> 
-              <longitude> 5.68029740348865</longitude>
-              <latitude> 32.5991954399422</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
+			<longitude>5.835794522800668</longitude>
+			<latitude>32.58378709495667</latitude>
+			<altitude>200000</altitude>
+			<altitudeMode>relativeToGround</altitudeMode>
         </Camera>
         <Point>
-             <coordinates> 5.68029740348865, 32.5991954399422,0</coordinates>
+			<coordinates>5.848319263590406,32.5802796129754,0</coordinates>
         </Point>
     </Placemark>
     <Placemark>

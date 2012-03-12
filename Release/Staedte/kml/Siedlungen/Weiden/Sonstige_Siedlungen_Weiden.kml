@@ -1256,13 +1256,49 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
     <Placemark>
-	<name>Felsenburg Tatzelschlund</name>
+	<name>Tatzelschlund</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  20<TR><TD>Höhlenburg<TR><TD><i>Herrschaft:</i> Mirnhilde von Hahnfels<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 149<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Tatzelschlund</b> ist eine Höhlenburg in der <a title="Rote Sichel" href="http://www.wiki-aventurica.de/wiki/Rote_Sichel">Roten Sichel</a>. Die Räuberbaronin <a title="Mirnhilde von Hahnfels (Seite nicht vorhanden)" class="new" href="/index.php?title=Mirnhilde_von_Hahnfels&amp;action=edit&amp;redlink=1">Mirnhilde von Hahnfels</a> hat hier ihren Sitz.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
         <Camera> 
               <longitude> 7.0606122550313</longitude>
@@ -1433,7 +1469,46 @@ verfügbar, dort kann man den
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  5<TR><TD><TR><TD><i>Herrschaft:</i> Jander Serdelboom<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Armorium Ardariticum, S. 69<TR><TD>Ritterburgen und Spelunken, S. 21<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Drakensteen</b> ist eine <a title="Gasthaus" href="http://www.wiki-aventurica.de/wiki/Gasthaus">Wildnisherberge</a> in den <a title="Drachensteine" href="http://www.wiki-aventurica.de/wiki/Drachensteine">Drachensteinen</a> an der Kreuzung <a title="Ornaldsjoch" href="http://www.wiki-aventurica.de/wiki/Ornaldsjoch">Ornaldsjoch</a>-<a title="Raulsjoch" href="http://www.wiki-aventurica.de/wiki/Raulsjoch">Raulsjoch</a>.
+
+<!-- END EDIT -->
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Drakensteen-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
         <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Gaststaette_Karte-X</styleUrl>
         <Camera> 
               <longitude> 7.48318981631336</longitude>
@@ -2091,7 +2166,7 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
 	    <Placemark>
-        <name>Ruine der Burg Ertzelstein</name>
+        <name>Burg Ertzelstein</name>
 <ExtendedData>
 <Data name=" Link ">
 <value>$[name]</value>
@@ -2115,15 +2190,11 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 Bei <a href="www.wiki-aventurica.de/index.php/Tiefenfurt" title="Tiefenfurt">Tiefenfurt</a> liegt <b>Burg Ertzelstein</b>, eine ehemalige Festung der <a href="www.wiki-aventurica.de/index.php/Theaterritter" title="Theaterritter" class="mw-redirect">Theaterritter</a>.
 
-
 <!-- END EDIT -->
-
 </p>
-<!-- FlyToLink BEGIN-->
 
-<!--FlyToLink END -->
 <hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
 <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
 

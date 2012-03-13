@@ -622,6 +622,11 @@ Im Wiki Aventurica ist eine
     </Placemark>
     <Placemark>
       <name>Markgrafschaft Beilunk</name>	
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
       <Region>
         <LatLonAltBox>
           <north>44.68523182173993</north>
@@ -693,6 +698,11 @@ verfügbar, dort kann man den
     </Placemark>
     <Placemark>
       <name>Markgrafschaft Warunk</name>	
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
       <Region>
         <LatLonAltBox>
           <north>44.68523182173993</north>
@@ -789,6 +799,11 @@ verfügbar, dort kann man den
             </Lod>
           </Region>
           <name>Herzogtum Tobrien</name>
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -878,6 +893,11 @@ verfügbar, dort kann man den
               </Lod>
             </Region>
             <name>Herzogtum Tobrien</name>
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -923,6 +943,11 @@ verfügbar, dort kann man den
           <Placemark>
             <visibility>1</visibility>
             <name>Sonnenmark</name>
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
             <Region>
               <LatLonAltBox>
                 <north>44.68523182173993</north>
@@ -1053,6 +1078,11 @@ verfügbar, dort kann man den
               </Lod>
             </Region>
             <name>Herzogtum Tobrien</name>
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -1158,6 +1188,11 @@ verfügbar, dort kann man den
               </Lod>
             </Region>
             <name>Herzogtum Tobrien</name>
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -1190,6 +1225,11 @@ verfügbar, dort kann man den
           </Placemark>
           <Placemark>
             <name>Markgrafschaft Warunk</name>		  
+      <ExtendedData>
+        <Data name="Link">
+          <value>$[name]</value>
+        </Data>
+      </ExtendedData>
             <Region>
               <LatLonAltBox>
                 <north>44.68523182173993</north>

@@ -433,6 +433,7 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description><styleUrl>https://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Reich</styleUrl>
         <Polygon>
+		<gx:drawOrder>1</gx:drawOrder>
           <tessellate>1</tessellate>
 		  <outerBoundaryIs>
             <LinearRing>

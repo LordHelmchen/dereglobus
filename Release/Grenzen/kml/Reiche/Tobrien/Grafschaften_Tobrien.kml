@@ -18,6 +18,11 @@
       <open>0</open>
       <Placemark>
         <name>Mark Drachenstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -97,6 +102,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Mark Drachenstein (Grenzlinie)</name>
         <Region>
@@ -138,8 +144,14 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
-        <name>Mark Osterfelde</name>
+        <name>Reichsmark Osterfelde</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -222,6 +234,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Mark Osterfelde (Grenzlinie)</name>
         <Region>
@@ -266,8 +279,14 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Landgrafschaft Ysilia</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -329,6 +348,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Landgrafschaft Ysilia (Grenzlinie)</name>
         <Region>
@@ -373,8 +393,14 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
-        <name>Grafschaft Tobimora</name>
+        <name>Landgrafschaft Tobimora</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -456,8 +482,9 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
-        <name>Grafschaft Tobimora (Grenzlinie)</name>
+        <name>Landgrafschaft Tobimora (Grenzlinie)</name>
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -500,8 +527,14 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Grafschaft Mendena</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -596,6 +629,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Grafschaft Mendena (Grenzlinie)</name>
         <Region>
@@ -654,8 +688,14 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Grafschaft Misamund</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -741,6 +781,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Grafschaft Misamund (Grenzlinie)</name>
         <Region>
@@ -785,6 +826,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <visibility>1</visibility>
       <name>Ungeteiltes Tobrien</name>
       <Style>
@@ -794,11 +836,17 @@ verfügbar, dort kann man den
         </BalloonStyle>
       </Style>
     </Folder>
+
     <Folder>
       <open>0</open>
       <Placemark>
         <visibility>1</visibility>
-        <name>Mark Osterfelde</name>
+        <name>Reichsmark Osterfelde</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -882,6 +930,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
         <name>Mark Osterfelde (Grenzlinie)</name>
@@ -928,9 +977,15 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
         <name>Landgrafschaft Ysilia</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -993,6 +1048,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
         <name>Landgrafschaft Ysilia (Grenzlinie)</name>
@@ -1039,9 +1095,15 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
-        <name>Grafschaft Tobimora</name>
+        <name>Landgrafschaft Tobimora</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -1109,9 +1171,10 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
-        <name>Grafschaft Tobimora (Grenzlinie)</name>
+        <name>Landgrafschaft Tobimora (Grenzlinie)</name>
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -1161,6 +1224,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <visibility>1</visibility>
       <name>Bis 1029</name>
       <Style>
@@ -1170,6 +1234,7 @@ verfügbar, dort kann man den
         </BalloonStyle>
       </Style>
     </Folder>
+
     <Folder>
       <open>0</open>
       <Placemark>
@@ -1217,9 +1282,15 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
         <name>Grafschaft Misamund</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <TimeSpan>
           <begin>1029-06</begin>
         </TimeSpan>
@@ -1305,9 +1376,10 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
-        <name>Grafschaft Tobimora (Grenzlinie)</name>
+        <name>Landgrafschaft Tobimora (Grenzlinie)</name>
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -1357,9 +1429,15 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
-        <name>Grafschaft Tobimora</name>
+        <name>Landgrafschaft Tobimora</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -1428,8 +1506,14 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Grafschaft Mendena</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Region>
           <LatLonAltBox>
             <north>44.68523182173993</north>
@@ -1559,6 +1643,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <Placemark>
         <name>Grafschaft Mendena (Grenzlinie)</name>
         <Region>
@@ -1649,6 +1734,7 @@ verfügbar, dort kann man den
           </BalloonStyle>
         </Style>
       </Placemark>
+
       <visibility>1</visibility>
       <name>Bis 1032</name>
       <Style>

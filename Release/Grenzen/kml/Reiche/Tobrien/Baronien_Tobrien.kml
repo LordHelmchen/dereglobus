@@ -41,7 +41,7 @@
           <Folder>
             <visibility>1</visibility>
             <open>0</open>
-            <name>Mark Osterfelde</name>
+            <name>Reichsmark Osterfelde</name>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
@@ -99,10 +99,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <altitudeMode>relativeToGround</altitudeMode>
             </LookAt>
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Willbergen</name>
-              <Snippet maxLines="0">
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
+			<Snippet maxLines="0">
               </Snippet>
               <LookAt>
                 <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
@@ -177,9 +183,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Granelfels</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <LookAt>
                 <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                   <when>1036</when>
@@ -272,9 +284,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Gaugräflich Drachengau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <LookAt>
                 <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                   <when>1036</when>
@@ -358,9 +376,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Herzoglich Ehrenstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_153">
                 <tessellate>1</tessellate>
@@ -431,9 +455,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Schwarzsicheln</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <LookAt>
                 <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                   <when>1036</when>
@@ -517,9 +547,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Gräflich Praske</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_159">
                 <tessellate>1</tessellate>
@@ -608,9 +644,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Burmisch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_162">
                 <tessellate>1</tessellate>
@@ -681,9 +723,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Lindenhain</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_165">
                 <tessellate>1</tessellate>
@@ -764,9 +812,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Tobelstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -844,9 +898,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Freudenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -918,9 +978,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Wetterklamm</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_174">
                 <tessellate>1</tessellate>
@@ -985,9 +1051,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Hohen Lauchenwart</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_177">
                 <tessellate>1</tessellate>
@@ -1055,9 +1127,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Ebersberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1147,8 +1225,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             </Placemark>
             <Snippet maxLines="0">
             </Snippet>
-
           </Folder>
+
           <Folder>
             <visibility>1</visibility>
             <open>0</open>
@@ -1181,9 +1259,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <altitudeMode>relativeToGround</altitudeMode>
             </LookAt>
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Falkenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1303,9 +1387,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Liliengrund</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1387,9 +1477,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-18</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Nevelung</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1565,9 +1661,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Viereichen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1649,9 +1751,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-04-05</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Mundtbach</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1739,9 +1847,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-03-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kathenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1826,9 +1940,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Winsheym</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1911,9 +2031,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-03-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Rauffenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -1990,9 +2116,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-03-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Speckfelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2061,9 +2193,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-03-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Herzoglich Wangelwilden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2144,9 +2282,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-03-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Münzberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2235,9 +2379,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-04-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kaiserlich Oberdarpatien</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2341,9 +2491,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Herzoglich Künßberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2460,9 +2616,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-06</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Eichmoor</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2545,9 +2707,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kleinwardstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -2640,9 +2808,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-09-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Mark Ogertrift</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -2737,9 +2911,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-08-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Spogelsen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -2821,8 +3001,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
-
           </Folder>
+
           <Folder>
             <visibility>1</visibility>
             <open>0</open>
@@ -2897,9 +3077,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <altitudeMode>relativeToGround</altitudeMode>
             </LookAt>
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Sardosk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_249">
                 <tessellate>1</tessellate>
@@ -2970,9 +3156,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-01</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kaiserlich Muschelstrand</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_250">
                 <tessellate>1</tessellate>
@@ -3052,9 +3244,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Keilerau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_253">
                 <tessellate>1</tessellate>
@@ -3137,9 +3335,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Ulracht</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_256">
                 <tessellate>1</tessellate>
@@ -3224,9 +3428,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Herzoglich Tesral</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_259">
                 <tessellate>1</tessellate>
@@ -3328,9 +3538,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Herzoglich Salvunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_262">
                 <tessellate>1</tessellate>
@@ -3415,9 +3631,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kohlerungen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_265">
                 <tessellate>1</tessellate>
@@ -3507,9 +3729,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Föhrenhain</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_268">
                 <tessellate>1</tessellate>
@@ -3595,9 +3823,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Südwall</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_271">
                 <tessellate>1</tessellate>
@@ -3684,9 +3918,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Mark &amp; Land Borwein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_274">
                 <tessellate>1</tessellate>
@@ -3748,9 +3988,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1020-02</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Rallerfeste</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_277">
                 <tessellate>1</tessellate>
@@ -3808,9 +4054,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Quellensprung</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_280">
                 <tessellate>1</tessellate>
@@ -3890,9 +4142,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Zoßberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_283">
                 <tessellate>1</tessellate>
@@ -3973,9 +4231,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Schwarzbuckel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_286">
                 <tessellate>1</tessellate>
@@ -4031,9 +4295,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-12-04</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Ilsur</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -4152,9 +4422,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-11-21</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Rulat</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_292">
                 <tessellate>1</tessellate>
@@ -4287,9 +4563,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-11-28</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Tisal</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_295">
                 <tessellate>1</tessellate>
@@ -4366,12 +4648,12 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-12-01</end>
               </TimeSpan>
             </Placemark>
-
           </Folder>
+
           <Folder>
             <visibility>1</visibility>
             <open>0</open>
-            <name>Grafschaft Tobimora</name>
+            <name>Langrafschaft Tobimora</name>
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -4401,9 +4683,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <altitudeMode>relativeToGround</altitudeMode>
             </LookAt>
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Mark Ällingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -4491,9 +4779,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1020-02</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Baruns Pappel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -4565,9 +4859,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-12</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Albersrode</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_304">
                 <tessellate>1</tessellate>
@@ -4631,9 +4931,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-12</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Bergenhus</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -4729,9 +5035,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1020-02</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Waischenroth</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -4820,9 +5132,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Gaugräflich Windgau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -4887,9 +5205,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1020-02</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kummersfelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -4968,9 +5292,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1020-02</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Wickrath</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_319">
                 <tessellate>1</tessellate>
@@ -5088,9 +5418,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-12</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Schwürzhofen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -5207,9 +5543,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1022-11-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Reiherstelz</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -5272,9 +5614,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-07-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Becherlingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -5335,9 +5683,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1022-11-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Gräflich Ebelried</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -5410,9 +5764,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Heidlingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -5479,9 +5839,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-11-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Schnattermoor</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -5590,9 +5956,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Gabelweyhe</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -5698,9 +6070,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Treublatt</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -5811,9 +6189,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Nordweide</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -5898,9 +6282,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-09-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Tizamsquell</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -6019,9 +6409,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Meierei Tobimora</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <LookAt>
@@ -6088,6 +6484,7 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             </Placemark>
 
           </Folder>
+
           <Folder>
             <visibility>1</visibility>
             <open>0</open>
@@ -6153,9 +6550,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <altitudeMode>relativeToGround</altitudeMode>
             </LookAt>
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Kaiserlich Ungolfsthann</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -6271,9 +6674,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
-              <name>Baronie Pumpenfels</name>
+              <name>Baronie Rumpenfels</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -6402,6 +6811,7 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Herzoglich Drachenstein</name>
@@ -6516,9 +6926,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Erlschwerd</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -6643,9 +7059,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Güldenharsch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -6757,9 +7179,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Kevûns Brück</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -6888,9 +7316,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 
               </Style>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Eisenrath</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -6987,6 +7421,7 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             </Placemark>
 
           </Folder>
+
           <Folder>
             <visibility>1</visibility>
             <open>0</open>
@@ -7085,9 +7520,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <altitudeMode>relativeToGround</altitudeMode>
             </LookAt>
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Gräflich Misamündel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -7152,9 +7593,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <begin />
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Tirandur</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -7252,9 +7699,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1019-12-09</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Alst</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -7323,9 +7776,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-03-15</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
-              <name>Kaiserlich Schallingspfort</name>
+              <name>Baronie Kaiserlich Schallingspfort</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -7404,9 +7863,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1020-01</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Grünauen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -7501,9 +7966,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-01</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Firunsschilfen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -7610,9 +8081,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-01</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Mark Vallusa</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -7726,9 +8203,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
                 <end>1020-05-30</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Misafelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -7803,6 +8286,7 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
           </Folder>
           
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
@@ -7886,9 +8370,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-08-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Lyll</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_515">
               <tessellate>1</tessellate>
@@ -7974,9 +8464,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-04-15</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ostend</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_516">
               <tessellate>1</tessellate>
@@ -8036,9 +8532,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-04-15</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Rhoderstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_518">
               <tessellate>1</tessellate>
@@ -8094,9 +8596,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-01</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Saldersand</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_520">
               <tessellate>1</tessellate>
@@ -8161,9 +8669,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-01</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Arbasien</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_522">
               <tessellate>1</tessellate>
@@ -8223,9 +8737,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-01</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Waldereck</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_524">
               <tessellate>1</tessellate>
@@ -8281,9 +8801,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-01</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kleinfurt</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_526">
               <tessellate>1</tessellate>
@@ -8341,9 +8867,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-01</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ogerbusch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_528">
               <tessellate>1</tessellate>
@@ -8405,9 +8937,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1019-12</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Norbeneck</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_530">
               <tessellate>1</tessellate>
@@ -8469,9 +9007,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1019-12-13</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Zweiseen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_532">
               <tessellate>1</tessellate>
@@ -8523,9 +9067,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1019-12-13</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Shamaham</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_534">
               <tessellate>1</tessellate>
@@ -8590,9 +9140,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1019-12-16</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Grenzmarken</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_536">
               <tessellate>1</tessellate>
@@ -8654,9 +9210,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-04-15</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ouhan</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_538">
               <tessellate>1</tessellate>
@@ -8708,9 +9270,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-01</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Föhrenkuppe</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_142">
               <tessellate>1</tessellate>
@@ -8764,9 +9332,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-08-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kaiserlich Lorgoloschs Ring</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_553">
               <tessellate>1</tessellate>
@@ -8864,9 +9438,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Graî</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_554">
               <tessellate>1</tessellate>
@@ -8929,9 +9509,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Maîch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_556">
               <tessellate>1</tessellate>
@@ -8984,9 +9570,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Valdahon</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_558">
               <tessellate>1</tessellate>
@@ -9049,9 +9641,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Greifenau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_559">
               <tessellate>1</tessellate>
@@ -9108,9 +9706,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-09-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Markgräflich Borobunth</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_560">
               <tessellate>1</tessellate>
@@ -9168,9 +9772,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-09-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Markgräflich Drîleuen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_562">
               <tessellate>1</tessellate>
@@ -9243,9 +9853,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-09-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Stadtmark Beilunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_565">
               <tessellate>1</tessellate>
@@ -9331,8 +9947,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             </TimeSpan>
 
           </Placemark>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
@@ -9418,9 +10034,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-03-15</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Radromsbusch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -9498,9 +10120,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Natterngras</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -9579,9 +10207,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Dogulsgau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -9661,9 +10295,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-03-15</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Binsenbeck</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -9736,9 +10376,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-07-30</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Apelenfelde</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -9798,9 +10444,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1020-03-15</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Stadtmark Warunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -9904,6 +10556,7 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
         </BalloonStyle>
       </Style>
     </Folder>
+
     <Folder>
       <open>0</open>
       <Folder>
@@ -10006,9 +10659,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
-            <name>Gräflich Misamündel</name>
+            <name>Baronie Gräflich Misamündel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -10071,9 +10730,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Tirandur</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -10170,9 +10835,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Alst</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -10240,9 +10911,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
-            <name>Kaiserlich Schallingspfort</name>
+            <name>Baronie Kaiserlich Schallingspfort</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -10319,9 +10996,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Grünauen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -10415,9 +11098,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Firunsschilfen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -10523,9 +11212,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Mark Vallusa</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -10638,9 +11333,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Misafelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -10710,12 +11411,17 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1029-06</begin>
             </TimeSpan>
           </Placemark>
-          
         </Folder>
+
         <Placemark>
           <visibility>1</visibility>
           <name>Baronie Nordweide</name>
-          <Snippet maxLines="0">
+  			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
+         <Snippet maxLines="0">
           </Snippet>
           <LookAt>
             <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
@@ -10798,9 +11504,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <begin>1023-03-30</begin>
           </TimeSpan>
         </Placemark>
+
         <Placemark>
           <visibility>1</visibility>
           <name>Baronie Heidlingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -10866,9 +11578,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <begin>1022-11-07</begin>
           </TimeSpan>
         </Placemark>
+
         <Placemark>
           <visibility>1</visibility>
           <name>Baronie Schwürzhofen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!--
@@ -10984,9 +11702,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <begin>1025-11-30</begin>
           </TimeSpan>
         </Placemark>
+
         <Placemark>
           <visibility>1</visibility>
           <name>Baronie Becherlingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -11046,9 +11770,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <begin>1025-11-30</begin>
           </TimeSpan>
         </Placemark>
+
         <Placemark>
           <visibility>1</visibility>
           <name>Baronie Reiherstelz</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -11110,9 +11840,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <begin>1025-11-30</begin>
           </TimeSpan>
         </Placemark>
+
         <Placemark>
           <visibility>1</visibility>
           <name>Baronie Ilsur</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -11203,6 +11939,7 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <begin>1029-06</begin>
           </TimeSpan>
         </Placemark>
+
         <visibility>1</visibility>
         <name>Baronien Weißtobriens</name>
         <Style>
@@ -11212,12 +11949,13 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
           </BalloonStyle>
         </Style>
       </Folder>
+
       <Folder>
         <open>0</open>
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
-          <name>Mark Osterfelde</name>
+          <name>Reichsmark Osterfelde</name>
           <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
@@ -11275,9 +12013,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Willbergen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -11350,11 +12094,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
               <begin>1020-06</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Granelfels</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <LookAt>
               <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                 <when>1036</when>
@@ -11447,11 +12196,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
               <begin>1020-06</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Gaugräflich Drachengau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <LookAt>
               <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                 <when>1036</when>
@@ -11532,11 +12286,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
               <begin>1020-06</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Herzoglich Ehrenstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_174">
               <tessellate>1</tessellate>
@@ -11604,11 +12363,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
               <begin>1020-06</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Schwarzsicheln</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <LookAt>
               <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                 <when>1036</when>
@@ -11689,11 +12453,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
               <begin>1020-06</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Gräflich Praske</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_176">
               <tessellate>1</tessellate>
@@ -11779,11 +12548,16 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
               <begin>1020-06</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Burmisch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_177">
               <tessellate>1</tessellate>
@@ -11853,9 +12627,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Lindenhain</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_178">
               <tessellate>1</tessellate>
@@ -11935,9 +12715,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Tobelstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12014,9 +12800,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Freudenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12087,9 +12879,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Wetterklamm</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_181">
               <tessellate>1</tessellate>
@@ -12153,9 +12951,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Hohen Lauchenwart</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_182">
               <tessellate>1</tessellate>
@@ -12222,9 +13026,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ebersberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12313,8 +13123,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
           </Placemark>
           <Snippet maxLines="0">
           </Snippet>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
@@ -12347,9 +13157,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Falkenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12467,9 +13283,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Liliengrund</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12549,9 +13371,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Nevelung</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12657,9 +13485,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Viereichen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12740,9 +13574,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-04-05</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Mundtbach</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12829,9 +13669,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kathenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12915,9 +13761,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Winsheym</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -12999,9 +13851,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Rauffenberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13076,9 +13934,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Speckfelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13146,9 +14010,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Herzoglich Wangelwilden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13228,9 +14098,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Münzberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13318,9 +14194,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-04-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kaiserlich Oberdarpatien</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13423,9 +14305,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Herzoglich Künßberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13541,9 +14429,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-06</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Eichmoor</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13625,9 +14519,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kleinwardstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -13719,9 +14619,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-09-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Mark Ogertrift</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -13815,8 +14721,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
@@ -13891,9 +14797,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Sardosk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_817">
               <tessellate>1</tessellate>
@@ -13963,9 +14875,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kaiserlich Muschelstrand</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_818">
               <tessellate>1</tessellate>
@@ -14042,11 +14960,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1019-12-03</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Keilerau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_819">
               <tessellate>1</tessellate>
@@ -14126,11 +15049,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1020-02</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ulracht</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_820">
               <tessellate>1</tessellate>
@@ -14212,11 +15140,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1019-12-12</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Herzoglich Tesral</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_821">
               <tessellate>1</tessellate>
@@ -14315,11 +15248,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1020-02</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Herzoglich Salvunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_822">
               <tessellate>1</tessellate>
@@ -14401,11 +15339,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1020-02</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kohlerungen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_823">
               <tessellate>1</tessellate>
@@ -14492,11 +15435,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1019-12-14</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Föhrenhain</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_824">
               <tessellate>1</tessellate>
@@ -14579,11 +15527,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1019-12-12</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Südwall</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_825">
               <tessellate>1</tessellate>
@@ -14667,11 +15620,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1019-12-05</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Mark &amp; Land Borwein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_826">
               <tessellate>1</tessellate>
@@ -14732,9 +15690,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1020-02</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Rallerfeste</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_827">
               <tessellate>1</tessellate>
@@ -14789,11 +15753,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1020-01</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Quellensprung</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_828">
               <tessellate>1</tessellate>
@@ -14869,11 +15838,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
             <TimeSpan>
               <begin>1019-12-04</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Zoßberg</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_829">
               <tessellate>1</tessellate>
@@ -14951,11 +15925,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1019-12-09</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Schwarzbuckel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_830">
               <tessellate>1</tessellate>
@@ -15010,9 +15989,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-12-04</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ilsur</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style><table cellspacing="0" cellpadding="10" align="center">
@@ -15103,9 +16088,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-11-21</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Rulat</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_832">
               <tessellate>1</tessellate>
@@ -15237,9 +16228,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-11-28</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Tisal</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_833">
               <tessellate>1</tessellate>
@@ -15315,12 +16312,12 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-12-01</begin>
             </TimeSpan>
           </Placemark>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
-          <name>Grafschaft Tobimora</name>
+          <name>Landgrafschaft Tobimora</name>
           <Snippet maxLines="0">
           </Snippet>
           <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -15350,9 +16347,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Mark Ällingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -15439,9 +16442,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1020-02</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Baruns Pappel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -15512,9 +16521,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-12</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Albersrode</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_836">
               <tessellate>1</tessellate>
@@ -15577,9 +16592,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-12</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Bergenhus</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -15674,9 +16695,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1020-02</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Waischenroth</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -15762,11 +16789,16 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end />
               <begin>1020-02</begin>
             </TimeSpan>
-
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Gaugräflich Windgau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -15830,9 +16862,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1020-02</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kummersfelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -15910,9 +16948,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1020-02</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Wickrath</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_841">
               <tessellate>1</tessellate>
@@ -15958,9 +17002,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-12</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Maus</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_842">
               <tessellate>1</tessellate>
@@ -16028,9 +17078,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <begin>1019-12</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Schwürzhofen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -16146,9 +17202,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1022-11-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Reiherstelz</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -16210,9 +17272,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Becherlingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -16272,9 +17340,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1022-11-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Heidlingen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -16340,9 +17414,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
 			  <end>1022-11-07</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Nordweide</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -16426,9 +17506,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-09-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Meierei Tobimora</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -16492,8 +17578,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
@@ -16592,9 +17678,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
-            <name>Gräflich Misamündel</name>
+            <name>Baronie Gräflich Misamündel</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -16657,9 +17749,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Tirandur</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -16756,9 +17854,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1019-12-09</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Alst</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -16826,9 +17930,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
-            <name>Kaiserlich Schallingspfort</name>
+            <name>Baronie Kaiserlich Schallingspfort</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -16905,9 +18015,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
               <end>1029-06</end>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Grünauen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -17001,9 +18117,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Firunsschilfen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -17109,9 +18231,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Mark Vallusa</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!--
@@ -17224,9 +18352,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-05-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Misafelden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
@@ -17296,8 +18430,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
@@ -17312,9 +18446,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Grünau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_857">
               <tessellate>1</tessellate>
@@ -17382,9 +18522,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Lyll</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_858">
               <tessellate>1</tessellate>
@@ -17471,9 +18617,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-04-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ostend</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_859">
               <tessellate>1</tessellate>
@@ -17533,9 +18685,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Rhoderstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_860">
               <tessellate>1</tessellate>
@@ -17592,9 +18750,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Saldersand</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_861">
               <tessellate>1</tessellate>
@@ -17660,9 +18824,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Arbasien</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_862">
               <tessellate>1</tessellate>
@@ -17723,9 +18893,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Waldereck</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_863">
               <tessellate>1</tessellate>
@@ -17782,9 +18958,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kleinfurt</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_864">
               <tessellate>1</tessellate>
@@ -17843,9 +19025,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ogerbusch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_865">
               <tessellate>1</tessellate>
@@ -17908,9 +19096,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1019-12</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Norbeneck</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_866">
               <tessellate>1</tessellate>
@@ -17973,9 +19167,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1019-12-13</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Zweiseen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_867">
               <tessellate>1</tessellate>
@@ -18028,9 +19228,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1019-12-13</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Shamaham</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_868">
               <tessellate>1</tessellate>
@@ -18096,9 +19302,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1019-12-16</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Grenzmarken</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_869">
               <tessellate>1</tessellate>
@@ -18161,9 +19373,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-04-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Ouhan</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_870">
               <tessellate>1</tessellate>
@@ -18216,9 +19434,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-01</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Föhrenkuppe</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_871">
               <tessellate>1</tessellate>
@@ -18273,9 +19497,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-08-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Kaiserlich Lorgoloschs Ring</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_872">
               <tessellate>1</tessellate>
@@ -18374,9 +19604,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Graî</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_873">
               <tessellate>1</tessellate>
@@ -18439,9 +19675,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end />
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Maîch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_874">
               <tessellate>1</tessellate>
@@ -18495,9 +19737,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Valdahon</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_875">
               <tessellate>1</tessellate>
@@ -18561,9 +19809,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Greifenau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_876">
               <tessellate>1</tessellate>
@@ -18621,9 +19875,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-09-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Markgräflich Borobunth</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_877">
               <tessellate>1</tessellate>
@@ -18682,9 +19942,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-09-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Markgräflich Drîleuen</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_878">
               <tessellate>1</tessellate>
@@ -18758,9 +20024,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-09-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Stadtmark Beilunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
             <Polygon id="KMLe_551">
               <tessellate>1</tessellate>
@@ -18845,14 +20117,18 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <end>1026-12-30</end>
               <begin>1020-07-30</begin>
             </TimeSpan>
-
           </Placemark>
-          
         </Folder>
+
         <Folder>
           <visibility>1</visibility>
           <open>0</open>
           <name>Baronien Markgrafschaft Warunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <LookAt>
             <longitude>6.707242977901553</longitude>
             <latitude>32.96187418198169</latitude>
@@ -18935,9 +20211,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Radromsbusch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -19016,9 +20298,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Natterngras</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -19098,9 +20386,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Dogulsgau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -19181,9 +20475,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Binsenbeck</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -19257,9 +20557,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-07-30</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Apelenfelde</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -19320,9 +20626,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-15</begin>
             </TimeSpan>
           </Placemark>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Stadtmark Warunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <Snippet maxLines="0">
             </Snippet>
             <LookAt>
@@ -19409,8 +20721,8 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <begin>1020-03-16</begin>
             </TimeSpan>
           </Placemark>
-          
         </Folder>
+
         <Placemark>
           <Region>
             <LatLonAltBox>
@@ -19426,7 +20738,13 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
               <minFadeExtent>200</minFadeExtent>
             </Lod>
           </Region>
+
           <name>Bergkönigreich Lorgolosch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <TimeSpan>
             <begin>1021-11</begin>
             <end>1022-03-15</end>
@@ -19486,6 +20804,7 @@ verfügbar, dort kann man den
           <Snippet maxLines="0">
           </Snippet>
         </Placemark>
+
         <Placemark>
           <Region>
             <LatLonAltBox>
@@ -19503,7 +20822,13 @@ verfügbar, dort kann man den
               <maxFadeExtent>0</maxFadeExtent>
             </Lod>
           </Region>
+
           <name>Bergkönigreich Lorgolosch</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <TimeSpan>
             <begin>1022-03-15</begin>
           </TimeSpan>
@@ -19562,8 +20887,14 @@ verfügbar, dort kann man den
           <Snippet maxLines="0">
           </Snippet>
         </Placemark>
+
         <Placemark>
           <name>Königreich Kurkum</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <TimeSpan>
             <begin>1019-12-30</begin>
             <end>1022-03-15</end>
@@ -19632,8 +20963,14 @@ verfügbar, dort kann man den
           <Snippet maxLines="0">
           </Snippet>
         </Placemark>
+
         <Placemark>
           <name>Königreich Kurkum</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
           <TimeSpan>
             <begin>1022-03-15</begin>
           </TimeSpan>
@@ -19701,8 +21038,14 @@ verfügbar, dort kann man den
           <Snippet maxLines="0">
           </Snippet>
         </Placemark>
+
         <visibility>1</visibility>
         <name>Eroberung durch die Schwarzen Horden</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Style>
           <BalloonStyle>
             <bgColor>FFFFFFFF</bgColor>
@@ -19719,11 +21062,17 @@ verfügbar, dort kann man den
         </BalloonStyle>
       </Style>
     </Folder>
+
     <Folder>
       <open>0</open>
       <Placemark>
         <visibility>1</visibility>
         <name>Stadtmark Warunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Snippet maxLines="0">
         </Snippet>
         <LookAt>
@@ -19820,9 +21169,15 @@ verfügbar, dort kann man den
           <begin>1032-10-20</begin>
         </TimeSpan>
       </Placemark>
+
       <Placemark>
         <visibility>1</visibility>
         <name>Warunk</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
         <Snippet maxLines="0">
         </Snippet>
         <LookAt>
@@ -19874,6 +21229,7 @@ verfügbar, dort kann man den
           <begin>1032-10-20</begin>
         </TimeSpan>
       </Placemark>
+
       <visibility>1</visibility>
       <name>Bis 1032</name>
       <Style>

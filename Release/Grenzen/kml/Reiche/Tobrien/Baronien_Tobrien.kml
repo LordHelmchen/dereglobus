@@ -18,12 +18,14 @@
         <maxFadeExtent>0</maxFadeExtent>
       </Lod>
     </Region>
+
     <Folder>
       <open>0</open>
       <Folder>
         <visibility>1</visibility>
         <name>Baronien Tobriens</name>
         <open>0</open>
+
         <Folder>
           <open>0</open>
           <visibility>1</visibility>
@@ -5347,9 +5349,15 @@ title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
                 <end>1019-12</end>
               </TimeSpan>
             </Placemark>
+
             <Placemark>
               <visibility>1</visibility>
               <name>Baronie Maus</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
               <Polygon id="KMLe_322">
                 <tessellate>1</tessellate>
@@ -6815,6 +6823,11 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <Placemark>
               <visibility>1</visibility>
               <name>Herzoglich Drachenstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
               <Snippet maxLines="0">
               </Snippet>
               <description><![CDATA[<style type="text/css"><!--
@@ -8301,9 +8314,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Grünau</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
             <Polygon id="KMLe_150">
               <tessellate>1</tessellate>
@@ -9963,9 +9982,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Schlegelstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <LookAt>
               <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                 <when>1036</when>
@@ -20139,9 +20164,15 @@ title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Niemandsland</styleUrl>
+
           <Placemark>
             <visibility>1</visibility>
             <name>Baronie Schlegelstein</name>
+ 			<ExtendedData>
+			<Data name="Link">
+			 <value>$[name]</value>
+			</Data>
+			</ExtendedData> 
             <LookAt>
               <gx:TimeStamp xmlns:gx="http://www.google.com/kml/ext/2.2">
                 <when>1036</when>

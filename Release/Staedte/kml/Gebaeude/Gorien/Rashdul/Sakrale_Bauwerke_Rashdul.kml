@@ -26,7 +26,8 @@
           </BalloonStyle>
         </Style>
         <Placemark>
-          <name>Bethaus des Rastullah (5)</name>
+          <name>Bethaus des Rastullah</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.270452864304986</longitude>
             <latitude>24.23975444550681</latitude>
@@ -37,12 +38,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.268815719855758,24.24054562606757,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Hesinde-Tempel (6)</name>
+          <name>Hesinde-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.270816663183128</longitude>
             <latitude>24.24111187141217</latitude>
@@ -53,12 +60,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.269610232709287,24.24155988930716,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Phex-Tempel (9)</name>
+          <name>Phex-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.272420734535234</longitude>
             <latitude>24.24162613648966</latitude>
@@ -69,12 +82,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.272245153817629,24.2424968401583,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Rahja-Tempel (10)</name>
+          <name>Rahja-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.273551226909366</longitude>
             <latitude>24.24087604657673</latitude>
@@ -85,12 +104,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.272259588283871,24.24106248244135,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Boron-Tempel (Al'Anfaner Ritus) (11)</name>
+          <name>Boron-Tempel (Al'Anfaner Ritus)</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.271136305383476</longitude>
             <latitude>24.24284995161616</latitude>
@@ -101,12 +126,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.270171765625012,24.24336973720435,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Der Schwarze Platz (12)</name>
+          <name>Der Schwarze Platz</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.271136305383476</longitude>
             <latitude>24.24284995161616</latitude>
@@ -117,12 +148,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.270147715712091,24.24304514238348,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Boron-Tempel (Puniner Kult) (13)</name>
+          <name>Boron-Tempel (Puniner Kult)</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.271136305383476</longitude>
             <latitude>24.24284995161616</latitude>
@@ -133,12 +170,18 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.27016215062004,24.24273809371352,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Felsengräber (14)</name>
+          <name>Felsengräber</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
           <LookAt>
             <longitude>6.27356581870182</longitude>
             <latitude>24.2462976926865</latitude>
@@ -149,6 +192,11 @@
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
           <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
           <Point>
             <coordinates>6.273544167320933,24.24612881643496,0</coordinates>
           </Point>

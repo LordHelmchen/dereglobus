@@ -34,7 +34,13 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
-<p><a href="http://www.wiki-aventurica.de/wiki/Zweimühlen"><img src="http://www.wiki-aventurica.de/images/3/3f/Wappen_Zweim%C3%BChlen.png" alt="Wappen" width="100" height="122" align="right"></a>
+<p>
+<!-- EDIT: LINK DES WAPPENS -->
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">
+<img src="http://www.wiki-aventurica.de/images/3/3f/Wappen_Zweim%C3%BChlen.png" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
 
 Die Stadt <b>Zweimühlen</b> ist der ehemalige Grafensitz der <a href="http://www.wiki-aventurica.de/wiki/Landgrafschaft_Zweim%C3%BChlen-Zwerch" title="Landgrafschaft Zweimühlen-Zwerch">Landgrafschaft Zweimühlen-Zwerch</a> und liegt heute im Zentrum der <a href="http://www.wiki-aventurica.de/wiki/Wildermark" title="Wildermark">Wildermark</a>.
 </p>

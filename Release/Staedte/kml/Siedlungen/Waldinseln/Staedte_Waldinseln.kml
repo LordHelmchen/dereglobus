@@ -19,7 +19,8 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
     </Region>
-    <Placemark>        <name>Charypso</name>
+    <Placemark>
+	<name>Charypso</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -83,7 +84,8 @@ verfügbar, dort kann man den
              <coordinates> 1.74176913735501, 17.0577295853277,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Altaïa</name>
+    <Placemark>
+	<name>Altaïa</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -149,7 +151,8 @@ verfügbar, dort kann man den
              <coordinates>2.20466691173159,16.63763522192707,0</coordinates>
         </Point>
     </Placemark>
-	    <Placemark>        	<name>Altaïa</name>
+	    <Placemark>
+		<name>Altaïa</name>
 		<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>

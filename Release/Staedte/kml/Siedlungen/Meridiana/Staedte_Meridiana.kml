@@ -19,7 +19,8 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
     </Region>
-    <Placemark>        <name>Brabak</name>
+    <Placemark>
+	<name>Brabak</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -34,7 +35,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
-<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://wiki-aventurica.de/images/5/55/Selemwappenklein.gif" width="100" height="122" align="right"></a>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/1/19/Brabak_Reich_und_Stadt_Wappen.svg" width="100" height="122" align="right"></a>
 
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
@@ -80,7 +81,8 @@ verfügbar, dort kann man den
              <coordinates>-3.05309760572775, 16.9053260879106,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Cuoris</name>
+    <Placemark>
+	<name>Cuoris</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -139,7 +141,8 @@ verfügbar, dort kann man den
 			<coordinates>-0.7090932849198472,21.96764827858549,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Dujar</name>
+    <Placemark>
+	<name>Dujar</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -197,7 +200,8 @@ verfügbar, dort kann man den
 			<coordinates>-0.8329829376963416,22.08044399681453,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Aldenia</name>
+    <Placemark>
+	<name>Aldenia</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -256,7 +260,8 @@ verfügbar, dort kann man den
 			<coordinates>-1.58940006574571,22.04471842051331,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Istina</name>
+    <Placemark>
+	<name>Istina</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -315,7 +320,8 @@ verfügbar, dort kann man den
 		<coordinates>-0.6296470106147889,22.10377807404669,0</coordinates>
         </Point>
     </Placemark>
-	    <Placemark>        <name>Hôt-Elem</name>
+	    <Placemark>
+        <name>Hôt-Elem</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -380,7 +386,8 @@ verfügbar, dort kann man den
 		<end>-106</end>         <!-- kml:dateTime -->
 	</TimeSpan>
     </Placemark>
-    <Placemark>        <name>Hôt-Alem</name>
+    <Placemark>
+	<name>Hôt-Alem</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -395,7 +402,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
-<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/0/08/H%C3%B4t-alemwappen1klein.gif" width="100" height="122" align="right"></a>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/5/5d/H%C3%B4t-alemwappenklein1.gif" width="100" height="122" align="right"></a>
 
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
@@ -444,7 +451,8 @@ verfügbar, dort kann man den
 		<begin>-106</begin>     <!-- kml:dateTime --> 
 	</TimeSpan>
     </Placemark>
-    <Placemark>        <name>Lhasor</name>
+    <Placemark>
+	<name>Lhasor</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -502,7 +510,8 @@ verfügbar, dort kann man den
 			<coordinates>-0.6463907369811661,21.39749224939252,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Ohzara</name>
+    <Placemark>
+	<name>Ohzara</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -561,7 +570,8 @@ verfügbar, dort kann man den
 			<coordinates>-1.327105061754677,22.10063053098351,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Sylla</name>
+    <Placemark>
+	<name>Sylla</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -622,7 +632,8 @@ verfügbar, dort kann man den
              <coordinates> 1.50522950102093, 17.1814593533932,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Benivilla</name>
+    <Placemark>
+	<name>Benivilla</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -681,7 +692,8 @@ verfügbar, dort kann man den
              <coordinates>-1.167709373512013,21.91272609361306,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Va'Ahak</name>
+    <Placemark>
+	<name>Va'Ahak</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -746,7 +758,8 @@ verfügbar, dort kann man den
              <coordinates>-1.014937238426567,18.52071249371775,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>        <name>Chorhop</name>
+    <Placemark>
+	<name>Chorhop</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -761,7 +774,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
-<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/1/1e/Chorhopwappenklein.gif" width="100" height="122" align="right"></a>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/9/94/Chorhopwappenklein1.gif" width="100" height="122" align="right"></a>
 
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
@@ -807,7 +820,8 @@ verfügbar, dort kann man den
              <coordinates>-0.9255421364925032,20.62128644799358,0</coordinates>
         </Point>
     </Placemark>
-	<Placemark> 	   <name>Mirham</name>
+	<Placemark>
+	<name>Mirham</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -867,7 +881,8 @@ verfügbar, dort kann man den
 			<coordinates>-0.7254827845720435,19.16373898098845,0</coordinates>
 		</Point>
 	</Placemark>
-    <Placemark>        <name>Khefu</name>
+    <Placemark>
+	<name>Khefu</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -928,7 +943,8 @@ verfügbar, dort kann man den
              <coordinates>-.938413934496266, 16.4360840245026,0</coordinates>
         </Point>
     </Placemark>
-	<Placemark>        <name>H'Rabaal</name>
+	<Placemark>
+	<name>H'Rabaal</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>

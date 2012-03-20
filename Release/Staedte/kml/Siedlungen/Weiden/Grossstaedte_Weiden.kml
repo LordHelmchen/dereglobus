@@ -20,7 +20,8 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
     </Region>
-    <Placemark>        <name>Trallop</name>
+    <Placemark>
+	<name>Trallop</name>
 	<ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
@@ -35,7 +36,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <table cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td>
-<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/3/3e/Trallopwappenklein.gif" width="100" height="122" align="right"></a>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/e/e0/Trallopwappenklein1.gif" width="100" height="122" align="right"></a>
 
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->

@@ -4,6 +4,11 @@
     <name>Vierter_Orkensturm</name>
       <Placemark>
         <name>Vierter Orkensturm</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
         <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }

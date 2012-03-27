@@ -3,7 +3,7 @@
 <Document>
 	<name>Chroniken</name>
 	<open>0</open>
-	
+
 	<visibility>0</visibility>
 		<NetworkLink>
 		<visibility>0</visibility>
@@ -12,8 +12,16 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Chroniken/kml/Tulamidenlande/Chronik_Goriens.kml</href>
 		</Link>
 	</NetworkLink>
-	
-	
+
+	<visibility>0</visibility>
+		<NetworkLink>
+		<visibility>0</visibility>
+		<name>35-Tage-Krieg</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Chroniken/kml/Tulamidenlande/Chronik_35_Tage_Krieg.kml</href>
+		</Link>
+	</NetworkLink>
+
 	<NetworkLink>
 		<visibility>0</visibility>
 		<name>Tobrien ab 1019 BF (MI)</name>
@@ -22,7 +30,6 @@
 		</Link>
 	</NetworkLink>
 
-	
 	<visibility>0</visibility>
 		<NetworkLink>
 		<visibility>0</visibility>
@@ -31,6 +38,6 @@
 			<href>http://dereglobus.googlecode.com/svn/Release/Chroniken/kml/Chronik_Vierter_Orkensturm.kml</href>
 		</Link>
 	</NetworkLink>
-	
+
 </Document>
 </kml>

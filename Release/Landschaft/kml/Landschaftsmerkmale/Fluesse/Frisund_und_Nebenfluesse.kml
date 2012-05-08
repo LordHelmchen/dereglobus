@@ -38,11 +38,9 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <td>
 <p>
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Der <b>Frisund</b> ist ein Fluss in <a href="/index.php/Nordaventurien" title="Nordaventurien">Nordaventurien</a>, der in den <a href="/index.php/Nordwalser_H%C3%B6hen" title="Nordwalser Höhen">Nordwalser Höhen</a> entspringt. Bis zur Einmündung in den <a href="/index.php/Alavi-See" title="Alavi-See">Alavi-See</a> liegen am linken Ufer der <a href="/index.php?title=Jonsu&amp;action=edit&amp;redlink=1" class="new" title="Jonsu (Seite nicht vorhanden)">Jonsu</a> und am rechten Ufer die <a href="/index.php/Brydia" title="Brydia">Brydia</a>, zwei ausgedehnte Steppengebiete. Der Frisund verlässt den <a href="/index.php/Alavi-See" title="Alavi-See">Alavi-See</a> an der Westspitze und fließt in einem großen Bogen Richtung Nordwesten, bevor er bei <a href="/index.php/Frigorn" title="Frigorn">Frigorn</a> in die <a href="/index.php/Bernsteinbucht" title="Bernsteinbucht">Bernsteinbucht</a> mündet.
-
-</p><p>Der einzige echte Zufluss des Frisund ist der <a href="/index.php?title=Sileri&amp;action=edit&amp;redlink=1" class="new" title="Sileri (Seite nicht vorhanden)">Sileri</a> etwa auf der Höhe von <a href="/index.php/Farlorn" title="Farlorn">Farlorn</a>. Die übrigen Zuflüsse des <a href="/index.php/Alavi-See" title="Alavi-See">Alavi-Sees</a>, <a href="/index.php?title=Tylsen&amp;action=edit&amp;redlink=1" class="new" title="Tylsen (Seite nicht vorhanden)">Tylsen</a> und <a href="/index.php?title=Frylinnen&amp;action=edit&amp;redlink=1" class="new" title="Frylinnen (Seite nicht vorhanden)">Frylinnen</a>, können jedoch ebenfalls als Zuflüsse des Frisund gesehen werden. Schiffbar ist der Fluss nur in den Sommermonaten zwischen dem <a href="/index.php/Alavi-See" title="Alavi-See">Alavi-See</a> und dem Zufluss des <a href="/index.php?title=Sileri&amp;action=edit&amp;redlink=1" class="new" title="Sileri (Seite nicht vorhanden)">Sileri</a>.
-
-</p><p>Manchmal wird der Frisund in den Oberen Frisund (von der Quelle bis zur Einmündung in den See) und den Unteren Frisund (vom See bis zur Mündung ins Meer) geteilt. Gerade der Untere Frisund mit seinen vielen Birkenwäldern ist dabei eine regelrechte Brutstätte für Mücken und andere lästige Insekten.
+Der <b>Frisund</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> in <a href="http://www.wiki-aventurica.de/wiki/Nordaventurien" title="Nordaventurien">Nordaventurien</a>, der in der <a href="http://www.wiki-aventurica.de/wiki/Gelbe_Sichel" title="Gelbe Sichel">Gelben Sichel</a> entspringt. Bis zur Einmündung in den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a> liegen am linken Ufer der <a href="http://www.wiki-aventurica.de/wiki/Jonsu" title="Jonsu">Jonsu</a> und am rechten Ufer die <a href="http://www.wiki-aventurica.de/wiki/Brydia" title="Brydia">Brydia</a>, zwei ausgedehnte Steppengebiete. Der Frisund verlässt den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a> an der Westspitze und fließt in einem großen Bogen Richtung Nordwesten, bevor er bei <a href="http://www.wiki-aventurica.de/wiki/Frigorn" title="Frigorn">Frigorn</a> in die <a href="http://www.wiki-aventurica.de/wiki/Bernsteinbucht" title="Bernsteinbucht">Bernsteinbucht</a> mündet.
+</p><p>Manchmal wird der Frisund in den <b>Oberen Frisund</b> (von der Quelle bis zur Einmündung in den See) und den <b>Unteren Frisund</b> (vom See bis zur Mündung ins Meer) geteilt.
+</p>
 <!-- END EDIT -->
 
 </p>
@@ -76,15 +74,101 @@ verfügbar, dort kann man den
 		</LineString>
 	</Placemark>
 		<Placemark>
+		<name>Frylinnen</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Frylinnen</b> entspringt im Hügelland südlich der <a href="http://www.wiki-aventurica.de/wiki/Farlornschwelle" title="Farlornschwelle">Farlornschwelle</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a>.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				7.540185471888323,39.05691127191643,0 7.528875653627405,39.04708001637949,0 7.494249225688161,39.01211094859531,0 7.47093502152832,38.9825905664915,0 7.437806314127586,38.96511600701331,0 7.40752522111994,38.96131226975238,0 7.381438597668197,38.93614460948927,0 7.350771869751725,38.91852294785871,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
 		<name>Sileri</name>
 <ExtendedData>
 <Data name="Link">
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
-<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
-<HR><BR><BR> Eine Kurzbeschreibung des Flusses mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Sileri</b> ist ein Zufluss des <a href="http://www.wiki-aventurica.de/wiki/Frisund" title="Frisund">Frisund</a>.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
  <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -100,9 +184,43 @@ verfügbar, dort kann man den
  <value>$[name]</value>
 </Data>
 </ExtendedData> 
-<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
-<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
-<HR><BR><BR> Eine Kurzbeschreibung des Flusses mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Tylsen</b> entspringt in der <a href="http://www.wiki-aventurica.de/wiki/Brydia" title="Brydia">Brydia</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a>.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
  <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>

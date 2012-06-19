@@ -730,6 +730,42 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</Link>
 </NetworkLink>
 
+<NetworkLink>
+    <name>Burg Tobelstein</name>
+    <open>0</open>
+    <visibility>0</visibility>
+    <Region>
+		<LatLonAltBox>
+			<north>32.44040229492204</north>
+			<south>32.43991228977937</south>
+			<east>6.649841265177858</east>
+			<west>6.648912466172903</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>16</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>128</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+    </Region>
+	<LookAt>
+		<longitude>6.649311884779857</longitude>
+		<latitude>32.44037645414272</latitude>
+		<altitude>0</altitude>
+		<heading>-36.94980158442031</heading>
+		<tilt>71.90703376024041</tilt>
+		<range>153.9009192216173</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+      
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/3D-Modelle/kmz/Mittelreich/Schwarztobrien/Tobelstein/Tobelstein.kmz</href>
+	</Link>
+</NetworkLink>
+
+
 
 
 <!-- Auskommentiert, da Modell kaputt

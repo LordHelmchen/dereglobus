@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
-<Folder>
-	<name>Planeten</name>
-	<open>1</open>
-		<Style>
-		<ListStyle>
-			<listItemType>radioFolder</listItemType>
-		</ListStyle>
-	</Style>
+
 	<NetworkLink>
 		<name>Mars</name>
 		<open>1</open>
@@ -15,13 +8,5 @@
 			<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Mars.kml</href>
 		</Link>
 	</NetworkLink>
-	<NetworkLink>
-		<name>Venus</name>
-		<visibility>0</visibility>
-		<open>0</open>
-		<Link>
-			<href>http://dereglobus.googlecode.com/svn/Space1889/Venus/Venus.kml</href>
-		</Link>
-	</NetworkLink>
-</Folder>
+
 </kml>

@@ -26,5 +26,21 @@
 			<west>-213.4362226002063</west>
 		</LatLonBox>
 	</GroundOverlay>
+	
+<GroundOverlay>
+	<name>Pole</name>
+	<open>1</open>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Kontinente/media/Pole.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>88.1005927470197</north>
+		<south>85.3157250396882</south>
+		<east>167.9113422037786</east>
+		<west>144.089739286351</west>
+	</LatLonBox>
+</GroundOverlay>
+	
 </Folder>
 </kml>

@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Rohstoffe.kml</name>
 	<Folder>
 		<name>Rohstoffe</name>
-		<open>0</open>
+		<open>1</open>
 		<Folder>
 			<name>Flugholz</name>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-113.122317332626</longitude>
-					<latitude>18.36717513780929</latitude>
+					<longitude>-106.5922210517308</longitude>
+					<latitude>23.0937921508998</latitude>
 					<altitude>0</altitude>
-					<heading>3.498703123821225</heading>
-					<tilt>0.7923239885596212</tilt>
-					<range>2341123.710974464</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>0.3374061776337663</heading>
+					<tilt>0</tilt>
+					<range>1522157.885472468</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-108.5884951660938,23.24271000429496,0</coordinates>
+					<coordinates>-107.5557216492004,23.87246479505838,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -35,7 +34,6 @@
 					<heading>-2.315804154839497</heading>
 					<tilt>0.1946542246106776</tilt>
 					<range>2581342.458820745</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -47,18 +45,17 @@
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>67.74606262380723</longitude>
-					<latitude>18.75272005936002</latitude>
+					<longitude>65.87744141544316</longitude>
+					<latitude>5.188914865400593</latitude>
 					<altitude>0</altitude>
-					<heading>-2.315804154839497</heading>
-					<tilt>0.1946542246106776</tilt>
-					<range>2581342.458820745</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>-0.2388664234352231</heading>
+					<tilt>0</tilt>
+					<range>5101460.519841806</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>73.95973686267205,10.21928787724283,0</coordinates>
+					<coordinates>73.8533105979684,5.77626652726619,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -68,69 +65,65 @@
 					<longitude>51.80587481536933</longitude>
 					<latitude>-11.8878550858221</latitude>
 					<altitude>0</altitude>
-					<heading>-3.994435782113014</heading>
-					<tilt>0.1946542246125505</tilt>
-					<range>2581342.458820743</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>-3.994435782122399</heading>
+					<tilt>0.1946763417230027</tilt>
+					<range>2581342.458820744</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>52.96384649212531,-17.22555061159505,0</coordinates>
+					<coordinates>53.75166831510499,-15.63417217101326,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>72.70395175629207</longitude>
-					<latitude>-47.75340948792718</latitude>
+					<longitude>72.27262994704449</longitude>
+					<latitude>-52.90519402640311</latitude>
 					<altitude>0</altitude>
-					<heading>-1.167149141663629</heading>
-					<tilt>0.1733651098763131</tilt>
-					<range>1934465.648945918</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>-0.8836592327613553</heading>
+					<tilt>0.1734045092104734</tilt>
+					<range>1934465.648945912</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>75.41492082534207,-56.27295287805507,0</coordinates>
+					<coordinates>73.75229671720956,-56.4196098997371,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>35.57411234278116</longitude>
+					<longitude>35.57411234278118</longitude>
 					<latitude>-40.81545264045689</latitude>
 					<altitude>0</altitude>
-					<heading>27.85795973604218</heading>
-					<tilt>0.173365109867902</tilt>
+					<heading>27.85795973603903</heading>
+					<tilt>0.1733848084201536</tilt>
 					<range>1934465.64894592</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>40.63391160735385,-44.47566920647034,0</coordinates>
+					<coordinates>40.23183366290442,-44.07257896966939,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>116.1385843349767</longitude>
-					<latitude>45.77090532057428</latitude>
+					<longitude>130.3821219044324</longitude>
+					<latitude>59.03876827531465</latitude>
 					<altitude>0</altitude>
-					<heading>5.422845731895295e-012</heading>
-					<tilt>0.06823829484097398</tilt>
-					<range>1932504.866459666</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>12.73480626335922</heading>
+					<tilt>0</tilt>
+					<range>924015.7119946036</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>136.2267890251835,59.45236379866645,0</coordinates>
+					<coordinates>135.3836295466217,59.8218647782243,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -140,303 +133,252 @@
 					<longitude>144.0954492383675</longitude>
 					<latitude>29.09853061062725</latitude>
 					<altitude>0</altitude>
-					<heading>-5.358039422062354</heading>
-					<tilt>1.201674839066383</tilt>
-					<range>1926711.621902142</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>147.4574099562888,27.01438819450691,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>154.158357389937</longitude>
-					<latitude>1.599498520643029</latitude>
-					<altitude>0</altitude>
-					<heading>3.295275204779642</heading>
-					<tilt>1.201674839066686</tilt>
+					<heading>-5.35803942206337</heading>
+					<tilt>1.201810932297696</tilt>
 					<range>1926711.62190214</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>162.3665467012326,-2.205142414462741,0</coordinates>
+					<coordinates>147.2257052606655,29.16585489705431,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>171.270241950646</longitude>
-					<latitude>-2.143855742052989</latitude>
+					<longitude>156.0657056489211</longitude>
+					<latitude>-2.801333909216595</latitude>
 					<altitude>0</altitude>
-					<heading>0.2022001677219901</heading>
-					<tilt>1.201674839066383</tilt>
+					<heading>3.304688469578483</heading>
+					<tilt>1.201947040839505</tilt>
+					<range>1926711.621902139</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>161.0074863675201,-3.800655585656633,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>168.5164396611929</longitude>
+					<latitude>-8.519973203832331</latitude>
+					<altitude>0</altitude>
+					<heading>0.8125833868489523</heading>
+					<tilt>1.201947040838898</tilt>
 					<range>1926711.621902141</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>176.7897850909,-9.556066369095399,0</coordinates>
+					<coordinates>173.6184920125151,-8.457727375920099,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-144.6249935762041</longitude>
-					<latitude>28.07995107686523</latitude>
+					<longitude>-149.2208470887562</longitude>
+					<latitude>-7.512219055832396</latitude>
 					<altitude>0</altitude>
-					<heading>12.98087304274538</heading>
-					<tilt>1.201674839066686</tilt>
-					<range>1926711.621902143</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>8.05358122057201</heading>
+					<tilt>1.201947040838898</tilt>
+					<range>1926711.62190214</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-141.5944034925042,27.84968377925877,0</coordinates>
+					<coordinates>-145.2096844058779,-5.591415009793191,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-131.9874694660287</longitude>
-					<latitude>36.60061471437594</latitude>
+					<longitude>-152.2676555841134</longitude>
+					<latitude>-33.12761118704356</latitude>
 					<altitude>0</altitude>
-					<heading>18.9511614958532</heading>
-					<tilt>1.201674839066686</tilt>
-					<range>1926711.621902141</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>13.92798226111012</heading>
+					<tilt>1.201947040838898</tilt>
+					<range>1926711.621902139</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-129.3962344943971,35.19917506748352,0</coordinates>
+					<coordinates>-150.4460225146021,-34.1105390954395,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-151.2970818244253</longitude>
-					<latitude>-1.798197158845629</latitude>
+					<longitude>-174.2711982646814</longitude>
+					<latitude>-25.37755001328811</latitude>
 					<altitude>0</altitude>
-					<heading>8.10207913137725</heading>
-					<tilt>1.201674839066383</tilt>
-					<range>1926711.621902141</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-143.5277678412218,-8.061798036238015,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-144.1112665211333</longitude>
-					<latitude>-26.24223180431746</latitude>
-					<altitude>0</altitude>
-					<heading>9.380109153266025</heading>
-					<tilt>1.201674839066686</tilt>
-					<range>1926711.621902142</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-145.3989916117977,-35.98856315570273,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-173.8978512212798</longitude>
-					<latitude>-23.76812004005235</latitude>
-					<altitude>0</altitude>
-					<heading>5.607346339742756</heading>
-					<tilt>1.960572701426055</tilt>
+					<heading>5.675716438379263</heading>
+					<tilt>1.961014339033983</tilt>
 					<range>1936724.946917279</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-177.2212240986049,-25.01461949292789,0</coordinates>
+					<coordinates>178.3279931051341,-24.19929889947114,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>161.3322396121069</longitude>
-					<latitude>-30.38140195698203</latitude>
+					<longitude>170.0407159494946</longitude>
+					<latitude>-31.09196922529315</latitude>
 					<altitude>0</altitude>
-					<heading>16.2885006975618</heading>
-					<tilt>1.960572701426055</tilt>
-					<range>1936724.94691728</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>12.12514102783685</heading>
+					<tilt>1.961014339033797</tilt>
+					<range>1936724.946917282</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>164.7478974243466,-28.91710874299671,0</coordinates>
+					<coordinates>162.1483864573297,-26.7523718693218,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>141.2977410309217</longitude>
-					<latitude>-24.89898601118473</latitude>
+					<longitude>146.8597072233845</longitude>
+					<latitude>-26.71730557658105</latitude>
 					<altitude>0</altitude>
-					<heading>25.66370127595945</heading>
-					<tilt>1.960572701426241</tilt>
-					<range>1936724.946917279</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>142.4644542467038,-28.11602719785736,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>141.2070285698109</longitude>
-					<latitude>-42.55992358876789</latitude>
-					<altitude>0</altitude>
-					<heading>3.715817371892634</heading>
-					<tilt>1.961014339033611</tilt>
-					<range>1936724.94691728</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>150.90953223535,-44.05181653386173,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>128.944148171368</longitude>
-					<latitude>-42.50314685338469</latitude>
-					<altitude>0</altitude>
-					<heading>12.90999029199188</heading>
-					<tilt>1.961014339033425</tilt>
-					<range>1936724.946917281</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>127.7492321382223,-49.58390477492446,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>117.9168567207239</longitude>
-					<latitude>-38.62368606011247</latitude>
-					<altitude>0</altitude>
-					<heading>20.7331483274728</heading>
-					<tilt>1.961014339033611</tilt>
-					<range>1936724.946917279</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>119.8108464956254,-46.48182844203567,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>107.233630776391</longitude>
-					<latitude>-45.94476515386246</latitude>
-					<altitude>0</altitude>
-					<heading>25.81854949722238</heading>
-					<tilt>1.961235194474966</tilt>
+					<heading>22.9943468060118</heading>
+					<tilt>1.961014339033983</tilt>
 					<range>1936724.946917277</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>107.402680592957,-56.86558778877426,0</coordinates>
+					<coordinates>144.2276617209449,-26.9761806278232,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>166.4670878515971</longitude>
-					<latitude>-47.52382437530132</latitude>
+					<longitude>152.3251915322468</longitude>
+					<latitude>-41.01666116018247</latitude>
 					<altitude>0</altitude>
-					<heading>-24.93969596126947</heading>
-					<tilt>1.961235194474966</tilt>
-					<range>1936724.946917278</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>-3.809830585958244</heading>
+					<tilt>1.961456074345192</tilt>
+					<range>1936724.946917279</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>174.253883958054,-54.14631233600732,0</coordinates>
+					<coordinates>145.0683944994955,-41.21065660081031,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>179.9206835582992</longitude>
-					<latitude>-38.22203981946941</latitude>
+					<longitude>134.9045819658624</longitude>
+					<latitude>-47.42902915907538</latitude>
 					<altitude>0</altitude>
-					<heading>-10.07759130454135</heading>
-					<tilt>1.961676978645893</tilt>
-					<range>1936724.946917278</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>8.259145921515154</heading>
+					<tilt>1.961456074344634</tilt>
+					<range>1936724.946917279</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-174.2445197866184,-45.64463710028835,0</coordinates>
+					<coordinates>131.1337976974015,-45.54058183335702,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>104.0464764660176</longitude>
-					<latitude>32.72123682050605</latitude>
+					<longitude>129.9295202829894</longitude>
+					<latitude>-46.76657954900928</latitude>
 					<altitude>0</altitude>
-					<heading>5.286286763026867</heading>
+					<heading>12.02742637086623</heading>
+					<tilt>1.961456074344634</tilt>
+					<range>1936724.946917279</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>123.5272568754278,-45.58749374146861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>113.9111304235194</longitude>
+					<latitude>-53.61667393502225</latitude>
+					<altitude>0</altitude>
+					<heading>19.83901449517303</heading>
+					<tilt>0.04504037315787939</tilt>
+					<range>2176275.931247513</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>105.6924552604738,-56.6396533262178,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>177.6456053895776</longitude>
+					<latitude>-49.09584457537856</latitude>
+					<altitude>0</altitude>
+					<heading>-34.02383293166727</heading>
+					<tilt>1.961676978645707</tilt>
+					<range>1936724.946917275</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>173.7077178745191,-55.42392486125861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-169.2048309537539</longitude>
+					<latitude>-41.34540403384779</latitude>
+					<altitude>0</altitude>
+					<heading>-17.73548802032783</heading>
+					<tilt>1.962118860550522</tilt>
+					<range>1936724.946917277</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-176.4401069405886,-43.53094839053308,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>110.5645332775656</longitude>
+					<latitude>32.73354638917049</latitude>
+					<altitude>0</altitude>
+					<heading>8.805327938899699</heading>
 					<tilt>0</tilt>
-					<range>2274303.771913819</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<range>2274303.77191382</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>104.7262617545245,33.10618722606925,0</coordinates>
+					<coordinates>104.0771452047275,32.19116661996475,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -449,7 +391,6 @@
 					<heading>-2.938505665019415</heading>
 					<tilt>0</tilt>
 					<range>2274303.771913818</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -461,90 +402,85 @@
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-148.1544530971523</longitude>
-					<latitude>-21.78137442376999</latitude>
+					<longitude>-147.1982884856993</longitude>
+					<latitude>-30.38794169902885</latitude>
 					<altitude>0</altitude>
-					<heading>10.20965752055988</heading>
-					<tilt>0.791066414072419</tilt>
-					<range>2341123.710974465</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-154.041776671689,-27.67370757670698,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-153.9291404612087</longitude>
-					<latitude>-3.636078829591109</latitude>
-					<altitude>0</altitude>
-					<heading>14.44946594006946</heading>
-					<tilt>0.7910664140728798</tilt>
-					<range>2341123.710974464</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-158.5596085742152,-2.642710414935255,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-144.9087118876904</longitude>
-					<latitude>-51.10392437024392</latitude>
-					<altitude>0</altitude>
-					<heading>9.372740387099155</heading>
-					<tilt>0.7912459456450641</tilt>
-					<range>2341123.710974466</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-141.4321264026482,-51.27264866962405,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-136.4691666684936</longitude>
-					<latitude>-57.69955671122583</latitude>
-					<altitude>0</altitude>
-					<heading>3.441295763178631</heading>
-					<tilt>0.791245945645525</tilt>
+					<heading>9.140015527767938</heading>
+					<tilt>0.7912459456469072</tilt>
 					<range>2341123.710974467</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-130.8062392192662,-61.17011256598414,0</coordinates>
+					<coordinates>-157.6710016969801,-34.42867839968363,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-106.7264970969965</longitude>
-					<latitude>-33.93476691192114</latitude>
+					<longitude>-149.3591283172919</longitude>
+					<latitude>-4.564692476304002</latitude>
 					<altitude>0</altitude>
-					<heading>-3.625832336868409e-013</heading>
-					<tilt>0.7913357266674248</tilt>
-					<range>2341123.710974468</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<heading>13.93624075549403</heading>
+					<tilt>0.7912459456469072</tilt>
+					<range>2341123.710974464</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-103.3841731924299,-40.49343438242897,0</coordinates>
+					<coordinates>-154.3899139574623,-4.137410074582866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-133.1406234130287</longitude>
+					<latitude>-49.78790615356051</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1603039507568537</heading>
+					<tilt>0.7914255178457595</tilt>
+					<range>2341123.710974467</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-139.8485757097346,-52.69165584477073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-123.1058573041268</longitude>
+					<latitude>-60.26718923958601</latitude>
+					<altitude>0</altitude>
+					<heading>-8.686350630933983</heading>
+					<tilt>0.7914255178462202</tilt>
+					<range>2341123.71097447</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-136.23212598363,-63.47397771961806,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-94.45056540756659</longitude>
+					<latitude>-37.05910657465914</latitude>
+					<altitude>0</altitude>
+					<heading>-8.025563212507754</heading>
+					<tilt>0.791515319184443</tilt>
+					<range>2341123.71097447</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-100.9347675847792,-38.99249588913664,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -557,7 +493,6 @@
 					<heading>-13.97397112842549</heading>
 					<tilt>0.7914255178466809</tilt>
 					<range>2341123.710974468</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -569,198 +504,170 @@
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-94.71857349022906</longitude>
-					<latitude>-17.42151576404654</latitude>
+					<longitude>-76.22417032606194</longitude>
+					<latitude>-18.87541275362807</latitude>
 					<altitude>0</altitude>
-					<heading>-3.049356800853146e-012</heading>
-					<tilt>0.7916949523396178</tilt>
+					<heading>-6.841855921129167</heading>
+					<tilt>0.7918746261453495</tilt>
+					<range>2341123.710974468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-79.62780859109505,-21.57785015139218,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-96.46298349311199</longitude>
+					<latitude>-7.167127033094605</latitude>
+					<altitude>0</altitude>
+					<heading>-1.127699998694667</heading>
+					<tilt>0.7920543406094184</tilt>
+					<range>2341123.710974468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-100.5862732443429,-7.680976366902651,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-120.1894149505098</longitude>
+					<latitude>0.1213139409712195</latitude>
+					<altitude>0</altitude>
+					<heading>0.1547440270530834</heading>
+					<tilt>0.7923239885577809</tilt>
+					<range>2341123.710974467</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-124.4996041365278,-3.555820433093883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-110.1089015958466</longitude>
+					<latitude>13.66503612675719</latitude>
+					<altitude>0</altitude>
+					<heading>3.37864581696065</heading>
+					<tilt>0.7925038047074499</tilt>
+					<range>2341123.710974465</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
+				<Point>
+					<coordinates>-115.6704515271962,14.02338425278667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flugholz</name>
+				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
+				<LookAt>
+					<longitude>-128.343581738665</longitude>
+					<latitude>44.42830328708531</latitude>
+					<altitude>0</altitude>
+					<heading>8.553566170966382</heading>
+					<tilt>0.7925937280430462</tilt>
 					<range>2341123.710974469</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-84.72587713763356,-20.57158925453394,0</coordinates>
+					<coordinates>-137.8587435499238,46.0522161266512,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-104.1461836497551</longitude>
-					<latitude>-7.626123965415633</latitude>
+					<longitude>-151.5614643706196</longitude>
+					<latitude>36.92257276868406</latitude>
 					<altitude>0</altitude>
-					<heading>-2.255808407827999e-012</heading>
-					<tilt>0.7918746261444286</tilt>
-					<range>2341123.710974466</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-104.1461836497551,-7.626123965415632,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-126.721996950775</longitude>
-					<latitude>-0.3275235908713812</latitude>
-					<altitude>0</altitude>
-					<heading>0.4623815768132573</heading>
-					<tilt>0.7921442130897499</tilt>
+					<heading>6.092586929895982</heading>
+					<tilt>0.7928635590876705</tilt>
 					<range>2341123.710974465</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-124.2741519974905,-1.164053068492509,0</coordinates>
+					<coordinates>-159.688553679802,38.77348662447669,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-117.5343347057312</longitude>
-					<latitude>14.01813087470708</latitude>
+					<longitude>-73.3170425015785</longitude>
+					<latitude>26.06931582641133</latitude>
 					<altitude>0</altitude>
-					<heading>1.772879565588937</heading>
-					<tilt>0.7923239885591611</tilt>
+					<heading>2.546572711707542</heading>
+					<tilt>0.7930434973341014</tilt>
 					<range>2341123.710974465</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-120.2764432050615,14.01767418470052,0</coordinates>
+					<coordinates>-78.85251432423404,25.32173947473635,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-148.2698612913161</longitude>
-					<latitude>37.87770003236447</latitude>
+					<longitude>-20.32288109880334</longitude>
+					<latitude>32.26150346823263</latitude>
 					<altitude>0</altitude>
-					<heading>-5.207059755323444</heading>
-					<tilt>0.792413891548681</tilt>
-					<range>2341123.710974468</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-140.4624388341442,46.10008915205947,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-161.7460504617391</longitude>
-					<latitude>34.77090534403933</latitude>
-					<altitude>0</altitude>
-					<heading>-8.682914280395401e-013</heading>
-					<tilt>0.7926836615487874</tilt>
-					<range>2341123.710974468</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-161.7460504617391,37.22833309590881,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-80.10320475971614</longitude>
-					<latitude>28.44976410721188</latitude>
-					<altitude>0</altitude>
-					<heading>7.951386703658792e-015</heading>
-					<tilt>0.7928635590867509</tilt>
-					<range>2341123.710974464</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>-82.4412301127684,25.22309278642739,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>-29.92342442979444</longitude>
-					<latitude>33.62249042174732</latitude>
-					<altitude>0</altitude>
-					<heading>16.25526505646788</heading>
+					<heading>21.55128484030115</heading>
 					<tilt>0</tilt>
-					<range>2184160.650873449</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<range>2184160.650873448</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-29.60321930397024,35.20065218607603,0</coordinates>
+					<coordinates>-27.45586131511421,34.37670574199962,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-35.87423995324006</longitude>
-					<latitude>-37.04235324934271</latitude>
+					<longitude>0.8422530982194831</longitude>
+					<latitude>-4.570961670089037</latitude>
 					<altitude>0</altitude>
-					<heading>3.989164197078317</heading>
+					<heading>5.878840332186415</heading>
 					<tilt>0</tilt>
-					<range>2184160.650873449</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<range>2184160.650873438</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-35.22405310598245,-38.92392471434257,0</coordinates>
+					<coordinates>-4.547231930441004,-4.325684590941239,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Flugholz</name>
 				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
 				<LookAt>
-					<longitude>-10.71985828473003</longitude>
-					<latitude>-2.003587881902294</latitude>
+					<longitude>16.30481150501061</longitude>
+					<latitude>-41.02162161015813</latitude>
 					<altitude>0</altitude>
-					<heading>7.544898804460959</heading>
+					<heading>-3.615147712943206</heading>
 					<tilt>0</tilt>
-					<range>2184160.650873447</range>
-					<altitudeMode>relativeToGround</altitudeMode>
+					<range>1830468.380541703</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
 				<Point>
-					<coordinates>-5.765017262688827,-4.715529259738726,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Flugholz</name>
-				<description><![CDATA[<b>Flugholz</b> ist die wichtigste und kostbarste Ressource des Mars. Es hat die Eigenschaft Gravitationskräfte abzuschirmen und kann dadurch für den Bau von schwebenden Flugschiffen eingesetzt werden. Es dauert Jahre, bis die Bäume die notwendige Reife erreicht haben und sie wachsen in entlegenen Gebieten die oft von Hochlandmarsianern kontrolliert werden. Mit Hilfe von Flugholz gelang es <i>Thomas Alva Edison</i>, dem ersten Mensch auf dem Mars, seinen harvarierten Ätherflieger auf die notwendige Flughöhe zu bringen um den Rückweg zur Erde antreten zu können.]]></description>
-				<LookAt>
-					<longitude>8.184669653691877</longitude>
-					<latitude>-28.19525940196207</latitude>
-					<altitude>0</altitude>
-					<heading>2.475940020027002</heading>
-					<tilt>0</tilt>
-					<range>2184160.650873446</range>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
-				<Point>
-					<coordinates>12.38439663961381,-43.59116364351186,0</coordinates>
+					<coordinates>10.67817939867245,-43.87741363180273,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
@@ -775,7 +682,6 @@
 					<heading>-2.315804154839497</heading>
 					<tilt>0.1946542246106776</tilt>
 					<range>2581342.458820745</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -792,7 +698,6 @@
 					<heading>8.305827478409007</heading>
 					<tilt>0</tilt>
 					<range>4482388.83684404</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -809,7 +714,6 @@
 					<heading>7.442612306798947</heading>
 					<tilt>0.79331348105052</tilt>
 					<range>2341123.710974464</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -826,7 +730,6 @@
 					<heading>11.184148296247</heading>
 					<tilt>0.79331348105052</tilt>
 					<range>2341123.710974463</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -843,7 +746,6 @@
 					<heading>0.7938821965740986</heading>
 					<tilt>0</tilt>
 					<range>2184160.65087345</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -863,7 +765,6 @@
 					<heading>12.70520521318411</heading>
 					<tilt>1.201674839066686</tilt>
 					<range>1926711.621902141</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -880,7 +781,6 @@
 					<heading>4.020733981307242</heading>
 					<tilt>1.201674839066383</tilt>
 					<range>1926711.62190214</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -900,7 +800,6 @@
 					<heading>11.55239719133058</heading>
 					<tilt>0.1946542246144233</tilt>
 					<range>2581342.458820743</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -917,7 +816,6 @@
 					<heading>-3.77758821915457</heading>
 					<tilt>0.1946542246125505</tilt>
 					<range>2581342.458820741</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -934,7 +832,6 @@
 					<heading>-3.46153691165904</heading>
 					<tilt>0.1946542246125505</tilt>
 					<range>2581342.458820742</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -951,7 +848,6 @@
 					<heading>-0.8530087069820176</heading>
 					<tilt>1.201674839066686</tilt>
 					<range>1926711.621902142</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -968,7 +864,6 @@
 					<heading>-7.449486808392636</heading>
 					<tilt>1.201674839066079</tilt>
 					<range>1926711.62190214</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -985,7 +880,6 @@
 					<heading>-3.77041570216</heading>
 					<tilt>1.201674839066686</tilt>
 					<range>1926711.621902142</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1002,7 +896,6 @@
 					<heading>3.130598729714534</heading>
 					<tilt>0.7933134810496006</tilt>
 					<range>2341123.710974462</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1019,7 +912,6 @@
 					<heading>5.89143226544001</heading>
 					<tilt>0.5070769956208848</tilt>
 					<range>279029.8196427809</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1036,7 +928,6 @@
 					<heading>-0.9602520233195796</heading>
 					<tilt>0</tilt>
 					<range>2184160.650873451</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1054,7 +945,6 @@
 					<heading>0.9579347515429336</heading>
 					<tilt>0</tilt>
 					<range>1077154.429670986</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1074,7 +964,6 @@
 					<heading>5.683476433333135</heading>
 					<tilt>0.1733651098700048</tilt>
 					<range>1934465.648945917</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1091,7 +980,6 @@
 					<heading>-5.528602960225012</heading>
 					<tilt>0.1733651098763131</tilt>
 					<range>1934465.648945916</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1108,7 +996,6 @@
 					<heading>-22.53588149667119</heading>
 					<tilt>0.1733651098742103</tilt>
 					<range>1934465.648945918</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1125,7 +1012,6 @@
 					<heading>7.098621222938586</heading>
 					<tilt>0.1734439175001648</tilt>
 					<range>1934465.648945919</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1142,7 +1028,6 @@
 					<heading>9.01594118350353</heading>
 					<tilt>0.1734439174938593</tilt>
 					<range>1934465.648945918</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1159,7 +1044,6 @@
 					<heading>-27.22014237929939</heading>
 					<tilt>1.912948225359147</tilt>
 					<range>2342396.848384559</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1176,7 +1060,6 @@
 					<heading>7.979214931474684</heading>
 					<tilt>0</tilt>
 					<range>2184160.650873446</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1196,7 +1079,6 @@
 					<heading>9.255197406345623</heading>
 					<tilt>0.1734439174959611</tilt>
 					<range>1934465.648945919</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1213,7 +1095,6 @@
 					<heading>-4.246040499753793e-013</heading>
 					<tilt>1.913594903155383</tilt>
 					<range>2342396.84838456</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1230,7 +1111,6 @@
 					<heading>21.92027238060389</heading>
 					<tilt>0.7927736052299503</tilt>
 					<range>2341123.710974465</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>
@@ -1247,7 +1127,6 @@
 					<heading>7.717131932295309</heading>
 					<tilt>0</tilt>
 					<range>2184160.650873448</range>
-					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/rohstoffe.kml#rohstoff</styleUrl>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Kanaele.kml</name>
 	<Folder>
@@ -58,7 +58,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Syrtis-Minor-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -68,7 +68,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Gorklimsk-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -298,17 +298,17 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Moeris-Lacus-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						-7.7146099322529,7.800600196453371,0 -13.12362218628499,7.261444836305555,0 -18.02230643591217,7.014130371882339,0 -21.16056524482044,6.79804149082509,0 
+						-7.7146099322529,7.800600196453371,0 -13.12362218628499,7.261444836305555,0 -18.03146520374115,6.884759493645202,0 -21.18571929638272,6.61977144294633,0 -21.23039489724714,6.619990347939086,0 -21.25712395827616,6.627283778799721,0 -21.29372135902495,6.646769517977258,0 -21.37070630081034,6.703948576684678,0 -21.3707124288467,6.704356263885923,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Meepsoor-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -318,7 +318,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Avevel-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -328,7 +328,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Haatt-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -338,7 +338,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Parhoon-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1018,12 +1018,12 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Crocea-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						-16.42356439230257,-10.68105875288149,0 -18.25403767432284,-6.497807910286782,0 -18.83898498461178,-4.329041614572808,0 -19.9249471487884,-0.2135489048319134,0 -21.13596800954334,6.487414612816841,0 -21.14199092001033,6.507614606321705,0 -21.15441405060628,6.530805353209529,0 -21.16834438370069,6.548010883710622,0 -21.18189994881361,6.562972570051111,0 -21.1983413214972,6.577123077352352,0 -21.37100415682861,6.703734996143484,0 
+						-16.42356439230257,-10.68105875288149,0 -18.25403767432284,-6.497807910286782,0 -18.83898498461178,-4.329041614572808,0 -19.9249471487884,-0.2135489048319134,0 -21.33959033014435,6.632666747400296,0 -21.34349173086973,6.648870566072265,0 -21.34731052308248,6.659511856921855,0 -21.3709903575782,6.703713941691702,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -1033,7 +1033,7 @@
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						-21.37099178898798,6.703728281770368,0 -21.31343125444347,6.595133080732039,0 -21.31184455533914,6.590531888602919,0 -21.30878312542978,6.578025936816041,0 -21.30734063701032,6.566412427886071,0 -21.30594467574596,6.546778623447152,0 -21.30487388075308,6.518195224481482,0 -21.30433386027612,6.494905474636954,0 -21.30751963611527,6.463145313712475,0 -21.3112345583796,6.434029820639261,0 -21.31548273952683,6.410734952965319,0 -24.10519027469253,-2.708942429406609,0 -25.23312768563294,-6.034700779917513,0 -26.22803563080056,-8.903225174745161,0 -26.5549691903872,-10.17290818899986,0 -26.95823760754534,-11.81026678676921,0 -27.29626885583951,-14.10201048204847,0 
+						-21.29491202330308,6.417280202626443,0 -24.10519027469253,-2.708942429406609,0 -25.23312768563294,-6.034700779917513,0 -26.22803563080056,-8.903225174745161,0 -26.5549691903872,-10.17290818899986,0 -26.95823760754534,-11.81026678676921,0 -27.29626885583951,-14.10201048204847,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -1058,7 +1058,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Oenotria-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1488,7 +1488,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Aram-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1498,7 +1498,7 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
+				<name>Hyoraotes-Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -2211,8 +2211,8 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<name>Oxia-Trockenkanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
@@ -2221,8 +2221,8 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<name>Emden-Trockenkanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
@@ -2231,8 +2231,8 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<name>Argus-Trockenkanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
@@ -2501,8 +2501,8 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<name>Ismenilus-Trockenkanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
@@ -2511,8 +2511,8 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<name>Dinsoor-Trockenkanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>

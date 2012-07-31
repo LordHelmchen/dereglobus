@@ -2886,11 +2886,6 @@ $[description]]]></text>
 
 <Style id="Stadt_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LabelStyle>
-			<scale>1.0</scale>
-			
-		</LabelStyle>
-
 		<IconStyle>
 			<scale>1.0</scale>
 			<color>7fffffff</color>
@@ -2947,10 +2942,6 @@ $[description]]]></text>
 
 <Style id="Stadt-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
-		<LabelStyle>
-			<scale>1.0</scale>
-			
-		</LabelStyle>
 
 		<IconStyle>
 			<scale>1.0</scale>

@@ -799,7 +799,7 @@
 <Style id="Metropole_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -863,7 +863,7 @@
 <Style id="Metropole-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -925,7 +925,7 @@
 <Style id="Grossstadt_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -987,7 +987,7 @@
 <Style id="Grossstadt-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1048,7 +1048,7 @@
 <Style id="Stadt_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1057,7 +1057,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/icons/Stadt_Karte.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Staedte/media/icons/Stadt_Karte.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1083,7 +1083,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/icons/Stadt_Karte.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Staedte/media/icons/Stadt_Karte.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1109,7 +1109,7 @@
 <Style id="Stadt-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1118,7 +1118,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/icons/Stadt.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Staedte/media/icons/Stadt.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1144,7 +1144,7 @@
 			<color>ffffffff</color>
 			<colorMode>normal</colorMode>
 			<Icon>
-				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/icons/Stadt.png</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Mars/Staedte/media/icons/Stadt.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -1170,7 +1170,7 @@
 <Style id="Kleinstadt_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1231,7 +1231,7 @@
 <Style id="Kleinstadt-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1292,7 +1292,7 @@
 <Style id="Dorf_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1351,7 +1351,7 @@ $[description]]]></text>
 <Style id="Dorf-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1408,7 +1408,7 @@ $[description]]]></text>
 <Style id="Festung-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1469,7 +1469,7 @@ $[description]]]></text>
 <Style id="Festung_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1529,7 +1529,7 @@ $[description]]]></text>
 <Style id="Sonstige_Gaststaette-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1588,7 +1588,7 @@ $[description]]]></text>
 <Style id="Sonstige_Gaststaette_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1651,7 +1651,7 @@ $[description]]]></text>
 <Style id="Sonstige_Privathaus-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1710,7 +1710,7 @@ $[description]]]></text>
 <Style id="Sonstige_Privathaus_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1770,7 +1770,7 @@ $[description]]]></text>
 <Style id="Sonstige_Werkstaette-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1829,7 +1829,7 @@ $[description]]]></text>
 <Style id="Sonstige_Werkstaette_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1890,7 +1890,7 @@ $[description]]]></text>
 <Style id="Sonstige_Handelsstaette-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -1949,7 +1949,7 @@ $[description]]]></text>
 <Style id="Sonstige_Handelsstaette_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2011,7 +2011,7 @@ $[description]]]></text>
 <Style id="Sonstige_Oeffentliches_Bauwerk-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2070,7 +2070,7 @@ $[description]]]></text>
 <Style id="Sonstige_Oeffentliches_Bauwerk_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2130,7 +2130,7 @@ $[description]]]></text>
 <Style id="Sonstige_Sakralbauwerk-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2189,7 +2189,7 @@ $[description]]]></text>
 <Style id="Sonstige_Sakralbauwerk_Karte-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2250,7 +2250,7 @@ $[description]]]></text>
 <Style id="Sonstige_Ruine-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2317,7 +2317,7 @@ $[description]]]></text>
 <Style id="Metropole_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2383,7 +2383,7 @@ $[description]]]></text>
 <Style id="Grossstadt_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2445,7 +2445,7 @@ $[description]]]></text>
 <Style id="Stadt_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2506,7 +2506,7 @@ $[description]]]></text>
 <Style id="Kleinstadt_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2567,7 +2567,7 @@ $[description]]]></text>
 <Style id="Dorf_Rakshazar-n">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2638,7 +2638,7 @@ $[description]]]></text>
 <Style id="Metropole_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2702,7 +2702,7 @@ $[description]]]></text>
 <Style id="Metropole-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2764,7 +2764,7 @@ $[description]]]></text>
 <Style id="Grossstadt_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2826,7 +2826,7 @@ $[description]]]></text>
 <Style id="Grossstadt-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2887,7 +2887,7 @@ $[description]]]></text>
 <Style id="Stadt_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -2948,7 +2948,7 @@ $[description]]]></text>
 <Style id="Stadt-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3009,7 +3009,7 @@ $[description]]]></text>
 <Style id="Kleinstadt_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3070,7 +3070,7 @@ $[description]]]></text>
 <Style id="Kleinstadt-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3131,7 +3131,7 @@ $[description]]]></text>
 <Style id="Dorf_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3194,7 +3194,7 @@ $[description]]]></text>
 <Style id="Dorf-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3255,7 +3255,7 @@ $[description]]]></text>
 <Style id="Festung-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3316,7 +3316,7 @@ $[description]]]></text>
 <Style id="Festung_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3376,7 +3376,7 @@ $[description]]]></text>
 <Style id="Sonstige_Gaststaette-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3435,7 +3435,7 @@ $[description]]]></text>
 <Style id="Sonstige_Gaststaette_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3498,7 +3498,7 @@ $[description]]]></text>
 <Style id="Sonstige_Privathaus-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3557,7 +3557,7 @@ $[description]]]></text>
 <Style id="Sonstige_Privathaus_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3617,7 +3617,7 @@ $[description]]]></text>
 <Style id="Sonstige_Werkstaette-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3676,7 +3676,7 @@ $[description]]]></text>
 <Style id="Sonstige_Werkstaette_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3737,7 +3737,7 @@ $[description]]]></text>
 <Style id="Sonstige_Handelsstaette-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3796,7 +3796,7 @@ $[description]]]></text>
 <Style id="Sonstige_Handelsstaette_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3858,7 +3858,7 @@ $[description]]]></text>
 <Style id="Sonstige_Oeffentliches_Bauwerk-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3917,7 +3917,7 @@ $[description]]]></text>
 <Style id="Sonstige_Oeffentliches_Bauwerk_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -3977,7 +3977,7 @@ $[description]]]></text>
 <Style id="Sonstige_Sakralbauwerk-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4036,7 +4036,7 @@ $[description]]]></text>
 <Style id="Sonstige_Sakralbauwerk_Karte-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4096,7 +4096,7 @@ $[description]]]></text>
 <Style id="Sonstige_Ruine-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4161,7 +4161,7 @@ $[description]]]></text>
 <Style id="Siedlung_keinWiki-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4235,7 +4235,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <Style id="Metropole_Rakshazar-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4301,7 +4301,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <Style id="Grossstadt_Rakshazar-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4363,7 +4363,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <Style id="Stadt_Rakshazar-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4424,7 +4424,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <Style id="Kleinstadt_Rakshazar-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 
@@ -4485,7 +4485,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <Style id="Dorf_Rakshazar-n-X">
 		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
 		<LabelStyle>
-			<scale>0</scale>
+			<scale>1.0</scale>
 			<color>00ffffff</color>
 		</LabelStyle>
 

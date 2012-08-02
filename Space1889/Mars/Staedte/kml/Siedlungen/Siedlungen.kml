@@ -148,7 +148,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Saaroaar</name>
+		<name>Saardaar</name>
 		<LookAt>
 			
 
@@ -226,7 +226,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Tihoth</name>
+		<name>Thoth</name>
 		<LookAt>
 			
 
@@ -992,7 +992,7 @@ Für Erdbewohner ist der Raumhafen von Syrtis Major oft der erste Begegnungspunk
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Kinsbergen</name>
+		<name>Oleon Minor</name>
 		<LookAt>
 			
 
@@ -1024,11 +1024,13 @@ Für Erdbewohner ist der Raumhafen von Syrtis Major oft der erste Begegnungspunk
 		</LookAt>
 		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/style/Siedlungen.kml#Stadt</styleUrl>
 		<Point>
-			<coordinates>100.9048292716767,-37.3658699105926,0</coordinates>
+			<coordinates>89.20834665473484,-40.63133810665234,0</coordinates>
 		</Point>
 	</Placemark>
+	
+	
 	<Placemark>
-		<name>Galen</name>
+		<name>Niront</name>
 		<LookAt>
 			
 
@@ -1081,7 +1083,7 @@ Für Erdbewohner ist der Raumhafen von Syrtis Major oft der erste Begegnungspunk
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Lyno</name>
+		<name>Köln</name>
 		<LookAt>
 			
 
@@ -2059,7 +2061,7 @@ Quelle: Conklins S. 75]]></description>
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Solis Lagus</name>
+		<name>Solis Lacus</name>
 		<LookAt>
 			<longitude>-165.70125286961</longitude>
 			<latitude>-16.79741653477373</latitude>
@@ -2146,7 +2148,7 @@ Quelle: Conklins S. 75]]></description>
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Bactis</name>
+		<name>Baetis</name>
 		<LookAt>
 			<longitude>-142.0343690878074</longitude>
 			<latitude>-4.631567477454201</latitude>
@@ -2214,7 +2216,7 @@ Quelle: Conklins S. 75]]></description>
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Candoor</name>
+		<name>Candor</name>
 		<LookAt>
 			<longitude>-165.6592395217771</longitude>
 			<latitude>6.517054701706214</latitude>
@@ -2384,7 +2386,7 @@ Quelle: Conklins S. 75]]></description>
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>New Amsterdam</name>
+		<name>Neu Amsterdam</name>
 		<LookAt>
 			<longitude>-167.6074446654351</longitude>
 			<latitude>9.372253270041833</latitude>
@@ -2740,39 +2742,7 @@ Quelle: Conklins S. 75]]></description>
 			<coordinates>115.4709657096839,-30.99721473152111,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark>
-		<name>Nyront</name>
-		<LookAt>
-			<longitude>97.14120807642266</longitude>
-			<latitude>-19.41726569966834</latitude>
-			<altitude>0</altitude>
-			<heading>-4.896763623943488</heading>
-			<tilt>8.49595368222287</tilt>
-			<range>2199169.475822954</range>
-			<altitudeMode>relativeToGround</altitudeMode>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-		</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/style/Siedlungen.kml#Stadt</styleUrl>
-		<Point>
-			<coordinates>93.4281774434827,-26.93790001005617,0</coordinates>
-		</Point>
-	</Placemark>
-	<Placemark>
-		<name>Oleon Minor</name>
-		<LookAt>
-			<longitude>86.64447989966384</longitude>
-			<latitude>-19.57621691495477</latitude>
-			<altitude>0</altitude>
-			<heading>-0.8551597628283577</heading>
-			<tilt>9.566226676913384</tilt>
-			<range>2218363.34658093</range>
-			<altitudeMode>relativeToGround</altitudeMode>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-		</LookAt>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/style/Siedlungen.kml#Stadt</styleUrl>
-		<Point>
-			<coordinates>86.81089249887575,-33.80997935604735,0</coordinates>
-		</Point>
-	</Placemark>
+
+
 </Document>
 </kml>

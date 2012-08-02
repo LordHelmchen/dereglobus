@@ -2,28 +2,44 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Kanaele.kml</name>
+
 	<Folder>
 		<name>Kanäle</name>
 		<open>1</open>
 		<Folder>
 			<name>wasserführend</name>
+			
+	<Placemark>
+		<name>Kanal</name>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				57.55971412773379,-25.53729414011928,0 67.20192864402456,-15.03691868435092,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+
+	
+	<Placemark>
+		<name>Kanal</name>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-10.04549353862483,-17.31552999310443,0 -19.51246721533515,-23.34557349456135,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+
+			
 			<Placemark>
 				<name>Kanal</name>
 				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						86.76476356917557,-33.72290638291864,0 72.39906035435607,-31.12889851064211,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						67.14604150457903,-15.02000124935018,0 93.40627883412776,-26.83129214824775,0 
+						-153.7197967598316,23.64937115231744,0 -147.0763337237136,21.55393899798224,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -2063,27 +2079,7 @@
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						114.4610726086456,-52.35845461700076,0 107.1227135459561,-46.02161501778742,0 104.0597716468959,-42.00245283998083,0 100.9000625303517,-37.2828420743276,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						100.8911744930806,-37.29220328663205,0 99.45049035333693,-34.26236093090234,0 97.17434342961202,-30.54967160525101,0 95.13430754147655,-28.30287783153676,0 93.38286230900494,-26.85584439462035,0 
-					</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Kanal</name>
-				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>
-						93.44831226889383,-26.89077051811935,0 97.64150643207317,-26.51945151966082,0 103.7647503976683,-25.70661379627216,0 109.6062067028838,-25.16055485611166,0 
+						114.4610726086456,-52.35845461700076,0 89.18612877715005,-40.48945785266328,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -2143,7 +2139,7 @@
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						99.5395585934797,-15.10216781807981,0 97.02386628766705,-19.28802167260676,0 95.18458935076986,-23.08791386463567,0 93.35464017665568,-26.88497211950535,0 
+						72.4956132503246,-31.07245779980635,0 99.55603274760073,-15.10844047510686,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -2153,7 +2149,17 @@
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
-						93.44173483554761,-26.84153782118446,0 86.7926911815929,-33.73883557133799,0 
+						72.30952828239769,-31.18708682354606,0 109.5880301958895,-25.15888314717386,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Kanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanal</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						72.49150394860911,-31.11113566684359,0 89.17503798229315,-40.41847455575123,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -2907,6 +2913,46 @@
 					<tessellate>1</tessellate>
 					<coordinates>
 						-31.36335224618211,-5.667855097314265,0 -32.44681399930468,-2.936370638389122,0 -33.80788675486954,0.1455428798138395,0 -34.72864264909403,2.196864583160655,0 -36.66701905396414,5.462869368863351,0 -38.6873651823726,8.159503427825738,0 -42.08311894494702,12.59165405881205,0 -45.17210936918701,16.08513473052219,0 -51.41232662529895,22.48640268439064,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Kanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-115.0548302755904,-55.27177897134515,0 -94.023670718345,-59.70308753353249,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Kanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-78.43962403194423,-9.433967127826353,0 -94.49081735341497,-22.19430326869752,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Kanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-96.07169565845193,-4.965364368665741,0 -108.109822589111,-3.6265853270794,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Kanal</name>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Landschaft/style/kanaele.kml#kanalohne</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						160.2615669386514,-34.82477319830796,0 167.6118268566687,-35.84178353703814,0 
 					</coordinates>
 				</LineString>
 			</Placemark>

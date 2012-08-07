@@ -1,34 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
-<Folder>
-	<name>Menue</name>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name id="Menue">Menü</name>
 	<open>1</open>
-	<Folder>
+	<LookAt>
+		<longitude>5.00345741084906</longitude>
+		<latitude>28.23149698551686</latitude>
+		<altitude>0</altitude>
+		<heading>-2.95394016040924e-013</heading>
+		<tilt>0</tilt>
+		<range>4563880.165594862</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Style id="menue">
+		<BalloonStyle>
+			<text><![CDATA[<font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>]]></text>
+			<bgColor>ff1c1a1a</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<ScreenOverlay id="Willkommen">
 		<name>Willkommen</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+<h3>Herzlich willkommen beim Space: 1889 Planeten-Projekt!</h3>
+
+<p>Space: 1889 ist ein Steampunk-Rollenspiel welches in einer fiktionalen viktorianischen Ära der Erde spielt. Mit Hilfe von dampfgetriebenen Raumschiffen durchflogen irdische Entdecker den Äther und besiedelten den Mars, die Venus und den Merkur. Schau Dir die <a href="http://space1889.dereglobus.org/links">weiterführenden Links</a> an, um mehr über Space: 1889 zu erfahren.</p>
+
+<p>Unser Fanprojekt möchte, unter der Schirmherrschaft von <a href="http://www.dereglobus.org">DereGlobus</a>, die besiedelten Planeten als interaktive Atlanten in Google Earth darstellen. Mit der Space: 1889 Erweiterung, welche Du gerade verwendest, kannst Du die Planeten erkunden. Aus dem Weltalt zeigt sich der Mars in einer Gestalt, wie sie einst Eddison als erster zu Gesicht bekam. Doch wenn Du näher heran zoomst, kannst Du viele detaillierte Einzelheiten erkennen: Die Kanäle, Städte, Rohstoffe, Reiche und vieles mehr!</p>
+
+<p><b>Lese weiter: <a href="http://space1889.dereglobus.org/funktionen">Die Funktionen </a></b></p>
+<p>Viel Spaß wüscht Dir<br />
+Dein Planetenprojekt-Team</p>]]></description>
+		<styleUrl>#menue</styleUrl>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/DereGlobus_Icon.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="8" xunits="pixels" yunits="pixels"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	<Folder>
+		<name id="Neuigkeiten">Neuigkeiten</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center" width="470" height="390">
+<tr>
+<td>
+<span style="color:#cccccc">Hier erfährst Du brandneue Neuigkeiten rund um DereGlobus: Blog-Artikel, Updates und Einträge im Entwicklertagebuch. Um den Ticker anzuhalten, einfach mit der Maus drüberfahren und in Ruhe lesen - und bei interessanten Themen auf die weiterführende Links klicken. Du kannst die News auch <a href="http://www.dereglobus.org/neuigkeiten">abonnieren</a>.<br><br>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 30,
+  interval: 6000,
+  title: 'Tweets von Weltenbauern:',
+  subject: 'DereGlobus Twitter',
+  width: 'auto',
+  height: 200,
+  theme: {
+    shell: {
+      background: '#1c1c1c',
+      color: '#366598'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#cccccc',
+      links: '#d5aa00'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'default'
+  }
+}).render().setUser('DereGlobus').start();
+</script>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
-		<name>Neuigkeiten</name>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/dokumentation/faq&quot;&gt;FAQ&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
-		<name>Release Notes</name>
-	</Folder>
-	<Folder>
-		<name>FAQ</name>
+		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/posting.php?mode=reply&amp;f=4&amp;t=238&quot;&gt;Hilfe?&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
 		<name>Feedback</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+<p><span class="style4">Hallo lieber DereGlobus-Nutzer!</span><br />
+<br />
+Obwohl wir die Beta-Phase hinter uns gelassen haben, heißt das nicht, dass in DereGlobus keine Fehler mehr vorhanden sind, geschweige denn das es "fertig" ist. Nein, solange Publikationen zu DSA erscheinen, wird auch DereGlobus weiter wachsen und ausgebaut werden. Wie sagt man so schön: Das Abenteuer hört niemals auf!<br />
+<br />
+Wir möchten uns herzlich bei allen Nutzern für das bisherige Feedback bedanken, dass es unter anderem ermöglicht hat eine <a href="#FAQs;balloon">FAQ-Liste</a> zu erstellen, welche wir jedem sehr ans Herz legen möchten. Natürlich sind wir sehr bemüht Fehler in DereGlobus zu vermeiden und ordentlich zu recherchieren und zu lektorieren - doch ab und an schleicht sich immer mal wieder ein kleiner Bug ein. Auch Weltenbauer sind nur Menschen! <br />
+<br />
+Damit auch zukünftige Versionen möglichst fehlerfrei sind, brauchen wir weiterhin <em>Deine</em> tatkräftige Mithilfe als Tester! Bitte melde uns wenn Du <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&amp;t=316&amp;start=0" title="Thread für inhaltliche Fehler">inhaltliche</a> oder <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&amp;t=417&amp;start=0" title="Thread für technische Fehler">technische Fehler</a> findest in den entsprechenden Threads. Auch über <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&t=289&p=9040#p9040" title="Thread für allgemeines Feedback">allgemeines Feedback</a> freuen wir uns sehr, egal ob Du <em>Fragen, Kritik, Lob <em>oder</em> Verbesserungsvorschläge</em> loswerden möchtest!</p>
+
+<p>Deine Meinung ist uns wichtig! Egal ob <em>Wünsche, Ideen, Vorschläge</em> - Dein Beitrag hilft uns DereGlobus zu verbessern. Damit du uns noch einfacher - auch ohne Anmeldung - Feedback geben kannst, haben wir ein spezielles UserVoice Feedback-Forum eingerichtet. Entscheide mit, in welche Richtung sich das Projekt entwickeln soll und vergebe jetzt deine <a href="http://dereglobus.uservoice.com">10 Stimmen</a>! Klicke auf den Feedback-Button und los geht's:</p>
+<p><br></p>
+<p><center><a href="http://dereglobus.uservoice.com/" rel="alternate" title="Zum Feedback-Forum"><img alt="Feedback" style="border: 0pt none;" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Feedback-gelb.jpg" /></a></p>
+
+<p>Vielen Dank für Deine Mithilfe!<br />
+  Dein DereGlobus-Team</p></center>]]></description>
+		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
-		<name>Team</name>
+		<name>&lt;a href=&quot;http://space1889.dereglobus.org/team&quot;&gt;Team&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
 	</Folder>
+	<ScreenOverlay id="MachMit">
+		<name>&lt;a href=&quot;http://space1889.dereglobus.org/mach-mit&quot;&gt;Mach mit!&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+		<Icon>
+			<href>http://dereglobus.orkenspalter.de/public/Medien/Menue/media/Fan-Projekt-Logo.png</href>
+		</Icon>
+		<overlayXY x="0.5" y="62" xunits="fraction" yunits="pixels"/>
+		<screenXY x="0.5" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
 	<Folder>
-		<name>Mach mit</name>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/lizenz&quot;&gt;Lizenz&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
 	</Folder>
-	<Folder>
-		<name>Lizenz</name>
-	</Folder>
-	<Folder>
+	<ScreenOverlay id="Impressum">
 		<name>Impressum</name>
-	</Folder>
-</Folder>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+<p>Inhalte zum Rollenspiel Space: 1889 mit freundlicher Genehmigung und Unterstützung des <a href="http://www.uhrwerk-verlag.de">Uhrwerk-Verlags</a>.
+Das Space: 1889 Planeten-Projekt ist ein Fanprojekt. Die Erweiterung für Google Earth enthällt inoffizielle Informationen zu Space: 1889.</p>
+<p><img src="http://space1889.dereglobus.org/_/rsrc/1314818353300/home/Uhrwerk-Verlag_250px.png" alt="Uhrwerk-Verlag"  /></p>
+</p>]]></description>
+		<styleUrl>#menue</styleUrl>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Inhalte-Uhrwerk.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="pixels" yunits="pixels"/>
+		<screenXY x="0.5" y="4" xunits="pixels" yunits="pixels"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+</Document>
 </kml>

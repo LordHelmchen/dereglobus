@@ -53,53 +53,7 @@ Dein Planetenprojekt-Team</p>]]></description>
 		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/>
 	</ScreenOverlay>
 	<Folder>
-		<name id="Neuigkeiten">Neuigkeiten</name>
-		<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #d5ac00; }
-a:hover { text-decoration: underline; color: #d5ac00; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#footnote { font-size:10px; }
---></style>
-<table cellpadding="10" cellspacing="0" align="center" width="470" height="390">
-<tr>
-<td>
-<span style="color:#cccccc">Hier erfährst Du brandneue Neuigkeiten rund um DereGlobus: Blog-Artikel, Updates und Einträge im Entwicklertagebuch. Um den Ticker anzuhalten, einfach mit der Maus drüberfahren und in Ruhe lesen - und bei interessanten Themen auf die weiterführende Links klicken. Du kannst die News auch <a href="http://www.dereglobus.org/neuigkeiten">abonnieren</a>.<br><br>
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'profile',
-  rpp: 30,
-  interval: 6000,
-  title: 'Tweets von Weltenbauern:',
-  subject: 'DereGlobus Twitter',
-  width: 'auto',
-  height: 200,
-  theme: {
-    shell: {
-      background: '#1c1c1c',
-      color: '#366598'
-    },
-    tweets: {
-      background: '#000000',
-      color: '#cccccc',
-      links: '#d5aa00'
-    }
-  },
-  features: {
-    scrollbar: false,
-    loop: true,
-    live: true,
-    hashtags: true,
-    timestamp: true,
-    avatars: false,
-    behavior: 'default'
-  }
-}).render().setUser('DereGlobus').start();
-</script>
-</td>
-</tr>
-</table>]]></description>
+		<name>&lt;a href=&quot;http://space1889.dereglobus.org/neuigkeiten&quot;&gt;Neuigkeiten&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
@@ -107,49 +61,21 @@ new TWTR.Widget({
 		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
-		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/posting.php?mode=reply&amp;f=4&amp;t=238&quot;&gt;Hilfe?&lt;/a&gt;</name>
+		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/viewtopic.php?f=79&amp;t=1932&quot;&gt;Hilfe?&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<Folder>
-		<name>Feedback</name>
-		<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #d5ac00; }
-a:hover { text-decoration: underline; color: #d5ac00; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#footnote { font-size:10px; }
-.style4 {font-size: x-large}
---></style>
-<p><span class="style4">Hallo lieber DereGlobus-Nutzer!</span><br />
-<br />
-Obwohl wir die Beta-Phase hinter uns gelassen haben, heißt das nicht, dass in DereGlobus keine Fehler mehr vorhanden sind, geschweige denn das es "fertig" ist. Nein, solange Publikationen zu DSA erscheinen, wird auch DereGlobus weiter wachsen und ausgebaut werden. Wie sagt man so schön: Das Abenteuer hört niemals auf!<br />
-<br />
-Wir möchten uns herzlich bei allen Nutzern für das bisherige Feedback bedanken, dass es unter anderem ermöglicht hat eine <a href="#FAQs;balloon">FAQ-Liste</a> zu erstellen, welche wir jedem sehr ans Herz legen möchten. Natürlich sind wir sehr bemüht Fehler in DereGlobus zu vermeiden und ordentlich zu recherchieren und zu lektorieren - doch ab und an schleicht sich immer mal wieder ein kleiner Bug ein. Auch Weltenbauer sind nur Menschen! <br />
-<br />
-Damit auch zukünftige Versionen möglichst fehlerfrei sind, brauchen wir weiterhin <em>Deine</em> tatkräftige Mithilfe als Tester! Bitte melde uns wenn Du <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&amp;t=316&amp;start=0" title="Thread für inhaltliche Fehler">inhaltliche</a> oder <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&amp;t=417&amp;start=0" title="Thread für technische Fehler">technische Fehler</a> findest in den entsprechenden Threads. Auch über <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&t=289&p=9040#p9040" title="Thread für allgemeines Feedback">allgemeines Feedback</a> freuen wir uns sehr, egal ob Du <em>Fragen, Kritik, Lob <em>oder</em> Verbesserungsvorschläge</em> loswerden möchtest!</p>
-
-<p>Deine Meinung ist uns wichtig! Egal ob <em>Wünsche, Ideen, Vorschläge</em> - Dein Beitrag hilft uns DereGlobus zu verbessern. Damit du uns noch einfacher - auch ohne Anmeldung - Feedback geben kannst, haben wir ein spezielles UserVoice Feedback-Forum eingerichtet. Entscheide mit, in welche Richtung sich das Projekt entwickeln soll und vergebe jetzt deine <a href="http://dereglobus.uservoice.com">10 Stimmen</a>! Klicke auf den Feedback-Button und los geht's:</p>
-<p><br></p>
-<p><center><a href="http://dereglobus.uservoice.com/" rel="alternate" title="Zum Feedback-Forum"><img alt="Feedback" style="border: 0pt none;" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Feedback-gelb.jpg" /></a></p>
-
-<p>Vielen Dank für Deine Mithilfe!<br />
-  Dein DereGlobus-Team</p></center>]]></description>
+		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/viewtopic.php?f=79&amp;t=1929&quot;&gt;Feedback&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
-	</Folder>
+	</Folder>	
 	<Folder>
 		<name>&lt;a href=&quot;http://space1889.dereglobus.org/team&quot;&gt;Team&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
 	</Folder>
-	<ScreenOverlay id="MachMit">
+	<Folder>
 		<name>&lt;a href=&quot;http://space1889.dereglobus.org/mach-mit&quot;&gt;Mach mit!&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>
-		<Icon>
-			<href>http://dereglobus.orkenspalter.de/public/Medien/Menue/media/Fan-Projekt-Logo.png</href>
-		</Icon>
-		<overlayXY x="0.5" y="62" xunits="fraction" yunits="pixels"/>
-		<screenXY x="0.5" y="1" xunits="fraction" yunits="fraction"/>
-		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
-	</ScreenOverlay>
+	</Folder>
 	<Folder>
 		<name>&lt;a href=&quot;http://www.dereglobus.org/lizenz&quot;&gt;Lizenz&lt;/a&gt;</name>
 		<styleUrl>#menue</styleUrl>

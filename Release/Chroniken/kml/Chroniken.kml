@@ -3,7 +3,15 @@
 <Document>
 	<name>Chroniken</name>
 	<open>0</open>
-
+	
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Kriege und Schlachten</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Chroniken/kml/Kriege_und_Schlachten.kml</href>
+		</Link>
+	</NetworkLink>
+	
 	<visibility>0</visibility>
 		<NetworkLink>
 		<visibility>0</visibility>

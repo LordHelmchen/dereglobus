@@ -352,7 +352,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-<b>Bakrachal</b> ist eine kleine Ortschaft im <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">aranischen</a> <a href="http://www.wiki-aventurica.de/wiki/Emirat_Aimaristan&amp;action=edit&amp;redlink=1" class="new" title="Emirat Aimaristan (Seite nicht vorhanden)">Emirat Aimaristan</a>.
+<b>Bakrachal</b> ist eine kleine Ortschaft im <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">aranischen</a> <a href="http://www.wiki-aventurica.de/wiki/Emirat_Aimaristan" title="Emirat Aimaristan">Emirat Aimaristan</a>.
 
 
 <!-- END EDIT -->
@@ -720,8 +720,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-<b>Gadar</b> liegt am Ufer des <a href="http://www.wiki-aventurica.de/wiki/Gadang" title="Gadang">Gadang</a> und ist der südlichste Ort des <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Gorien" title="Sultanat Gorien">Sultanats Gorien</a>.
-
+Das <a href="http://www.wiki-aventurica.de/wiki/Gorien" title="Gorien">gorische</a> <b>Gadar</b> liegt am Ufer des <a href="http://www.wiki-aventurica.de/wiki/Gadang" title="Gadang">Gadang</a>.
 
 
 <!-- END EDIT -->
@@ -1663,7 +1662,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-<b>Smijad</b> ist eine westlich der <a href="http://www.wiki-aventurica.de/wiki/Djerim_Yaleth&amp;action=edit&amp;redlink=1" class="new" title="Djerim Yaleth (Seite nicht vorhanden)">Djerim Yaleth</a> gelegene Siedlung im <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Elburum" title="Sultanat Elburum">Sultanat Elburum</a>.
+<b>Smijad</b> ist eine westlich der <a href="http://www.wiki-aventurica.de/wiki/Djerim_Yaleth" title="Djerim Yaleth">Djerim Yaleth</a> gelegene Siedlung im <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Elburum" title="Sultanat Elburum">Sultanat Elburum</a>.
 
 
 <!-- END EDIT -->
@@ -2369,72 +2368,6 @@ verfügbar, dort kann man den
              <coordinates> 5.266039, 27.154960,0</coordinates>
         </Point>
     </Placemark>
-				<Placemark>
-        <name>Yerkesh</name>
-		<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-            <description>
-<![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #B21C19; }
-a:hover { text-decoration: underline; color: #B21C19; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<table cellpadding="10" cellspacing="0" align="center">
-<tr>
-<td>
-<p>
-
-<!-- EDIT: LINK DES WAPPENS -->
-
-<!-- END EDIT -->
-
-<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-<b>Yerkesh</b> ist eine <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">aranische</a> Siedlung am <a href="http://www.wiki-aventurica.de/wiki/Barun-Ulah" title="Barun-Ulah">Barun-Ulah</a>.
-
-
-<!-- END EDIT -->
-
-</p>
-<!-- FlyToLink BEGIN-->
-
-<!--FlyToLink END -->
-<hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-<p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
-
-aus der freien Website
-<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
-
-und steht unter der
-<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
-
-Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
-
-verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
-</td>
-</tr>
-</table>]]></description>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <LookAt> 
-              <longitude> 6.330739</longitude>
-              <latitude> 26.903599</latitude>
-              <altitude>0</altitude>
-              <range>200000</range>
-              <tilt>0</tilt>
-              <heading>0</heading>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <Point>
-             <coordinates> 6.330739, 26.903599,0</coordinates>
-        </Point>
-    </Placemark>
 	    <Placemark>
         <name>Durân</name>
 <ExtendedData>
@@ -2597,6 +2530,67 @@ verfügbar, dort kann man den
         </Camera>
         <Point>
              <coordinates> 7.56703431439569, 25.8453502935228,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Eschabad</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das Dorf <b>Eschabad</b> liegt im <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Elburum" title="Sultanat Elburum">Sultanat Elburum</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <Camera> 
+              <longitude> 8.69883028417321</longitude>
+              <latitude> 27.2552557636072</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 8.69883028417321, 27.2552557636072,0</coordinates>
         </Point>
     </Placemark>
 			</Folder>

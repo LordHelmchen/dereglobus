@@ -44,8 +44,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <!-- END EDIT -->
 
 <!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-Östlich von <a href="/wiki/Havena" title="Havena">Havena</a> liegt die <b>Moorburg</b>, die Kerkerfestung in der <a href="/wiki/Muhrsape" title="Muhrsape">Muhrsape</a>. Die meist zum <a href="/index.php?title=Torf&amp;action=edit&amp;redlink=1" class="new" title="Torf (Seite nicht vorhanden)">Torfstechen</a> verurteilten Gefangenen überleben selten lange.
-
+Östlich von <a href="http://www.wiki-aventurica.de/wiki/Havena" title="Havena">Havena</a> liegt die <b>Moorburg</b>, die Kerkerfestung in der <a href="http://www.wiki-aventurica.de/wiki/Muhrsape" title="Muhrsape">Muhrsape</a>. Die meist zum <a href="http://www.wiki-aventurica.de/wiki/Torf" title="Torf">Torfstechen</a> verurteilten Gefangenen überleben selten lange.
 
 
 <!-- END EDIT -->
@@ -444,25 +443,7 @@ verfügbar, dort kann man den
              <coordinates>-3.424140, 29.027791,0</coordinates>
         </Point>
     </Placemark>
-    <Placemark>
-        <name>Yassias Hütte</name>
-		<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD><TR><TD><i>Herrschaft:</i> Yassia<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Fürstentum Albernia - Abenteuer in Albernia, S. 21<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
-        <Camera> 
-              <longitude>-3.244356</longitude>
-              <latitude> 28.841478</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.244356, 28.841478,0</coordinates>
-        </Point>
-    </Placemark>
+
     <Placemark>
         <name>Gutshof Madalieb</name>
 		<ExtendedData>
@@ -637,6 +618,151 @@ verfügbar, dort kann man den
         </Camera>
         <Point>
              <coordinates>-3.36150057847529, 28.821116638479,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Kriegshafen Albernias</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Der Schwertkönig, S. 53<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Festung-X</styleUrl>
+        <Camera> 
+              <longitude>-3.46929079250095</longitude>
+              <latitude> 28.9367770738446</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-3.46929079250095, 28.9367770738446,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Heberge "Rabenhorst"</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  10<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 98<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Gaststaette-X</styleUrl>
+        <Camera> 
+              <longitude>-2.30116041839913</longitude>
+              <latitude> 28.1761252093578</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-2.30116041839913, 28.1761252093578,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Yassias Hütte</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I>Zeitraum:</I>um <a href="http://www.wiki-aventurica.de/index.php?title=Chronik:880" title="Chronik:880"> 880</a> BF bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD><TR><TD><i>Herrschaft:</i> Yassia<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Fürstentum Albernia - Abenteuer in Albernia, S. 21<TR><TD>Am Großen Fluß, S. 176<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
+        <Camera> 
+              <longitude>-3.23574532877869</longitude>
+              <latitude> 28.8318757487456</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when> 880</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin> 880</begin>
+        </TimeSpan>
+        <Point>
+             <coordinates>-3.23574532877869, 28.8318757487456,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Caergyl</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I>Zeitraum:</I> bis Heute 829 </TD><TR><TD><i>Einwohner:</i>  ?<TR><TD><TR><TD><i>Herrschaft:</i> <TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Fürstentum Albernia - Abenteuer in Albernia, S. 21<TR><TD>Am Großen Fluß, S. 176<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <Camera> 
+              <longitude>-3.23574532877869</longitude>
+              <latitude> 28.8318757487456</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when> 829</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin> 829</begin>
+        </TimeSpan>
+        <Point>
+             <coordinates>-3.23574532877869, 28.8318757487456,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Schindocher Anger</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD>Boronanger von einem Geweihten bewacht<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 56<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk-X</styleUrl>
+        <Camera> 
+              <longitude>-1.63047022457217</longitude>
+              <latitude> 29.1976854978087</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-1.63047022457217, 29.1976854978087,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Toras' Turm</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD>Magierturm<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Toras von Havena, S. 312<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
+        <Camera> 
+              <longitude>-2.63950639475679</longitude>
+              <latitude> 28.9825032924775</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-2.63950639475679, 28.9825032924775,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Gwenlian-Hof</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  0<TR><TD><TR><TD><i>Herrschaft:</i> Jendar Gwenlian<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Feenstaub und Fabelwesen, S. 69<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <Camera> 
+              <longitude>-1.06157742832564</longitude>
+              <latitude> 30.4532564345575</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-1.06157742832564, 30.4532564345575,0</coordinates>
         </Point>
     </Placemark>
 	</Folder>

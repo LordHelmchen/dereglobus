@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
-	<name><a href="http://www.wiki-aventurica.de/wiki/Aventurische Kriege" title="Zwerg">Kriege</a> und Schlachten</name>
+	<name>Kriege und Schlachten</name>
 		
 			<Placemark>
 				<name>Schlacht des Himmelsfeuers</name>
@@ -229,7 +229,7 @@
 		<name>Erster Orkensturm</name>
 			<ExtendedData>
 <Data name="Link">
- <value>Erster Orkensturm</value>
+ <value>$[name]</value>
 </Data>
 </ExtendedData> 
         <description><![CDATA[<style type="text/css"><!--

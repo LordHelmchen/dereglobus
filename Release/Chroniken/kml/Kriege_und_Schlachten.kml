@@ -174,7 +174,6 @@
 					<Data name="Link"><value>Schlacht von Tarlynshöh</value></Data>
 				</ExtendedData>
 				<Snippet maxLines="0"></Snippet>
-				<description>330 v. BF HES 19 	Schlacht von Tarlynshöh 	Die Schlacht von Tarlynshöh beendet den Krieg der Tränen zwischen Nostria und Andergast. In diesem militärischen Debakel vernichten sich beide Heere gegenseitig. Als Folge wird die Region ein leichtes Opfer der Orks. 	UdW S. 136, 154</description>
 				<description><![CDATA[<style type="text/css"><!--
 					a:link, a:visited { text-decoration: none; color: #B21C19; }
 					a:hover { text-decoration: underline; color: #B21C19; }
@@ -230,7 +229,7 @@
 		<name>Erster Orkensturm</name>
 			<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Erster Orkensturm</value>
 </Data>
 </ExtendedData> 
         <description><![CDATA[<style type="text/css"><!--

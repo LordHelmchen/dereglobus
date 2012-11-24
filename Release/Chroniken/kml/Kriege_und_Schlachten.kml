@@ -228,9 +228,11 @@
 		<NetworkLink>
 		<visibility>1</visibility>
 		<name>Erster Orkensturm</name>
-				<ExtendedData>
-					<Data name="Link"><value>Erster Orkensturm</value></Data>
-				</ExtendedData>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
         <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -821,9 +823,11 @@ Der <b>Erste Orkensturm</b> fand während der <a href="http://www.wiki-aventuric
 		<NetworkLink>
 		<visibility>1</visibility>
 		<name>Vierter Orkensturm</name>
-				<ExtendedData>
-					<Data name="Link"><value>Vierter Orkensturm</value></Data>
-				</ExtendedData>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
         <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -858,9 +862,11 @@ Im <b>Vierten Orkensturm</b> fiel der <a href="http://www.wiki-aventurica.de/wik
 		<NetworkLink>
 		<visibility>1</visibility>
 		<name>35 Tage Krieg</name>
-				<ExtendedData>
-					<Data name="Link"><value>35 Tage Krieg</value></Data>
-				</ExtendedData>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
         <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }

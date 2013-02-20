@@ -44,6 +44,45 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		</LatLonBox>
 	</GroundOverlay>
 	<GroundOverlay>
+		<name>Gareth Trümmer</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Herz_des_Reiches" title="Herz des Reiches">Herz des Reiches</a>]]></description>
+		<Region>
+			<LatLonAltBox>
+				<north>29.79109682564791</north>
+				<south>29.7376478876813</south>
+				<east>3.771103821229264</east>
+				<west>3.677434975906076</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>50</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>128</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+		<TimeSpan>
+			<begin>29-10-1027</begin>
+		</TimeSpan>		
+		<drawOrder>21</drawOrder>
+		<Icon>
+			<href>https://www.wuala.com/DereGlobus/Teamserver/Kartenzimmer/Stadtkarten/Gareth/Gareth_RdH_Trümmer_farbe.jpg/?key=OM7nYrQJtsSM</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				3.684499084973163,29.74286135928196,0 3.723587109806041,29.7429836039484,0 3.723560586697592,29.79121972273775,0 3.684529058031099,29.79117528800877,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>	
+	<GroundOverlay>
 		<name>Gareth Umgebung01</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }

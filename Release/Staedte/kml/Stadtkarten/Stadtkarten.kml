@@ -337,6 +337,42 @@
       </LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Andrafall-Plan">
+	<name>Andrafall</name>
+    <Region>
+          <LatLonAltBox>
+		<north>32.26441456259924</north>
+		<south>32.26067901253695</south>
+		<east>-1.04854072070395</east>
+		<west>-1.054293472834478</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>	
+	<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/index.php?title=Die_Zuflucht" title="Die Zuflucht">E5</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Andrafall_E5_sw_174.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.26441456259924</north>
+		<south>32.26067901253695</south>
+		<east>-1.04854072070395</east>
+		<west>-1.054293472834478</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Angbar-Plan">
 	<name>Angbar</name>
     <Region>

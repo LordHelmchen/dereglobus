@@ -1763,6 +1763,46 @@
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Eichhafen-Plan">
+	<name>Eichhafen (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>32.23525975869647</north>
+		<south>32.23230316057978</south>
+		<east>-1.475181854177276</east>
+		<west>-1.47941406031954</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #814F21; }
+	a:hover { text-decoration: underline; color: #814F21; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+		Zeichnung: Tim Julius Schweizer
+		<br/>
+		<p>Vielen Dank an Tim Julius Schweizer der uns diese Karte zur Verfügung gestellt hat. Eine Spielleiterversion mit Legende ist in unserem <a href="http://www.dereglobus.org/download/bonusmaterial#TOC-Eichhafen" title="Bonusmaterial">Bonusmaterial</a> zu finden.
+	</div>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Eichhafen_farbe_268.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.23525975869647</north>
+		<south>32.23230316057978</south>
+		<east>-1.475181854177276</east>
+		<west>-1.47941406031954</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Elburum-Plan">
       <name>Elburum</name>
             <Region>

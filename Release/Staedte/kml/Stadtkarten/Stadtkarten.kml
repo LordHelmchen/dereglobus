@@ -1787,7 +1787,7 @@
 	--></style>
 		Zeichnung: Tim Julius Schweizer
 		<br/>
-		<p>Vielen Dank an Tim Julius Schweizer der uns diese Karte zur Verfügung gestellt hat. Eine Spielleiterversion mit Legende ist in unserem <a href="http://www.dereglobus.org/download/bonusmaterial#TOC-Eichhafen" title="Bonusmaterial">Bonusmaterial</a> zu finden.
+		<p>Vielen Dank an Tim Julius Schweizer der uns diese Karte zur Verfügung gestellt hat. Eine Spielleiterversion mit Legende und Stadtbeschreibung ist in unserem <a href="http://www.dereglobus.org/download/bonusmaterial#TOC-Eichhafen" title="Bonusmaterial">Bonusmaterial</a> zu finden.
 	</div>]]></description>
 	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
 	<drawOrder>21</drawOrder>
@@ -2950,6 +2950,90 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 		<east>10.83401191677638</east>
 		<west>10.8256114684059</west>
 		<rotation>-19.9956144367387</rotation>
+	</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay id="Joborn-Plan">
+	<name>Joborn (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>32.23525975869647</north>
+		<south>32.23230316057978</south>
+		<east>-1.475181854177276</east>
+		<west>-1.47941406031954</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #814F21; }
+	a:hover { text-decoration: underline; color: #814F21; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+		Zeichnung: Tim Julius Schweizer
+		<br/>
+		Originalzeichnung: <a href="http://www.wiki-aventurica.de/wiki/Oliver_Steiger" title="Oliver Steiger">Oliver Steiger</a>
+		<br/>
+		<p>Vielen Dank an Tim Julius Schweizer der uns diese Karte zur Verfügung gestellt hat. Eine Spielleiterversion ist in unserem <a href="http://www.dereglobus.org/download/bonusmaterial#TOC-Eichhafen" title="Bonusmaterial">Bonusmaterial</a> zu finden.
+		<br/>
+		Die Originalkarte von Oliver Steiger ist auf <a href="http://anderwelt.ch/0389d89a4c0a48306/index.html" title="Anderwelt">Anderwelt</a> zu finden. Dort stehen auch eine Stadtbeschreibung und Legende zur Verfügung. 
+		</div>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Joborn_farbe_266.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.23525975869647</north>
+		<south>32.23230316057978</south>
+		<east>-1.475181854177276</east>
+		<west>-1.47941406031954</west>
+	</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay id="Kalleth-Plan">
+	<name>Kalleth (InOff)</name>
+	    <Region>
+          <LatLonAltBox>
+		<north>32.05967007008273</north>
+		<south>32.05667822115615</south>
+		<east>-1.681382305475633</east>
+		<west>-1.686692383524334</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	<description><![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #814F21; }
+	a:hover { text-decoration: underline; color: #814F21; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+		Zeichnung: Tim Julius Schweizer
+		<br/>
+		<p>Vielen Dank an Tim Julius Schweizer der uns diese Karte zur Verfügung gestellt hat. Eine Spielleiterversion mit Legende und Stadtbeschreibung ist in unserem <a href="http://www.dereglobus.org/download/bonusmaterial#TOC-Kalleth" title="Bonusmaterial">Bonusmaterial</a> zu finden.
+	</div>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Kalleth_farbe_267.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>32.05967007008273</north>
+		<south>32.05667822115615</south>
+		<east>-1.681382305475633</east>
+		<west>-1.686692383524334</west>
 	</LatLonBox>
 </GroundOverlay>
 

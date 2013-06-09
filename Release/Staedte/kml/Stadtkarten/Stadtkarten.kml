@@ -3506,6 +3506,48 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
+<GroundOverlay id="Mardershoeh-Plan">
+	<name>Mardershöh (InOff)</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.28662446891206</north>
+		<south>29.27877885961847</south>
+		<east>5.172957840074282</east>
+		<west>5.165857785621241</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style>
+		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Oliver_Steiger" title="Oliver Steiger">Oliver Steiger</a>
+		<br/>
+		Quelle: <a href="http://www.garetien.de/index.php?title=Garetien:Stadt_Mardersh%C3%B6h">garetien.de</a>
+		<br/>
+		<br/>
+		Vielen Dank an Oliver Steiger, der uns diese Karte zur Verfügung gestellt hat.]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Mardershoeh_sw_269.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.28662446891206</north>
+		<south>29.27877885961847</south>
+		<east>5.172957840074282</east>
+		<west>5.165857785621241</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Mendena-Plan">
 	<name>Mendena nach 1032 BF</name>
     <Region>
@@ -6275,6 +6317,48 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
       </GroundOverlay>
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
     </Folder>
+
+	<GroundOverlay id="Wandleth-Plan">
+	<name>Wandleth (InOff)</name>
+    <Region>
+          <LatLonAltBox>
+		<north>29.49624334982734</north>
+		<south>29.48879440095111</south>
+		<east>4.612598196669478</east>
+		<west>4.605851676003273</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>16</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>128</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+	   <description><![CDATA[<style type="text/css"><!--
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+    a:hover { text-decoration: underline; color: #B21C19; }
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+    #wiki { font-size:10px; }
+    --></style>
+		Zeichnung: <a href="http://www.wiki-aventurica.de/wiki/Oliver_Steiger" title="Oliver Steiger">Oliver Steiger</a>
+		<br/>
+		Quelle: <a href="http://www.garetien.de/index.php?title=Garetien:K%C3%B6nigsstadt_Wandleth">garetien.de</a>
+		<br/>
+		<br/>
+		Vielen Dank an Oliver Steiger, der uns diese Karte zur Verfügung gestellt hat.]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/Wandleth_sw_270.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.49624334982734</north>
+		<south>29.48879440095111</south>
+		<east>4.612598196669478</east>
+		<west>4.605851676003273</west>
+	</LatLonBox>
+</GroundOverlay>
 
 <GroundOverlay id="Warunk-Plan">
 	<name>Warunk nach 1032 BF</name>

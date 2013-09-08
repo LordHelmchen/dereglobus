@@ -1,438 +1,146 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-  <Document>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
     <name>Sakrale_Bauwerke_GREIFENFURT.kml</name>
-	<Region>
-		<LatLonAltBox>
-			<north>31.32786345312803</north>
-			<south>31.32352124878749</south>
-			<east>2.27255908729997</east>
-			<west>2.265440826161168</west>
-			<minAltitude>0</minAltitude>
-			<maxAltitude>0</maxAltitude>
-		</LatLonAltBox>
-		<Lod>
-			<minLodPixels>16</minLodPixels>
-			<maxLodPixels>-1</maxLodPixels>
-			<minFadeExtent>128</minFadeExtent>
-			<maxFadeExtent>0</maxFadeExtent>
-		</Lod>
-	</Region>
-    <Style id="sh_Staatliches_Bauwerk">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>1.5</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-          <refreshMode>
-          </refreshMode>
-          <refreshInterval>
-          </refreshInterval>
-          <viewRefreshMode>
-          </viewRefreshMode>
-          <viewRefreshTime>
-          </viewRefreshTime>
-        </Icon>
-        <hotSpot />
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-        <textColor>FF000000</textColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-        <bgColor />
-        <listItemType>check</listItemType>
-      </ListStyle>
-    </Style>
-    <StyleMap id="msn_ylw-pushpin">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_ylw-pushpin0</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_ylw-pushpin0</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="sh_Staatliches_Bauwerk2">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>1.5</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <StyleMap id="msn_Staatliches_Bauwerk4">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_Staatliches_Bauwerk7</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_Staatliches_Bauwerk</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="sn_Staatliches_Bauwerk0">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>0.9</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <color>00ffffff</color>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <Style id="sn_Staatliches_Bauwerk">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>0.9</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <color>00ffffff</color>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <Style id="sn_ylw-pushpin">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
-      </IconStyle>
-    </Style>
-    <Style id="sn_ylw-pushpin0">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
-      </IconStyle>
-    </Style>
-    <StyleMap id="msn_Staatliches_Bauwerk2">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_Staatliches_Bauwerk</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_Staatliches_Bauwerk2</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="sn_Staatliches_Bauwerk1">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>0.9</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <color>00ffffff</color>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <Style id="sh_ylw-pushpin">
-      <IconStyle>
-        <scale>1.3</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
-      </IconStyle>
-    </Style>
-    <Style id="sh_ylw-pushpin0">
-      <IconStyle>
-        <scale>1.3</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
-      </IconStyle>
-    </Style>
-    <StyleMap id="msn_Staatliches_Bauwerk">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_Staatliches_Bauwerk1</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_Staatliches_Bauwerk0</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="sh_Staatliches_Bauwerk0">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>1.5</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <Style id="sn_ylw-pushpin1">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
-      </IconStyle>
-    </Style>
-    <Style id="sn_Staatliches_Bauwerk7">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>0.9</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <color>00ffffff</color>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <StyleMap id="msn_ylw-pushpin0">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_ylw-pushpin</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_ylw-pushpin</styleUrl>
-      </Pair>
-    </StyleMap>
-    <StyleMap id="msn_ylw-pushpin1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_ylw-pushpin1</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_ylw-pushpin1</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="sh_ylw-pushpin1">
-      <IconStyle>
-        <scale>1.3</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
-      </IconStyle>
-    </Style>
-    <Style id="sh_Staatliches_Bauwerk3">
-      <IconStyle>
-        <color>b2ffffff</color>
-        <scale>1.5</scale>
-        <Icon>
-          <href>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
-        </Icon>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<font face="Mason" color="#CC0000" size="+3">$[name]</font>
-      <br/><br/>
-      $[description]]]></text>
-        <bgColor>ffd5fcfd</bgColor>
-      </BalloonStyle>
-      <ListStyle>
-        <maxSnippetLines>0</maxSnippetLines>
-      </ListStyle>
-    </Style>
-    <StyleMap id="msn_Staatliches_Bauwerk0">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#sn_Staatliches_Bauwerk0</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#sh_Staatliches_Bauwerk3</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Folder>
-      <name>Sakrale_Bauwerke_GREIFENFURT</name>
-      <Placemark>
-        <name>Tempel unseres Herrn Praios und seines getreuen Dieners Scraan</name>
-        <LookAt>
-          <longitude>2.269684639442496</longitude>
-          <latitude>31.32570469032166</latitude>
-          <altitude>0</altitude>
-          <range>99.285317165698</range>
-          <tilt>0</tilt>
-          <heading>0.0002672107531256176</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point>
-          <coordinates>2.269859985489278,31.32576750244336,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ingerimm-Tempel</name>
-        <LookAt>
-          <longitude>2.269684639442496</longitude>
-          <latitude>31.32570469032166</latitude>
-          <altitude>0</altitude>
-          <range>133.7541193428236</range>
-          <tilt>0</tilt>
-          <heading>0.0002672107529727522</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point>
-          <coordinates>2.269541031530713,31.32567014196501,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rahja-Hain</name>
-        <LookAt>
-          <longitude>2.269684639442496</longitude>
-          <latitude>31.32570469032165</latitude>
-          <altitude>0</altitude>
-          <range>244.003492241802</range>
-          <tilt>0</tilt>
-          <heading>0.000267210753133569</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point>
-          <coordinates>2.269961583831097,31.32504062698932,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Peraine-Hain</name>
-        <LookAt>
-          <longitude>2.271387349828702</longitude>
-          <latitude>31.32501582934535</latitude>
-          <altitude>0</altitude>
-          <range>168.9023735412656</range>
-          <tilt>0</tilt>
-          <heading>-0.6670830687358696</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point>
-          <coordinates>2.270983160512385,31.32518994762188,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Travia-Tempel</name>
-        <LookAt>
-          <longitude>2.270436294467237</longitude>
-          <latitude>31.32483184390536</latitude>
-          <altitude>0</altitude>
-          <range>308.0797501413923</range>
-          <tilt>0</tilt>
-          <heading>-0.6675774985507333</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point>
-          <coordinates>2.270998534620072,31.32549069116301,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Boronanger mit kleiner Kapelle</name>
-        <description>Früherer Apfelhain - da während der Belagerung der Boronanger außerhalb der Mauern nicht erreicht werden konnte. Wurde dieser Hain einer neuen Bedeutung zugeführt.</description>
-        <LookAt>
-          <longitude>2.270883065931102</longitude>
-          <latitude>31.3241038120477</latitude>
-          <altitude>0</altitude>
-          <range>500.2453169912947</range>
-          <tilt>0</tilt>
-          <heading>-0.6673452467344999</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point id="KMLe_73">
-          <coordinates>2.271072832974581,31.3245487384241,0</coordinates>
-        </Point>
-        <Snippet maxLines="0">
-        </Snippet>
-      </Placemark>
-      <Placemark>
-        <name>Rondra-Tempel</name>
-        <LookAt>
-          <longitude>2.271433949119608</longitude>
-          <latitude>31.32480043856995</latitude>
-          <altitude>1000</altitude>
-          <range>335.5901094373416</range>
-          <tilt>0</tilt>
-          <heading>-0.6670156395359497</heading>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </LookAt>
-        <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-        <Point id="KMLe_71">
-          <coordinates>2.271352120098229,31.32497844561648,0</coordinates>
-        </Point>
-      </Placemark>
-      <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
-    </Folder>
-    <styleUrl>http://www.dereglobus.orkenspalter.com/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+	<open>1</open>	
+	<Folder>
+		<name>Sakrale_Bauwerke_GREIFENFURT</name>
+		<open>0</open>
+     	<Region>
+			<LatLonAltBox>
+				<north>31.32786345312803</north>
+				<south>31.32352124878749</south>
+				<east>2.27255908729997</east>
+				<west>2.265440826161168</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Boronanger mit kleiner Kapelle</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: Früherer Apfelhain - da während der Belagerung der Boronanger außerhalb der Mauern nicht erreicht werden konnte. Wurde dieser Hain einer neuen Bedeutung zugeführt.<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.270883065931102</longitude>
+			  <latitude>31.3241038120477</latitude>
+			  <altitude>0</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.271072832974581,31.3245487384241,0</coordinates>
+			</Point>			
+		</Placemark>
+		<Placemark>
+			<name>Ingerimm-Tempel</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.269684639442496</longitude>
+			  <latitude>31.32570469032166</latitude>
+			  <altitude>0</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.269541031530713,31.32567014196501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peraine-Hain</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.271387349828702</longitude>
+			  <latitude>31.32501582934535</latitude>
+			  <altitude>0</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.270983160512385,31.32518994762188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rahja-Hain</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.269684639442496</longitude>
+			  <latitude>31.32570469032165</latitude>
+			  <altitude>0</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.269961583831097,31.32504062698932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rondra-Tempel</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.271433949119608</longitude>
+			  <latitude>31.32480043856995</latitude>
+			  <altitude>1000</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.271352120098229,31.32497844561648,0</coordinates>
+			</Point>
+		</Placemark>      
+		<Placemark>
+			<name>Tempel unseres Herrn Praios und seines getreuen Dieners Scraan</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.269684639442496</longitude>
+			  <latitude>31.32570469032166</latitude>
+			  <altitude>0</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.269859985489278,31.32576750244336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Travia-Tempel</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+			  <longitude>2.270436294467237</longitude>
+			  <latitude>31.32483184390536</latitude>
+			  <altitude>0</altitude>
+			  <range>2000</range>
+			  <tilt>0</tilt>
+			  <heading>0</heading>
+			  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+			<Point>
+			  <coordinates>2.270998534620072,31.32549069116301,0</coordinates>
+			</Point>
+		</Placemark>		
+    </Folder>    
   </Document>
 </kml>

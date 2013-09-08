@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Infomarker_Greifenfurt.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Infomarker_Greifenfurt</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>31.32786345312803</north>
+				<south>31.32352124878749</south>
+				<east>2.27255908729997</east>
+				<west>2.265440826161168</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>					
+					<b>Handelsstätten:</b><br/>					
+					<b>Landschaft:</b><br/>					
+					<b>Öffentliche Bauwerke:</b><br/>					
+					<b>Privathäuser:</b><br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					<b>Straßen:</b><br/>					
+					<b>Werkstätten:</b><br/>
+					
+			</description>
+			<LookAt> 
+      	<longitude> 2.284315</longitude>
+        <latitude> 33.668317</latitude>
+        <altitude>0</altitude>
+        <range>2000</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+       </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>2.264582683009666,31.32560419890998,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

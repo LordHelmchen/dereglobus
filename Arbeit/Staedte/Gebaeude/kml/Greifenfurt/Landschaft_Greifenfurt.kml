@@ -29,8 +29,7 @@
 				<Data name="Link">
 					<value>$[name]</value>
 				</Data>
-			</ExtendedData>      
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			</ExtendedData>      			
 			<description>
 				<![CDATA[<style type="text/css">
 					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
@@ -78,7 +77,41 @@ verfügbar, dort kann man den
 		
 		<Placemark>
 			<name>Breite</name>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>   
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->								
+								Die <b>Breite</b> ist einer der beiden Quellflüsse des <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fer_Fluss" title="Großer Fluss" class="mw-redirect">Großen Flusses</a>. Sie entspringt im <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a>, in der <a href="http://www.wiki-aventurica.de/wiki/Baronie_Greifenhorst" title="Baronie Greifenhorst">Baronie Greifenhorst</a>, und nimmt den größten Teil ihres Laufes durch die <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Greifenfurt" title="Markgrafschaft Greifenfurt">Markgrafschaft Greifenfurt</a>. An ihrem Unterlauf, nördlich des <a href="http://www.wiki-aventurica.de/wiki/Reichsforst" title="Reichsforst">Reichsforstes</a>, ist der Lauf der Breite die Grenze zum <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Garetien" title="Königreich Garetien">Königreich Garetien</a>, bevor sie sich bei <a href="http://www.wiki-aventurica.de/wiki/Oberangbar" title="Oberangbar">Oberangbar</a> mit der <a href="http://www.wiki-aventurica.de/wiki/Ange" title="Ange">Ange</a> vereinigt und zum Großen Fluss wird. Ab <a href="http://www.wiki-aventurica.de/wiki/Greifenfurt" title="Greifenfurt">Greifenfurt</a> ist sie für Flusskähne schiffbar.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
 			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
 			<LookAt>
 				<longitude>2.270416453430864</longitude>

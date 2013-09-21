@@ -64,8 +64,6 @@ verfügbar, dort kann man den
 </tr>
 </table>]]></description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>6.478340973182802</longitude>
 				<latitude>28.52658075635239</latitude>
 				<altitude>86462.04751000213</altitude>
@@ -103,13 +101,57 @@ verfügbar, dort kann man den
 			<name>Waldburg</name>
 			<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
+
+<!--<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>-->
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>5.287328370289084</longitude>
 				<latitude>28.15673965203982</latitude>
 				<altitude>61048.1974106175</altitude>
@@ -126,13 +168,57 @@ verfügbar, dort kann man den
 			<name>Baronsfleck</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
+
+<!--<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>-->
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>6.011841313025357</longitude>
 				<latitude>28.34240525207417</latitude>
 				<altitude>95258.21746356633</altitude>
@@ -149,13 +235,55 @@ verfügbar, dort kann man den
 			<name>Mittelreichische Grenzfeste</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+	<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>5.438910259602447</longitude>
 				<latitude>28.32051914541179</latitude>
 				<altitude>61048.19741061326</altitude>
@@ -173,13 +301,55 @@ verfügbar, dort kann man den
 			<name>Mittelreichische Grenzfeste</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+	<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>5.58542892566916</longitude>
 				<latitude>28.22459650005734</latitude>
 				<altitude>222680.4592495263</altitude>
@@ -196,13 +366,55 @@ verfügbar, dort kann man den
 			<name>Mittelreichische Grenzfeste</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>6.061744518160481</longitude>
 				<latitude>28.3941388926222</latitude>
 				<altitude>99779.71469780197</altitude>
@@ -219,13 +431,57 @@ verfügbar, dort kann man den
 			<name>Burg Barbenwehr</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
+
+<!--<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>-->	
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>5.730516587127064</longitude>
 				<latitude>28.22698566996928</latitude>
 				<altitude>61048.19741061326</altitude>
@@ -247,8 +503,6 @@ verfügbar, dort kann man den
 </ExtendedData> 
 	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>6.457057927056566</longitude>
 				<latitude>28.80850359910447</latitude>
 				<altitude>203086.3744058311</altitude>
@@ -265,13 +519,57 @@ verfügbar, dort kann man den
 			<name>Burg Efferdsblick</name>
 		<ExtendedData>
 <Data name="Link">
- <value>$[name]</value>
+ <value>Sieben Waisen</value>
 </Data>
 </ExtendedData> 
-	<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+	<description>
+	<![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #B21C19; }
+	a:hover { text-decoration: underline; color: #B21C19; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+	<table cellpadding="10" cellspacing="0" align="center">
+	<tr>
+	<td>
+	<p>
+
+	<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+	Die <b>Sieben Waisen</b> sind eine Kette von <a href="http://www.wiki-aventurica.de/wiki/Festung" title="Festung">Festungen</a> in der südlichen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a>. Die sieben Bauwerke aus <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Nebachot" title="Sultanat Nebachot">altnebachotischer</a> Zeit bestehen aus <a href="http://www.wiki-aventurica.de/wiki/Kalkstein" title="Kalkstein">Kalkstein</a> und reichen vom <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Verwaltet werden sie von Obrist <a href="/index.php?title=Bendan_von_Zillingen_zu_Gerbenwald&amp;action=edit&amp;redlink=1" class="new" title="Bendan von Zillingen zu Gerbenwald (Seite nicht vorhanden)">Bendan von Zillingen zu Gerbenwald</a>.
+	</p>
+	<dl><dt>Zugehörige Festungen
+	</dt></dl>
+	<ul><li><a href="/index.php?title=Barbenwehr&amp;action=edit&amp;redlink=1" class="new" title="Barbenwehr (Seite nicht vorhanden)">Barbenwehr</a> (<a href="http://www.wiki-aventurica.de/index.php?title=Nebachotisch&amp;action=edit&amp;redlink=1" class="new" title="Nebachotisch (Seite nicht vorhanden)">nebachotisch</a> <i>Bar'awaar</i>)
+	</li><li><a href="/index.php?title=Baronsfleck&amp;action=edit&amp;redlink=1" class="new" title="Baronsfleck (Seite nicht vorhanden)">Baronsfleck</a> (<i>Baran'Shek</i>)
+	</li><li><a href="/index.php?title=Waldburg&amp;action=edit&amp;redlink=1" class="new" title="Waldburg (Seite nicht vorhanden)">Waldburg</a> (<i>Waol'bursha</i>)
+	</li><li><a href="/index.php?title=Efferdsblick&amp;action=edit&amp;redlink=1" class="new" title="Efferdsblick (Seite nicht vorhanden)">Efferdsblick</a> (<i>El'Fea'dyen</i>)
+	</li><li>drei weitere
+	</li>
+	<!-- END EDIT -->
+
+	</p>
+	<hr><div id="wiki">
+	<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+	<p>Dieser Text basiert auf dem Artikel
+	<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+	aus der freien Website
+	<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+	und steht unter der
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+	Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+	verfügbar, dort kann man den
+	<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+	</td>
+	</tr>
+	</table>]]>
+</description>
+
+<!--<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD>Eine der "Sieben Waisen"<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Schild des Reiches, S. 140<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>-->	
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>6.401775565353766</longitude>
 				<latitude>28.35980465490789</latitude>
 				<altitude>60621.61940743495</altitude>
@@ -293,8 +591,6 @@ verfügbar, dort kann man den
 </ExtendedData> 
 <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>ehemals Burg Angareth<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (103), S. 7<TR><TD>Aventurischer Bote (101), S. 11<TR><TD>Schild des Reiches, S. 85<TR><TD>Schild des Reiches, S. 190<TR><TD>Aventurischer Bote (101), S. 3<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>7.022221613280406</longitude>
 				<latitude>29.33591777232945</latitude>
 				<altitude>109323.7411271937</altitude>
@@ -356,8 +652,6 @@ verfügbar, dort kann man den
 </table>]]>
 </description>
 			<Camera>
-				<gx:TimeStamp><when>1036</when>
-</gx:TimeStamp>
 				<longitude>7.225271527353851</longitude>
 				<latitude>29.24443706137582</latitude>
 				<altitude>100548.9190371743</altitude>

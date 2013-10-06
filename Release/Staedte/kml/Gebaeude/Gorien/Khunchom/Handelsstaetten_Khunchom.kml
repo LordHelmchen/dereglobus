@@ -23,7 +23,11 @@
 	</Region>
 		<Placemark>
 			<name>Filiale der Nordlandbank</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: M8<TR><TD><I>Stadtteil: Dar-Marustani<TR><TD><I>Besitzer/Vorsteher:</I> Yasminde Togelin<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.477833981432776</longitude>
@@ -40,8 +44,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Marktplatz</name>
-			<Snippet maxLines="0"></Snippet>
+			<name>Marktplatz</name>		
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.478330039779135</longitude>
@@ -59,7 +67,11 @@
 		</Placemark>
 		<Placemark>
 			<name>Chunchomer-Commerz-Compagnie</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.47712843417328</longitude>
@@ -77,8 +89,44 @@
 		</Placemark>
 		<Placemark>
 			<name>Maraskankontor</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: M11<TR><TD><I>Stadtteil: Dar-Marustani<TR><TD><I>Besitzer/Vorsteher:</I> Iselaff Dagorski/Hamar ibn Dhachmani<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das <b>Maraskankontor</b> ist ein Unternehmen an der <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrst-Istav-Allee" title="Fürst-Istav-Allee">Fürst-Istav-Allee</a> in <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a>, das von den Handelsfamilien <a href="http://www.wiki-aventurica.de/wiki/Familie_Dhachmani" title="Familie Dhachmani">Dhachmani</a>, <a href="http://www.wiki-aventurica.de/wiki/Handelshaus_Stoerrebrandt" title="Handelshaus Stoerrebrandt">Stoerrebrandt</a>, <a href="http://www.wiki-aventurica.de/wiki/Familie_Gerbelstein" title="Familie Gerbelstein">Gerbelstein</a> und <a href="http://www.wiki-aventurica.de/wiki/Familie_Warrlinger" title="Familie Warrlinger">Warrlinger</a> geführt wird, das aber schon seit <a href="http://www.wiki-aventurica.de/wiki/372_BF" title="372 BF" class="mw-redirect">372 BF</a> existiert. Es importiert allerlei Waren von der Insel <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskan</a>, versorgt im Gegenzug das <a href="http://www.wiki-aventurica.de/wiki/Sh%C3%AEkanydad" title="Shîkanydad">freie Maraskan</a> und ist einer der Gründe für <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchoms</a> Reichtum. In letzter Zeit ist der Handel allerdings abgeflaut.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.478092371884471</longitude>
 				<latitude>25.01445102684491</latitude>
@@ -89,13 +137,17 @@
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
 			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
-			<Point id="KMLe_35">
+			<Point>
 				<coordinates>7.478364908416772,25.01457235818004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Kontor ben Saram</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Besitzer/Vorsteher:</I> Malhalla ben Saram<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.480687975336663</longitude>
@@ -113,7 +165,11 @@
 		</Placemark>
 		<Placemark>
 			<name>Lagerhalle der Dhachmanis</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.480351449287935</longitude>
@@ -131,7 +187,11 @@
 		</Placemark>
 		<Placemark>
 			<name>Kontor Yasgarod</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Besitzer/Vorsteher:</I> Yazim ai Yasgarod<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.480687975336663</longitude>
@@ -149,7 +209,11 @@
 		</Placemark>
 		<Placemark>
 			<name>Lagerhalle des Maraskankontors</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.480795680581823</longitude>
@@ -167,8 +231,44 @@
 		</Placemark>
 		<Placemark>
 			<name>Kuriositätenladen des Thuref ibn Taschbad</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Quad´el´Basar<TR><TD><I>Besitzer/Vorsteher:</I> Thuref ibn Thaschbad<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Kuriositätenladen_des_Thuref_ibn_Taschbad</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <b>Kuriositätenladen</b> des <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwergs</a> <a href="/index.php?title=Thuref_ibn_Taschbad&amp;action=edit&amp;redlink=1" class="new" title="Thuref ibn Taschbad (Seite nicht vorhanden)">Thuref ibn Taschbad</a> liegt in <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> im Marktviertel Quad'El'Basar.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.47469104015708</longitude>
 				<latitude>25.01735984407598</latitude>
@@ -185,7 +285,11 @@
 		</Placemark>
 		<Placemark>
 			<name>Zeughaus Stoerrebrandt</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Aimar-Zahbahr<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.480687975336663</longitude>
@@ -203,8 +307,44 @@
 		</Placemark>
 		<Placemark>
 			<name>Kamel- und Sklavenmarkt</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: L2<TR><TD><I>Stadtteil: Thalusim´al´Awal<TR><TD><I>Besitzer/Vorsteher:</I> Raschanna dar Moralan<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Kamel-_und_Sklavenmarkt</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Nahe des <a href="http://www.wiki-aventurica.de/wiki/Feterdhin-Platz" title="Feterdhin-Platz">Feterdhin-Platzes</a> liegt der <b>Kamel- und Sklavenmarkt</b> <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchoms</a>. Wo man normalerweise allerlei Getier – vornehmlich zum Reiten – erwerben kann, können etwa alle zwei Wochen <a href="http://www.wiki-aventurica.de/wiki/Sklave" title="Sklave">Sklaven</a> ersteigert werden.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.469116097446227</longitude>
 				<latitude>25.01472072600098</latitude>

@@ -22,8 +22,12 @@
 		</Lod>
 	</Region>
 		<Placemark>
-			<name>&quot;Museum im Kubilinhaus&quot;</name>
-			<Snippet maxLines="0"></Snippet>
+			<name>Museum im Kubilinhaus</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: G8<TR><TD><I>Stadtteil: Quad´el´Basar<TR><TD><I>Besitzer/Vorsteher:</I> Hamar ibn Habled<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
 			<LookAt>
 				<longitude>7.476266560018095</longitude>
@@ -41,8 +45,44 @@
 		</Placemark>
 		<Placemark>
 			<name>Schule der Kapitäne</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: G6<TR><TD><I>Stadtteil: Quad´el´Basar<TR><TD><I>Besitzer/Vorsteher:</I> Zulhamid al´Adawadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Schule_der_Kapitäne</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Schule der Kapitäne</b> gilt als eine der besten <a href="http://www.wiki-aventurica.de/wiki/Lehreinrichtung" title="Lehreinrichtung">Ausbildungsstätten</a> für <a href="http://www.wiki-aventurica.de/wiki/Kapit%C3%A4n" title="Kapitän">Kapitäne</a> und <a href="http://www.wiki-aventurica.de/wiki/Navigator" title="Navigator">Navigatoren</a> <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a>. Traditionell wird an der Schule Wert auf die Berechnung der Bahnen von Gestirnen zur <a href="http://www.wiki-aventurica.de/wiki/Navigation" title="Navigation">Navigation</a> gelegt. Sogar ein Globus befindet sich in der Eingangshalle.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.475304756306241</longitude>
 				<latitude>25.01939848729254</latitude>
@@ -59,50 +99,56 @@
 		</Placemark>
 		<Placemark>
 			<name>Drachenei-Akademie</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #B21C19; }
-a:hover { text-decoration: underline; color: #B21C19; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<table cellpadding="10" cellspacing="0" align="center">
-<tr>
-<td>
-<p>
-Die angeblich von <a href="http://www.wiki-aventurica.de/wiki/Bastrabun" title="Bastrabun" class="mw-redirect">Bastrabun</a> in der urtulamidischen Tradition der <a href="http://www.wiki-aventurica.de/wiki/Mudramulim&amp;action=edit&amp;redlink=1" class="new" title="Mudramulim (Seite nicht vorhanden)">Mudramulim</a> gegründete <b>Drachenei-Akademie</b> zu <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> ist <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">aventurienweit</a> für ihre mächtigen <a href="http://www.wiki-aventurica.de/wiki/Artefakt" title="Artefakt">Artefakte</a> bekannt. Sie ist das Herz der <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">aventurischen</a> Erforschung von <a href="http://www.wiki-aventurica.de/wiki/Arkanoglyphe" title="Arkanoglyphe">Arkanoglyphen</a> und <a href="http://www.wiki-aventurica.de/wiki/Kristallomantie" title="Kristallomantie" class="mw-redirect">Edelsteinmagie</a>. Weitere Berühmtheit hat die <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistische</a> Fakultät, die <i>Chamib al'Chimie</i> sowie das Zauberschiff <a href="http://www.wiki-aventurica.de/wiki/Sulman_al%27Nassori_%28Schiff%29" title="Sulman al'Nassori (Schiff)">Sulman al'Nassori</a> erlangt.<br>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css"><!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+					--></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+						<td>
+						<p>
+						Die angeblich von <a href="http://www.wiki-aventurica.de/wiki/Bastrabun" title="Bastrabun" class="mw-redirect">Bastrabun</a> in der urtulamidischen Tradition der <a href="http://www.wiki-aventurica.de/wiki/Mudramulim&amp;action=edit&amp;redlink=1" class="new" title="Mudramulim (Seite nicht vorhanden)">Mudramulim</a> gegründete <b>Drachenei-Akademie</b> zu <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> ist <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">aventurienweit</a> für ihre mächtigen <a href="http://www.wiki-aventurica.de/wiki/Artefakt" title="Artefakt">Artefakte</a> bekannt. Sie ist das Herz der <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">aventurischen</a> Erforschung von <a href="http://www.wiki-aventurica.de/wiki/Arkanoglyphe" title="Arkanoglyphe">Arkanoglyphen</a> und <a href="http://www.wiki-aventurica.de/wiki/Kristallomantie" title="Kristallomantie" class="mw-redirect">Edelsteinmagie</a>. Weitere Berühmtheit hat die <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistische</a> Fakultät, die <i>Chamib al'Chimie</i> sowie das Zauberschiff <a href="http://www.wiki-aventurica.de/wiki/Sulman_al%27Nassori_%28Schiff%29" title="Sulman al'Nassori (Schiff)">Sulman al'Nassori</a> erlangt.<br>
 
-Am 30. <a href="http://www.wiki-aventurica.de/wiki/Hesinde" title="Hesinde">Hesinde</a> jeden Jahres werden die Erzeugnisse der Schüler unter großem Rummel gesammelt und auf dem <i>Drachenei-Platz</i> vor dem Hauptgebäude verkauft. Außerdem wird hier alljährlich das <a href="http://www.wiki-aventurica.de/wiki/Schwarzes_Auge_von_Khunchom" title="Schwarzes Auge von Khunchom">Schwarze Auge von Khunchom</a> verliehen.
-</p><p>Nur wenigen hingegen ist bekannt, dass sich in den Gewölben unter der Akademie neben seltenen <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistischen</a> Zutaten und urtulamidischen Relikten auch der <a href="http://www.wiki-aventurica.de/wiki/Karfunkel" title="Karfunkel">Karfunkel</a> <a href="http://www.wiki-aventurica.de/wiki/Pyrdacor" title="Pyrdacor">Pyrdacors</a> befindet. Die Garde der Akademie, die <a href="http://www.wiki-aventurica.de/wiki/Ritter_des_Immerw%C3%A4hrenden_Kampfes" title="Ritter des Immerwährenden Kampfes">Ritter des Immerwährenden Kampfes</a>, stehen hingegen der Legende nach dem <a href="http://www.wiki-aventurica.de/wiki/Hoher_Drache" title="Hoher Drache" class="mw-redirect">Hohen Drachen</a> <a href="http://www.wiki-aventurica.de/wiki/Famerlor" title="Famerlor">Famerlor</a> nahe.<br>
+						Am 30. <a href="http://www.wiki-aventurica.de/wiki/Hesinde" title="Hesinde">Hesinde</a> jeden Jahres werden die Erzeugnisse der Schüler unter großem Rummel gesammelt und auf dem <i>Drachenei-Platz</i> vor dem Hauptgebäude verkauft. Außerdem wird hier alljährlich das <a href="http://www.wiki-aventurica.de/wiki/Schwarzes_Auge_von_Khunchom" title="Schwarzes Auge von Khunchom">Schwarze Auge von Khunchom</a> verliehen.
+						</p><p>Nur wenigen hingegen ist bekannt, dass sich in den Gewölben unter der Akademie neben seltenen <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistischen</a> Zutaten und urtulamidischen Relikten auch der <a href="http://www.wiki-aventurica.de/wiki/Karfunkel" title="Karfunkel">Karfunkel</a> <a href="http://www.wiki-aventurica.de/wiki/Pyrdacor" title="Pyrdacor">Pyrdacors</a> befindet. Die Garde der Akademie, die <a href="http://www.wiki-aventurica.de/wiki/Ritter_des_Immerw%C3%A4hrenden_Kampfes" title="Ritter des Immerwährenden Kampfes">Ritter des Immerwährenden Kampfes</a>, stehen hingegen der Legende nach dem <a href="http://www.wiki-aventurica.de/wiki/Hoher_Drache" title="Hoher Drache" class="mw-redirect">Hohen Drachen</a> <a href="http://www.wiki-aventurica.de/wiki/Famerlor" title="Famerlor">Famerlor</a> nahe.<br>
 
-</p>
-<dl><dt>Akademieleiter</dt><dd>
-</dd><dd><a href="http://www.wiki-aventurica.de/wiki/Khadil_Okharim" title="Khadil Okharim">Khadil Okharim</a>
-</dd></dl>
-<dl><dt>Magister</dt><dd>
-</dd><dd><a href="http://www.wiki-aventurica.de/wiki/Ephersis_von_den_Zinnen" title="Ephersis von den Zinnen">Ephersis von den Zinnen</a>
+						</p>
+						<dl><dt>Akademieleiter</dt><dd>
+						</dd><dd><a href="http://www.wiki-aventurica.de/wiki/Khadil_Okharim" title="Khadil Okharim">Khadil Okharim</a>
+						</dd></dl>
+						<dl><dt>Magister</dt><dd>
+						</dd><dd><a href="http://www.wiki-aventurica.de/wiki/Ephersis_von_den_Zinnen" title="Ephersis von den Zinnen">Ephersis von den Zinnen</a>
 
-</p>
+						</p>
 
-<hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-<p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+						<hr><div id="wiki">
+						<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+						<p>Dieser Text basiert auf dem Artikel
+						<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
 
-aus der freien Website
-<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+						aus der freien Website
+						<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
 
-und steht unter der
-<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+						und steht unter der
+						<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
 
-Im Wiki Aventurica ist eine
-<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+						Im Wiki Aventurica ist eine
+						<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
 
-verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
-</td>
-</tr>
-</table>]]></description>
+						verfügbar, dort kann man den
+						<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+						</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.476834770668226</longitude>
 				<latitude>25.02127769237138</latitude>
@@ -118,9 +164,45 @@ verfügbar, dort kann man den
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Dracheneiplatz</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I><TR><TD><I>Stadtteil: Al´Barrah<TR><TD><I><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<name>Drachenei-Platz</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Vor der <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchomer</a> <a href="http://www.wiki-aventurica.de/wiki/Drachenei-Akademie" title="Drachenei-Akademie">Drachenei-Akademie</a> befindet sich der <b>Drachenei-Platz</b>. Am 30. <a href="http://www.wiki-aventurica.de/wiki/Hesinde" title="Hesinde">Hesinde</a> jeden Jahres werden die Erzeugnisse der Akademieschüler unter großem Rummel gesammelt und hier verkauft.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.476986446409052</longitude>
 				<latitude>25.0208636404383</latitude>
@@ -137,7 +219,11 @@ verfügbar, dort kann man den
 		</Placemark>
 		<Placemark>
 			<name>Nerida Shirinhas Schule der Fechtkunst</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Nerida_Shirinhas_Schule_der_Fechtkunst</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -185,7 +271,11 @@ verfügbar, dort kann man den
 		</Placemark>
 		<Placemark>
 			<name>Ordenshaus der Therbûniten</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Ordenshaus_der_Therbûniten_in_Khunchom</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -239,9 +329,45 @@ verfügbar, dort kann man den
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Ordenshaus (Graue Stäbe von Perricum)</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<name>Ordenshaus der Grauen Stäbe von Perricum</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Ordenshaus_der_Grauen_Stäbe_in_Khunchom</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Im <b>Ordenshaus der Grauen Stäbe</b>  in <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> fungierte <a href="http://www.wiki-aventurica.de/wiki/Tarlisin_von_Borbra" title="Tarlisin von Borbra">Tarlisin von Borbra</a> für einige Zeit als <a href="/index.php?title=Archivar&amp;action=edit&amp;redlink=1" class="new" title="Archivar (Seite nicht vorhanden)">Archivar</a> des <a href="http://www.wiki-aventurica.de/wiki/Ordo_Defensores_Lecturia" title="Ordo Defensores Lecturia">Ordo Defensores Lecturia</a>.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.472313137485551</longitude>
 				<latitude>25.0141018064972</latitude>
@@ -258,8 +384,44 @@ verfügbar, dort kann man den
 		</Placemark>
 		<Placemark>
 			<name>Draconiter Erzhort der Südlande (Keshal Nanduria)</name>
-			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: I10<TR><TD><I>Stadtteil: Quad´el´Basar<TR><TD><I>Besitzer/Vorsteher:</I> Kerime al´Kadim<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 77<TR><TD>Das Land der ersten Sonne, S. 72<TR><TD>Das Land des Schwarzen Auges, S. 84<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Wüste Khom und die Echsensümpfe, S. 84<TR><TD>Die Welt des Schwarzen Auges, S. 81<TR><TD>Meister der Dämonen, S. 44<TR><TD>Basargeschichten, S. 38<TR><TD>Bienenschwarm und Diskusflug, S. 11<TR><TD>Der Unersättliche, S. 8<TR><TD>Efferds Wogen, S. 75<TR><TD>Strandgut, S. 7<TR><TD>Die Gesichtslose, S. 33<TR><TD>Khunchomer Pfeffer, S. 1<TR><TD>Staub und Sterne - Neuauflage, S. 11<TR><TD>Drachenschatten, S. 63<TR><TD>Drachenschatten, S. 143<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Keshal_Nanduria</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<b>Keshal Nanduria</b> an der <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrst-Istav-Allee" title="Fürst-Istav-Allee">Fürst-Istav-Allee</a> in <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> ist der <a href="http://www.wiki-aventurica.de/wiki/Erzhort" title="Erzhort">Erzhort</a> der <a href="http://www.wiki-aventurica.de/wiki/Zirkelkongregation_S%C3%BCdlande" title="Zirkelkongregation Südlande">Zirkelkongregation Südlande</a> und untersteht der <a href="http://www.wiki-aventurica.de/wiki/Erz%C3%A4btissin" title="Erzäbtissin" class="mw-redirect">Erzäbtissin</a> <a href="http://www.wiki-aventurica.de/wiki/Kerime_al%27Kadim" title="Kerime al'Kadim">Kerime al'Kadim</a>.
+
+								<!-- END EDIT -->
+								
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+						</td>
+					</tr>
+					</table>]]>
+			</description>
 			<LookAt>
 				<longitude>7.478483348690001</longitude>
 				<latitude>25.01716467480595</latitude>
@@ -276,7 +438,11 @@ verfügbar, dort kann man den
 		</Placemark>
 		<Placemark>
 			<name>Feterdhin-Platz</name>
-			<Snippet maxLines="0"></Snippet>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
 			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }

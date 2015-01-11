@@ -52,7 +52,10 @@ Your Planetenprojekt-Team</p>]]></description>
 		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/>
 	</ScreenOverlay>
-
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/lizenz&quot;&gt;Lizenz&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
 	<ScreenOverlay id="Impressum">
 		<name>About</name>
 		<description><![CDATA[<style type="text/css"><!--

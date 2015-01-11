@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>Regionen</name>
+
+
+	<StyleMap id="region">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#region-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#region-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="meer">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#meer-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#meer-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+
+
+<Style id="region-n">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<color>cc84d9f0</color>
+			<scale>2</scale>
+		</LabelStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+	
+	<Style id="region-h">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<color>cc84d9f0</color>
+			<scale>2</scale>
+		</LabelStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+
+	
+<Style id="meer-n">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<color>cc84d9f0</color>
+			<scale>2</scale>
+		</LabelStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+	
+	<Style id="meer-h">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<color>cc84d9f0</color>
+			<scale>2</scale>
+		</LabelStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>	
+
+	
+</Document>
+</kml>

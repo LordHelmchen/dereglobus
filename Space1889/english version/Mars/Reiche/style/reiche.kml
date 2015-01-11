@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>reich-Styles</name>
+
+
+	<StyleMap id="reich">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#reich-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#reich-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="kolonie">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#kolonie-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#kolonie-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+
+
+
+<Style id="reich-n">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>4c7f00aa</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c7f00aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+	
+	<Style id="reich-h">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>7f7f00aa</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f7f00aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+
+	
+<Style id="kolonie-n">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>4c0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+	
+	<Style id="kolonie-h">
+      <ListStyle>
+         <maxSnippetLines>0</maxSnippetLines>
+      </ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>7f0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+<BalloonStyle>
+        <bgColor>FFD5FCFD</bgColor>
+<text><![CDATA[<font color="#CC0000" size="+3">$[name]</font>
+<br/><br/>
+$[description]]]></text>
+</BalloonStyle>
+	</Style>
+
+	
+</Document>
+</kml>

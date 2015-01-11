@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
 	<Placemark>
-		<name>Oenotrischer Palast</name>
+		<name>Oenotrian Palace</name>
 	<LookAt>
 		<longitude>-31.35349183631258</longitude>
 		<latitude>-5.708693421732988</latitude>
@@ -27,8 +27,8 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
    </Region>
-		<description>Der Palast gehört einem reichen kanalmarsianischen Adeligen und dient ihm als &quot;kleines Landhaus&quot; auf seiner Plantage außerhalb Oenotrias. Er lies ihn vor einigen Jahren im Stil des &quot;Oenotrischen Runismus&quot; erbauen um seine Geschäftspartner die er dort zu empfangen geruht zu beeindrucken.</description>
-		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/style/Siedlungen.kml#Stadt</styleUrl>
+		<description><p>The palace is owned by a rich, canal-martian nobleman and serves as "the little country house" at his plantation just outside of Oenotria. The palace was build in a style known as <I>Oenotrian Runism</i> a couple of years ago to impress business partners who the noble invites occasionally.</p></description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/style/Siedlungen.kml#Stadt</styleUrl>
 		<Model id="Oenotrischer_Palast">
 			<altitudeMode>relativeToGround</altitudeMode>
 			<Location>
@@ -47,59 +47,59 @@
 				<z>1</z>
 			</Scale>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/modelle/Oenotrischer_Palast.dae</href>
+				<href>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/modelle/Oenotrischer_Palast.dae</href>
 			</Link>
 			<ResourceMap>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture0.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture0.jpg</targetHref>
 					<sourceHref>untitled/texture0.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture1.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture1.jpg</targetHref>
 					<sourceHref>untitled/texture1.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture10.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture10.jpg</targetHref>
 					<sourceHref>untitled/texture10.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture11.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture11.jpg</targetHref>
 					<sourceHref>untitled/texture11.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture12.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture12.jpg</targetHref>
 					<sourceHref>untitled/texture12.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture2.png</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture2.png</targetHref>
 					<sourceHref>untitled/texture2.png</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture3.png</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture3.png</targetHref>
 					<sourceHref>untitled/texture3.png</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture4.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture4.jpg</targetHref>
 					<sourceHref>untitled/texture4.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture5.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture5.jpg</targetHref>
 					<sourceHref>untitled/texture5.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture6.png</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture6.png</targetHref>
 					<sourceHref>untitled/texture6.png</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture7.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture7.jpg</targetHref>
 					<sourceHref>untitled/texture7.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture8.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture8.jpg</targetHref>
 					<sourceHref>untitled/texture8.jpg</sourceHref>
 				</Alias>
 				<Alias>
-					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture9.jpg</targetHref>
+					<targetHref>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Staedte/media/texturen/Oenotrischer_Palast/texture9.jpg</targetHref>
 					<sourceHref>untitled/texture9.jpg</sourceHref>
 				</Alias>
 			</ResourceMap>

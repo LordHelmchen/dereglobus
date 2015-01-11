@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name id="Menue">Menü</name>
+	<name id="Menue">Menu</name>
 	<open>1</open>
 	<LookAt>
 		<longitude>5.00345741084906</longitude>
@@ -27,22 +27,22 @@
 		</ListStyle>
 	</Style>
 	<ScreenOverlay id="Willkommen">
-		<name>Willkommen</name>
+		<name>Welcome</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #d5ac00; }
 a:hover { text-decoration: underline; color: #d5ac00; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 #footnote { font-size:10px; }
 --></style>
-<h3>Herzlich Willkommen beim Space: 1889 Planeten-Projekt!</h3>
+<h3>Welcome to the Space: 1889 Planets Project!</h3>
 
-<p>Space: 1889 ist ein Steampunk-Rollenspiel welches in einer fiktionalen viktorianischen Ära der Erde spielt. Mit Hilfe von dampfgetriebenen Raumschiffen durchflogen irdische Entdecker den Äther und besiedelten den Mars, die Venus und den Merkur. Schau Dir die <a href="http://space1889.dereglobus.org/links">weiterführenden Links</a> an, um mehr über Space: 1889 zu erfahren.</p>
+<p>Space: 1889 is a science fiction role-playing game set during the Victorian era. In this alternate history, human explorers travelled through the aether using steam-powered spaceships and colonised Mars, Venus, and Mercury. Look at our <a href="http://space1889.dereglobus.org/links">linklist</a> to read more about Space: 1889.</p>
 
-<p>Unser Fanprojekt möchte, unter der Schirmherrschaft von <a href="http://www.dereglobus.org">DereGlobus</a>, die besiedelten Planeten als interaktive Atlanten in Google Earth darstellen. Mit der Space: 1889 Erweiterung, welche Du gerade verwendest, kannst Du die Planeten erkunden. Aus dem Weltall zeigt sich der Mars in einer Gestalt, wie sie einst Edison als erster zu Gesicht bekam. Doch wenn Du näher heran zoomst, kannst Du viele detaillierte Einzelheiten erkennen: Die Kanäle, Städte, Rohstoffe, Reiche und vieles mehr!</p>
+<p>Under the patronage of <a
+href="http://www.dereglobus.org">DereGlobus</a>, our Fanproject wants to show the inhabited planets as interactive atlases in Google Earth. With this Space: 1889 extension you can discover the planets. Mars is shown just as it appeared when Edison first saw it from space. But if you zoom in closer, you'll see many details: Canals, cities, raw materials, and much more!</p>
 
-<p><b>Lies weiter: <a href="http://space1889.dereglobus.org/funktionen">Die Funktionen </a></b></p>
-<p>Viel Spaß wünscht Dir<br />
-Dein Planetenprojekt-Team</p>]]></description>
+<p>Have fun!<br />
+Your Planetenprojekt-Team</p>]]></description>
 		<styleUrl>#menue</styleUrl>
 		<Icon>
 			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/DereGlobus_Icon.png</href>
@@ -52,49 +52,24 @@ Dein Planetenprojekt-Team</p>]]></description>
 		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/>
 	</ScreenOverlay>
-	<Folder>
-		<name>&lt;a href=&quot;http://space1889.dereglobus.org/neuigkeiten&quot;&gt;Neuigkeiten&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>
-	<Folder>
-		<name>&lt;a href=&quot;http://www.dereglobus.org/dokumentation/faq&quot;&gt;FAQ&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>
-	<Folder>
-		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/viewtopic.php?f=79&amp;t=1932&quot;&gt;Hilfe?&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>
-	<Folder>
-		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/viewtopic.php?f=79&amp;t=1929&quot;&gt;Feedback&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>	
-	<Folder>
-		<name>&lt;a href=&quot;http://space1889.dereglobus.org/team&quot;&gt;Team&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>
-	<Folder>
-		<name>&lt;a href=&quot;http://space1889.dereglobus.org/mach-mit&quot;&gt;Mach mit!&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>
-	<Folder>
-		<name>&lt;a href=&quot;http://www.dereglobus.org/lizenz&quot;&gt;Lizenz&lt;/a&gt;</name>
-		<styleUrl>#menue</styleUrl>
-	</Folder>
+
 	<ScreenOverlay id="Impressum">
-		<name>Impressum</name>
+		<name>About</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #d5ac00; }
 a:hover { text-decoration: underline; color: #d5ac00; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 #footnote { font-size:10px; }
 --></style>
-<p>Inhalte zum Rollenspiel Space: 1889 mit freundlicher Genehmigung und Unterstützung des <a href="http://www.uhrwerk-verlag.de">Uhrwerk-Verlags</a>.
-Das Space: 1889 Planeten-Projekt ist ein Fanprojekt. Die Erweiterung für Google Earth enthält inoffizielle Informationen zu Space: 1889.</p>
-<p><img src="http://space1889.dereglobus.org/_/rsrc/1314818353300/home/Uhrwerk-Verlag_250px.png" alt="Uhrwerk-Verlag"  /></p>
-</p>]]></description>
+<p>Contents of the role-playing game Space: 1889 by courtesy of <a href="http://www.uhrwerk-verlag.de">Uhrwerk-Verlag</a>.
+The Space: 1889 Planets Project is a fan project. The extension for Google Earth contains unofficial information about the role-playing game Space: 1889.</p>
+<p><img
+src="http://space1889.dereglobus.org/_/rsrc/1314818353300/home/Uhrwerk-Verlag_250px.png"
+alt="Uhrwerk-Verlag" /></p>
+</p></description>
 		<styleUrl>#menue</styleUrl>
 		<Icon>
-			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Inhalte-Uhrwerk.png</href>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/english/Inhalte-Uhrwerk.png</href>
 		</Icon>
 		<overlayXY x="0" y="0" xunits="pixels" yunits="pixels"/>
 		<screenXY x="0.5" y="4" xunits="pixels" yunits="pixels"/>

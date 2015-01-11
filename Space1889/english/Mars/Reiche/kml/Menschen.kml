@@ -3,12 +3,12 @@
 <Document>
 	<name>Menschen.kml</name>
 	<Folder>
-		<name>Menschen</name>
+		<name>Humans</name>
 		<Placemark>
-			<name>Britische Kronkolonie Syrtis Lapis</name>
-			<description><![CDATA[<p>Die britische Kronkolonie <b>Syrtis Lapis</b> erstreckt sich – wenn man ihre Vasallen und das gemeinsam verwaltete Regierungsgebiet Parhoon mitzählt – über das gesamte Syrtis Major-Becken und Teile des benachbarten Hochlands. Die Beziehungen zu den Parhoonese, Meepsoori und den Hochland-Bewohnern von Moerus Lacus sind gut, allerdings sind jene zu den Bürgern in den Städten des Tieflands angespannt.</p>
+			<name>British Crown colony Syrtis Lapis</name>
+			<description><![CDATA[<p>The British Crown Colony <b>Syrtis Lapis</b>, if counting all her vasalls and the co-administered Parhoon, streches across the whole Syrtis-Major basin and parts of the neighboring highlands. Relations to the Parhoonese, Meepsoori and the highland tribes of Moerus Lacus are good, but are more tense with the citizens of the lowlnad cities.</p>
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -23,10 +23,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Association Internationale des Planètes (AIP)</name>
-			<description><![CDATA[<p>Der <i>Coprates</i> wird von einer Mischung aus Truppen der <b>Association Internationale des Planètes (AIP)</b>, irdischen Söldnern und angeheuerten einheimischen Freiwilligen gehalten. Der obere Coprates ist die persönliche Domäne von Leopold II, dem belgischen König. Er besteht aus den ehemaligen Stadtstaaten Melas und Po-Poo-Hanna-Kitai – das 1888 in New Amsterdam umbenannt worden ist. Der untere Coprates ist nun ein Protektorat des belgischen Königs und schließt die ehemaligen Stadtstaaten Melas Lacus (1888 in Copratia umbenannt) und weite Teile der Umgebung ein.
-</p>
+			<description><![CDATA[<p>The <i>Coprates</i> are held by an amalgam of troops, recruited from the <b>Association Internationale des Planètes (AIP)</b>, mercenaries from Earth and hired, native vonlunteers. The Upper Coprates is the personal domain of the Begian king Leopold II, consisting of the former city-states Melas and Po-Poo-Hanna-Kitai, the latter being renamed to New Amsterdam in 1888. The Lower Coprates has become a protectorate of the Belgian king, including the former city-state Melas Lacus (renamed to Copratia in 1888) and a wide range of the surrounding area.</p>
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -40,10 +39,10 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Französisches Einflussgebiet</name>
-			<description><![CDATA[Die Franzosen haben sich schon immer als Vorreiter der Zivilisation in Europa gesehen, und durch ihre Kolonien die Zivilisation überall in die entlegensten Winkel der Erde gebracht. Auch auf dem Mars bringen sie die französische Lebensart zu den Marsianern. Ob sie es wollen oder nicht. Das französische Einflußgebiet ist erstaunlich sicher. Die Hügelstämme sind unterworfen, und die regelmäßigen Patrouillien der franz. Armee haben Piraterie und Banditentum fast ausgerottet.
+			<name>French sphere of influence</name>
+			<description><![CDATA[<p>The French have always considered themselves as the beacon of civilization, spreading it through their colonies even to the remotest places on Earth. French savor vivre is even brought to the Martians, wanted or not! The French holdings on Mars are surprisingly safe: the hill tribes are subdued, and regular patrols of the French army have wiped out almost all piracy and brigandry.</p>
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -57,8 +56,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Deutsches Einflussgebiet</name>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
+			<name>German sphere of influence</name>
+			<description><![CDATA[<p><b>Western Dioscuria</b> with the cities of Dioscuria, Protonilus, and Ismenilus seemed to be a proper place for the German colonial ambitions in which to place troops and airships. It is reasonably close to Astusapes, while it at the same time does not belong to the sphere of influence of some other major political actor. In the mid-1880s Bismarck offered the three <i>sergals</i> (city princes) protection against foreign enemies together with domestic autonomy in return for German base rights, control over the cities' foreign policies, and trade advantages. The three cities were relatively weak and their sergals feared that they would involuntarily drawn into the triangular power struggles between the Boreosyrtis League, Great Britain, and the Oenotrian League. They saw clear advantages with the German offer and accepted it gratefully; in 1887 the <i>Schutzgebiet Westdioscuria</i> was formally established by the signing of three protectorate treaties.</p>
+			<br><br>Source: The Dream Forge Space 1889 Westdioscuria
+]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -71,11 +73,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Russisches Einflussgebiet</name>
-			<description><![CDATA[Nicht viel ist bekannt über die sich sehr bedeckt haltenden <b>Russen</b> auf dem Mars. Es sind kaum Ambitionen erkennbar die Ressourcen des Mars zu fördern. Es scheint fast so, dass die Russen nur auf dem Mars sind, weil es die Briten auch sind.
-<br><br>Quelle: Space (GDW) S.170
+			<name>Russian sphere of influence</name>
+			<description><![CDATA[<p>Not much is known about the secretive <b>Russian</b> activity on Mars. Lacking obvious ambitions to exploit Martian resources, the Russians seem o be on Mars because the Btritish are as well.</p><br><br>Source: Space (GDW) p.170
+			<br><br>Quelle: Space (GDW) S.170
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -89,8 +91,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Japanisches Einflussgebiet</name>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
+			<name>Japanese sphere of influence</name>
+			<description><![CDATA[<p>The <b>Japanese</b> are on Mars for the simple reason that, still smarting under the humiliating Treaties of Commerce and Navigation of 1858 (which gave foreign nations a variety of privileges), they want to prove themselves a "modern" state and a power to be reckoned with.  Under the slogan "A rich nation, a strong army," Japan has developed into a vigorous and increasingly aggressive nation, taking advice from established powers and adding a samurai will of their own. Japanese presence on Mars is still small and mostly limited to the experimental scientific research stations and trading posts at <i>Euxinius Lacus</i>.</p>
+			<br><br>
+			Source: Space (GDW) p.169
+]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#kolonie</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>

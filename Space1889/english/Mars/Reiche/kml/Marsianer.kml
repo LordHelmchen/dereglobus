@@ -3,12 +3,12 @@
 <Document>
 	<name>Marsianer.kml</name>
 	<Folder>
-		<name>Marsianer</name>
+		<name>Martians</name>
 		<Placemark>
-			<name>Tossianisches Kaiserreich</name>
-			<description><![CDATA[<p>Zum <b>Tossianischen Kaiserreich</b> zählen die Städte Hyoraotes, Thymiamata, Aramis, Duecalionis, Pandora, Noachis, Pyrrhae, Tobansoor, Erythria und Protei, es dominiert zudem die meisten benachbarten Städte. Auf Grund wachsender Sorge wegen des Expansionismus der AIP aus den <i>Coprates</i> hat das Kaiserreich vor kurzem (und vorübergehend) seine Differenzen mit dem hartnäckig unabhängigen Prinzen <i>Sitaani von Nectar</i> beigelegt und Verteidigungsabkommen mit ihm getroffen.</p>
+			<name>Tossian Empire</name>
+			<description><![CDATA[<p>The cities of Hyoraotes, Thymiamata, Aramis, Duescalionis, Pandora, Noachis, Pyrrhae, Tobansoor, Erythria and Protei are all part of the <b>Tossian Empire</b>. It also dominates other cities nearby. Because of its concern about AIP expansionism from the <i>Coprates</i>, the Empire has set aside differences with the persistently independent prince <i>Sitaani of Nectar</i> recently (and temporarily), to establish an defence agreement against a common enemy.</p>
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#reich</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#reich</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -22,10 +22,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Boreosyrtis-Liga</name>
-			<description><![CDATA[<p>Die <b>Boreosyrtis-Liga</b> ist eine lockere Handelskonföderation (Konföderation der ehrwürdigen Vorväter von <i>Sguuhl</i>), bestehend aus den Großstädten Umbra, Meroe, Coloe und Saardaar. Sie ähnelt der Deutschen Hanse der Erde. Das Hauptquartier der Liga befindet sich gegenwärtig in der Großstadt Umbra, wohin die großen Handelshäuser und Prinzen der Städte der Liga ihre Repräsentanten zum Großkonzil entsenden.</p>
+			<name>Boreosyrtis League</name>
+			<description><![CDATA[<p>The <b>Boreosyrtis League</b> is not a civil entity, but
+a loose mercantile confederation (Confederation of the Honorable Fathers of <i>Sguuhl</i>) with many similarities to the Hanseatic League
+of the later medieval period on Earth. The cities of the Boreosyrtis League, which include Umbra, Meroe, Coloe and Saardaar, have a complete monopoly on the production of bhutan spice, the prime British export from Mars (after lifiwood). The league's headquarters is presently in the city of Umbra, where the major mercantile houses and princes of the cities of the league send their representatives to the League's Grand Council.</p><br><br> Source: Space (GDW) p.153
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#reich</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#reich</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -39,10 +41,10 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Oenotrisches Kaiserreich</name>
-			<description><![CDATA[<p>Der formelle Name des Reiches lautet <b>Liga der Sechs Städte</b> (Das Reich von <i>Shashmaghaal</i>). Nominell handelt es sich um eine Föderation der sechs Stadtstaaten Oenotria, Astrapsk, Crocea, Deltoton, Iapygia und Skorosia. In der Realität werden das Führungskonzil und hohe Verwaltungsposten jedoch vollkommen von oenotrischen Adligen dominiert und die Liga wird fast überall als <b>Oenotrisches Kaiserreich</b> bezeichnet. Alle Dörfer dieser Städte-Liga werden zentral verwaltet, was ihr militärische Stärke erhöht und Piraten und Räuber abschreckt. Allerdings haben die oenotrischen Ambitionen im Norden das Kaiserreich in Konflikt mit Großbritannien gebracht.</p>
+			<name>Oenotrian Empire</name>
+			<description><![CDATA[<p>Officially the Empire is called <b>League of the Six Cities</b> (Realm of <i>Shashmaghaal</i>). The nominal federation of the six city states, Oenotria, Astrapsk, Crcea, Deltolon, Iagygia and Skorosia, is de-facto fully controlled by Oenotrian nobels in leading positions in both counsil and administration offices. As a result the league is commonly know as the <b>Oenotrian Empire</b>. All villages within the league are administered centrally, which increases military strength and efficiency and discourages pirates and brigands. Her ambitions, however, has come to conflict with the Empire's northern neighbor, the British crown colony. </p>
 ]]></description>
-			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/Mars/Reiche/style/reiche.kml#reich</styleUrl>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Space1889/english/Mars/Reiche/style/reiche.kml#reich</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>

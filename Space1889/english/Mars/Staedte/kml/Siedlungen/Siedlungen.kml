@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
 <Document>
-	<name>Siedlungen</name>
+	<name>Settlements</name>
 	<open>0</open>
 	<Placemark>
 		<name>Mylarkt</name>
@@ -35,8 +35,8 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</Placemark>
 	<Placemark>
 		<name>Gorovaan</name>
-		<description><![CDATA[Gorovaan war einstmals eine mächtige und bewunderte Stadt, und berühmt ist sie noch immer. Gelegen an einem wichtigen Kanalknotenpunkt, noch immer zeugen die beeindruckende Architektur, die breiten Straßen gesäumt von prächtigen Türmen von einstiger Größe. Doch überall sind die Zeichen von Verfall und Niedergang zu sehen.<br><br>
-Quelle: Beastmen of Mars, pp. 30-31; Challenge # 60]]></description>
+		<description><![CDATA[Gorovaan, situated at an important canal junction, once was a powerful city and much admired, and it is still renowned. Impressive architecture and wide streets lined with magnificent towers remind the visitor of its past glory, but signs of decay and decline are everywhere to be seen.<br><br>
+Source: Beastmen of Mars, pp. 30-31; Challenge # 60]]></description>
 		<LookAt>
 			
 
@@ -56,8 +56,8 @@ Quelle: Beastmen of Mars, pp. 30-31; Challenge # 60]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Parhoon</name>
-		<description><![CDATA[Parhoon war die erste Stadt mit der die Briten auf dem Mars besuchten. Der Kontakt verlief äußerst freundschaftlich, und schon bald gab es Handel und ein britisches Quartier in Parhoon. Als der Herrscher der Stadt und sein Sohn ermordet wurden übernahmen die Briten für den rechtmäßigen Erben (einen 3 Monate alten Säugling) die Regierung, und schlugen einen Angriff der Nachbarstadt Gorovaan zurück.<br><br>
-Quelle: Beastmen of Mars, p. 30]]></description>
+		<description><![CDATA[Parhoon was the first city on Mars visited by the British. The British established very friendly relations with the citizens of Parhoon and a British quarter was set up from which they conducted trade. When the lord of the city and his son were assassinated, the British took over as regents for the rightful heir, a 3-month-old infant, and repelled an attack of the nearby city of Gorovaan.<br><br>
+Source: Beastmen of Mars, p. 30]]></description>
 		<LookAt>
 			
 
@@ -77,8 +77,8 @@ Quelle: Beastmen of Mars, p. 30]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Haatt</name>
-		<description><![CDATA[Haatt ist ein eher kleiner Stadtstaat für den Mars. Haupteinnahmequelle sind die Kräne und Schleusen, mit denen die Schiffe und Waren hier das Kanalgefälle zwischen Syrtis Mayor und Gorovaan überwinden. <br><br>
-Quelle: Beastmen of Mars, p. 31]]></description>
+		<description><![CDATA[For Mars, Haatt is a rather small city state. Here, ships and goods overcome the difference in elevation of the canals between Syrtis Major and Gorovaan with the help of cranes and locks which are Haatt's major source of revenue.<br><br>
+Source: Beastmen of Mars, p. 31; Challenge # 60]]></description>
 		<LookAt>
 			
 
@@ -174,7 +174,7 @@ Quelle: Beastmen of Mars, p. 31]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Dioscuria</name>
-				<description><![CDATA[<p><b>Dioscuria</b> ist eine Stadt nahe des Nordpols und liegt im deutschen Einflussbereich.</p>
+				<description><![CDATA[<p><b>Dioscuria</b> is one of three cities near the North Pole in the German sphere of influence, <i>Schutzgebiet Westdioscuria</i>.Nowhere on Mars life is more regulated through craftman guilds than in Dioscuria. Autochthonous families hold the Dioscuiran guilds firmly in their hands; young Dioscurians are literally born into their trade. Nominally, a (parhoonian) noble family rules the city of Dioscuria, but the city administration is completely controlled by the quarreling and bureaucratic guilds - much to the dispair of their colonial masters, who usually admire the Dioscurian diligence and skill.</p><br><br>Source: Space 1889 (Clockwork) p.83</p>
 		<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/kml/Stadtkarten/Stadtkarten.kml#dioscuria;flyto">Stadtplan betrachten</a></div>]]></description>
 		<LookAt>
 			
@@ -233,8 +233,7 @@ Quelle: Beastmen of Mars, p. 31]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Thoth</name>
-		<description><![CDATA[<br><br>
-Quelle: Liftwood Conspiracy, p. 59]]></description>
+		<description><![CDATA[<br><br>Source: Liftwood Conspiracy, p. 59]]></description>
 		<LookAt>
 			
 
@@ -254,8 +253,8 @@ Quelle: Liftwood Conspiracy, p. 59]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Shastapsh</name>
-		<description><![CDATA[Shastapsh, einst die östlichste Kolonie der Briten, wurde durch den blutigen Shastapsh-Aufstand im Jahr 1888 wieder unabhängig. Jeder Brite dessen man habhaft werden konnte wurde umgebracht, und der aus dem Exil zurückgekehrte Anwaak Salensus Kajakoll ist eilig bemüht eine starke Armee gegen die früheren Herren aufzustellen.<br><br>
-Quelle: Steppelords of Mars, pp. 62-63; Challenge # 76; TRMGS 3]]></description>
+		<description><![CDATA[Shastapsh once was the easternmost British colony but regained its independence after the bloody Shastapsh-Uprising of 1888. All Britons found in the city were killed. After returning from exile, Anwaak Salensus Kajakoll is hastily trying to assemble a strong army against the former overlords.<br><br>
+Source: Steppelords of Mars, pp. 62-63; Challenge # 76; TRMGS 3]]></description>
 		<LookAt>
 			
 
@@ -275,8 +274,8 @@ Quelle: Steppelords of Mars, pp. 62-63; Challenge # 76; TRMGS 3]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Moeris Lacus</name>
-		<description><![CDATA[Moeris Lacus ist einer der östlichsten Punkte der britischen Kronkolonie. Formell regiert von seinem angestammten Prinzen, hat dieser jedoch keinerlei Einfluß auf das große Militärkontingent unter britischem Befehl vor Ort.<br><br>
-Quelle: Steppelords of Mars, pp. 22-23]]></description>
+		<description><![CDATA[Moeris Lacus is one of the easternmost places of the British crown colony. The hereditary prince still officially rules over the city but has no influence over the large British military force stationed here.<br><br>
+Source: Steppelords of Mars, pp. 22-23]]></description>
 		<LookAt>
 			
 
@@ -296,10 +295,12 @@ Quelle: Steppelords of Mars, pp. 22-23]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Syrtis Major</name>
-		<description><![CDATA[<p>Die berühmte Raumhafenstadt <b>Syrtis Major</b> (in der Sprache der Marsianer <b>Seldoormaathra</b>) liegt an der Kreuzung mehrerer großer Kanäle und war bereits Jahrhunderte vor Machtergreifung des großen <i>Seldon</i> einer der größten Stadtstaaten des Mars und ein wichtiges Handelszentrum. Bis zum Zusammenbruch von Seldons Imperium war Syrtis Major die Hauptstadt eines  planetenumspannenden Reiches.<br><br>
-Syrtis Majors Annektion war einer der größten Erfolge der britischen Kolonialpolitik, denn die Stadt gilt als „Schlüssel zum Mars“. Sie ist Dreh- und Angelpunkt des marsianischen Handels und von einer kosmopolitischen Atmosphäre erfüllt, die ihresgleichen sucht. Mit einigem Recht gilt die Metropole als der Nabel des Mars – und hat mehr Einwohner als London.
-Für Erdbewohner ist der Raumhafen von Syrtis Major oft der erste Begegnungspunkt mit marsianischer Kultur.</p><br><br>
-Quelle: Main Rule Book, page 162-163; Beastmen of Mars, pp. 9-21; TRMGS 1, pp. 69-74; 104-110; 113-119; 169-171; TRMGS 2, pp. 29-32, 88-89
+		<description><![CDATA[<p>The famous city and space port of <b>Syrtis Major</b> (<b>Seldoormaathra</b> in the Martian language) sits at the junction of several large canals. It was already one of the largest city states on Mars and an important trading center centuries before the great <i>Seldon</i> came to power. Until Seldon's empire collapsed, Syrtis Major was the capital of an empire encompassing the whole planet.<br><br>
+The annexation of Syrtis Major was one of the greatest successes of British colonial policy, as the city is considered the "key to Mars". It is the major hub of Martian trade and has an unparalleled cosmopolitan atmosphere. The city is rightly seen as the center of Mars and is home to more people than London itself.
+For visitors from Earth, the spaceport of Syrtis Major usually is the first contact with Martian culture.</p><br><br>
+Source: Main Rule Book, page 162-163;
+Beastmen of Mars, pp. 9-21; TRMGS 1, pp. 69-74; 104-110; 113-119;
+169-171; TRMGS 2, pp. 29-32, 88-89
 <div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/kml/Stadtkarten/Stadtkarten.kml#syrtis_major;flyto">Stadtplan betrachten</a></div>]]></description>
 		<LookAt>
 			
@@ -529,7 +530,7 @@ Quelle: Main Rule Book, page 162-163; Beastmen of Mars, pp. 9-21; TRMGS 1, pp. 6
 	</Placemark>
 	<Placemark>
 		<name>Fadath</name>
-			<description><![CDATA[<p>Regiert von der zum katholischen Glauben konvertierten Königin Kristyaana Anraabu hat <b>Fadath</b> vor kurzem die Sklaverei abgeschafft, und sich erfolgreich militärisch und diplomatisch gegen Tributforderungen des Oenotrischen Kaiserreiches durchgesetzt. Durch ihre Konvertierung hat die Königin die äußerst mächtige Priesterkaste gegen sich aufgebracht, und auch die Reichen murren wegen der Abschaffung der Sklaverei. Offiziell ist die Stadt neutral im Konflikt zwischen dem Kaiserreich und den Briten.<br><br>
+			<description><![CDATA[<p>By converting to Catholic Christianity, queen Kristyaana Anraabu of <b>Fadath</b> antagonized the powerful caste of priests. Additionally, the city's wealthy are discontented over the recent abolition of slavery. Nonetheless, Fadath successfully fended off tributary demands from the Oenotrian Empire and remains officially neutral in the conflict between the Empire and the British.<br><br>
 Quelle: TRMGS 3</p>
 		]]></description>
 		<LookAt>
@@ -703,8 +704,8 @@ Quelle: TRMGS 3</p>
 	</Placemark>
 	<Placemark>
 		<name>Noorlan</name>
-		<description><![CDATA[Noorlan ist eine blühende Stadt, die ihr Einkommen aus dem reichen Farmland der Umgebung bezieht. Regiert wird Noorlan von dem jungen Prinz Aroniav, aber auch die adligen Landbesitzer haben einiges an Macht in ihren Händen.<br><br>
-Quelle: Challenge #53]]></description>
+		<description><![CDATA[<p>Prospering Noorlan obtains her riches from the fertile farmlands surrounding the city. Young prince Aroniav is Noorlan's regent, but the landed gentry holds considerable power on their own.</p> <br><br>
+		Source: Challenge #53]]></description>
 		<LookAt>
 			
 
@@ -724,7 +725,7 @@ Quelle: Challenge #53]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Karkarham</name>
-				<description><![CDATA[<p>Die in einer nördlichen Bucht des Mare Tyrrhenum gelegene Stadt <b>Karkarham</b> ist ein wahrer Sammelkessel für Piraten, Freibeuter, Schmuggler und Söldner. Der britische Einfluss in der Stadt ist sehr begrenzt, weshalb hier Gewalt und Gesetzlosigkeit herrschen.</p>
+				<description><![CDATA[<p>Situated in a northern bay of Mare Tyrrhenum, <b>Karkarham</b> is a meeting place for pirates, buccaneers, smugglers, and mercenaries. British influence over the city is very low, leading to violence and lawlessness.</p>
 		<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/kml/Stadtkarten/Stadtkarten.kml#karkarham;flyto">Stadtplan betrachten</a></div>]]></description>
 		<LookAt>
 			
@@ -1233,7 +1234,8 @@ Quelle: Challenge #53]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Aubochon</name>
-		<description><![CDATA[<p><b>Aubochon</b> ist eine völlig vom Sand eingeschlossene Stadt, für immer abgeschnitten vom Rest des Mars durch die endlosen weiten der Wüste. Als Reisen durch die Luft noch ungefährlicher waren, erhielt Aubochon den Kontakt mit einigen Kanalstädten aufrecht, und damit gelangten auch einige Handelswaren in die Stadt. Aber diese Tage sind lange vergangen. Alleine den Herrschern Aubochons ist es zu verdanken, dass die Stadt nicht unter den hunderten Angriffen der Wüstennomaden gefallen ist. Jahrhundertelange Beschädigungen im Kampf haben die Mauern der einstmals mächtigen Stadt abgenutzt, aber die Eroberer konnten die Stadt nicht ein einziges mal ihren angestammten Besitzern entreißen.</p>
+		<description><![CDATA[<p> <b>Aubochon</b> is a totally sandlocked city, forever cut off from the rest of Mars by the sheer distances across the sand. When travel by air was less hazardous, Aubochon did maintain some contact with the other canal cities, and in so doing adopted some of their customs. But those days have long since passed. In fact, the rulers of Aubochon should be given credit since they alone have protected the city from destruction by hundreds of desert nomad attacks. Centuries of battle damage have worn down the walls of this once mighty city, but the invaders have failed to take it even once from the hands of its hereditary rulers..</p> <br><br>
+		Source: Caravans of Mars p.56
 		<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/kml/Stadtkarten/Stadtkarten.kml#aubochon;flyto">Stadtplan betrachten</a></div>]]></description>
 		<LookAt>
 			
@@ -1330,8 +1332,8 @@ Quelle: Challenge #53]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Hecates Lacus</name>
-		<description><![CDATA[ Das russische Zarenreich, genauer gesagt die Geheimpolizei Ochrana, nutzt <b>Hecates Lacus</b> um Dissidenten und politische Gegner zu deportieren. Mittlerweile sind dort schon über 100 angekommen und es scheint das noch mehr folgen werden. <br><br>
-Quelle: Space (GDW) S.170]]></description>
+		<description><![CDATA[<p>The Russian Empire seems to use <b>Hecates Lacus</b> as a penal colony for unwanted persons. The <i>Ochrana</i> (the Tsarist secret police) has transported a hundred or so political exiles to Hecates Lacus, and it would seem that more will soon follow.</p> <br><br>
+		Source: Space (GDW) p.170]]></description>
 		<LookAt>
 			<longitude>56.81846606570649</longitude>
 			<latitude>38.60448008500831</latitude>
@@ -1406,8 +1408,8 @@ Quelle: Space (GDW) S.170]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Euxinus Lacus</name>
-		<description><![CDATA[<b>Euxinius Lacus</b> war schon seit ihrer Gründung eine eher arme Stadt, und hat nie eine wichtige Rolle gespielt. Am Leben erhalten wurde die Stadt lediglich durch die jährliche Springflut, und Handel per Karawane und Luftschiff. Seit 1885 unterhält das japanische Kaiserreich einen Handelsposten und eine Station für experimentelle Forschung in der Nähe der Stadt. Das führte zu einem Aufschwung des Handels, und lenkt zum ersten Mal die Aufmerksamkeit von Marsianern und Menschen auf Euxinius Lacus. <br><br>
-Quelle: Space (GDW) S.169, TRMGS 3]]></description>
+		<description><![CDATA[<p>Since its founding the struggeling city <b>Euxinius Lacus</b> never gained any importance. Only the seasonal floods and some trade by caravan and cloud ships kept the city alive. in 1885 the Japanese Empire established a trading post and research station close to the city, which improved trade and, for the first time, directed the attention of marsians and humans towards Euxinius Lacus.</p> <br><br>
+		Source: Space (GDW) p.169, TRMGS 3]]></description>
 		<LookAt>
 			<longitude>97.41881997906178</longitude>
 			<latitude>56.47710773844496</latitude>
@@ -1577,7 +1579,7 @@ Quelle: Space (GDW) S.169, TRMGS 3]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Acidalia</name>
-		<description><![CDATA[In Acidalia gibt es zahlreiche Französische Händler und eine allgemein pro-französische Stimmung sowohl in der Regierung, als auch in der Bevölkerung.]]></description>
+		<description><![CDATA[<p>Numerous French traders have established themselves in <b>Acidalia</b>, as the general attitude among the people and government of Acidalia is pro-French.</p>]]></description>
 		<LookAt>
 			
 
@@ -1597,7 +1599,7 @@ Quelle: Space (GDW) S.169, TRMGS 3]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Nilokeras</name>
-		<description><![CDATA[Potentat Osuuva von Nilokeras ist so dekadent wie inkompetent. Unter seiner Regierung sind Handel, Militär und Verwaltung am Boden, und so ist die Stadt praktisch ein französisches Protektorat. Nur der starke Einfluß der Franzosen lässt die destabilisierte Regierung fortbestehen.]]></description>
+		<description><![CDATA[<p>Potentate Osuuva of Nilokeras is as decadent as incompetent. Under his rule commerce, administration and military have come close to collapse. As a result, the city has become a french protectorate. Only the strong presence of the French holds the destabilized government up.</p>]]></description>
 		<LookAt>
 			
 
@@ -1617,7 +1619,7 @@ Quelle: Space (GDW) S.169, TRMGS 3]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Niliacus</name>
-		<description><![CDATA[Prinz Dardag von Niliacus wird dominiert von den Priestern der Stadt. Der Hohepriester Aaverdigon wurde sogar Premierminister. Die Priesterschaft ist sehr intollerant und Fremdenfeindlich gegenüber menschlichen Besuchern, welche niemals ihre Fremdenquartiere verlassen dürfen. In der Stadt gibt es die größten Schiffswerften Rund um das französische Gebiet.]]></description>
+		<description><![CDATA[<p>Prince Dardag of <b>Niliacus</b> is under the control of the city's priests; the High priest Aaverdigon holds even the office of Prime minister. the priesthood is  xenophobic and very intolerant against humans, who are restrained to foreigner quarters. The shipyards of Niliacus are the largest one within the French domain.</p>]]></description>
 		<LookAt>
 			
 
@@ -1654,8 +1656,8 @@ Quelle: Space (GDW) S.169, TRMGS 3]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Thymiamata</name>
-		<description><![CDATA[<p><b>Thymiamata</b> ist eine aufstrebende Stadt. Durch den regen Handel der hier stark vertretenden Amerikaner und dem Silberrausch, ausgelöst durch Funde in den nahen Chryse-Bergen, hat sich die eher kleine Stadt zu einer regelrechten Boomtown des Mars entwickelt.
-<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/kml/Stadtkarten/Stadtkarten.kml#thymiamata;flyto">Stadtplan betrachten</a></div>]]></description>
+		<description><![CDATA[<p>Increasing trade due to prominent American presence and the silver rush in the nearby Chryse mountains has turned the aspiring, small city of <b>Thymiamata</b> into a downright Martian boomtown.</p>
+		<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Space1889/Mars/Staedte/kml/Stadtkarten/Stadtkarten.kml#thymiamata;flyto">Stadtplan betrachten</a></div>]]></description>
 		<LookAt>
 			<longitude>-97.55975587959088</longitude>
 			<latitude>12.57192746455275</latitude>
@@ -1809,8 +1811,8 @@ Quelle: Space (GDW) S.169, TRMGS 3]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Noachis</name>
-		<description><![CDATA[<br><br>
-Quelle: Challenge # 55]]></description>
+		<description><![CDATA[<p>Since the old prince Oortai died in a palace fire 10 years ago, the city-state of <b>Noachis</b> is ruled by prince Khaizan, a brutal, human-hating despot.</p><br><br>
+Source: Challenge #55]]></description>
 		<LookAt>
 			<longitude>-104.7677831810829</longitude>
 			<latitude>-24.42697108112908</latitude>
@@ -1896,8 +1898,8 @@ Quelle: Challenge # 55]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Tossia</name>
-		<description><![CDATA[<b>Tossia</b> ist die Hauptstadt des tossianischen Kaiserreiches. Von hier regiert Kaiser Krahaanik IV auf dem Smaragdthron. <br><br>
-Quelle: Conklins S. 75]]></description>
+		<description><![CDATA[<p><b>Tossia</b> is the capital of the Tossian Empire. Sitting on his Emerald throne, Emperor Krahaanik IV rules the realm from here.</p><br><br>
+		Source: Conklins p.75]]></description>
 		<LookAt>
 			<longitude>-116.2002017124123</longitude>
 			<latitude>-0.2391367453446942</latitude>
@@ -1932,8 +1934,8 @@ Quelle: Conklins S. 75]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Gaaryan</name>
-		<description><![CDATA[<br><br>
-Quelle: Canal Priests of Mars, pp. 48-53]]></description>
+		<description><![CDATA[<p><b>Gaaryan</b> is ruled by a prince, but the cult of the <i>Canal Keepers</i> has enormous influence in the city. Their Faith is state religion, and many priest hold many important civil positions.The prince will uphold any decisions of the priests that does not affect the security of the state, and his troops will aid the priests in any emergency </p><br><br>
+		Source: Canal Priests of Mars p.50]]></description>
 		<LookAt>
 			<longitude>-118.3874021426137</longitude>
 			<latitude>-40.51226094988233</latitude>
@@ -2155,8 +2157,8 @@ Quelle: Canal Priests of Mars, pp. 48-53]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Nectar</name>
-		<description><![CDATA[Trotz der beiden übermächtigen Nachbarn gelingt es <b>Nectar</b> unter der Regierung des Prinzen Sitaani durch geschickte Diplomatie bislang seine Unabhängigkeit zu bewahren. <br><br>
-Quelle: Conklins S. 75]]></description>
+		<description><![CDATA[<p>Depite its two powerful neighbors, <b<Nectar</b>, under the rule of prince Sitaani, manages to keep its neutrality due to skilled diplomacy.</p><br><br>
+		Source: Conklins p.75 ]]></description>
 		<LookAt>
 			<longitude>-137.6317159446253</longitude>
 			<latitude>-5.993170532006654</latitude>
@@ -2208,8 +2210,8 @@ Quelle: Conklins S. 75]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Melas</name>
-		<description><![CDATA[Melas ist fest unter der brutalen Knute der belgischen Coprates Company. Als Agrarstadt ist sie eines der Zentren der Gumme-Produktion, und ein wichtiger Handelsplatz. Die Stadt ist zutiefst korrupt. Wer irgendetwas bewegen will muss die richtigen Stellen schmieren. Durch die harte Behandlung durch die Menschen zutiefst demoralisiert ist bei den Marsianern von Melas alles käuflich, wenn man den Preis bezahlen kann.<br><br>
-Quelle: Challenge # 69, 70]]></description>
+		<description><![CDATA[<p><b>Melas</b> is under the brutal yoke of the Belgian Coprates Company. The farming city is one of the centres of Gumme production and an important trade hub. However, corruption is rampant; to achieve anything one has to bribe the right people in the right places. Utterly demoralized by the human treatment of their people, the Martians of Melas sell virtually anything ... for the right price.</p> <br><br>
+		Source: Challenge # 69, 70]]></description>
 		<LookAt>
 			<longitude>-162.6506387084555</longitude>
 			<latitude>0.1449694985584865</latitude>
@@ -2295,7 +2297,7 @@ Quelle: Challenge # 69, 70]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Chryse</name>
-		<description><![CDATA[Regiert von Prinz Tarkrakar versucht die Stadt den Balanceakt zwischen den Vorteilen von Handel und militärischen Training seitens der Franzosen, ohne zu sehr unter ihre Kontrolle zu fallen. Durch den Aufbau einer effizienten Armee wurden allerdings Handel und Verwaltung der Stadt vernachlässigt.]]></description>
+		<description><![CDATA[<p>Regent Prince Tarkrakar of <b>Chryse</b> tries to balance the advantages of French trade and military training against being completely controlled by them. Building an efficient army, however, left commerce and administration somewhat behind.</p>]]></description>
 		<LookAt>
 			<longitude>-131.8666000268455</longitude>
 			<latitude>14.61933766609711</latitude>
@@ -2313,8 +2315,8 @@ Quelle: Challenge # 69, 70]]></description>
 	</Placemark>
 	<Placemark>
 		<name>Idaeus</name>
-		<description><![CDATA[Idaeues ist Zentrum der französischen Einflusssphäre auf dem Mars, und seit den verlorenen Schlachten gegen das franz. Militär nur auf dem Papier ein unabhängiges Reich. Die Stadt beherbergt eine 4000 Köpfe zählendes Menschenviertel, 90% Franzosen. In den Hügeln um die Stadt wird seit kurzem erfolgreich Wein angebaut und gekelltert. <br><br>
-Quelle:  TRMGS 2, pp. 153-158; TRMGS 3]]></description>
+		<description><![CDATA[<p><b>Idaeus</b> is the centre of French influence on Mars. Since the lost battles against the French, its independence exists only on paper. The city's human quarter houses about 4000 inhabitants, of which 90% are French. Recently, vineyards were successfully established in the surrounding hills. </p><br><br>
+		Source:  TRMGS 2, pp. 153-158; TRMGS 3]]></description>
 		<LookAt>
 			<longitude>-132.5125246734256</longitude>
 			<latitude>23.86838566368388</latitude>
@@ -2416,7 +2418,7 @@ Quelle:  TRMGS 2, pp. 153-158; TRMGS 3]]></description>
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Neu Amsterdam</name>
+		<name>New Amsterdam</name>
 		<LookAt>
 			<longitude>-167.6074446654351</longitude>
 			<latitude>9.372253270041833</latitude>
@@ -2722,7 +2724,7 @@ Quelle:  TRMGS 2, pp. 153-158; TRMGS 3]]></description>
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Unbenannt</name>
+		<name>Unnamed</name>
 		<LookAt>
 			<longitude>126.8816678595547</longitude>
 			<latitude>-29.80300118267306</latitude>

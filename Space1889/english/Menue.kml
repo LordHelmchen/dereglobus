@@ -57,7 +57,7 @@ Your Planetenprojekt-Team</p>]]></description>
 		<styleUrl>#menue</styleUrl>
 	</Folder>
 	<ScreenOverlay id="Impressum">
-		<name>About</name>
+		<name>Impressum</name>
 		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #d5ac00; }
 a:hover { text-decoration: underline; color: #d5ac00; }
@@ -66,13 +66,11 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 --></style>
 <p>Contents of the role-playing game Space: 1889 by courtesy of <a href="http://www.uhrwerk-verlag.de">Uhrwerk-Verlag</a>.
 The Space: 1889 Planets Project is a fan project. The extension for Google Earth contains unofficial information about the role-playing game Space: 1889.</p>
-<p><img
-src="http://space1889.dereglobus.org/_/rsrc/1314818353300/home/Uhrwerk-Verlag_250px.png"
-alt="Uhrwerk-Verlag" /></p>
-</p></description>
+<p><img src="http://space1889.dereglobus.org/_/rsrc/1314818353300/home/Uhrwerk-Verlag_250px.png" alt="Uhrwerk-Verlag"  /></p>
+</p>]]></description>
 		<styleUrl>#menue</styleUrl>
 		<Icon>
-			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/english/Inhalte-Uhrwerk.png</href>
+			<href>http://www.dereglobus.orkenspalter.de/public/Space1889/Inhalte-Uhrwerk.png</href>
 		</Icon>
 		<overlayXY x="0" y="0" xunits="pixels" yunits="pixels"/>
 		<screenXY x="0.5" y="4" xunits="pixels" yunits="pixels"/>

@@ -3336,6 +3336,51 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
       <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
 </Folder>   
 
+<GroundOverlay id="Koschtal-Plan">
+	<name>Koschtal (InOff)</name>
+<Region>
+      <LatLonAltBox>
+		<north>29.22669832053723</north>
+		<south>29.22164158269547</south>
+		<east>1.114784373414687</east>
+		<west>1.106637889146192</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+	a:link, a:visited { text-decoration: none; color: #814F21; }
+	a:hover { text-decoration: underline; color: #814F21; }
+	hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+	#wiki { font-size:10px; }
+	--></style>
+		Zeichnung: <a href="http://koschwiki.de/index.php?title=Benutzer:Blauendorn">Martin Lorber</a>
+		<br/>
+		Quelle: <a href="http://koschwiki.de/index.php?title=Datei:Koschtal-Plan.gif" title="koschwiki.de">koschwiki.de</a>
+		<br/>
+	<div id="wiki">
+	<a href="http://koschwiki.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LogoKoschWiki.png" alt="www.koschwiki.de" align="left"></a></p>
+
+	<p>Vielen Dank an den Kartenersteller Martin Lorber für die Bereitstellung der Karte von Koschtal, die er für das <a href="http://koschwiki.de">Koscher Briefspiel</a> geschaffen hat.
+	</div>]]></description>
+<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#InOff</styleUrl>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>Koschtal_Lorber_sw_273.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>29.22669832053723</north>
+		<south>29.22164158269547</south>
+		<east>1.114784373414687</east>
+		<west>1.106637889146192</west>
+	</LatLonBox>
+</GroundOverlay>
+
 <GroundOverlay id="Kurotan_(InOff)-Plan">
 	<name>Kurotan (InOff)</name>
     <Region>
@@ -5004,8 +5049,8 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 	</LatLonBox>
 </GroundOverlay>
 
-<GroundOverlay id="Rhondur_(InOff)-Plan">
-	<name>Rhôndur</name>
+<GroundOverlay id="Rhondur-Plan">
+	<name>Rhôndur (InOff)</name>
 	<Region>
       <LatLonAltBox>
 		<north>29.31532399220168</north>

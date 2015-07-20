@@ -1,0 +1,3 @@
+Marke und Inhalte von DAS SCHWARZE AUGE mit freundlicher Genehmigung der [Ulisses Medien & Spiel Distribution GmbH](http://www.ulisses-spiele.de/). Copyright © 2007 by Significant GbR für die Marke DAS SCHWARZE AUGE in Wort und Bild, by Alpers, Fuchs, Kramer, Neigel für die Inhalte.
+
+Die hier im Rahmen des DereGlobus-Projekts veröffentlichen Daten, enthalten nichtoffizielle Informationen zum Rollenspiel 'Das Schwarze Auge' und zur Welt 'Aventurien'. Diese Informationen können im Widerspruch zu offiziell publizierten stehen.

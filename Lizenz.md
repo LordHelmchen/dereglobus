@@ -1,0 +1,1 @@
+Alle hier veröffentlichen Dateien sind im Rahmen des DSA-Fanprojekts [DereGlobus](http://www.dereglobus.org) erstellt worden. Entsprechend gilt für sie die [DereGlobus-Lizenzvereinbarung](http://www.dereglobus.org/lizenz).
